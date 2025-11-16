@@ -1,0 +1,36 @@
+{
+  "summary": "The analysis reveals overlaps between the 'Final Guidelines on Accounting for Expected Credit Losses' and the 'Final Report on Guidelines on common procedures and methodologies for SREP'. Both documents provide instructions to competent authorities on how to assess credit institutions' credit risk frameworks. Specifically, they overlap in directing competent authorities to: assess the adequacy of loan loss provisions/allowances; evaluate the effectiveness of the internal control framework for credit risk; and consider the work of internal and external auditors during their supervisory review.",
+  "overlaps": [
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_51.json",
+      "excerpt1": "In assessing the appropriateness of the level of allowances for lending exposures as an element of a credit institution's overall capital adequacy, competent authorities should look at their credit risk practices...",
+      "pageNumber1": 51,
+      "filename2": "Final Report on Guidelines on common procedures and methodologies for SREP and supervisory stress testing.di_page_88.json",
+      "excerpt2": "Competent authorities should assess whether the level of loan loss provisions and credit valuation adjustments are appropriate for the quality of the exposures and, where relevant, for the level of collateral.",
+      "pageNumber2": 88,
+      "explanation": "Both guidelines instruct competent authorities to perform the same regulatory action: assessing the appropriateness of a credit institution's allowances or loan loss provisions for credit exposures as part of their supervisory activities.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_51.json",
+      "excerpt1": "In performing their assessments, competent authorities should consider whether a credit institution has: a. maintained effective systems and controls for identifying, measuring, monitoring and controlling the level of credit risk, significant increases in credit risk and asset quality problems in a timely manner;",
+      "pageNumber1": 51,
+      "filename2": "Final Report on Guidelines on common procedures and methodologies for SREP and supervisory stress testing.di_page_93.json",
+      "excerpt2": "Competent authorities should assess whether the institution has a strong and comprehensive control framework and sound safeguards to mitigate its credit risk in line with its credit risk strategy and appetite...",
+      "pageNumber2": 93,
+      "explanation": "Both documents require competent authorities to assess the effectiveness and adequacy of a credit institution's internal control framework for managing and mitigating credit risk. This constitutes a direct overlap in the scope of the supervisory assessment.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_51.json",
+      "excerpt1": "Competent authorities may make use of the work performed by internal and external auditors in reviewing a credit institution's credit risk assessment and ECL measurement functions 33.",
+      "pageNumber1": 51,
+      "filename2": "Final Report on Guidelines on common procedures and methodologies for SREP and supervisory stress testing.di_page_88.json",
+      "excerpt2": "Competent authorities should also take into consideration any findings raised by internal and external auditors, where available.",
+      "pageNumber2": 88,
+      "explanation": "Both guidelines explicitly mention that competent authorities should or may use the findings and work of internal and external auditors as part of their assessment of a credit institution's credit risk management. This is an overlap in the prescribed supervisory methodology.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

@@ -1,0 +1,16 @@
+{
+  "summary": "The EBA Guidelines on Loan Origination and Monitoring outlines the regulatory landscape for immovable property valuation, indicating that under CRR Article 208(3), statistical methods may be used for monitoring and identifying properties for revaluation, and for revaluation under specific conditions, but not as the sole means for review when Article 208(3) applies. The EBA Guidelines on NPLs, in paragraphs 186 and 188, reinforce these rules. Specifically, it states that indexation or similar methods may be used for monitoring and identifying collateral requiring revaluation (overlapping with CRR 208(3) and the original text's description). Furthermore, it explicitly states that valuations and revaluations should not be carried out using a statistical model as the sole means, which is consistent with the CRR 208(3) interpretation provided in the original text.",
+  "overlaps": [
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_81.json",
+      "excerpt1": "Under the CRR, statistical methods may be used to monitor the value of immovable property and identify immovable property that needs revaluation (Article 208(3)). ... When Article 208 (3) does apply, a statistical model cannot be used as a sole means of undertaking the review of the property valuation.",
+      "pageNumber1": 81,
+      "filename2": "Final%20Guidelines%20on%20management%20of%20non-performing%20and%20forborne%20exposures.di_page_51.json",
+      "excerpt2": "186. Indexation or similar methods may be used to monitor the value of a collateral and identify the collaterals requiring revaluation. ... 188. ... Valuations and revaluations of immovable property collateral should not be carried out using a statistical model as the sole means of undertaking the review of the property valuation.",
+      "pageNumber2": 51,
+      "explanation": "Both excerpts address the use of statistical methods/indexation for monitoring the value of immovable property collateral and identifying property that needs revaluation, aligning with CRR Article 208(3). They also both specify that a statistical model cannot be used as the sole means for the review or valuation/revaluation of property collateral. This indicates consistent regulatory guidance on the permissible scope of statistical models in collateral valuation and monitoring.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

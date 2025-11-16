@@ -1,0 +1,16 @@
+{
+  "summary": "The EBA Guidelines cite IFRS 9 to stipulate that Expected Credit Loss (ECL) estimates should always be a probability-weighted amount reflecting the possibility of credit loss, aligning with the core measurement principles laid out directly in IFRS 9, which requires ECL to be an unbiased and probability-weighted amount determined by evaluating a range of possible outcomes.",
+  "overlaps": [
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_36.json",
+      "excerpt1": "Credit institutions should measure ECL for all lending exposures and a nil allowance should be rare because ECL estimates are a probability-weighted amount that should always reflect the possibility that a credit loss will occur (see paragraphs 5.5.17 and 5.5.18 of IFRS 9).",
+      "pageNumber1": 36,
+      "filename2": "CELEX_32023R1803_EN_TXT.di_page_553.json",
+      "excerpt2": "5.5.17 An entity shall measure expected credit losses of a financial instrument in a way that reflects: (a) an unbiased and probability-weighted amount that is determined by evaluating a range of possible outcomes; 5.5.18 When measuring expected credit losses, an entity need not necessarily identify every possible scenario. However, it shall consider the risk or probability that a credit loss occurs by reflecting the possibility that a credit loss occurs and the possibility that no credit loss occurs, even if the possibility of a credit loss occurring is very low.",
+      "pageNumber2": 553,
+      "explanation": "Both excerpts address the same regulatory subject: the fundamental principle for measuring Expected Credit Losses (ECL). The EBA Guidelines refer to IFRS 9 paragraphs 5.5.17 and 5.5.18 to state that ECL estimates should be 'a probability-weighted amount that should always reflect the possibility that a credit loss will occur.' The IFRS 9 text (Excerpt 2) explicitly details these requirements, stating that an entity 'shall measure expected credit losses... in a way that reflects: (a) an unbiased and probability-weighted amount that is determined by evaluating a range of possible outcomes' and 'shall consider the risk or probability that a credit loss occurs by reflecting the possibility that a credit loss occurs and the possibility that no credit loss occurs'. This demonstrates a direct overlap in the core methodology for ECL measurement.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

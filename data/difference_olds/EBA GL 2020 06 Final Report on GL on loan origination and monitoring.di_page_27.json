@@ -1,0 +1,16 @@
+{
+  "summary": "An overlap is identified regarding the requirements for institutions' data infrastructure for credit risk management and monitoring. The EBA Guidelines on Loan Origination and Monitoring explicitly state that institutions should have appropriate data infrastructure and relevant policies, while the Final Report on Guidelines on Common Procedures and Methodologies for SREP and Supervisory Stress Testing refers to assessing whether institutions' data infrastructure meets these EBA Guidelines.",
+  "overlaps": [
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_27.json",
+      "excerpt1": "60. Institutions should have appropriate data infrastructure as well as relevant policies and procedures to support the credit-granting process and for the purposes of credit risk management and monitoring throughout the life cycle of the credit facilities (e.g. loan origination and creditworthiness assessment, risk assessment, credit review and monitoring). The data infrastructure should ensure the continuity, integrity and security of information on",
+      "pageNumber1": 27,
+      "filename2": "Final%20Report%20on%20Guidelines%20on%20common%20procedures%20and%20methodologies%20for%20SREP%20and%20supervisory%20stress%20testing.di_page_92.json",
+      "excerpt2": "226. In this regard, competent authorities should consider whether the institutions have adequate data infrastructure that meets the requirements of the EBA Guidelines on loan origination and monitoring, and of the EBA Guidelines on management of non-performing and forborne exposures and whether analytical techniques are appropriate to enable the institution to adequately manage their credit risk, and to fulfil supervisory reporting requirements, and to detect, measure and regularly monitor the credit risk inherent in all on- and off-balance-sheet activities (where relevant at group level), in particular with regard to:",
+      "pageNumber2": 92,
+      "explanation": "Both excerpts address the same regulatory subject: the requirement for institutions to maintain appropriate data infrastructure for credit risk management and monitoring. Excerpt 1 from the EBA GL on Loan Origination and Monitoring explicitly outlines this requirement for institutions. Excerpt 2 from the SREP Guidelines refers to competent authorities assessing whether institutions' data infrastructure 'meets the requirements of the EBA Guidelines on loan origination and monitoring' regarding credit risk, thereby creating a direct overlap in the regulatory expectation for institutions' data infrastructure in this context.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

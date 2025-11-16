@@ -1,0 +1,16 @@
+{
+  "summary": "An overlap was identified between the EBA Guidelines on loan origination and monitoring and the Basel Framework. Both texts require financial institutions to implement a continuous monitoring process for their credit exposures. This process must include the monitoring of the borrower's compliance with loan covenants, the status of collateral, and the observance of the institution's concentration limits. The rules are functionally equivalent, addressing the same regulatory subject (ongoing credit risk management) for the same actor (banks/institutions).",
+  "overlaps": [
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_62.json",
+      "excerpt1": "251. As part of the monitoring of credit exposures and borrowers, institutions should monitor all outstanding amounts and limits, and whether the borrower is meeting repayment obligations, as laid down in the credit agreement, and is in line with the conditions set at the point of credit granting, such as adherence to credit metrics and covenants.\n252. Institutions should also monitor whether the borrower and collateral are in line with the credit risk policies and conditions set at the point of credit granting, e.g. whether the value of collateral and other credit enhancement techniques are maintained...\n255. In addition, institutions should also monitor concentration measures against the values specified in their credit risk appetite, policies and procedures...",
+      "pageNumber1": 62,
+      "filename2": "BaselFramework.di_page_415.json",
+      "excerpt2": "36.140 The bank must maintain a continuous monitoring process that is appropriate for the specific exposures (either immediate or contingent) attributable to the collateral to be utilised as a risk mitigant. This process may include, as appropriate and relevant... regular financial analysis of both the borrower and the issuers of the receivables, especially in the case when a small number of large-sized receivables are taken as collateral. Observance of the bank's overall concentration limits should be monitored. Additionally, compliance with loan covenants, environmental restrictions, and other legal requirements should be reviewed on a regular basis.",
+      "pageNumber2": 415,
+      "explanation": "Both texts require financial institutions (banks) to conduct a continuous monitoring process for their credit exposures. The scope of this monitoring is substantially the same, explicitly including the borrower's compliance with covenants, the status of collateral, and adherence to overall concentration limits. Both rules govern the same regulatory subject (ongoing credit risk management) for the same type of actor.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

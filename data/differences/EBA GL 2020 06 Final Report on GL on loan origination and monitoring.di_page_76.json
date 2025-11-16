@@ -1,0 +1,5 @@
+{
+  "summary": "No overlaps or contradictions were found between the documents. The primary document lists financial ratios such as LTV and leverage ratio as metrics for institutions to monitor when originating and managing loans, specifically defining the leverage ratio as a borrower-level metric (total debt over EBITDA). The related documents discuss the leverage ratio as an institution-level prudential measure (Tier 1 capital over total exposure), or mention LTV in different regulatory contexts such as inputs for stress testing, factors for supervisory assessment, or as part of qualitative risk-rating frameworks. These constitute different regulatory subjects, actors, or functional contexts, and therefore do not meet the strict criteria for an overlap or contradiction.",
+  "overlaps": [],
+  "contradictions": []
+}

@@ -1,0 +1,16 @@
+{
+  "summary": "One overlap was identified where a national supervisory authority's regulation directly references and implements the EBA Guidelines on loan origination and monitoring. Both documents address the same regulatory subject: the valuation and monitoring of collateral by credit institutions at the point of credit granting. The national regulation explicitly recommends compliance with the EBA Guidelines, creating a direct overlap in the rules applied to the same actors for the same purpose.",
+  "overlaps": [
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_5.json",
+      "excerpt1": "d. provide guidance on the approaches to the valuation of immovable and movable property collateral at the point of credit granting, and the monitoring and review of the value of such collateral, based on the outcomes of the monitoring (Section 7);",
+      "pageNumber1": 5,
+      "filename2": "2018_04.m3_en.di_page_11.json",
+      "excerpt2": "(1) On 29 May 2020, the European Banking Authority (EBA) issued guidelines on loan origination and monitoring (EBA/GL/2020/06). The guidelines... provide guidance on, among other things, the valuation of immovable and movable property collateral at the point of credit granting, and the monitoring and review of the value of such collateral... (3) The FIN-FSA recommends that supervised entities falling within the scope of these regulations and guidelines comply with the EBA Guidelines mentioned in paragraph (1), which is available at the https://www.finanssivalvonta.fi/en/.",
+      "pageNumber2": 11,
+      "explanation": "Both documents regulate the same subject: the requirements for credit institutions regarding the valuation and monitoring of collateral for loans. The first document describes the scope of the EBA Guidelines on loan origination and monitoring (EBA/GL/2020/06), specifying that they provide guidance on collateral valuation. The second document, from the Finnish Financial Supervisory Authority (FIN-FSA), explicitly references these same EBA guidelines and recommends that supervised entities comply with them. This creates a direct overlap, as the national authority is applying the same set of rules to the same actors (credit institutions) for the same regulatory action (collateral valuation and monitoring in the context of loan origination).",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

@@ -1,0 +1,16 @@
+{
+  "summary": "One overlap was identified concerning the use of practical expedients for calculating expected credit losses. Both the EBA Guidelines and the IFRS 9 text (within the EU Regulation) permit the use of such expedients based on overarching principles (proportionality or consistency with measurement principles) rather than restricting them to a specific category of institution. The EBA text describes the removal of a restriction for 'smaller and less complex credit institutions' to align with this principles-based approach.",
+  "overlaps": [
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_76.json",
+      "excerpt1": "On the use of practical expedients, the guidelines should be applied in a proportionate manner in accordance with paragraph 17 and 18, which are relevant throughout the guidelines. The reference to smaller and less complex credit institutions for the use of practical expedients in paragraph 129 aimed at providing more guidance to credit institutions on the application of the proportionality approach in that context. However, in the light of consultation responses, the EBA believes that defining further smaller and less complex credit institutions could add more complexity in the guidelines. Therefore, this reference has been removed from the text.",
+      "pageNumber1": 76,
+      "filename2": "CELEX_32023R1803_EN_TXT.di_page_631.json",
+      "excerpt2": "An entity may use practical expedients when measuring expected credit losses if they are consistent with the principles in paragraph 5.5.17. An example of a practical expedient is the calculation of the expected credit losses on trade receivables using a provision matrix.",
+      "pageNumber2": 631,
+      "explanation": "Both texts govern the use of 'practical expedients' for measuring expected credit losses by entities (including credit institutions) applying IFRS 9. Both establish a principles-based condition for their use. The EBA Guidelines state that practical expedients can be used in a 'proportionate manner' and explicitly remove a prior restriction targeting 'smaller and less complex credit institutions'. Similarly, IFRS 9 permits practical expedients if they are 'consistent with the principles in paragraph 5.5.17'. This creates an overlap as both frameworks allow for a flexible, principles-based application rather than a prescriptive one limited by entity type.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

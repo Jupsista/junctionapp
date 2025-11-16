@@ -1,0 +1,36 @@
+{
+  "summary": "The EBA Guidelines on loan origination and monitoring and the IFRS 9 standard (as incorporated into EU law) both address the ongoing monitoring of credit risk, borrower adherence to contractual terms, and the identification of early warning indicators or significant increases in credit risk for loans and financial instruments. The EBA Guidelines mandate institutions to monitor various factors, including covenants and qualitative factors, and to establish early warning indicator frameworks. IFRS 9 specifies various indicators, some of which directly relate to covenant breaches, changes in collateral quality, and enhanced monitoring, that signal a significant increase in credit risk since initial recognition.",
+  "overlaps": [
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_64.json",
+      "excerpt1": "267. Where applicable, institutions should monitor borrowers' adherence to the covenants agreed in the credit agreements. The borrower's adherence to covenants, as well as the timely delivery of covenant compliance certificates, where applicable, should be utilised as early warning tools. Early detection of deviations is key to protecting the institution's position towards the borrower and other possible creditors involved.",
+      "pageNumber1": 64,
+      "filename2": "CELEX_32023R1803_EN_TXT.di_page_628.json",
+      "excerpt2": "(m) expected changes in the loan documentation including an expected breach of contract that may lead to covenant waivers or amendments, interest payment holidays, interest rate step-ups, requiring additional collateral or guarantees, or other changes to the contractual framework of the instrument.",
+      "pageNumber2": 628,
+      "explanation": "Both excerpts address the monitoring of covenants within credit agreements. The EBA Guidelines require institutions to monitor adherence to covenants as an early warning tool. IFRS 9 identifies an 'expected breach of contract that may lead to covenant waivers or amendments' as an indicator of a significant increase in credit risk, directly correlating with the monitoring requirement in the EBA Guidelines.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_64.json",
+      "excerpt1": "269. As part of their monitoring framework, institutions should develop, maintain and regularly evaluate relevant quantitative and qualitative EWIs that are supported by an appropriate IT and data infrastructure that would allow the timely detection of increased credit risk in their aggregate portfolio as well as in portfolios, sub-portfolios, industries, geographies and individual exposures. 270. The EWIs should have defined trigger levels set with regard to the levels specified in credit risk appetite, strategy and credit risk policies, and have assigned escalation procedures, including assigned responsibilities for the follow-up actions. These escalation procedures should also include choosing exposures or borrowers for special monitoring - a watch list.",
+      "pageNumber1": 64,
+      "filename2": "CELEX_32023R1803_EN_TXT.di_page_628.json",
+      "excerpt2": "(o) changes in the entity's credit management approach in relation to the financial instrument; ie based on emerging indicators of changes in the credit risk of the financial instrument, the entity's credit risk management practice is expected to become more active or to be focused on managing the instrument, including the instrument becoming more closely monitored or controlled, or the entity specifically intervening with the borrower.",
+      "pageNumber2": 628,
+      "explanation": "Both excerpts deal with the intensified monitoring of financial instruments/exposures due to increased credit risk. The EBA Guidelines require institutions to develop and use early warning indicators (EWIs) and place exposures on 'watch lists' for special monitoring. IFRS 9 identifies 'changes in the entity's credit management approach' leading to an instrument becoming 'more closely monitored or controlled' as an indicator of a significant increase in credit risk, aligning with the concept of EWIs and watch lists in the EBA Guidelines.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_64.json",
+      "excerpt1": "265. In addition to monitoring credit and financial metrics, institutions should take into account information related to qualitative factors that could have a relevant influence on the repayment of a loan. These factors could include information on the quality of management, agreements/disagreements among owners, an owner's commitment to the borrower, forecast market growth, a company's pricing power, a cost structure and flexibility of costs, the trend, size and nature of capital expenditure and research and development expenditure, and the allocation between debt holders and servicers within the consolidated group of institutions.",
+      "pageNumber1": 64,
+      "filename2": "CELEX_32023R1803_EN_TXT.di_page_627.json",
+      "excerpt2": "(g) an actual or expected significant change in the operating results of the borrower. Examples include actual or expected declining revenues or margins, increasing operating risks, working capital deficiencies, decreasing asset quality, increased balance sheet leverage, liquidity, management problems or changes in the scope of business or organisational structure (such as the discontinuance of a segment of the business) that results in a significant change in the borrower's ability to meet its debt obligations.",
+      "pageNumber2": 627,
+      "explanation": "Both excerpts require considering qualitative and operational factors related to a borrower's financial health and repayment capacity. The EBA Guidelines specify 'qualitative factors' such as 'quality of management, forecast market growth, a company's pricing power, a cost structure and flexibility of costs, the trend, size and nature of capital expenditure and research and development expenditure'. IFRS 9 lists 'actual or expected significant change in the operating results of the borrower' and provides examples like 'declining revenues or margins, increasing operating risks, ... management problems or changes in the scope of business or organisational structure', which directly correspond to the qualitative monitoring aspects mandated by the EBA Guidelines.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

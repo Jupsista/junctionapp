@@ -1,0 +1,26 @@
+{
+  "summary": "The EBA Guidelines on Loan Origination and Monitoring (EBA/GL/2020/06) specify that institutions and creditors must factor potential negative exchange rate scenarios and assess hedging strategies when evaluating a borrower's capacity to meet obligations for foreign currency loans. The EBA Guidelines on institutions' stress testing (EBA/GL/2018/04) impose a similar obligation on institutions to consider foreign exchange lending risk, including the sensitivity impact of exchange rate movements on borrower's debt servicing capacity, as part of their stress testing programmes. This constitutes an overlap in the regulatory subject, as both documents require institutions to assess the impact of foreign exchange rate risk on borrowers' repayment capacity, albeit in different functional contexts (origination/monitoring versus stress testing).",
+  "overlaps": [
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_36.json",
+      "excerpt1": "In cases of foreign currency loans as defined in Article 4(28) of Directive 2014/17/EU, institutions and creditors should also factor into the assessment of the borrower's capacity to meet the obligations potential negative scenarios of the exchange rate between the currency of the borrower's income and the currency of the loan. Institutions and creditors should also take into account and assess any hedging strategies and actual hedges in place, including natural hedges, to mitigate foreign currency exchange risk.",
+      "pageNumber1": 36,
+      "filename2": "Guidelines%20on%20institutions%20stress%20testing%20(EBA-GL-2018-04).di_page_46.json",
+      "excerpt2": "In their stress testing programmes, institutions should take into account foreign exchange lending risk affecting credit facilities in the asset side of their balance sheet and its multiple sources of risk, taking into account that the debtor's inability to repay its debt may originate from:a) risks related to the debtor's internal source of income;b) risks related to the economic situation in the country in which the currency is denominated; andc) foreign exchange risk.",
+      "pageNumber2": 46,
+      "explanation": "Both excerpts address the assessment of foreign currency lending risk by institutions. Excerpt 1 requires institutions and creditors to factor in potential negative exchange rate scenarios and assess hedging strategies when assessing a borrower's capacity during loan origination and monitoring. Excerpt 2 requires institutions, as part of their stress testing programmes, to take into account foreign exchange lending risk, acknowledging the debtor's inability to repay due to foreign exchange risk. Both rules mandate an assessment of FX risk on borrower repayment capacity by institutions.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_36.json",
+      "excerpt1": "In cases of foreign currency loans as defined in Article 4(28) of Directive 2014/17/EU, institutions and creditors should also factor into the assessment of the borrower's capacity to meet the obligations potential negative scenarios of the exchange rate between the currency of the borrower's income and the currency of the loan. Institutions and creditors should also take into account and assess any hedging strategies and actual hedges in place, including natural hedges, to mitigate foreign currency exchange risk.",
+      "pageNumber1": 36,
+      "filename2": "Guidelines%20on%20institutions%20stress%20testing%20(EBA-GL-2018-04).di_page_47.json",
+      "excerpt2": "When stress testing the foreign exchange lending risk, institutions should take into account at least: b) the sensitivity impact of exchange rate movements on a borrower's credit rating/score and debt servicing capacity;",
+      "pageNumber2": 47,
+      "explanation": "Both excerpts require institutions to assess the impact of exchange rate movements on a borrower's ability to repay foreign currency loans. Excerpt 1 specifies factoring in potential negative scenarios of exchange rates and assessing hedging strategies for borrower capacity. Excerpt 2, in the context of stress testing, explicitly requires taking into account the 'sensitivity impact of exchange rate movements on a borrower's credit rating/score and debt servicing capacity'. This directly relates to the assessment of the borrower's capacity as affected by foreign currency risk.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

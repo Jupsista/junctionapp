@@ -1,0 +1,26 @@
+{
+  "summary": "Two overlaps were identified concerning the use of 'practical expedients' for calculating Expected Credit Losses (ECL) under IFRS 9. The EBA Guidelines on Accounting for Expected Credit Losses explicitly refer to principles and specific rules, such as the 30-days-past-due rebuttable presumption, that are defined and established in the corresponding IFRS 9 text. Both sets of documents govern the same regulatory subject for the same actor (credit institutions), with the EBA Guidelines clarifying the supervisory scope in relation to the underlying accounting standard.",
+  "overlaps": [
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_77.json",
+      "excerpt1": "The EBA guidelines do not cover all the practical expedients that institutions may use under IFRS 9 but refer specifically only to the information set, the low credit risk exemption and the 30-days-past-due rebuttable presumption.",
+      "pageNumber1": 77,
+      "filename2": "CELEX_32023R1803_EN_TXT.di_page_552.json",
+      "excerpt2": "Regardless of the way in which an entity assesses significant increases in credit risk, there is a rebuttable presumption that the credit risk on a financial asset has increased significantly since initial recognition when contractual payments are more than 30 days past due.",
+      "pageNumber2": 552,
+      "explanation": "Both documents regulate the same subject: the use of the 30-days-past-due rebuttable presumption for assessing significant increases in credit risk for credit institutions applying IFRS 9. The EBA Guidelines explicitly state that they refer to this specific practical expedient, which is defined and established in the IFRS 9 text, creating a direct overlap.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_77.json",
+      "excerpt1": "The EBA guidelines should be applied in a proportionate manner which should consider, among other factors, the complexity of the credit institution. The EBA guidelines do not cover all the practical expedients that institutions may use under IFRS 9...",
+      "pageNumber1": 77,
+      "filename2": "CELEX_32023R1803_EN_TXT.di_page_631.json",
+      "excerpt2": "An entity may use practical expedients when measuring expected credit losses if they are consistent with the principles in paragraph 5.5.17. An example of a practical expedient is the calculation of the expected credit losses on trade receivables using a provision matrix.",
+      "pageNumber2": 631,
+      "explanation": "Both texts govern the same regulatory subject: the principle of using 'practical expedients' for measuring expected credit losses under IFRS 9. The IFRS 9 text provides the general permission for entities to use such expedients, while the EBA Guidelines discuss the scope and application of this principle for credit institutions, confirming an overlap in the subject matter.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

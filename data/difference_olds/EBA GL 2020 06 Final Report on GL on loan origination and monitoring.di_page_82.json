@@ -1,0 +1,16 @@
+{
+  "summary": "The EBA Guidelines on Loan Origination and Monitoring discuss the potential benefits and prudential concerns regarding the use of advanced statistical models for property valuation, particularly in loan origination. It indicates that while there are benefits, prudential standards are needed to ensure transparency and accuracy, and that in practice, their use is restricted to residential immovable property. In contrast, the FIN-FSA Regulation, through a footnote referencing an EBA interpretation guideline, explicitly states that statistical models are not allowed as the *sole* means of collateral valuation under CRR Articles 208(3)(b) and 229(1). This creates a contradiction regarding the permissible extent of using statistical models for collateral valuation.",
+  "overlaps": [],
+  "contradictions": [
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_82.json",
+      "excerpt1": "A broader use of an advanced statistical model throughout the life cycle of a loan may be beneficial for financial institutions from an internal business perspective, as they can carry out this valuation method for a range of valuation activities and thereby benefit from a quick and cost-efficient valuation.\n[...] from a prudential point of view, the use of those models at the stage of loan origination may create shortcomings in the risk management, so there must be prudential standards in place to ensure the transparency and accuracy of the model outcome.",
+      "pageNumber1": 82,
+      "filename2": "2018_04.m3_en.di_page_17.json",
+      "excerpt2": "4 EBA has published an interpretation guideline (2017_3078) on the determination of fair value under Article 208(3)(b) and Article 229(1) of the EU CRR (575/2013). According to the interpretation guideline, Article 208(3)(b) CRR does not allow the use of a statistical model as the sole means of valuation of collateral. The same applies to Article 229(1) CRR.",
+      "pageNumber2": 17,
+      "explanation": "The EBA Guidelines acknowledge the broader beneficial use of advanced statistical models for valuation activities and state that prudential standards are needed to ensure transparency and accuracy. However, a footnote in the FIN-FSA Regulation, directly citing an EBA interpretation guideline, explicitly prohibits the use of a statistical model as the *sole* means of collateral valuation under CRR. This establishes a contradiction where one text discusses the potential for broader use of statistical models (albeit with prudential standards) while the other directly restricts their use as the sole method for collateral valuation.",
+      "type": "CONTRADICTION"
+    }
+  ]
+}

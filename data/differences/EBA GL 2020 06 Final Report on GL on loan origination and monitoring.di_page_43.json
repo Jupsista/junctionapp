@@ -1,0 +1,16 @@
+{
+  "summary": "One overlap was identified between the EBA Guidelines on loan origination and the Basel Framework. Both documents require institutions to assess the borrower's ability to repay when granting loans. The EBA GL provides a detailed list of financial aspects that must be considered in the assessment for general lending, while the Basel Framework mandates that banks establish formal underwriting policies that define specific metrics (such as debt service coverage ratio) to conduct this assessment, with a specific focus on mortgage loans.",
+  "overlaps": [
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_43.json",
+      "excerpt1": "Institutions should perform an assessment of the cash conversion cycle of the borrower, to measure the time it takes for the business to convert the investment in inventory and other resource inputs into cash through the sale of its specific goods and services. Institutions should be able to understand the cash conversion cycle of a borrower to estimate working capital needs and identify recurring costs, in order to assess the ongoing capacity to repay credit facilities over time.",
+      "pageNumber1": 43,
+      "filename2": "BaselFramework.di_page_231.json",
+      "excerpt2": "National supervisors should ensure that banks put in place underwriting policies with respect to the granting of mortgage loans that include the assessment of the ability of the borrower to repay. Underwriting policies must define a metric(s) (such as the loan's debt service coverage ratio) and specify its (their) corresponding relevant level(s) to conduct such assessment.",
+      "pageNumber2": 231,
+      "explanation": "Both texts establish rules for institutions regarding the assessment of a borrower's repayment capacity during the loan underwriting process. The EBA Guidelines provide a granular list of financial elements to be analysed for general lending, including the assessment of the cash conversion cycle to understand ongoing repayment capacity. The Basel Framework requires banks to have formal underwriting policies for mortgage loans that include defined metrics, such as the debt service coverage ratio, to assess the ability to repay. They govern the same regulatory action (assessment of repayment capacity) in the same functional context (loan origination), creating an overlap.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

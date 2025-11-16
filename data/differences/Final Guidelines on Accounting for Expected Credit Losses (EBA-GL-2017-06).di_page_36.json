@@ -1,0 +1,26 @@
+{
+  "summary": "Two overlaps were identified between the EBA Guidelines on Accounting for Expected Credit Losses and the EU-endorsed IFRS 9 standard. The first overlap concerns the identical rule for measuring a loss allowance at an amount equal to 12-month expected credit losses when credit risk has not significantly increased since initial recognition. The EBA Guideline explicitly quotes the corresponding IFRS 9 provision. The second overlap identifies the identical core principle that the measurement of expected credit losses must be an unbiased and probability-weighted amount determined by evaluating a range of possible outcomes. In both cases, the texts apply to the same actors (credit institutions/entities) and govern the same regulatory subject (measurement of ECL under IFRS 9).",
+  "overlaps": [
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_36.json",
+      "excerpt1": "In accordance with paragraph 5.5.5 of IFRS 9, 'if, at the reporting date, the credit risk on a financial instrument has not increased significantly since initial recognition, an entity shall measure the loss allowance for that financial instrument at an amount equal to 12-month expected credit losses'.",
+      "pageNumber1": 36,
+      "filename2": "CELEX_32023R1803_EN_TXT.di_page_551.json",
+      "excerpt2": "if, at the reporting date, the credit risk on a financial instrument has not increased significantly since initial recognition, an entity shall measure the loss allowance for that financial instrument at an amount equal to 12-month expected credit losses.",
+      "pageNumber2": 551,
+      "explanation": "Both texts establish the identical rule for the same actor type (credit institutions/entities) under the same functional context (IFRS 9 impairment). They both mandate that if credit risk on a financial instrument has not increased significantly since initial recognition, the loss allowance must be measured at an amount equal to 12-month expected credit losses. The EBA Guideline directly quotes the IFRS 9 standard, creating a direct overlap of the same regulatory requirement.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_36.json",
+      "excerpt1": "In accordance with Principle 6, estimates of the amount and timing of 12-month ECL should reflect senior management's experienced credit judgement, and represent an unbiased probability-weighted estimate of ECL by considering a range of possible outcomes",
+      "pageNumber1": 36,
+      "filename2": "CELEX_32023R1803_EN_TXT.di_page_553.json",
+      "excerpt2": "An entity shall measure expected credit losses of a financial instrument in a way that reflects: (a) an unbiased and probability-weighted amount that is determined by evaluating a range of possible outcomes;",
+      "pageNumber2": 553,
+      "explanation": "Both texts define the core principle for measuring expected credit losses (ECL). They apply to the same actor (credit institutions/entities) and govern the same regulatory action (measurement of ECL). Both require the measurement to be an 'unbiased and probability-weighted amount' that is determined by 'evaluating a range of possible outcomes', establishing an identical fundamental requirement.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

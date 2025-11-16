@@ -1,0 +1,16 @@
+{
+  "summary": "An overlap was identified between the EBA Guidelines on loan origination and monitoring and the Basel Framework. Both texts require financial institutions to incorporate the impact of climate-related financial risks, specifically physical and transition risks, into their credit risk assessment of borrowers. The requirements are substantively the same, governing the same actor (banks/institutions) and the same regulatory action (credit risk assessment). No contradictions were found.",
+  "overlaps": [
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_26.json",
+      "excerpt1": "Institutions should take into account the risks associated with ESG factors on the financial conditions of borrowers, and in particular the potential impact of environmental factors and climate change, in their credit risk appetite, policies and procedures. The risks of climate change for the financial performance of borrowers can primarily materialise as physical risks, such as risks to the borrower that arise from the physical effects of climate change, including liability risks for contributing to climate change, or transition risks, e.g. risks to the borrower that arise from the transition to a low-carbon and climate-resilient economy.",
+      "pageNumber1": 26,
+      "filename2": "BaselFramework.di_page_377.json",
+      "excerpt2": "When assigning ratings to borrowers and facilities, banks should take into consideration material and relevant information on the impact of climate-related financial risks on the borrower's financial condition and facility characteristics. This includes consideration of the physical and transition risks that the borrower is exposed to, as well as measures undertaken by the borrower to mitigate such risks.",
+      "pageNumber2": 377,
+      "explanation": "Both texts require financial institutions (banks) to incorporate the impact of climate-related financial risks, specifically physical and transition risks, into their credit risk assessment of borrowers. The EBA GL requires this to be part of credit risk policies and procedures, while the Basel Framework FAQ specifies this should be done when assigning ratings to borrowers. These are substantively the same requirement for the same actor in the same functional context.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

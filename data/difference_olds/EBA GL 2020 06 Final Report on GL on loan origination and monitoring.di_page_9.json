@@ -1,0 +1,26 @@
+{
+  "summary": "The two excerpts regulate the same subject of ongoing monitoring of credit risk and credit exposures, and the implementation of early warning mechanisms by credit institutions. Both refer to 'early warning indicators/watch lists' and 'early warning mechanisms' as part of the overall credit risk management and early detection of deteriorating credit quality, establishing a clear overlap in their scope and requirements.",
+  "overlaps": [
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_9.json",
+      "excerpt1": "e. Section 8 of the guidelines focuses on supervisory requirements for the ongoing monitoring of credit risk and credit exposures, including regular credit reviews of at least medium-sized and large enterprises. In this section, the EBA also sets out supervisory expectations for the management information systems to be used for monitoring and the framework of early warning indicators/watch lists, thus building the link between the ongoing monitoring and early detection of loans with deteriorating credit quality that are also covered in the EBA Guidelines on management of non-performing and forborne exposures.",
+      "pageNumber1": 9,
+      "filename2": "Final Guidelines on management of non-performing and forborne exposures.di_page_60.json",
+      "excerpt2": "241. Considering the importance of early detection and prevention of deteriorating credit quality, competent authorities should assess whether the early warning mechanisms are implemented in the credit institutions' internal procedures.",
+      "pageNumber2": 60,
+      "explanation": "Both excerpts address the same regulatory subject of ongoing monitoring of credit risk and credit exposures, specifically through the use of early warning indicators/mechanisms. Excerpt 1 mentions 'early warning indicators/watch lists' as a framework for ongoing monitoring and early detection of deteriorating loans. Excerpt 2 emphasizes the importance of 'early detection and prevention of deteriorating credit quality' and requires competent authorities to assess the implementation of 'early warning mechanisms' in credit institutions' internal procedures. This constitutes an overlap as both guidelines impose rules concerning the same subject with similar requirements.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_9.json",
+      "excerpt1": "e. Section 8 of the guidelines focuses on supervisory requirements for the ongoing monitoring of credit risk and credit exposures, including regular credit reviews of at least medium-sized and large enterprises. In this section, the EBA also sets out supervisory expectations for the management information systems to be used for monitoring and the framework of early warning indicators/watch lists, thus building the link between the ongoing monitoring and early detection of loans with deteriorating credit quality that are also covered in the EBA Guidelines on management of non-performing and forborne exposures.",
+      "pageNumber1": 9,
+      "filename2": "Final Guidelines on management of non-performing and forborne exposures.di_page_31.json",
+      "excerpt2": "83. Addressing early warnings signals and indicators should be encouraged by credit institutions through the remuneration policy and incentives framework in order to ensure that pre-arrears are efficiently addressed and NPE inflows thus effectively reduced.",
+      "pageNumber2": 31,
+      "explanation": "Both excerpts address the role of early warning signals/indicators in credit risk management. Excerpt 1 highlights the 'framework of early warning indicators/watch lists' for ongoing monitoring and early detection of deteriorating credit quality. Excerpt 2 specifies that 'early warnings signals and indicators' should be encouraged through remuneration policies to efficiently address pre-arrears and reduce NPE inflows. Both texts focus on the importance and application of early warning tools in managing credit quality, establishing a clear overlap.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

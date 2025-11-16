@@ -1,0 +1,26 @@
+{
+  "summary": "The EBA Guidelines on Accounting for Expected Credit Losses largely reiterate and clarify the requirements set out in IFRS 9 for credit institutions. Both documents establish identical principles for assessing significant increases in credit risk (SICR), both on a collective basis and as a general principle. Specifically, they align on the requirement to move a portion of a portfolio to lifetime Expected Credit Loss (ECL) measurement when SICR is identified at a group level but not for individual exposures. They also both define the SICR assessment as a comparison of credit risk between the reporting date and the initial recognition date. These alignments constitute true overlaps as they impose the same rules on the same actor for the same regulatory action.",
+  "overlaps": [
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_44.json",
+      "excerpt1": "In line with paragraph B5.5.1 of IFRS 9 on the assessment of significant increases in credit risk since initial recognition on a collective basis, in instances where it is apparent that, within a group of lending exposures, some lending exposures have experienced a significant increase in credit risk, credit institutions should transfer a subset or a proportion of the group of lending exposures to lifetime ECL measurement even though it is not possible to identify this on an individual lending exposure basis (see IFRS 9, Illustrative Example 5).",
+      "pageNumber1": 44,
+      "filename2": "CELEX_32023R1803_EN_TXT.di_page_625.json",
+      "excerpt2": "if an entity is not able to group financial instruments for which the credit risk is considered to have increased significantly since initial recognition based on shared credit risk characteristics, the entity should recognise lifetime expected credit losses on a portion of the financial assets for which credit risk is deemed to have increased significantly.",
+      "pageNumber2": 625,
+      "explanation": "Both texts regulate the same subject: the assessment of significant increases in credit risk on a collective basis for Expected Credit Loss (ECL) measurement. They impose an identical requirement on the same actor (credit institutions/entities) that if a significant increase in credit risk is identified for a group of exposures but cannot be traced to individual exposures, a portion of that group must be transferred to lifetime ECL measurement. The EBA Guideline directly references and reinforces the rule from IFRS 9.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_44.json",
+      "excerpt1": "In accordance with IFRS 9, paragraph 5.5.9, the assessment of significant increases in credit risk is based on comparing credit risk on exposures at the reporting date relative to credit risk upon initial recognition.",
+      "pageNumber1": 44,
+      "filename2": "CELEX_32023R1803_EN_TXT.di_page_551.json",
+      "excerpt2": "At each reporting date, an entity shall assess whether the credit risk on a financial instrument has increased significantly since initial recognition. When making the assessment, an entity shall use the change in the risk of a default occurring over the expected life of the financial instrument instead of the change in the amount of expected credit losses. To make that assessment, an entity shall compare the risk of a default occurring on the financial instrument as at the reporting date with the risk of a default occurring on the financial instrument as at the date of initial recognition and consider reasonable and supportable information, that is available without undue cost or effort, that is indicative of significant increases in credit risk since initial recognition.",
+      "pageNumber2": 551,
+      "explanation": "Both texts regulate the same subject: the fundamental principle for assessing significant increases in credit risk (SICR). They impose the same requirement on the same actor (credit institution/entity) to base the assessment on a comparison of the credit risk at the reporting date with the credit risk at the date of initial recognition. The EBA Guideline explicitly cites the relevant IFRS 9 paragraph, resulting in a direct overlap of this core requirement.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

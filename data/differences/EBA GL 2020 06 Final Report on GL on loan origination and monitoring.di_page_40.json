@@ -1,0 +1,16 @@
+{
+  "summary": "An overlap was identified between the EBA Guidelines on loan origination and monitoring and a Finnish Financial Supervisory Authority regulation. Both texts require institutions, as part of the credit granting process, to assess the borrower's business model and their repayment capacity under adverse economic conditions, establishing similar requirements for the same regulatory subject.",
+  "overlaps": [
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_40.json",
+      "excerpt1": "When assessing the borrowers' financial position, institutions should assess the sustainability and feasibility of the future repayment capacity under potential adverse conditions that are relevant to the type and purpose of the loan and may occur in the duration of the loan agreement. These events may include a reduction in income and other cash flow; an increase in interest rates; deterioration in the market and operating conditions for the borrower... Analysis of the borrower's business model and strategy 132. Institutions should assess the business model and strategy of the borrowers, including in relation to the purpose of the loan. 133. Institutions should assess the borrower's knowledge, experience and capacity to manage business activities, assets or investments linked to the loan agreements... 134. Institutions should assess the feasibility of the business plan and associated financial projections, in line with the specificities of the sector in which the borrower operates.",
+      "pageNumber1": 40,
+      "filename2": "2018_04.m3_en.di_page_15.json",
+      "excerpt2": "· assessment of changes in economic conditions (interest rates, other factors) ... · in the case of corporate credit, also the following: - assessment of the borrower's business idea, sector and position/competitiveness within the sector - assessment of the competence and expertise of company management",
+      "pageNumber2": 15,
+      "explanation": "Both documents impose obligations on institutions regarding the assessment of a borrower's creditworthiness during loan origination. Both require an assessment of the borrower's business model, strategy, and sector, as well as an assessment of their repayment capacity under adverse economic conditions (such as interest rate changes). This constitutes an overlap as they govern the same regulatory subject (credit assessment for loan origination) for the same actor type (institutions/supervised entities) and impose nearly identical procedural requirements.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

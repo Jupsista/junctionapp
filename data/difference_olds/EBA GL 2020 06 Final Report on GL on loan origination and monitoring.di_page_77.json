@@ -1,0 +1,126 @@
+{
+  "summary": "The EBA's Final Report outlining the mandate and objectives for the Guidelines on Loan Origination and Monitoring (EBA/GL/2020/06) directly corresponds to several related documents. Multiple documents explicitly reference these guidelines and detail their scope and application, specifically concerning financial institutions' practices in credit granting, credit risk management, borrower creditworthiness assessment, collateral valuation, and internal governance. These references confirm the regulatory subject and demonstrate an overlap in their treatment of the EBA Guidelines and their underlying objectives.",
+  "overlaps": [
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_77.json",
+      "excerpt1": "the EBA has been mandated to issue detailed guidelines on financial institutions' loan origination, monitoring and internal governance, with a focus on issues such as transparency and borrower's affordability assessment. ... The main objective of the guidelines is to improve institutions' practices and associated governance arrangements, processes and mechanisms in credit granting, in order to ensure that institutions have robust and prudent approaches to credit risk taking, management and monitoring.",
+      "pageNumber1": 77,
+      "filename2": "2018_04.m3_en.di_page_11.json",
+      "excerpt2": "On 29 May 2020, the European Banking Authority (EBA) issued guidelines on loan origination and monitoring (EBA/GL/2020/06). The guidelines clarify, in particular, the internal governance and control framework for the credit-granting and decision-making process, specify the requirements for assessing the creditworthiness of borrowers at the point of credit granting to consumers and enterprises, and set out requirements for the information to be used in assessments. In addition, the guidelines set out supervisory expectations for the risk-based pricing of loans and provide guidance on, among other things, the valuation of immovable and movable property collateral at the point of credit granting, and the monitoring and review of the value of such collateral. The guidelines also provide specifications on the ongoing monitoring of credit risks. (Issued on 20 October 2020, valid from 30 June 2021) (2) In accordance with Article 16(3) of the EBA Regulation (1093/2010), financial institutions shall make every effort to comply with the EBA Guidelines referred to in paragraph (1).",
+      "pageNumber2": 11,
+      "explanation": "The original document states the mandate and objectives for the EBA Guidelines on loan origination and monitoring, focusing on improving practices in credit granting, governance, and risk management. The related document explicitly references the issued EBA/GL/2020/06 guidelines and details their scope, which precisely matches the objectives outlined in the original text, covering internal governance, credit-granting processes, creditworthiness assessment, collateral valuation, and ongoing credit risk monitoring. This indicates a clear overlap in the regulatory subject and the rules being defined.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_77.json",
+      "excerpt1": "the EBA has been mandated to issue detailed guidelines on financial institutions' loan origination, monitoring and internal governance, with a focus on issues such as transparency and borrower's affordability assessment. ... The main objective of the guidelines is to improve institutions' practices and associated governance arrangements, processes and mechanisms in credit granting, in order to ensure that institutions have robust and prudent approaches to credit risk taking, management and monitoring.",
+      "pageNumber1": 77,
+      "filename2": "Final%20Report%20on%20Guidelines%20on%20common%20procedures%20and%20methodologies%20for%20SREP%20and%20supervisory%20stress%20testing.di_page_87.json",
+      "excerpt2": "b. collateral values, for performing and non-performing exposures, including to what degree they meet the requirements of the EBA Guidelines on management of non- performing and forborne exposures (for collateral used to secure non-performing exposures) and EBA Guidelines on loan origination and monitoring (for all collateral);",
+      "pageNumber2": 87,
+      "explanation": "The original document highlights the mandate for EBA Guidelines on loan origination and monitoring, covering aspects like credit risk taking and management. The related document directly refers to the 'EBA Guidelines on loan origination and monitoring' in the context of assessing collateral values for all collateral, which is a specific and essential component of prudent credit risk management and loan origination. This establishes a clear overlap in the regulatory subject of collateral valuation within loan origination and monitoring.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_77.json",
+      "excerpt1": "the EBA has been mandated to issue detailed guidelines on financial institutions' loan origination, monitoring and internal governance, with a focus on issues such as transparency and borrower's affordability assessment. ... The main objective of the guidelines is to improve institutions' practices and associated governance arrangements, processes and mechanisms in credit granting, in order to ensure that institutions have robust and prudent approaches to credit risk taking, management and monitoring.",
+      "pageNumber1": 77,
+      "filename2": "Final%20Report%20on%20Guidelines%20on%20common%20procedures%20and%20methodologies%20for%20SREP%20and%20supervisory%20stress%20testing.di_page_88.json",
+      "excerpt2": "To achieve a comprehensive understanding of the institution's credit risk profile, competent authorities should also review the governance and risk management framework underlying its credit activities throughout the life cycle of a loan. To this end, competent authorities should assess the following elements, also having regard to the EBA Guidelines on loan origination and monitoring and the EBA Guidelines on management of non-performing and forborne exposures:",
+      "pageNumber2": 88,
+      "explanation": "The original document sets out the mandate for EBA Guidelines on loan origination and monitoring, emphasizing improving institutions' practices, governance arrangements, and credit risk management. The related document instructs competent authorities to review the governance and risk management framework for credit activities throughout the loan life cycle, explicitly 'having regard to the EBA Guidelines on loan origination and monitoring.' This direct reference confirms that both documents address the same regulatory subject concerning the overarching governance and risk management framework for credit activities.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_77.json",
+      "excerpt1": "the EBA has been mandated to issue detailed guidelines on financial institutions' loan origination, monitoring and internal governance, with a focus on issues such as transparency and borrower's affordability assessment. ... The main objective of the guidelines is to improve institutions' practices and associated governance arrangements, processes and mechanisms in credit granting, in order to ensure that institutions have robust and prudent approaches to credit risk taking, management and monitoring.",
+      "pageNumber1": 77,
+      "filename2": "Final%20Report%20on%20Guidelines%20on%20common%20procedures%20and%20methodologies%20for%20SREP%20and%20supervisory%20stress%20testing.di_page_91.json",
+      "excerpt2": "competent authorities should assess whether an institution's policies and procedures for managing, measuring and controlling credit risk are sound and effective, in line with the EBA Guidelines on loan origination and monitoring and the EBA Guidelines on management of non-performing and forborne exposures.",
+      "pageNumber2": 91,
+      "explanation": "The original document describes the mandate for EBA Guidelines on loan origination and monitoring, focusing on improving institutions' practices and robust approaches to credit risk management. The related document instructs competent authorities to assess institutions' policies and procedures for managing, measuring, and controlling credit risk, explicitly stating this should be 'in line with the EBA Guidelines on loan origination and monitoring.' This direct reference confirms both documents are concerned with the same regulatory subject of credit risk management policies and procedures for financial institutions.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_77.json",
+      "excerpt1": "the EBA has been mandated to issue detailed guidelines on financial institutions' loan origination, monitoring and internal governance, with a focus on issues such as transparency and borrower's affordability assessment. ... The main objective of the guidelines is to improve institutions' practices and associated governance arrangements, processes and mechanisms in credit granting, in order to ensure that institutions have robust and prudent approaches to credit risk taking, management and monitoring.",
+      "pageNumber1": 77,
+      "filename2": "Final%20Report%20on%20Guidelines%20on%20common%20procedures%20and%20methodologies%20for%20SREP%20and%20supervisory%20stress%20testing.di_page_92.json",
+      "excerpt2": "In this regard, competent authorities should consider whether the institutions have adequate data infrastructure that meets the requirements of the EBA Guidelines on loan origination and monitoring, and of the EBA Guidelines on management of non-performing and forborne exposures and whether analytical techniques are appropriate to enable the institution to adequately manage their credit risk, and to fulfil supervisory reporting requirements, and to detect, measure and regularly monitor the credit risk inherent in all on- and off-balance-sheet activities (where relevant at group level), in particular with regard to: a. the borrower/counterparty/transaction's credit risk and eligibility;",
+      "pageNumber2": 92,
+      "explanation": "The original document outlines the mandate for EBA Guidelines on loan origination and monitoring, focusing on robust and prudent approaches to credit risk management and monitoring. The related document specifies that competent authorities should assess whether institutions' data infrastructure and analytical techniques meet the requirements of the 'EBA Guidelines on loan origination and monitoring' for managing and monitoring credit risk. This explicit linkage confirms an overlap in the subject of data infrastructure and analytical techniques for credit risk management and monitoring, as prescribed by the guidelines.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_77.json",
+      "excerpt1": "the EBA has been mandated to issue detailed guidelines on financial institutions' loan origination, monitoring and internal governance, with a focus on issues such as transparency and borrower's affordability assessment. ... The main objective of the guidelines is to improve institutions' practices and associated governance arrangements, processes and mechanisms in credit granting, in order to ensure that institutions have robust and prudent approaches to credit risk taking, management and monitoring.",
+      "pageNumber1": 77,
+      "filename2": "Final%20Report%20on%20Guidelines%20on%20common%20procedures%20and%20methodologies%20for%20SREP%20and%20supervisory%20stress%20testing.di_page_83.json",
+      "excerpt2": "ii. the FX lending risk is taken into account when borrowers are assessed and FX loans are underwritten also considering the guidance for creditworthiness assessment of borrowers applying for foreign currency loans as specified in the EBA Guidelines on loan origination and monitoring32;",
+      "pageNumber2": 83,
+      "explanation": "The original document specifies the mandate for EBA Guidelines on loan origination and monitoring, with a focus on borrower's affordability assessment and robust credit risk taking. The related document instructs competent authorities to assess whether FX lending risk is taken into account when borrowers are assessed, explicitly referencing 'guidance for creditworthiness assessment of borrowers applying for foreign currency loans as specified in the EBA Guidelines on loan origination and monitoring'. This confirms a direct overlap in the regulatory subject of creditworthiness assessment of borrowers within the context of loan origination and monitoring.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_77.json",
+      "excerpt1": "the EBA has been mandated to issue detailed guidelines on financial institutions' loan origination, monitoring and internal governance, with a focus on issues such as transparency and borrower's affordability assessment. ... The main objective of the guidelines is to improve institutions' practices and associated governance arrangements, processes and mechanisms in credit granting, in order to ensure that institutions have robust and prudent approaches to credit risk taking, management and monitoring.",
+      "pageNumber1": 77,
+      "filename2": "Final%20Report%20on%20Guidelines%20on%20common%20procedures%20and%20methodologies%20for%20SREP%20and%20supervisory%20stress%20testing.di_page_77.json",
+      "excerpt2": "In addition, competent authorities should also pay attention to whether ML/TF risks are considered within the context of the credit-granting process, including whether the institution has systems and controls in place to ensure funds used to repay loans are from legitimate sources in accordance with the EBA Guidelines on loan origination and monitoring.30",
+      "pageNumber2": 77,
+      "explanation": "The original document outlines the mandate for EBA Guidelines on loan origination and monitoring, focusing on internal governance and credit granting processes to ensure robust risk management. The related document instructs competent authorities to assess if ML/TF risks are considered in the credit-granting process, and if systems and controls are in place 'in accordance with the EBA Guidelines on loan origination and monitoring.' This directly links the EBA Guidelines to specific requirements for credit-granting processes and risk controls, indicating a clear overlap in the regulatory subject.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_77.json",
+      "excerpt1": "the EBA has been mandated to issue detailed guidelines on financial institutions' loan origination, monitoring and internal governance, with a focus on issues such as transparency and borrower's affordability assessment. ... The main objective of the guidelines is to improve institutions' practices and associated governance arrangements, processes and mechanisms in credit granting, in order to ensure that institutions have robust and prudent approaches to credit risk taking, management and monitoring.",
+      "pageNumber1": 77,
+      "filename2": "Final%20Guidelines%20on%20management%20of%20non-performing%20and%20forborne%20exposures.di_page_10.json",
+      "excerpt2": "The guidelines, together with the guidelines on loan origination that the EBA has also been invited to issue by the Council's Action Plan, aim to address the existing stock of NPLs and to prevent the accumulation of NPLs in the future.",
+      "pageNumber2": 10,
+      "explanation": "The original document states the EBA's mandate to issue guidelines on loan origination and monitoring as part of an effort to tackle NPLs and ensure prudent credit risk approaches. The related document explicitly mentions 'the guidelines on loan origination that the EBA has also been invited to issue by the Council's Action Plan' and states their aim to prevent NPL accumulation. This clearly identifies the same regulatory subject and purpose, confirming an overlap.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_77.json",
+      "excerpt1": "the EBA has been mandated to issue detailed guidelines on financial institutions' loan origination, monitoring and internal governance, with a focus on issues such as transparency and borrower's affordability assessment. ... The main objective of the guidelines is to improve institutions' practices and associated governance arrangements, processes and mechanisms in credit granting, in order to ensure that institutions have robust and prudent approaches to credit risk taking, management and monitoring.",
+      "pageNumber1": 77,
+      "filename2": "Final%20report%20on%20Guidelines%20on%20internal%20governance%20under%20CRD.di_page_43.json",
+      "excerpt2": "For the purpose of Article 88(1) of Directive 2013/36/EU, institutions should document data on loans40 to members of the management body and their related parties properly, including at least: 40 See also EBA Guidelines on loan origination, available under: https://eba.europa.eu/regulation-and-policy/credit- risk/guidelines-on-loan-origination-and-monitoring",
+      "pageNumber2": 43,
+      "explanation": "The original document states the EBA's mandate to issue detailed guidelines on financial institutions' loan origination, monitoring, and internal governance. The related document, which is about internal governance, explicitly references 'EBA Guidelines on loan origination' in the context of documenting data on loans to members of the management body. This demonstrates a direct overlap in the regulatory subject concerning loan origination practices and internal governance within financial institutions.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_77.json",
+      "excerpt1": "the EBA has been mandated to issue detailed guidelines on financial institutions' loan origination, monitoring and internal governance, with a focus on issues such as transparency and borrower's affordability assessment.",
+      "pageNumber1": 77,
+      "filename2": "L_2015196EN.01001001.json",
+      "excerpt2": "ensuring the full implementation of the regulatory framework with respect to loan origination, asset impairment and provisioning;",
+      "pageNumber2": 1,
+      "explanation": "The original document outlines the EBA's mandate to issue detailed guidelines on financial institutions' loan origination and monitoring. The related document, a Council Implementing Decision for Cyprus, explicitly requires 'ensuring the full implementation of the regulatory framework with respect to loan origination, asset impairment and provisioning' for the financial sector. This demonstrates a clear overlap as both documents refer to the regulatory subject of loan origination for financial institutions.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_77.json",
+      "excerpt1": "the EBA has been mandated to issue detailed guidelines on financial institutions' loan origination, monitoring and internal governance, with a focus on issues such as transparency and borrower's affordability assessment.",
+      "pageNumber1": 77,
+      "filename2": "L_2013250EN.01004001.json",
+      "excerpt2": "ensuring that a credit register is created, that the current regulatory framework on loan origination and management processes is reviewed and amended, if necessary, and that legislation strengthening the governance of commercial banks is adopted;",
+      "pageNumber2": 1,
+      "explanation": "The original document describes the EBA's mandate to issue detailed guidelines on financial institutions' loan origination and monitoring, and internal governance. The related document, a Council Implementing Decision for Cyprus, requires 'that the current regulatory framework on loan origination and management processes is reviewed and amended' and 'legislation strengthening the governance of commercial banks is adopted'. This directly aligns with the subject matter of loan origination, management processes, and internal governance for financial institutions, indicating a clear overlap.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_77.json",
+      "excerpt1": "the EBA has been mandated to issue detailed guidelines on financial institutions' loan origination, monitoring and internal governance, with a focus on issues such as transparency and borrower's affordability assessment.",
+      "pageNumber1": 77,
+      "filename2": "L_2014363EN.01014501.json",
+      "excerpt2": "taking into account the transition to the SSM, ensuring the full implementation of the regulatory framework with respect to loan origination, asset impairment and provisioning;",
+      "pageNumber2": 1,
+      "explanation": "The original document describes the EBA's mandate to issue detailed guidelines on financial institutions' loan origination and monitoring. The related document, a Council Implementing Decision, explicitly calls for 'ensuring the full implementation of the regulatory framework with respect to loan origination, asset impairment and provisioning' for the financial sector. This demonstrates a clear overlap in the regulatory subject of loan origination for financial institutions.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

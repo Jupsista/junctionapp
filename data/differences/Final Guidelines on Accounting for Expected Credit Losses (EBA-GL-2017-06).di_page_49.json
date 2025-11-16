@@ -1,0 +1,26 @@
+{
+  "summary": "The analysis identified two overlaps between the source document and related texts, both concerning the supervisory evaluation of credit institutions' credit risk management practices. The source document, which provides guidelines on accounting for expected credit losses, outlines criteria for competent authorities to use when evaluating a credit institution's credit risk practices. The related documents from the Basel Framework and the EBA's SREP Guidelines contain very similar or identical instructions for supervisors assessing the same aspects of credit risk management, such as the consideration of macroeconomic factors and the implementation of regular reporting to senior management. Both sets of texts apply to the same actor (supervisors/competent authorities) and the same regulatory action (evaluation of credit risk management). No contradictions were found.",
+  "overlaps": [
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_49.json",
+      "excerpt1": "Competent authorities' evaluation should include, but not be limited to, whether: ... the quality of a credit institution's processes and systems for identifying, classifying, monitoring and addressing changes in credit risk for all lending exposures in a timely manner is adequate, and management's experienced credit judgement considers current conditions and forward-looking information, including macroeconomic factors, and is well documented;",
+      "pageNumber1": 49,
+      "filename2": "BaselFramework.di_page_1787.json",
+      "excerpt2": "Principle 17: The supervisor determines that banks have an adequate credit risk management process that considers their risk appetite, risk profile, market conditions, macroeconomic factors and forward-looking information.",
+      "pageNumber2": 1787,
+      "explanation": "Both documents establish requirements for the supervisory review of credit risk management. They task the competent authority/supervisor with evaluating whether a credit institution's/bank's process is adequate, and both specify that this process must take into account forward-looking information and macroeconomic factors. This constitutes an overlap as they govern the same regulatory subject for the same type of actor.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_49.json",
+      "excerpt1": "Competent authorities' evaluation should include, but not be limited to, whether: ... d. appropriate information about the credit risk of lending exposures, changes in credit risk, the related ECL allowance and changes in allowance estimates is provided to the credit institution's management body and senior management on a regular (for example, quarterly or, if warranted, more frequent) basis;",
+      "pageNumber1": 49,
+      "filename2": "Final Report on Guidelines on common procedures and methodologies for SREP and supervisory stress testing.di_page_93.json",
+      "excerpt2": "Competent authorities should assess whether the institution has implemented regular reporting of credit risk exposures, including the outcome of stress testing, to the management body, senior management and the relevant credit risk managers.",
+      "pageNumber2": 93,
+      "explanation": "Both texts provide guidelines for competent authorities on the supervisory evaluation of credit institutions. They both specifically require the authority to assess whether the institution has implemented regular reporting on its credit risk exposures to the management body and senior management. The rules govern the same regulatory subject (supervisory assessment of internal reporting) and apply to the same actor (competent authorities).",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

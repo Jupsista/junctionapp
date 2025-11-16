@@ -1,0 +1,16 @@
+{
+  "summary": "The documents present an overlap in the implementation timelines for the EBA Guidelines on the definition of default. Both excerpts state that the changes relating to the definition of default must be implemented by the end of 2020 and that institutions have the flexibility to align these timelines with other regulatory product implementations, such as IFRS 9.",
+  "overlaps": [
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_72.json",
+      "excerpt1": "In this regard, the changes in the guidelines on default have to be implemented at the latest by the end of 2020, hence sufficient time is granted after the date of implementation of IFRS 9. However, credit institutions may implement the changes in a shorter timeframe. Therefore, if it is deemed appropriate, credit institutions may align the timeline for implementation of the abovementioned regulatory products.",
+      "pageNumber1": 72,
+      "filename2": "Final%20Report%20on%20Guidelines%20on%20default%20definition%20(EBA-GL-2016-07).di_page_73.json",
+      "excerpt2": "The changes have to be implemented at the latest by the end of 2020, hence sufficient time is granted after the date of implementation of IFRS 9. However, institutions may implement the changes in a shorter timeframe. Therefore, if it is deemed appropriate, institutions may align the timeline for implementation",
+      "pageNumber2": 73,
+      "explanation": "Both excerpts, from different EBA Final Reports, provide the same operative rule regarding the implementation timeline for changes in the EBA Guidelines on the definition of default. They both state that these changes must be implemented by the end of 2020, after the IFRS 9 implementation, and explicitly allow institutions the discretion to align the timelines of these regulatory products if deemed appropriate. This represents a true overlap in the specific obligation and flexibility granted to credit institutions concerning implementation dates.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

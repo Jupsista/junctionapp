@@ -1,0 +1,26 @@
+{
+  "summary": "The analysis identified two overlaps concerning the requirements for credit institutions' credit risk rating systems. The first overlap relates to the mandate for an independent function to oversee the rating process, a requirement present in both the EBA Guidelines and the Capital Requirements Regulation (CRR). The second overlap concerns the requirement for regular review and updating of credit ratings, which is stipulated in both the 2017 EBA Guidelines on Expected Credit Losses and the 2020 EBA Guidelines on Loan Origination and Monitoring. No contradictions were found based on the provided definitions.",
+  "overlaps": [
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_28.json",
+      "excerpt1": "The credit risk rating process should include an independent review function. Initial assignment of credit risk grades to exposures and their ongoing updating by front-line lending staff should be subject to the review of the independent review function.",
+      "pageNumber1": 28,
+      "filename2": "CELEX_32013R0575_EN_TXT.di_page_122.json",
+      "excerpt2": "The credit risk control unit shall be independent from the personnel and management functions responsible for originating or renewing exposures and report directly to senior management. The unit shall be responsible for the design or selection, implementation, oversight and performance of the rating systems.",
+      "pageNumber2": 122,
+      "explanation": "Both texts require credit institutions to establish a function independent from the lending/origination business units to oversee the credit risk rating process. The EBA Guideline refers to an 'independent review function' responsible for reviewing grade assignments, while the Capital Requirements Regulation (CRR) mandates an independent 'credit risk control unit' responsible for the overall design, implementation, and performance of the rating systems. These rules govern the same regulatory subject of independent oversight of the credit rating framework.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_28.json",
+      "excerpt1": "Credit risk grades should be reviewed whenever relevant new information is received or a credit institution's expectation of credit risk has changed.",
+      "pageNumber1": 28,
+      "filename2": "EBA%20GL%202020%2006%20Final%20Report%20on%20GL%20on%20loan%20origination%20and%20monitoring.di_page_63.json",
+      "excerpt2": "Institutions should also perform regular credit reviews of borrowers that are at least medium-sized or large enterprises, with a view to identifying any changes in their risk profile, financial position or creditworthiness compared with the criteria and the assessment at the point of loan origination, as well as reviewing and updating any relevant internal credit rating/scoring.",
+      "pageNumber2": 63,
+      "explanation": "Both EBA Guidelines impose a requirement on institutions to continuously monitor and update their internal credit risk ratings. The 2017 Guideline establishes the principle that grades must be reviewed when new information becomes available or expectations change. The 2020 Guideline on Loan Origination provides a more specific mechanism for this, mandating 'regular credit reviews' for the purpose of 'reviewing and updating any relevant internal credit rating/scoring.' Both regulate the same subject of ongoing rating maintenance and review.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

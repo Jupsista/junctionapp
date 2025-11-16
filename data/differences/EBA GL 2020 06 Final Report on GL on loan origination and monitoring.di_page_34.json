@@ -1,0 +1,16 @@
+{
+  "summary": "An overlap was identified between the EBA Guidelines on loan origination and monitoring (GL 2020/06) and the EBA Guidelines on connected clients (GL 2017/15). Both sets of guidelines impose a requirement on institutions to identify and collect information regarding connections among clients as a fundamental part of the credit granting and monitoring process. The 2020 Guidelines explicitly reference and reaffirm the obligation set out in the 2017 Guidelines, creating a duplication of the core regulatory requirement.",
+  "overlaps": [
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_34.json",
+      "excerpt1": "If the borrower is a member of a group of connected clients, institutions should collect the necessary information on relevant related connected clients, in accordance with the EBA Guidelines on connected clients, especially when repayment is reliant on cash flow emanating from other connected parties in the same group.",
+      "pageNumber1": 34,
+      "filename2": "Final%20Guidelines%20on%20connected%20clients%20(EBA-GL-2017-15).di_page_25.json",
+      "excerpt2": "Identification of possible connections among clients should be an integral part of an institution's credit granting and surveillance process. The management body and senior management should ensure that adequate processes for the identification of connections among clients are documented and implemented.",
+      "pageNumber2": 25,
+      "explanation": "Both guidelines require institutions to identify and gather information on connections between clients as an integral part of the credit granting and monitoring process. The EBA Guidelines on loan origination and monitoring (2020/06) reiterate the obligation already established in the EBA Guidelines on connected clients (2017/15), creating an overlap in the stated requirements for the same actor (institutions) in the same functional context (credit granting and surveillance).",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

@@ -1,0 +1,16 @@
+{
+  "summary": "An overlap was identified between two EBA Guidelines concerning the obligations for credit institutions to establish and govern credit risk policies and procedures. Both documents mandate the creation and oversight of policies covering the same set of activities, such as identifying, assessing, monitoring, and mitigating credit risk. One guideline focuses on the required content of these policies, while the other assigns explicit responsibility to the institution's management body for their approval and review, thus creating a direct overlap in the regulatory subject.",
+  "overlaps": [
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_21.json",
+      "excerpt1": "Institutions should set out, in their credit risk policies and procedures, the criteria for identifying, assessing, approving, monitoring, reporting and mitigating credit risk, and the criteria for measuring allowances for both accounting and capital adequacy purposes.",
+      "pageNumber1": 21,
+      "filename2": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_19.json",
+      "excerpt2": "The credit institution's management body should be responsible for approving and regularly reviewing a credit institution's credit risk management strategy and the main policies and processes for identifying, measuring, evaluating, monitoring, reporting and mitigating credit risk consistent with the approved risk appetite set by the management body.",
+      "pageNumber2": 19,
+      "explanation": "Both guidelines impose requirements on credit institutions regarding their credit risk management framework. The first text requires institutions to establish credit risk policies and procedures covering specific activities (identifying, assessing, approving, monitoring, reporting and mitigating credit risk). The second text makes the management body of a credit institution responsible for approving and reviewing the policies and processes for the same set of activities. This constitutes an overlap as both regulate the establishment and governance of the same credit risk policies for the same type of actor.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

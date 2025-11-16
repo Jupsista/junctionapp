@@ -1,0 +1,26 @@
+{
+  "summary": "Both excerpts reference the imposition of additional own funds requirements by competent authorities on institutions as part of the supervisory review process. The first excerpt from the EBA GL on Accounting for Expected Credit Losses refers to these requirements being imposed pursuant to Article 104 of Directive 2013/36/EU. The second excerpt, the Final Report on Guidelines on common procedures and methodologies for SREP and supervisory stress testing, explicitly states that the assessment of risks to capital informs the determination of additional own funds requirements, also referencing Article 104(1)(d) of Directive 2013/36/EU.",
+  "overlaps": [
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_52.json",
+      "excerpt1": "imposing additional own funds requirements pursuant to Article 104 under Section III, Chapter 2, Title VII of Directive 2013/36/EU.",
+      "pageNumber1": 52,
+      "filename2": "Final Report on Guidelines on common procedures and methodologies for SREP and supervisory stress testing.di_page_76.json",
+      "excerpt2": "This assessment would inform the determination of additional own funds requirements as provided in Section 7.2.3.",
+      "pageNumber2": 76,
+      "explanation": "Both excerpts refer to the concept of 'additional own funds requirements'. The first excerpt explicitly links this to Article 104 of Directive 2013/36/EU, while the second excerpt explains that the assessment of risks to capital informs the determination of these additional own funds requirements. Although the second excerpt's quoted sentence does not explicitly cite Article 104, its filename and context clearly indicate it's referring to the SREP process which culminates in Pillar 2 requirements under Article 104 CRD IV. Furthermore, another related excerpt (Final Guidelines on management of non-performing and forborne exposures.di_page_9.json) also explicitly links SREP outcomes to Article 104(1)(d) of Directive 2013/36/EU for the imposition of additional own funds.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_52.json",
+      "excerpt1": "imposing additional own funds requirements pursuant to Article 104 under Section III, Chapter 2, Title VII of Directive 2013/36/EU.",
+      "pageNumber1": 52,
+      "filename2": "Final Guidelines on management of non-performing and forborne exposures.di_page_9.json",
+      "excerpt2": "As an outcome of the SREP, and in accordance with Article 104(1)(d) of Directive 2013/36/EU, competent authorities may require an institution to apply a specific provisioning policy, which may - where permitted by accounting rules and regulations - result in an increase in impairments, or the need to hold additional own funds.",
+      "pageNumber2": 9,
+      "explanation": "Both excerpts directly reference the imposition of 'additional own funds requirements' by competent authorities 'pursuant to Article 104' or 'in accordance with Article 104(1)(d)' of Directive 2013/36/EU. This establishes a clear overlap in the regulatory subject of imposing additional own funds requirements under the SREP framework.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

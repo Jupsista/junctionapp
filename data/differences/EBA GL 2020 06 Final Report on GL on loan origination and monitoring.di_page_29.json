@@ -1,0 +1,26 @@
+{
+  "summary": "Two overlaps were identified between the EBA Guidelines on loan origination and monitoring and the EBA Guidelines on internal governance. Both overlaps apply to institutions. The first concerns the requirement to specify the scope, escalation procedures, and management body involvement for veto rights granted to the head of the risk management function over credit decisions. The second relates to the management of conflicts of interest, where both guidelines identify similar types of conflicts (economic, personal/professional, political) that must be addressed, one through a direct prohibition on participation in credit decisions and the other through inclusion in the institution's conflict of interest policy.",
+  "overlaps": [
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_29.json",
+      "excerpt1": "If the institutions grant specific veto rights in relation to positive credit decisions to the head of the risk management function, institutions should consider granting such veto rights to additional staff members within the risk management function for specific credit decisions, to ensure that such a veto can be exercised, if appropriate, at all levels of the credit decision-making framework below the management body. Institutions should specify the scope of these veto rights, the escalation or appeal procedures, and how the management body will be involved.",
+      "pageNumber1": 29,
+      "filename2": "Final report on Guidelines on internal governance under CRD.di_page_57.json",
+      "excerpt2": "If an institution wishes to grant the head of the RMF the right to veto decisions (e.g. a credit or investment decision or the setting of a limit) made at levels below the management body, it should specify the scope of such a veto right, the escalation or appeal procedures, and how the management body will be involved.",
+      "pageNumber2": 57,
+      "explanation": "Both guidelines impose the same requirement on institutions regarding the governance of veto rights for the head of the Risk Management Function in the context of credit decisions. They both mandate that if such rights are granted, the institution must specify the scope of the veto, the escalation or appeal procedures, and how the management body will be involved.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_29.json",
+      "excerpt1": "Institutions should ensure that decisions taken by credit decision-makers are impartial and objective and not adversely affected by any conflict of interest... More specifically, for the purposes of these guidelines, institutions should ensure that any individual involved in credit decision-making, such as members of staff and members of the management body, should not take part in credit decisions if any of the following occurs: a. any individual involved in credit decision-making has a personal or professional relationship (outside the professional relationship when representing the institution) with the borrower; b. any individual involved in credit decision-making has an economic or any other interest... associated with the borrower; c. any individual involved in credit decision-making has undue political influence on or a political relationship with the borrower.",
+      "pageNumber1": 29,
+      "filename2": "Final report on Guidelines on internal governance under CRD.di_page_40.json",
+      "excerpt2": "The policy should cover at least the following situations or relationships where conflicts of interest may arise: a. economic interests (e.g. shares, other ownership rights and memberships, financial holdings and other economic interests in commercial customers...); ... e. personal or professional relationships with relevant external stakeholders (e.g. being associated with material suppliers, consultancies or other service providers); and f. political influence or political relationships.",
+      "pageNumber2": 40,
+      "explanation": "Both guidelines address the same types of conflicts of interest for institutions' staff: economic interests, personal/professional relationships with external parties (such as borrowers or commercial customers), and political influence. The Guidelines on Loan Origination prohibit individuals with such conflicts from participating in credit decisions, while the Guidelines on Internal Governance require the institution's general conflict of interest policy to cover these same situations. This constitutes an overlap as they regulate the same subject for the same actor with highly similar requirements.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

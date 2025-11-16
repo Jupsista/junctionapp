@@ -1,0 +1,16 @@
+{
+  "summary": "The original content emphasizes that the independence of model development and validation for Expected Credit Loss (ECL) measurement models, as stipulated in paragraph 67 of the guidelines, aligns with the relevant requirements on model independence in the CRR. The related content from 'Guidelines on PD and LGD estimation (EBA-GL-2017-16).di_page_44.json' also discusses the independence of the validation function from model development, referencing RTS on IRB assessment methodology, and states that these RTS specify criteria for this independence. This indicates a consistent regulatory principle regarding the independence of model validation, although the original content specifically refers to ECL models and the related content refers to IRB models.",
+  "overlaps": [
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_81.json",
+      "excerpt1": "On the independence of model development and validation (paragraph 67 of the guidelines), the EBA believes that the current text of the guidelines is sufficiently clear and consistent with the relevant requirements on the independence of model development and model validation included in the CRR",
+      "pageNumber1": 81,
+      "filename2": "Guidelines%20on%20PD%20and%20LGD%20estimation%20(EBA-GL-2017-16).di_page_44.json",
+      "excerpt2": "The role of independent validation has been further clarified in the RTS on IRB assessment methodology, in particular in Article 10 of these RTS, which specifies criteria for the independence of the validation function from model development, and in Article 11, which clarifies the minimum frequency and scope of validation.",
+      "pageNumber2": 44,
+      "explanation": "Both excerpts address the independence of the model validation function from the model development function, a critical aspect of model governance. The first excerpt states that its guidelines on this topic are consistent with CRR requirements, while the second excerpt elaborates on how the role of independent validation is clarified in the RTS on IRB assessment methodology, specifying criteria for this independence.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

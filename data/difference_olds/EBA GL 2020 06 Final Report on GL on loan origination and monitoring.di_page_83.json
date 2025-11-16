@@ -1,0 +1,16 @@
+{
+  "summary": "There is a contradiction regarding the use of statistical models as the sole means of valuation for immovable property collateral. The 'Guidelines on Loan Origination and Monitoring' imply that advanced statistical models can be used as the sole means for initial valuation, revaluation, and monitoring under certain conditions. Conversely, the 'Guidelines on Management of Non-Performing and Forborne Exposures' explicitly state that valuations and revaluations of immovable property collateral should not be carried out using a statistical model as the sole means.",
+  "overlaps": [],
+  "contradictions": [
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_83.json",
+      "excerpt1": "Table 1: Use of advanced statistical models for the purpose of valuation of immovable property collateral Valuation conducted by: Initial valuation Revaluation Monitoring Art. 208(3) applies(a) Art. 208(3) does not apply(b) Valuer :selected: ✔ ✔ :selected: ✔ :selected: ✔ :selected: Valuer supported by advanced statistical models :selected: ✔ ✔ :selected: :selected: ✔ :selected: ✔ Advanced statistical models ✔ :selected: :selected: ✔ Other statistical models, including indexation :selected: ✔ :selected: ✔ (a) This is whenever the price of the immovable property may have declined materially or for big loans of EUR 3 million or 5% of the own funds of the institution. (b)This is when there is no 'suspected' material decline in the value of the immovable property, and the loan does not exceed EUR 3 million or is less than 5% of the own funds of an institution.",
+      "pageNumber1": 83,
+      "filename2": "Final%20Guidelines%20on%20management%20of%20non-performing%20and%20forborne%20exposures.di_page_51.json",
+      "excerpt2": "188. Valuations and revaluations of immovable property collateral should be performed on an individual and a property-specific basis. Valuations and revaluations of immovable property collateral should not be carried out using a statistical model as the sole means of undertaking the review of the property valuation.",
+      "pageNumber2": 51,
+      "explanation": "The 'Guidelines on Loan Origination and Monitoring' (Table 1) indicate that 'Advanced statistical models' can be used as the sole method for initial valuation, revaluation, and monitoring of immovable property collateral when Article 208(3) CRR does not apply (i.e., for loans under EUR 3 million or 5% of own funds and no suspected material decline). In contrast, the 'Guidelines on Management of Non-Performing and Forborne Exposures' (paragraph 188) explicitly state that 'Valuations and revaluations of immovable property collateral should not be carried out using a statistical model as the sole means of undertaking the review of the property valuation.' These two provisions present a direct contradiction regarding the permitted use of statistical models as the sole valuation method for immovable property collateral.",
+      "type": "CONTRADICTION"
+    }
+  ]
+}

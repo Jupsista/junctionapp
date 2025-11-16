@@ -1,0 +1,16 @@
+{
+  "summary": "One overlap was identified between the EBA Guidelines on loan origination and the Basel Framework. Both texts require credit institutions to establish a formal, documented framework defining the authority for credit decisions, specifically linking approval powers to the characteristics of the exposure, such as size and complexity. The rules are consistent, with both mandating a structured approach to credit approval governance.",
+  "overlaps": [
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_28.json",
+      "excerpt1": "Institutions should establish a clear and well-documented credit decision-making framework that should set out a clear and sound structure for the credit decision-making responsibilities within an institution, including a description of the hierarchy of the credit decision-makers and their allocation within the institution's organisational and business structure and their reporting lines.",
+      "pageNumber1": 28,
+      "filename2": "BaselFramework.di_page_1789.json",
+      "excerpt2": "The supervisor requires and regularly determines that such policies and processes establish an appropriate and properly controlled credit risk environment, including: (b) well defined criteria and policies and processes for: (iii) identifying the appropriate approval authority for the size and complexity of the exposures;",
+      "pageNumber2": 1789,
+      "explanation": "Both documents require institutions to establish a formal, documented framework for credit decision-making. The EBA Guideline requires a 'clear and well-documented credit decision-making framework' that sets out the 'hierarchy of the credit decision-makers'. The Basel Framework requires policies and processes for 'identifying the appropriate approval authority for the size and complexity of the exposures'. Both texts address the same regulatory subject: the internal governance structure for approving credit, applying to the same actors (banks/institutions) in the same context (loan origination).",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

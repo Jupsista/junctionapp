@@ -1,0 +1,86 @@
+{
+  "summary": "The provided text from 'EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_7.json' emphasizes the integration of AML/CFT requirements and the consideration of ESG factors and associated risks within institutions' credit policies and procedures, specifically in the context of loan origination and monitoring. The identified overlapping texts reinforce the responsibility of institutions (or credit/financial institutions) to identify, manage, and mitigate ML/TF risks, including the need to incorporate these considerations into their internal governance, risk management frameworks, and decision-making processes, even where credit risk may not be present. These texts consistently highlight the importance of considering ML/TF and ESG risks across various operational and governance aspects.",
+  "overlaps": [
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_7.json",
+      "excerpt1": "Furthermore, Section 4 refers to the application of the anti-money laundering (ALM) and countering the financing of terrorism (CFT) requirements in the context of credit granting. Institutions should note that loans that pose no credit risk may nevertheless pose money laundering (ML) and terrorist financing risk (TF) risk.",
+      "pageNumber1": 7,
+      "filename2": "Final%20Report%20on%20Guidelines%20on%20common%20procedures%20and%20methodologies%20for%20SREP%20and%20supervisory%20stress%20testing.di_page_13.json",
+      "excerpt2": "Therefore prudential supervisors should consider, to the extent known to them, ML/TF risks from a prudential perspective throughout their work, including in the SREP, and cooperate with the authorities and bodies responsible for ensuring compliance with AML/CFT requirements under Directive (EU) 2015/849 in this respect.",
+      "pageNumber2": 13,
+      "explanation": "Both excerpts address the consideration of ML/TF risks by institutions. Filename1 highlights that loans with no credit risk can still pose ML/TF risk within credit granting, implying institutions must identify and manage these. Filename2 reinforces this by stating that prudential supervisors should consider ML/TF risks from a prudential perspective, which inherently means institutions should also be doing so.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_7.json",
+      "excerpt1": "Furthermore, Section 4 refers to the application of the anti-money laundering (ALM) and countering the financing of terrorism (CFT) requirements in the context of credit granting. Institutions should note that loans that pose no credit risk may nevertheless pose money laundering (ML) and terrorist financing risk (TF) risk. In these guidelines, the EBA is introducing prominently environmentally sustainable lending dimensions, and is setting requirements for institutions to consider ESG factors, environmentally sustainable lending and associated risks in their credit policies and procedures. This is a significant step considering the importance of the topic for the EU,",
+      "pageNumber1": 7,
+      "filename2": "Final%20report%20on%20Guidelines%20on%20internal%20governance%20under%20CRD.di_page_8.json",
+      "excerpt2": "Combating money laundering and terrorist financing is essential for maintaining stability and integrity in the financial system. Uncovering involvement of an institution in money laundering and terrorist financing might have an impact on its viability and the trust in the financial system. Together with the authorities and bodies (e.g. AML supervisors and financial intelligence units) responsible for ensuring compliance with anti-money laundering rules under Directive (EU) 2015/849, competent authorities have an important role to play in identifying and tackling weaknesses. In this context, the guidelines clarify in line with Directive 2013/36/EU that identifying, managing and mitigating money laundering and financing of terrorism risk is part of sound internal governance arrangements and credit institutions' risk management framework. In the same way institutions should take into account environmental, social and governance (ESG) risk factors within their risk management framework.",
+      "pageNumber2": 8,
+      "explanation": "Both excerpts explicitly state that institutions must identify, manage, and mitigate money laundering and terrorist financing (ML/TF) risks as part of their risk management framework and internal governance. Additionally, both require institutions to take environmental, social, and governance (ESG) risk factors into account within their risk management framework.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_7.json",
+      "excerpt1": "Furthermore, Section 4 refers to the application of the anti-money laundering (ALM) and countering the financing of terrorism (CFT) requirements in the context of credit granting. Institutions should note that loans that pose no credit risk may nevertheless pose money laundering (ML) and terrorist financing risk (TF) risk.",
+      "pageNumber1": 7,
+      "filename2": "Guidelines%20on%20AMLCFT%20compliance%20officers.di_page_14.json",
+      "excerpt2": "The management body in its supervisory function should be responsible for overseeing and monitoring the implementation of the internal governance and internal control framework to ensure compliance with applicable requirements in the context of the prevention of money laundering and terrorism financing (ML/TF).",
+      "pageNumber2": 14,
+      "explanation": "Both excerpts address the responsibility of institutions regarding the prevention of ML/TF risks. Filename1 states that institutions must apply AML/CFT requirements and consider ML/TF risk, while filename2 specifies that the management body's supervisory function is responsible for overseeing and monitoring the implementation of internal governance and control for ML/TF prevention.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_7.json",
+      "excerpt1": "Furthermore, Section 4 refers to the application of the anti-money laundering (ALM) and countering the financing of terrorism (CFT) requirements in the context of credit granting. Institutions should note that loans that pose no credit risk may nevertheless pose money laundering (ML) and terrorist financing risk (TF) risk. In these guidelines, the EBA is introducing prominently environmentally sustainable lending dimensions, and is setting requirements for institutions to consider ESG factors, environmentally sustainable lending and associated risks in their credit policies and procedures.",
+      "pageNumber1": 7,
+      "filename2": "Final%20Report%20on%20GL%20on%20internal%20governance%20under%20IFD.di_page_7.json",
+      "excerpt2": "Combating money laundering and terrorist financing is essential for maintaining the stability and integrity of the financial system. Uncovering the involvement of an investment firm in money laundering and terrorist financing might have an impact on its viability and on trust in the financial system. Together with the authorities and bodies (e.g. AML supervisors and financial intelligence units) responsible for ensuring compliance with anti-money laundering rules under Directive (EU) 2015/849, competent authorities have an important role to play in identifying and tackling weaknesses in this area. In this context, the guidelines clarify that identifying, managing and mitigating money laundering and financing of terrorism risks is part of sound internal governance arrangements and investment firms' risk management framework. In the same way, investment firms should take into account environmental, social and governance (ESG) risk factors within their risk management framework.",
+      "pageNumber2": 7,
+      "explanation": "Both excerpts require institutions (or investment firms) to identify, manage, and mitigate ML/TF risks as part of their internal governance and risk management framework. Both also explicitly require taking into account environmental, social, and governance (ESG) risk factors within the risk management framework. This is a clear overlap in regulatory subject and rule.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_7.json",
+      "excerpt1": "Furthermore, Section 4 refers to the application of the anti-money laundering (ALM) and countering the financing of terrorism (CFT) requirements in the context of credit granting. Institutions should note that loans that pose no credit risk may nevertheless pose money laundering (ML) and terrorist financing risk (TF) risk.",
+      "pageNumber1": 7,
+      "filename2": "Final%20report%20on%20joint%20EBA%20and%20ESMA%20GL%20on%20the%20assessment%20of%20suitability.di_page_15.json",
+      "excerpt2": "The Guidelines also clarify that the ability to understand ML/TF risks is part of the assessments of the collective suitability of the members of the management body and the assessment of key function holders.",
+      "pageNumber2": 15,
+      "explanation": "Both excerpts address the importance of understanding ML/TF risks. Filename1 states institutions should note loans can pose ML/TF risk, implying an understanding is needed. Filename2 explicitly makes the ability to understand ML/TF risks a criterion for the suitability assessment of management body members and key function holders. This is a common requirement for institutions to understand and manage ML/TF risks at the governance level.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_7.json",
+      "excerpt1": "(6) The main body of the guidelines comprises five sections: a. Section 4 provides the details for the application of the general internal governance framework, as set out in the EBA Guidelines on internal governance in relation to the credit- granting process. This section looks into the following topics: (1) credit risk governance and culture, also explaining the specific roles of the management body; (2) credit risk appetite, strategy and credit risk limits, explaining how these concepts fit into the institutions' overall risk appetite framework (RAF) and strategy; (3) credit risk policies and procedures, setting out general and specific criteria to be considered in these policies; (4) the credit decision- making process, highlighting the principle of independence between different (e.g. business and risk) functions in decision-making; (5) setting out the requirements for robust and effective credit risk management and internal control frameworks, as part of the institutions' overall risk management and control frameworks; (6) the resources, skills and information technology (IT) and data infrastructure that institutions should have in place for prudent and robust credit decision-making processes; and (7) the application of general remuneration requirements to credit risk granting, with a view to mitigating excessive risk taking in lending activities. In Section 4, the guidelines also set out supervisory expectations for institutions, when their lending activities involve leveraged transactions, technology-enabled innovations, use of automated models in creditworthiness assessments and credit decision-making, an approach to ESG factors and environmentally sustainable lending, and their data infrastructure. Furthermore, Section 4 refers to the application of the anti-money laundering (ALM) and countering the financing of terrorism (CFT) requirements in the context of credit granting. Institutions should note that loans that pose no credit risk may nevertheless pose money laundering (ML) and terrorist financing risk (TF) risk. In these guidelines, the EBA is introducing prominently environmentally sustainable lending dimensions, and is setting requirements for institutions to consider ESG factors, environmentally sustainable lending and associated risks in their credit policies and procedures.",
+      "pageNumber1": 7,
+      "filename2": "Final%20Report%20on%20Guidelines%20on%20common%20procedures%20and%20methodologies%20for%20SREP%20and%20supervisory%20stress%20testing.di_page_14.json",
+      "excerpt2": "The requirement for institutions to have in place policies, controls and procedures to mitigate and manage effectively the risks of money laundering and terrorist financing, is set out in Directive (EU) 2015/849.",
+      "pageNumber2": 14,
+      "explanation": "Both excerpts state that institutions are required to have policies, controls, and procedures in place to mitigate and manage ML/TF risks. Filename1 outlines this in the context of credit granting and overall risk management, while filename2 provides a general statement of this requirement deriving from Directive (EU) 2015/849.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_7.json",
+      "excerpt1": "Furthermore, Section 4 refers to the application of the anti-money laundering (ALM) and countering the financing of terrorism (CFT) requirements in the context of credit granting. Institutions should note that loans that pose no credit risk may nevertheless pose money laundering (ML) and terrorist financing risk (TF) risk.",
+      "pageNumber1": 7,
+      "filename2": "Guidelines%20on%20MLTF%20risk%20management%20and%20access%20to%20financial%20services.di_page_9.json",
+      "excerpt2": "These guidelines complement the EBA's Guidelines on ML/TF risk factors (EBA/GL/2021/02) and specify further the policies, procedures and controls credit and financial institutions should have in place to mitigate and effectively manage ML/TF risks in accordance with Article 8(3) of Directive (EU) 2015/849, including measures with respect to the provision of a basic payment account in accordance with Article 16 of Directive (EU) 2014/92.6",
+      "pageNumber2": 9,
+      "explanation": "Both excerpts address the core obligation for institutions to have policies, procedures, and controls to mitigate and effectively manage ML/TF risks. Filename1 applies this to the context of credit granting, while filename2 sets out the broader requirement for credit and financial institutions.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_7.json",
+      "excerpt1": "Furthermore, Section 4 refers to the application of the anti-money laundering (ALM) and countering the financing of terrorism (CFT) requirements in the context of credit granting. Institutions should note that loans that pose no credit risk may nevertheless pose money laundering (ML) and terrorist financing risk (TF) risk. In these guidelines, the EBA is introducing prominently environmentally sustainable lending dimensions, and is setting requirements for institutions to consider ESG factors, environmentally sustainable lending and associated risks in their credit policies and procedures.",
+      "pageNumber1": 7,
+      "filename2": "Final%20report%20on%20Guidelines%20on%20internal%20governance%20under%20CRD.di_page_22.json",
+      "excerpt2": "When taking into account all risks, institutions are exposed to, institutions should take into account all relevant risk factors, including environmental, social and governance risk factors. Institutions should consider that the latter may drive their prudential risks, including credit risks, e.g. via risk factors related to the transition to a sustainable economy or external physical climate- related events that may affect debtors, market, liquidity, operational risks and also reputational risks, e.g. via social and governance risk factors, e.g. in the context of outsourcing arrangements16. Such risks include, e.g. legal risks in the area of contractual or labour law, risks related to potential human rights violations or other ESG risk factors that may affect the country where a service provider is located and its ability to provide the agreed service levels.",
+      "pageNumber2": 22,
+      "explanation": "Both excerpts require institutions to consider ESG risk factors. Filename1 specifies this in the context of credit policies and procedures for environmentally sustainable lending, while filename2 provides a more general requirement for institutions to take into account all relevant risk factors, including ESG, as they may drive prudential and credit risks.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

@@ -1,0 +1,76 @@
+{
+  "summary": "The provided excerpts highlight a common policy objective across different EBA Guidelines: to ensure a level playing field, foster supervisory convergence, and enhance the stability and soundness of the EU banking sector. While the original content refers to guidelines on accounting for expected credit losses, several related documents, such as those on management of non-performing exposures, suitability assessment, ICT and security risk management, and outsourcing, express similar overarching goals regarding harmonised supervisory practices and market fairness.",
+  "overlaps": [
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_63.json",
+      "excerpt1": "However, the costs of the application of these guidelines would be outweighed by the benefits of consistent, efficient and effective supervisory practices supporting financial stability, safety and soundness of the EU banking sector and ensuring a level playing field at the international level.",
+      "pageNumber1": 63,
+      "filename2": "Final%20Guidelines%20on%20management%20of%20non-performing%20and%20forborne%20exposures.di_page_81.json",
+      "excerpt2": "The general objectives of the guidelines are to (i) provide supervisors with the necessary and effective tools to oversee the management of NPEs by banks and ensure their timely recognition and provisioning, (ii) promote supervisory convergence in the treatment of NPEs across EU banks, (iii) ensure that all relevant high NPE banks implement a proactive NPL management strategy, and (iv) foster and monitor sound credit originating standards, risk management and internal governance, to prevent the (re-)emergence of excessive levels of NPEs. The specific objective of the guidelines for these purposes is to extend the scope of the supervisory monitoring and assessment of banks' NPE management to the entire EU banking sector to (i) ensure an effective supervisory framework to tackle NPE-related problems, (ii) promote supervisory convergence across EU banks and (iii) ensure a level-playing field in the EU banking sector.",
+      "pageNumber2": 81,
+      "explanation": "Both excerpts, while relating to different specific EBA guidelines (expected credit losses vs. non-performing exposures), articulate the same high-level policy objectives and benefits for the EU banking sector. They both mention promoting 'supervisory convergence' and 'ensuring a level playing field' across EU banks/the EU banking sector, contributing to 'financial stability' and 'soundness'. These are identical or almost identical aims for the application of their respective guidelines.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_63.json",
+      "excerpt1": "However, the costs of the application of these guidelines would be outweighed by the benefits of consistent, efficient and effective supervisory practices supporting financial stability, safety and soundness of the EU banking sector and ensuring a level playing field at the international level.",
+      "pageNumber1": 63,
+      "filename2": "Final%20report%20on%20joint%20EBA%20and%20ESMA%20GL%20on%20the%20assessment%20of%20suitability.di_page_77.json",
+      "excerpt2": "These Guidelines are expected to contribute to the development of a single rule book and a level playing field for the EU banking and investment firm sectors and convergence of supervisory practices and outcomes38. As a joint mandate of the EBA and ESMA, these Guidelines are also expected to enhance cross-sectoral consistency and reduce potential risk originating from regulatory arbitrage within the EU financial system.",
+      "pageNumber2": 77,
+      "explanation": "Both documents, referring to different EBA guidelines (expected credit losses vs. suitability assessment), identify the same general policy objectives. Specifically, they both aim to achieve 'a level playing field' for the EU banking sector and 'convergence of supervisory practices', which directly corresponds to the original excerpt's 'consistent, efficient and effective supervisory practices... ensuring a level playing field'.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_63.json",
+      "excerpt1": "However, the costs of the application of these guidelines would be outweighed by the benefits of consistent, efficient and effective supervisory practices supporting financial stability, safety and soundness of the EU banking sector and ensuring a level playing field at the international level.",
+      "pageNumber1": 63,
+      "filename2": "Final%20draft%20Guidelines%20on%20ICT%20and%20security%20risk%20management.di_page_31.json",
+      "excerpt2": "The aim is to ensure sound ICT and security management in the EU financial sector and to ensure a level playing field for all institutions.",
+      "pageNumber2": 31,
+      "explanation": "Both excerpts state the objective of 'ensuring a level playing field' within the EU financial sector/EU banking sector as a benefit or aim of their respective guidelines (expected credit losses vs. ICT and security risk management). This is a direct overlap in the stated policy objective.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_63.json",
+      "excerpt1": "However, the costs of the application of these guidelines would be outweighed by the benefits of consistent, efficient and effective supervisory practices supporting financial stability, safety and soundness of the EU banking sector and ensuring a level playing field at the international level.",
+      "pageNumber1": 63,
+      "filename2": "EBA%20revised%20Guidelines%20on%20outsourcing%20arrangements.di_page_66.json",
+      "excerpt2": "The guidelines aim to ensure that institutions and payment institutions cannot become empty shells; this additional assurance protects the level playing field within the EU/EEA.",
+      "pageNumber2": 66,
+      "explanation": "Both excerpts refer to the importance of 'ensuring a level playing field' for financial institutions within the EU/EEA, albeit for different regulatory subjects (expected credit losses vs. outsourcing arrangements). This is a common, explicitly stated policy goal.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_63.json",
+      "excerpt1": "However, the costs of the application of these guidelines would be outweighed by the benefits of consistent, efficient and effective supervisory practices supporting financial stability, safety and soundness of the EU banking sector and ensuring a level playing field at the international level.",
+      "pageNumber1": 63,
+      "filename2": "Final%20Guidelines%20on%20Internal%20Governance%20(EBA-GL-2017-11).di_page_60.json",
+      "excerpt2": "The EBA aims for the maximum possible harmonisation as a means to achieve a level playing field, prevent regulatory arbitrage opportunities, increase supervisory convergence and achieve legal certainty. In addition, the development of common procedures and practices is expected to reduce the compliance burden on institutions and contribute to efficient and effective cooperation among competent authorities.",
+      "pageNumber2": 60,
+      "explanation": "Both excerpts describe the policy objective of EBA guidelines, including achieving 'a level playing field' and 'supervisory convergence' for institutions. This directly aligns with the original text's mention of 'consistent, efficient and effective supervisory practices' and 'ensuring a level playing field' within the banking sector, even though the specific guidelines differ (expected credit losses vs. internal governance).",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_63.json",
+      "excerpt1": "However, the costs of the application of these guidelines would be outweighed by the benefits of consistent, efficient and effective supervisory practices supporting financial stability, safety and soundness of the EU banking sector and ensuring a level playing field at the international level.",
+      "pageNumber1": 63,
+      "filename2": "EBA%20GL%202020%2006%20Final%20Report%20on%20GL%20on%20loan%20origination%20and%20monitoring.di_page_80.json",
+      "excerpt2": "Furthermore, the disclosure of green performance information by financial institutions and borrowers, including total green lending flows and the degree of adoption and implementation of core practices, is expected to support system-level monitoring and encourage a level playing field.",
+      "pageNumber2": 80,
+      "explanation": "Both excerpts explicitly state the objective of 'encourage a level playing field' or 'ensuring a level playing field' for financial institutions, linking it to the benefits of implementing guidelines (expected credit losses vs. loan origination and monitoring). This is a clear overlap in stated policy objectives.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_63.json",
+      "excerpt1": "However, the costs of the application of these guidelines would be outweighed by the benefits of consistent, efficient and effective supervisory practices supporting financial stability, safety and soundness of the EU banking sector and ensuring a level playing field at the international level.",
+      "pageNumber1": 63,
+      "filename2": "Final%20Report%20on%20Guidelines%20on%20default%20definition%20(EBA-GL-2016-07).di_page_68.json",
+      "excerpt2": "Furthermore, aligning supervisory expectations in the area of default definition will contribute towards ensuring a level playing field for the institutions.",
+      "pageNumber2": 68,
+      "explanation": "Both excerpts articulate the goal of 'ensuring a level playing field for the institutions' as a benefit of their respective guidelines (expected credit losses vs. default definition). This is a direct match in the high-level policy objective.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

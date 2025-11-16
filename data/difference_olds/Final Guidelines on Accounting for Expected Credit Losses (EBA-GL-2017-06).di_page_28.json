@@ -1,0 +1,56 @@
+{
+  "summary": "The documents present multiple overlaps regarding the requirements for credit institutions' credit risk rating processes, particularly concerning the independent review function, the criteria for assigning and reviewing credit risk grades, the scope of the rating system, and the responsibilities of the credit risk control unit. All identified texts address the same regulatory subject: the design, implementation, and oversight of internal credit risk rating systems within financial institutions (credit institutions or banks), focusing on the processes, criteria, and control functions.",
+  "overlaps": [
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_28.json",
+      "excerpt1": "43. The credit risk rating process should include an independent review function. Initial assignment of credit risk grades to exposures and their ongoing updating by front-line lending staff should be subject to the review of the independent review function.",
+      "pageNumber1": 28,
+      "filename2": "CELEX_32013R0575_EN_TXT.di_page_121.json",
+      "excerpt2": "1. The credit risk control unit shall be independent from the personnel and management functions responsible for orig- inating or renewing exposures and report directly to senior management. The unit shall be responsible for the design or selection, implementation, oversight and performance of the rating systems. It shall regularly produce and analyse reports on the output of the rating systems.",
+      "pageNumber2": 121,
+      "explanation": "Both excerpts require an independent function within the institution to oversee the credit risk rating process. EBA GL 2017/06 explicitly mentions an 'independent review function' for initial assignment and ongoing updating of credit risk grades, while CRR Article 190(1) mandates an 'independent credit risk control unit' responsible for the design, selection, implementation, oversight, and performance of rating systems, independent from originating or renewing exposures.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_28.json",
+      "excerpt1": "44. Credit institutions should take into account a number of criteria when assigning the credit risk grade upon initial recognition of a lending exposure including, to the extent relevant, product type, terms and conditions, collateral type and amount, borrower characteristics and geography or a combination thereof. 45. When changing existing credit risk grades assigned, on either a portfolio or an individual basis, credit institutions should take into account other relevant factors such as, but not limited to, changes in industry outlook, business growth rates, consumer sentiment and changes in economic forecasts (such as interest rates, unemployment rates and commodity prices) as well as weaknesses in underwriting identified after initial recognition.",
+      "pageNumber1": 28,
+      "filename2": "CELEX_32013R0575_EN_TXT.di_page_109.json",
+      "excerpt2": "2. An institution shall take all relevant information into account in assigning obligors and facilities to grades or pools. Information shall be current and shall enable the institution to forecast the future performance of the exposure. The less information an institution has, the more conservative shall be its assignments of exposures to obligor and facility grades or pools. If an institution uses an external rating as a primary factor determining an internal rating assignment, the institution shall ensure that it considers other relevant information.",
+      "pageNumber2": 109,
+      "explanation": "Both texts outline criteria and factors for assigning and adjusting credit risk grades. EBA GL 2017/06 specifies criteria for initial assignment (product type, collateral, borrower characteristics) and factors for changing grades (economic forecasts, industry outlook). CRR Article 171(2) generally requires institutions to take 'all relevant information' into account for assignments, ensuring information is 'current' and enables forecasting 'future performance of the exposure'. This aligns with the forward-looking aspects and specific criteria mentioned in the EBA guidelines.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_28.json",
+      "excerpt1": "46. The credit risk rating system should capture all lending exposures when assessing the impact of changes in credit risk, and not only those that may have experienced significant increases in credit risk, have incurred losses or are otherwise credit impaired. This is to allow for an appropriate differentiation of credit risk and grouping of lending exposures within the credit risk rating system, and to reflect the risk of individual exposures as well as, when aggregated across all exposures, the level of credit risk in the portfolio as a whole. In this context, an effective credit risk rating system should allow credit institutions to identify both migration of credit risk and significant changes in credit risk.",
+      "pageNumber1": 28,
+      "filename2": "CELEX_32013R0575_EN_TXT.di_page_108.json",
+      "excerpt2": "1. Where an institution uses multiple rating systems, the rationale for assigning an obligor or a transaction to a rating system shall be documented and applied in a manner that appropriately reflects the level of risk. 2. Assignment criteria and processes shall be periodically reviewed to determine whether they remain appropriate for the current portfolio and external conditions.",
+      "pageNumber2": 108,
+      "explanation": "Both excerpts address the comprehensive nature and regular review of rating systems. EBA GL 2017/06 states the rating system should 'capture all lending exposures' and enable 'differentiation of credit risk' and 'grouping' to reflect individual and portfolio risk, as well as 'migration of credit risk'. CRR Article 169(1) requires the documented rationale for assigning obligors/transactions to a rating system to 'appropriately reflect the level of risk', and Article 169(2) mandates periodic review of assignment criteria and processes to ensure appropriateness for the 'current portfolio and external conditions', which implies capturing changes and migration of risk across the portfolio.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_28.json",
+      "excerpt1": "47. Credit institutions should describe the elements of their credit risk rating system, clearly defining each credit risk grade and designating the staff responsible for the design, implementation, operation and performance of the system as well as those responsible for periodic testing and validation (i.e. the independent review function).",
+      "pageNumber1": 28,
+      "filename2": "CELEX_32013R0575_EN_TXT.di_page_111.json",
+      "excerpt2": "1. The institutions shall document the design and operational details of its rating systems. The documentation shall provide evidence of compliance with the requirements in this Section, and address topics including portfolio differentiation, rating criteria, responsibilities of parties that rate obligors and exposures, frequency of assignment reviews, and management oversight of the rating process.",
+      "pageNumber2": 111,
+      "explanation": "Both documents require comprehensive documentation of the rating system. EBA GL 2017/06 mandates describing the 'elements of their credit risk rating system', 'clearly defining each credit risk grade', and 'designating the staff responsible for the design, implementation, operation and performance...as well as those responsible for periodic testing and validation'. CRR Article 175(1) requires institutions to 'document the design and operational details of its rating systems', covering 'portfolio differentiation, rating criteria, responsibilities of parties that rate obligors and exposures, frequency of assignment reviews, and management oversight of the rating process'. These are very similar requirements for documentation and assignment of responsibilities.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_28.json",
+      "excerpt1": "48. Credit risk grades should be reviewed whenever relevant new information is received or a credit institution's expectation of credit risk has changed.",
+      "pageNumber1": 28,
+      "filename2": "CELEX_32013R0575_EN_TXT.di_page_110.json",
+      "excerpt2": "1.(b) Institutions shall review assignments at least annually and adjust the assignment where the result of the review does not justify carrying forward the current assignment. High risk obligors and problem exposures shall be subject to more frequent review. Institutions shall undertake a new assignment if material information on the obligor or exposure becomes available;",
+      "pageNumber2": 110,
+      "explanation": "Both excerpts address the frequency and triggers for reviewing credit risk grades. EBA GL 2017/06 states that grades 'should be reviewed whenever relevant new information is received or a credit institution's expectation of credit risk has changed'. CRR Article 173(1)(b) states institutions 'shall review assignments at least annually' and 'undertake a new assignment if material information on the obligor or exposure becomes available', with 'high risk obligors and problem exposures' subject to 'more frequent review'. The underlying principle of reviewing when new information or changed expectations arise is consistent.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

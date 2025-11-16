@@ -1,0 +1,16 @@
+{
+  "summary": "One overlap was identified between the two EBA Guidelines concerning the internal control framework for credit risk. Both documents require that the function or process responsible for managing and assessing credit risk must be independent from the business units that originate the credit (the lending function). This establishes the same principle of segregation of duties for the same actor (credit institutions) in the same context (credit risk management).",
+  "overlaps": [
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_30.json",
+      "excerpt1": "The institutions should have a risk management function, in line with the EBA Guidelines on internal governance, that is responsible for ensuring the proper controls of credit risk. The risk management function should be independent of the business-originating units.",
+      "pageNumber1": 30,
+      "filename2": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_19.json",
+      "excerpt2": "An effective internal control system for credit risk assessment and measurement should include: ... c. well-defined credit risk assessment and measurement processes that are independent from (while taking appropriate account of) the lending function...",
+      "pageNumber2": 19,
+      "explanation": "Both guidelines regulate the internal control framework for credit risk for institutions. Both mandate the independence of the risk management/assessment function from the business/lending function that originates the credit risk. This is a direct overlap of the same regulatory requirement.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

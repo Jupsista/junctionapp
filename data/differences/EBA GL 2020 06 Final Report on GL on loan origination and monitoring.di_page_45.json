@@ -1,0 +1,16 @@
+{
+  "summary": "A single overlap was identified between the EBA Guidelines on loan origination and monitoring and a Finnish Financial Supervisory Authority regulation. Both texts impose requirements on credit institutions (or supervised entities) to assess similar factors when making credit decisions, specifically concerning the evaluation of collateral and the borrower's business plan or idea. No contradictions were found.",
+  "overlaps": [
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_45.json",
+      "excerpt1": "Institutions should assess any pledged collateral against the requirements for collateral set out in the institution's credit risk appetite, policies and procedures, including the valuation and ownership... Institutions should assess the feasibility of the business plan and associated financial projections, in line with the specificities of the sector in which the borrower operates.",
+      "pageNumber1": 45,
+      "filename2": "2018_04.m3_en.di_page_15.json",
+      "excerpt2": "At a minimum, the following factors must be considered in the context of credit decisions: ... collateral type, valuation, coverage and realisability ... in the case of corporate credit, also the following: - assessment of the borrower's business idea, sector and position/competitiveness within the sector",
+      "pageNumber2": 15,
+      "explanation": "Both documents establish rules for credit institutions regarding the assessment of a borrower's creditworthiness during loan origination. Both specifically require an assessment of the pledged collateral (including its valuation) and the borrower's business plan or business idea, creating a direct overlap in the procedural requirements for the same regulatory action (credit granting) by the same type of actor (credit institutions/supervised entities).",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

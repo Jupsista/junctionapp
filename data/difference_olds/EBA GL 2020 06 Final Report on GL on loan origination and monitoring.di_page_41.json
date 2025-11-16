@@ -1,0 +1,26 @@
+{
+  "summary": "The documents contain overlapping provisions regarding the assessment of collateral and guarantees. Both the EBA Guidelines on Loan Origination and Monitoring and the Regulations and Guidelines from the FIN-FSA require institutions to assess the quality, valuation, and realisability of collateral, and to consider the creditworthiness of guarantors.",
+  "overlaps": [
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_41.json",
+      "excerpt1": "Institutions should assess any pledged collateral that is used for the purposes of risk mitigation against the requirements for collateral set out in the institution's credit risk appetite, policies and procedures, including the valuation and ownership, and check all relevant documentation (e.g. whether property is registered in appropriate registers).",
+      "pageNumber1": 41,
+      "filename2": "2018_04.m3_en.di_page_15.json",
+      "excerpt2": "collateral type, valuation, coverage and realisability",
+      "pageNumber2": 15,
+      "explanation": "Both excerpts address the assessment of collateral by institutions. The EBA GL requires institutions to assess pledged collateral, including valuation and ownership. The FIN-FSA Regulations and Guidelines also require considering 'collateral type, valuation, coverage and realisability' in credit decisions. These are similar requirements for institutions regarding collateral assessment.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_41.json",
+      "excerpt1": "If a loan agreement involves any form of guarantees from third parties, institutions should assess the level of protection provided by the guarantee, and if relevant, conduct a creditworthiness assessment of the guarantor, applying the relevant provisions of these guidelines, depending on whether the guarantor is a natural person or an enterprise. The creditworthiness assessment of the guarantor should be proportionate to the size of the guarantee in relation to the loan and the type of guarantor.",
+      "pageNumber1": 41,
+      "filename2": "2018_04.m3_en.di_page_15.json",
+      "excerpt2": "group of connected clients3, its obligations (incl. guarantee obligations) and the supervised entity's position in terms of priority, preferential rights and collateral",
+      "pageNumber2": 15,
+      "explanation": "Both excerpts require institutions to assess aspects of guarantees. The EBA GL specifically mandates a creditworthiness assessment of the guarantor. The FIN-FSA Regulations also require consideration of 'guarantee obligations' as part of assessing a group of connected clients, implicitly requiring an assessment of the reliability of these guarantees and thus the guarantor.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

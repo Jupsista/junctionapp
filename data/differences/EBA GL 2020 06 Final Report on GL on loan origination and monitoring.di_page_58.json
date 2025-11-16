@@ -1,0 +1,27 @@
+{
+  "summary": "The analysis identified one overlap and one contradiction between two EBA guidelines concerning the rules for property valuers engaged by credit institutions. A significant overlap exists in the detailed criteria for ensuring valuer independence and mitigating conflicts of interest. A direct contradiction was found in the rules for valuer rotation: the 'Guidelines on loan origination and monitoring' grant institutions discretion to set their own limit on sequential valuations, whereas the 'Guidelines on management of non-performing and forborne exposures' impose a fixed limit of two.",
+  "overlaps": [
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_58.json",
+      "excerpt1": "In order to mitigate any conflict of interest sufficiently, institutions should take reasonable steps, e.g. via contractual terms, to ensure that valuers who are going to carry out the actual appraisal of a given property and their first-degree relatives meet all of the following conditions:\na. they are not involved in the loan application, assessment, decision or administration;\nb. they are not guided or influenced by the borrower's creditworthiness;\nc. they do not have an actual or potential conflict of interest regarding the property in question, the valuation process and the result of the valuation;\nd. they do not have any direct or indirect interest in the property;\ne. they are not related to either the buyer or the seller of the property.",
+      "pageNumber1": 58,
+      "filename2": "Final%20Guidelines%20on%20management%20of%20non-performing%20and%20forborne%20exposures.di_page_52.json",
+      "excerpt2": "In order to mitigate any conflict of interest sufficiently, credit institutions should ensure that all internal and external appraisers who are going to carry out the actual appraisal of a given property and their first-degree relatives meet the following requirements:\na) They are not involved in the loan processing, loan decision or credit underwriting process.\nb) They are not guided or influenced by the borrower's creditworthiness.\nc) They do not have an actual or potential, current or prospective conflict of interest regarding the result of the valuation.\nd) They do not have an interest in the property.\ne) They are not a connected person to either the buyer or the seller of the property.",
+      "pageNumber2": 52,
+      "explanation": "Both documents impose nearly identical, detailed lists of conditions that credit institutions must ensure property valuers (and their relatives) meet to mitigate conflicts of interest. The rules in both texts govern the same regulatory subject: ensuring valuer independence by prohibiting involvement in the credit decision, influence by borrower creditworthiness, and personal or financial interests in the property or transaction.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": [
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_58.json",
+      "excerpt1": "Institutions should ensure an adequate rotation of valuers and define the number of sequential individual valuations of the same property that can be performed by the same valuer. Any further revaluations beyond this number should result in the rotation of the valuer, resulting in the appointment of either a different internal valuer or a different external valuer.",
+      "pageNumber1": 58,
+      "filename2": "Final%20Guidelines%20on%20management%20of%20non-performing%20and%20forborne%20exposures.di_page_52.json",
+      "excerpt2": "Credit institutions should ensure adequate rotation of appraisers, i.e. two sequential individual valuations of the immovable property by the same appraiser should result in the rotation of the appraiser, resulting in the appointment of either a different internal appraiser or a different external appraisal provider.",
+      "pageNumber2": 52,
+      "explanation": "Both texts regulate the rotation of property valuers by credit institutions. However, the 'Guidelines on loan origination and monitoring' grant institutions the discretion to 'define the number of sequential individual valuations' before rotation is required. In direct contradiction, the 'Guidelines on management of non-performing and forborne exposures' impose a fixed, prescriptive limit, stating that 'two sequential individual valuations...should result in the rotation of the appraiser'. The fixed numerical limit in one text contradicts the discretionary power granted in the other for the same regulatory action.",
+      "type": "CONTRADICTION"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "summary": "An overlap was identified between the EBA Guidelines on loan origination and the Finnish FSA's regulations on credit granting. Both texts impose similar requirements on financial institutions to have a clearly documented process for making credit decisions. The EBA requires that the credit decision be based on a documented creditworthiness assessment and that the decision itself be well-documented. Similarly, the Finnish regulation mandates that credit decisions follow written instructions, have a clear audit trail, and that the documented decision provides a detailed account of its grounds, date, and decision-makers. These rules govern the same regulatory subject for the same type of actor and are consistent and reinforcing.",
+  "overlaps": [
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_50.json",
+      "excerpt1": "The creditworthiness assessment performed in accordance with Section 5.2 should be properly documented and used as the basis of the proposal to approve or decline the loan application by the relevant credit decision-maker. The documented outcomes of the creditworthiness assessment itself should be able to justify the proposal to approve or decline the loan application. ... The credit decision should be clear and well documented and include all the conditions and pre-conditions, including those to mitigate the risks identified in the creditworthiness assessment, such as risks associated with ESG factors, for the loan agreement and disbursement.",
+      "pageNumber1": 50,
+      "filename2": "2018_04.m3_en.di_page_18.json",
+      "excerpt2": "Credit decisions shall be made in accordance with written instructions approved by the executive management. There shall be a clear audit trail documenting the whole process, from credit application to credit decision, and it shall be approved by the appropriate level of management. The credit decision or documents appended thereto shall give a detailed account of the contents and date of the decision, the grounds for granting or turning down the application and the decision makers. The entire credit granting process must be verifiable after the event.",
+      "pageNumber2": 18,
+      "explanation": "Both texts establish requirements for financial institutions on the process and documentation of credit decisions. The EBA Guidelines mandate that the credit decision must be based on a properly documented creditworthiness assessment and that the decision itself is 'clear and well documented'. The Finnish FSA regulation requires that credit decisions follow written instructions, are part of a documented audit trail, and that the documentation specifies the grounds, date, and decision-makers. Both sets of rules apply to the same actors (credit institutions) and the same regulatory action (documenting credit decisions) and are mutually reinforcing.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

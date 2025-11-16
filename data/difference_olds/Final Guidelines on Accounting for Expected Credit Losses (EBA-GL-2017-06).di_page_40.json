@@ -1,0 +1,26 @@
+{
+  "summary": "Both documents provide guidelines and requirements for credit institutions (referred to as 'entities' in IFRS 9) regarding the assessment of credit risk and the recognition of expected credit losses under IFRS 9. They both explicitly state the necessity to consider reasonable and supportable forward-looking information, including macroeconomic factors, and historical data to identify significant increases in credit risk and quantify expected credit losses without undue cost or effort. The guidelines from the EBA complement and elaborate on the principles outlined in IFRS 9, ensuring a consistent approach to incorporating forward-looking data.",
+  "overlaps": [
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_40.json",
+      "excerpt1": "required consideration of all reasonable and supportable forward-looking information that is available without undue cost and effort (see also paragraph 131 of these guidelines on the information set to be used), in addition to information about current conditions and historical data.",
+      "pageNumber1": 40,
+      "filename2": "CELEX_32023R1803_EN_TXT.di_page_624.json",
+      "excerpt2": "Consequently when reasonable and supportable information that is more forward-looking than past due information is available without undue cost or effort, it must be used to assess changes in credit risk.",
+      "pageNumber2": 624,
+      "explanation": "Both excerpts mandate the use of 'reasonable and supportable forward-looking information available without undue cost and effort' for assessing changes in credit risk and recognising expected credit losses. This is a direct alignment on the fundamental data requirement for IFRS 9 impairment.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_40.json",
+      "excerpt1": "Thus, in order to meet the objective of IFRS 9 in a robust manner, credit institutions should also consider the linkages between macroeconomic factors and borrower attributes to the level of credit risk in a portfolio based on reasonable and supportable information. To that end, credit institutions should start with a detailed analysis of historical patterns and current trends, which would allow for identification of the most relevant credit risk drivers. Experienced credit judgement should facilitate the incorporation of current and forecasted conditions likely to affect those risk drivers, the expected cash shortfalls and therefore loss expectations.",
+      "pageNumber1": 40,
+      "filename2": "CELEX_32023R1803_EN_TXT.di_page_624.json",
+      "excerpt2": "This comprehensive credit risk information must incorporate not only past due information but also all relevant credit information, including forward-looking macroeconomic information, in order to approximate the result of recognising lifetime expected credit losses when there has been a significant increase in credit risk since initial recognition on an individual instrument level.",
+      "pageNumber2": 624,
+      "explanation": "Both documents emphasize the critical role of macroeconomic factors and their linkages to credit risk in portfolios. The EBA guidelines recommend considering these linkages for a robust IFRS 9 implementation, while IFRS 9 itself explicitly requires incorporating 'forward-looking macroeconomic information' in credit risk assessments for expected credit losses.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

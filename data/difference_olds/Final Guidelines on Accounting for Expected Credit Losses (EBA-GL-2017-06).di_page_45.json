@@ -1,0 +1,16 @@
+{
+  "summary": "Both excerpts address the method for assessing significant increases in credit risk for financial assets with modified contractual cash flows under IFRS 9, specifically when the modification does not lead to derecognition. The requirements provided in both texts are identical, constituting a true overlap.",
+  "overlaps": [
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_45.json",
+      "excerpt1": "IFRS 9, in paragraphs 5.5.12 and B5.5.25-B5.5.27, sets out the requirements for the assessment of significant increases in credit risk for lending exposures whose contractual cash flows have been renegotiated or modified. In particular, for modifications that do not result in derecognition in accordance with IFRS 9, an entity must assess whether credit risk has increased significantly by comparing (a) the risk of a default occurring at the reporting date based on the modified contractual terms with (b) the risk of default occurring upon initial recognition based on the original, unmodified contractual terms.",
+      "pageNumber1": 45,
+      "filename2": "CELEX_32023R1803_EN_TXT.di_page_552.json",
+      "excerpt2": "5.5.12 If the contractual cash flows on a financial asset have been renegotiated or modified and the financial asset was not derecognised, an entity shall assess whether there has been a significant increase in the credit risk of the financial instrument in accordance with paragraph 5.5.3 by comparing: (a) the risk of a default occurring at the reporting date (based on the modified contractual terms); and (b) the risk of a default occurring at initial recognition (based on the original, unmodified contractual terms).",
+      "pageNumber2": 552,
+      "explanation": "Both excerpts define the exact same method for assessing whether credit risk has significantly increased for financial assets with modified contractual cash flows that are not derecognised, as prescribed by IFRS 9. The EBA Guidelines quote the IFRS 9 requirement, which is precisely restated in the regulatory text.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

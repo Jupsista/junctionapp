@@ -1,0 +1,36 @@
+{
+  "summary": "The EBA Guidelines on loan origination and monitoring and the EBA Guidelines on management of non-performing and forborne exposures both contain provisions regarding the independence and rotation of valuers for property appraisals. Both sets of guidelines specify criteria to mitigate conflicts of interest for valuers and impose requirements for the rotation of valuers. Additionally, both the EBA GL on loan origination and monitoring and CRR (EU) No 575/2013, as well as FIN-FSA Regulations and Guidelines 4/2018, address the use of statistical models or methods for property valuation or monitoring, though with varying degrees of prescription.",
+  "overlaps": [
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_58.json",
+      "excerpt1": "234. In order to mitigate any conflict of interest sufficiently, institutions should take reasonable steps, e.g. via contractual terms, to ensure that valuers who are going to carry out the actual appraisal of a given property and their first-degree relatives meet all of the following conditions: a. they are not involved in the loan application, assessment, decision or administration; b. they are not guided or influenced by the borrower's creditworthiness; c. they do not have an actual or potential conflict of interest regarding the property in question, the valuation process and the result of the valuation; d. they do not have any direct or indirect interest in the property; e. they are not related to either the buyer or the seller of the property.",
+      "pageNumber1": 58,
+      "filename2": "Final Guidelines on management of non-performing and forborne exposures.di_page_52.json",
+      "excerpt2": "195. In order to mitigate any conflict of interest sufficiently, credit institutions should ensure that all internal and external appraisers who are going to carry out the actual appraisal of a given property and their first-degree relatives meet the following requirements: a) They are not involved in the loan processing, loan decision or credit underwriting process. b) They are not guided or influenced by the borrower's creditworthiness. c) They do not have an actual or potential, current or prospective conflict of interest regarding the result of the valuation. d) They do not have an interest in the property. e) They are not a connected person to either the buyer or the seller of the property. f) They provide an impartial, clear, transparent and objective valuation report. g) The fee they receive is not linked to the result of the valuation.",
+      "pageNumber2": 52,
+      "explanation": "Both excerpts address the same regulatory subject: conditions for valuers of property collateral to mitigate conflicts of interest. Both apply to institutions/credit institutions and outline similar requirements regarding their involvement in the loan process, influence by borrower creditworthiness, direct/indirect interest in the property, and relationship to the buyer/seller.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_58.json",
+      "excerpt1": "235. Institutions should ensure an adequate rotation of valuers and define the number of sequential individual valuations of the same property that can be performed by the same valuer. Any further revaluations beyond this number should result in the rotation of the valuer, resulting in the appointment of either a different internal valuer or a different external valuer.",
+      "pageNumber1": 58,
+      "filename2": "Final Guidelines on management of non-performing and forborne exposures.di_page_52.json",
+      "excerpt2": "196. Credit institutions should ensure adequate rotation of appraisers, i.e. two sequential individual valuations of the immovable property by the same appraiser should result in the rotation of the appraiser, resulting in the appointment of either a different internal appraiser or a different external appraisal provider.",
+      "pageNumber2": 52,
+      "explanation": "Both excerpts address the same regulatory subject: the requirement for adequate rotation of valuers for property collateral. Both apply to institutions/credit institutions and specify that rotation should occur after a defined number of sequential valuations by the same valuer.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_58.json",
+      "excerpt1": "236. Institutions should set out, in their policies and procedures, the criteria for using advanced statistical models for the purposes of valuation, revaluation and monitoring the values of collateral. These policies and procedures should account for such models' proven track record, property-specific variables considered, the use of minimum available and accurate information, and models' uncertainty. 237. Institutions should ensure that the advanced statistical models used are: a. property and location specific at a sufficient level of granularity (e.g. postcode for immovable property collateral); b. valid and accurate, and subject to robust and regular backtesting against the actual observed transaction prices; c. based on a sufficiently large and representative sample, based on observed transaction prices; d. based on up-to-date data of high quality.",
+      "pageNumber1": 58,
+      "filename2": "CELEX_32013R0575_EN_TXT.di_page_131.json",
+      "excerpt2": "Institutions may use statistical methods to monitor the value of the property and to identify property that needs revaluation.",
+      "pageNumber2": 131,
+      "explanation": "Both excerpts relate to the use of statistical methods/models for monitoring and revaluing property collateral. The EBA GL provides detailed criteria for 'advanced statistical models', while the CRR provides a general permission to use 'statistical methods' for monitoring and identifying property needing revaluation.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

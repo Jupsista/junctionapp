@@ -1,0 +1,46 @@
+{
+  "summary": "The EBA Guidelines on Loan Origination and Monitoring (filename1) specify that institutions must collect 'Information on the collateral, if any', 'Evidence of ownership of the collateral', and 'Evidence of the value of the collateral' during the creditworthiness assessment for consumers. This requirement is echoed and supported by several other regulatory texts. Specifically, '2018_04.m3_en.di_page_17.json' states that supervised entities must have documented procedures for 'regularly monitoring and assessing collateral values' and ensuring 'collateral is binding, adequate and realisable', and '2015_03.m4_en.di_page_8.json' requires supervised entities to ensure reliable methods for appraising the 'current value of eligible collateral' at the time of granting the loan. These related texts directly align with the principle of assessing and documenting collateral information as part of the loan origination process. Furthermore, '151_2022.di_page_17.json' provides detailed requirements for recording information on collateral for mortgage-backed loans, including its fair value, reinforcing the need for such data. While 'CELEX_32013R0575_EN_TXT.di_page_84.json' defines specific loan-to-value ratios for different types of collateral, which can be seen as a specific rule within the broader requirement of assessing collateral value, it does not contradict the general principle but rather provides a condition that must be met within that assessment.",
+  "overlaps": [
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_71.json",
+      "excerpt1": "13. Information on the collateral, if any 14. Evidence of ownership of the collateral 15. Evidence of the value of the collateral",
+      "pageNumber1": 71,
+      "filename2": "2018_04.m3_en.di_page_17.json",
+      "excerpt2": "Supervised entities must have documented procedures and guidelines for: · accepting different types of collateral · regularly monitoring and assessing collateral values4 · collateral valuation (hair-cut) · ensuring that collateral is binding, adequate and realisable · identifying any concentrations of risk arising from collateral. (42) Supervised entities must establish acceptable types of collateral as well as collateral valuation percentages for each type of acceptable collateral. The valuation percentages shall be consistent with a prudential maximum limit for the relevant types of collateral. However, collateral value must always be based on a case-specific assessment, and special attention should be paid on collateral whose fair value cannot be considered stable. (43) The valuer of collateral must be competent and adequately independent of the granting of credit. Supervised entities must comply with the provisions in section 1 of Decree 1031/2016 of the Council of State on the professional requirements for a valuer of residential property or collateral for credit in consumer credit related to housing, also with respect to the valuer of collateral for other credit. (44) Supervised entities must ensure that the valuation of acceptable collateral is based on reliable appraisal methods, taking internationally recognised valuation standards into account.",
+      "pageNumber2": 17,
+      "explanation": "Both excerpts address the requirement for institutions/supervised entities to assess and document the value and type of collateral in the context of loan origination. The EBA GL lists 'Information on the collateral, if any', 'Evidence of ownership of the collateral', and 'Evidence of the value of the collateral' as information to be considered for creditworthiness assessment, while the related content specifies the need for documented procedures for 'regularly monitoring and assessing collateral values', 'collateral valuation', and ensuring collateral is 'binding, adequate and realisable', and that valuation methods are reliable and appraisers competent.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_71.json",
+      "excerpt1": "13. Information on the collateral, if any 14. Evidence of ownership of the collateral 15. Evidence of the value of the collateral",
+      "pageNumber1": 71,
+      "filename2": "2015_03.m4_en.di_page_8.json",
+      "excerpt2": "(2) Supervised entities must ensure that they use reliable methods in the appraisal of the current value of eligible collateral, which take internationally acknowledged appraisal standards into account, and that the appraiser is qualified and independent enough of the credit process. (3) The current value of the collateral shall be appraised at the time of granting the loan referred to in chapter 15, section 11, subsection 1 of the Act on Credit Institutions and section 14, subsection 1 of the Act on the Registration of Certain Credit Providers and Credit Intermediaries. If the loan is granted for financing an object being built or renovated, the value of the collateral equals its estimated current value after the construction has been completed.",
+      "pageNumber2": 8,
+      "explanation": "Both excerpts deal with the assessment and valuation of collateral during loan origination. The EBA GL requires 'Evidence of the value of the collateral' for creditworthiness assessment. The related content mandates that supervised entities 'use reliable methods in the appraisal of the current value of eligible collateral' and specifies that the 'current value of the collateral shall be appraised at the time of granting the loan', directly overlapping with the EBA GL's requirement for obtaining evidence of collateral value.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_71.json",
+      "excerpt1": "13. Information on the collateral, if any 14. Evidence of ownership of the collateral 15. Evidence of the value of the collateral",
+      "pageNumber1": 71,
+      "filename2": "151_2022.di_page_17.json",
+      "excerpt2": "On a mortgage-backed loan included in the cover pool, the following information shall be recorded: 1) the fair value of the shares, real estate or similar asset placed as collateral; 2) the amount that corresponds to 80 per cent of the fair value of the asset placed as collateral for a residential loan and 60 per cent of the fair value of the asset placed as collateral for a commercial property loan, if the principal of the loan exceeds this;",
+      "pageNumber2": 17,
+      "explanation": "Both excerpts concern the type of information related to collateral that must be collected or recorded for loans. The EBA GL broadly requires 'Information on the collateral, if any' and 'Evidence of the value of the collateral' for creditworthiness assessment. This related content provides specific details for mortgage-backed loans, requiring the recording of 'the fair value of the shares, real estate or similar asset placed as collateral' and specific percentages of that fair value, which constitutes a more granular specification of the 'evidence of the value of the collateral' required by the EBA GL.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_71.json",
+      "excerpt1": "Annex 2 - Information and data for the creditworthiness assessment This annex provides a set of information, data items and evidence to be considered by institutions and creditors when collecting information for the purposes of creditworthiness assessment, in accordance with these guidelines.",
+      "pageNumber1": 71,
+      "filename2": "2018_04.m3_en.di_page_14.json",
+      "excerpt2": "(20) Credit decisions by a supervised entity shall be based on a credit analysis. The credit analysis shall give a sufficiently accurate picture of the borrower applying for credit, the borrower's creditworthiness and of the project to be financed. (21) In the assessment of creditworthiness, the supervised entity must comply with chapter 7a, section 10 of the Consumer Protection Act also with respect to other borrowers than consumers. The assessment must be made with respect to both new credits, renewed credits and changes of credit terms and conditions. The information and documents needed as background for the decision must be listed.",
+      "pageNumber2": 14,
+      "explanation": "Both excerpts address the core obligation of institutions to assess creditworthiness. The EBA GL states its annex provides 'information, data items and evidence to be considered by institutions and creditors when collecting information for the purposes of creditworthiness assessment.' The related content mandates that 'Credit decisions by a supervised entity shall be based on a credit analysis' to provide an 'accurate picture of the borrower's creditworthiness' and that 'The information and documents needed as background for the decision must be listed.' This demonstrates a clear overlap in the fundamental requirement for institutions to perform a creditworthiness assessment and collect necessary information.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

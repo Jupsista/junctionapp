@@ -1,0 +1,16 @@
+{
+  "summary": "One overlap was identified between the EBA Guidelines on loan origination and a Finnish national regulation. Both texts establish the same principle that credit decisions should be based primarily on the borrower's repayment capacity rather than the value of the collateral, and both allow for an exception where the loan is structured to be repaid from the realisation of the collateral. The national regulation effectively implements the EBA's principle, creating a direct overlap in the rules governing the same subject for the same actors.",
+  "overlaps": [
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_35.json",
+      "excerpt1": "Collateral, in the case of secured lending, by itself should not be a predominant criterion for approving a loan and cannot by itself justify the approval of any loan agreement. Collateral should be considered the institution's second way out in case of default or material deterioration of the risk profile, and not the primary source of repayment, with the exception of when the loan agreement envisages that the repayment of the loan is based on the sale of the property pledged as collateral or liquid collateral provided.",
+      "pageNumber1": 35,
+      "filename2": "2018_04.m3_en.di_page_17.json",
+      "excerpt2": "(39) Credit decisions must be primarily based on the customer's creditworthiness. As a rule, credit shall not be granted if the customer lacks credit repayment potential apart from the realisation of collateral.\n(40) In exceptional financing arrangements where the repayment of credit is based on the realisation of collateral, the supervised entity shall monitor the return and market value performance of the collateral in order to ascertain that the repayment is guaranteed.",
+      "pageNumber2": 17,
+      "explanation": "Both documents regulate the principles of credit granting for financial institutions. They establish the identical rule that credit decisions must be based primarily on the borrower's creditworthiness and repayment capacity, not the value of the collateral. Both also provide for an exception where repayment is explicitly based on the realization of collateral. This constitutes an overlap as they impose the same requirement on the same actors in the same functional context.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

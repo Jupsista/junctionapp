@@ -1,0 +1,16 @@
+{
+  "summary": "Both the EBA Guidelines and the Basel Framework establish requirements for credit institutions/banks regarding their credit risk management processes. A clear overlap is identified where both texts mandate that these processes must be comprehensive, including the functions of identifying, measuring, evaluating, monitoring, reporting, and mitigating credit risk. Additionally, both frameworks require that the assessment of credit risk must incorporate forward-looking information and macroeconomic factors.",
+  "overlaps": [
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_21.json",
+      "excerpt1": "Credit institutions should have in place adequate processes and systems to appropriately identify, measure, evaluate, monitor, report and mitigate the level of credit risk. ... Sound methodologies for assessing credit risk ... should, in particular: ... include criteria to duly consider the impact of forward-looking information, including macroeconomic factors.",
+      "pageNumber1": 21,
+      "filename2": "BaselFramework.di_page_1787.json",
+      "excerpt2": "The supervisor determines that banks have an adequate credit risk management process that considers their risk appetite, risk profile, market conditions, macroeconomic factors and forward-looking information. This includes prudent policies and processes to identify, measure, evaluate, monitor, report and control or mitigate credit risk... on a timely basis.",
+      "pageNumber2": 1787,
+      "explanation": "Both documents impose requirements on credit institutions/banks to establish a comprehensive credit risk management process. They both mandate that this process includes the functions of identifying, measuring, evaluating, monitoring, reporting, and mitigating/controlling credit risk. Furthermore, both texts explicitly require that this process considers forward-looking information and macroeconomic factors.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

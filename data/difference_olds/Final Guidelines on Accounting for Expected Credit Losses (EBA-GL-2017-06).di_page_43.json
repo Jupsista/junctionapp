@@ -1,0 +1,16 @@
+{
+  "summary": "The provided excerpts reveal an overlap regarding the expectations for credit institutions' internal credit risk rating systems. Both the EBA Guidelines on Accounting for Expected Credit Losses and the Finnish Regulations and Guidelines emphasize the need for rating systems to have sufficient granularity to effectively distinguish and reflect changes in credit risk.",
+  "overlaps": [
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_43.json",
+      "excerpt1": "Credit institutions should look beyond how many 'grades' a rating downgrade entails because the change in PD for a one-grade movement may not be linear (for example, the default probability over five years of an exposure rated BB is around three times that of one rated BBB, based on current data and analyses applicable to certain jurisdictions). Furthermore, because the significance of a one-grade movement would depend on the granularity of a bank's rating system - and hence the 'width' of each grade - an appropriate initial segmentation should be defined to ensure that a significant increase in credit risk for an individual lending exposure or a group of lending exposures is not obscured within a segment. In this regard, credit institutions should ensure that credit risk rating systems include a sufficient number of grades to appropriately distinguish credit risk.",
+      "pageNumber1": 43,
+      "filename2": "2018_04.m3_en.di_page_20.json",
+      "excerpt2": "(69) The risk rating system shall hold so many categories that it can separate both different credit risks in well-managed credits and credit risks in doubtful credits.",
+      "pageNumber2": 20,
+      "explanation": "Both excerpts address the same regulatory subject: the required granularity and capability of credit institutions' internal credit risk rating systems. The EBA Guidelines state that 'credit risk rating systems include a sufficient number of grades to appropriately distinguish credit risk,' explicitly linking the 'width' of each grade to the significance of a one-grade movement. Similarly, the Finnish Regulation and Guidelines specify that 'The risk rating system shall hold so many categories that it can separate both different credit risks in well-managed credits and credit risks in doubtful credits.' Both texts impose rules on the design of rating systems to ensure adequate differentiation of credit risk, thus constituting an overlap.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

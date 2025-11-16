@@ -1,0 +1,16 @@
+{
+  "summary": "One overlap was identified between the EBA Guidelines on loan origination and monitoring and a FIN-FSA guideline on credit risk management. Both texts specify the required components of a credit institution's credit risk strategy or appetite, covering similar aspects such as portfolio composition, diversification, and target markets. These are divergent but similar rules governing the same regulatory subject for the same actor type.",
+  "overlaps": [
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_20.json",
+      "excerpt1": "The institution's credit risk appetite should specify the scope and focus of the credit risk of the institution, the composition of the credit portfolio, including its concentration, and diversification objectives in relation to business lines, geographies, economic sectors and products.",
+      "pageNumber1": 20,
+      "filename2": "2018_04.m3_en.di_page_12.json",
+      "excerpt2": "The FIN-FSA recommends that the credit risk strategy define at least the following matters:\n· target markets\n· preferred customer profile in granting credit and its allocation of credit based on exposure type, industry or economic sector, geographical location, currency and maturity\n· risk-taking level based on its risk-bearing capacity and principles for diversification of and hedging against risks\n· quality, yield and growth targets for the credit portfolio.",
+      "pageNumber2": 12,
+      "explanation": "Both texts impose requirements on institutions regarding the content of their credit risk strategy or appetite. They both mandate that this strategy must define the composition and diversification of the credit portfolio, specifying similar dimensions such as economic sectors, geographical locations, and diversification principles. The rules govern the same regulatory subject (content of the credit risk strategy) for the same actor (credit institutions) and are highly similar, constituting an overlap.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

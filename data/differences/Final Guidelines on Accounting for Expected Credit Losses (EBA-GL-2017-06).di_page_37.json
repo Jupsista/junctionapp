@@ -1,0 +1,16 @@
+{
+  "summary": "Both guidelines establish a reciprocal and overlapping requirement for credit institutions to align their definition of default for regulatory purposes (under CRR Article 178) with the concept of 'credit-impaired' (Stage 3) for accounting purposes (under IFRS 9). One guideline mandates that the accounting definition be guided by the regulatory one, while the other mandates that the IFRS 9 'credit-impaired' status should trigger a regulatory default, creating a harmonized approach from both directions.",
+  "overlaps": [
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_37.json",
+      "excerpt1": "When adopting a definition of default for accounting purposes, credit institutions should be guided by the definition used for regulatory purposes provided in Article 178 of Regulation (EU) 575/2013, which includes both: a. a qualitative criterion by which 'the institution considers that the obligor is unlikely to pay its credit obligations...' and b. an objective indicator where 'the obligor is past due more than 90 days on any material credit obligation...'",
+      "pageNumber1": 37,
+      "filename2": "Final Report on Guidelines on default definition (EBA-GL-2016-07).di_page_27.json",
+      "excerpt2": "Where the institution treats an exposure as credit-impaired under IFRS 9, i.e. assigns it to Stage 3 as defined in IFRS 9 Financial Instruments, published by the IASB in July 2014, such exposure should be considered defaulted...",
+      "pageNumber2": 27,
+      "explanation": "Both guidelines regulate the definition of default for credit institutions by creating a direct, reciprocal link between the regulatory framework (CRR) and the accounting framework (IFRS 9). One guideline requires that the accounting definition be guided by the regulatory definition from Article 178 CRR. The other guideline requires that an exposure being treated as 'credit-impaired' (Stage 3) under IFRS 9 should be considered defaulted for regulatory purposes. This creates an overlap by mandating alignment between the two frameworks from both the accounting and regulatory perspectives.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

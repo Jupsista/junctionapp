@@ -1,0 +1,16 @@
+{
+  "summary": "An overlap was identified between the EBA Guidelines on loan origination and a Finnish national regulation. Both documents provide a list of information and factors that institutions must consider when conducting a creditworthiness assessment for granting a loan. The lists cover the same topics, such as the borrower's repayment capacity, assets and liabilities, the purpose of the credit, and details on any collateral.",
+  "overlaps": [
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_71.json",
+      "excerpt1": "A. Lending to consumers... 6. Evidence of income or other sources of repayment... 7. Information on financial assets and liabilities, e.g. savings account statements and loan statements indicating outstanding loan balances... 13. Information on the collateral, if any",
+      "pageNumber1": 71,
+      "filename2": "2018_04.m3_en.di_page_15.json",
+      "excerpt2": "(23) At a minimum, the following factors must be considered in the context of credit decisions:· the borrower's previous repayment performance, current repayment capacity and estimate of future repayment capacity considering all of its assets and liabilities · the purpose of use of the credit and the source of funds for its repayment · collateral type, valuation, coverage and realisability",
+      "pageNumber2": 15,
+      "explanation": "Both documents regulate the same subject: the information to be considered by financial institutions for creditworthiness assessment when granting a loan. The EBA Guideline provides a list of information to be collected for consumer lending, while the Finnish regulation provides a minimum list of factors for all credit decisions. The required information in both texts covers the same core areas, including the borrower's repayment capacity, their assets and liabilities, the purpose of the loan, and the nature of any collateral.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

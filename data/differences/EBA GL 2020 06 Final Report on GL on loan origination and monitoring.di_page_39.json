@@ -1,0 +1,16 @@
+{
+  "summary": "One overlap was identified between the two documents concerning the assessment of borrowers who are part of a group of connected clients. Both texts mandate that financial institutions consider the group context when making credit decisions. No contradictions were found.",
+  "overlaps": [
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_39.json",
+      "excerpt1": "If the borrower is a member of a group of connected clients, institutions should carry out the assessment at individual level and, where relevant, at group level, in accordance with the EBA Guidelines on connected clients, especially when repayment is reliant on cash flow emanating from other connected parties.",
+      "pageNumber1": 39,
+      "filename2": "2018_04.m3_en.di_page_15.json",
+      "excerpt2": "· group of connected clients3, its obligations (incl. guarantee obligations) and the supervised entity's position in terms of priority, preferential rights and collateral",
+      "pageNumber2": 15,
+      "explanation": "Both documents establish requirements for financial institutions when assessing the creditworthiness of a borrower who is part of a group of connected clients. The EBA Guidelines mandate that the assessment should be carried out at both the individual and group level. Similarly, the Finnish Financial Supervisory Authority's guidelines list the 'group of connected clients' and its obligations as a mandatory factor to be considered in credit decisions. This represents a true overlap as both texts impose a similar requirement on the same actor (financial institutions) for the same regulatory action (credit assessment).",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

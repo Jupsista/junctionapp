@@ -1,0 +1,136 @@
+{
+  "summary": "The analysis reveals multiple overlaps between the 'Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06)' and several other EBA Guidelines and EU Regulations. These overlaps primarily concern credit institutions' obligations regarding the establishment and documentation of policies, procedures, and methodologies for credit risk management, particularly in relation to Expected Credit Loss (ECL) estimation, loss allowances, write-offs, and the use and validation of models. The documents consistently require credit institutions to adhere to sound practices, incorporate historical and forward-looking data, consider the impact of collateral, and ensure proper governance and staff competence in these areas.",
+  "overlaps": [
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_23.json",
+      "excerpt1": "m. outline the credit institution's policies and procedures on write-offs and recoveries; o. document the methods used to validate models for ECL measurement (for example backtests); q. require a process to assess the overall appropriateness of allowances in accordance with the relevant accounting framework, including a regular review of ECL models.",
+      "pageNumber1": 23,
+      "filename2": "Final Guidelines on management of non-performing and forborne exposures.di_page_49.json",
+      "excerpt2": "174. Credit institutions should adopt, document and adhere to sound policies, procedures and controls for assessing and measuring loss allowances and write-off on NPEs in accordance with the EBA Guidelines on credit risk management practices and accounting for expected credit losses. Credit institutions should back-test their loss allowance estimations against actual losses. 175. These methodologies should also include policies and procedures on write-offs and recoveries as defined in the EBA Guidelines on credit risk management practices and accounting for expected credit losses.",
+      "pageNumber2": 49,
+      "explanation": "Both documents, aimed at credit institutions, mandate the establishment and documentation of policies and procedures for write-offs and recoveries. Additionally, both require validation of loss allowance estimations, with filename2 explicitly mentioning 'back-testing' which aligns with filename1's 'document the methods used to validate models for ECL measurement (for example backtests)' and 'regular review of ECL models'.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_23.json",
+      "excerpt1": "m. outline the credit institution's policies and procedures on write-offs and recoveries;",
+      "pageNumber1": 23,
+      "filename2": "Final Guidelines on management of non-performing and forborne exposures.di_page_48.json",
+      "excerpt2": "169. In accordance with the EBA Guidelines on credit risk management practices and accounting for expected credit losses,37 uncollectability should be recognised in the appropriate period through loss allowances or write-offs. When the credit institution has no reasonable expectation of recovering contractual cash flow of the exposure it should lead to a partial or full write-off of the exposure (IFRS 9.B3.2.16.r). 173. Credit institutions should include in their internal policies guidance on the timeliness of impairments and write-offs, acknowledging external circumstances and factors such as ongoing judicial procedures.",
+      "pageNumber2": 48,
+      "explanation": "Both documents, addressing credit institutions, require internal policies and procedures concerning write-offs. Filename2 specifically mandates inclusion of guidance on the timeliness of write-offs within internal policies, directly corresponding to filename1's broader requirement to 'outline the credit institution's policies and procedures on write-offs and recoveries'.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_23.json",
+      "excerpt1": "l. determine the extent to which the value of collateral and other credit risk mitigants affects ECL;",
+      "pageNumber1": 23,
+      "filename2": "Guidelines on PD and LGD estimation (EBA-GL-2017-16).di_page_82.json",
+      "excerpt2": "(g) the estimates should take into account the potential decreases in collateral value from the point of LGD estimation to the eventual recovery, in particular those resulting from changes in the market conditions, the state and age of the collateral and, where relevant, currency fluctuations.",
+      "pageNumber2": 82,
+      "explanation": "Both documents apply to credit institutions and address how collateral affects credit risk estimations. Filename1 requires determining the extent to which collateral affects ECL. Filename2, specific to LGD estimation (a component of ECL), requires estimates to account for potential decreases in collateral value, thereby detailing an aspect of how collateral affects losses and thus ECL.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_23.json",
+      "excerpt1": "o. document the methods used to validate models for ECL measurement (for example backtests); q. require a process to assess the overall appropriateness of allowances in accordance with the relevant accounting framework, including a regular review of ECL models.",
+      "pageNumber1": 23,
+      "filename2": "Guidelines on PD and LGD estimation (EBA-GL-2017-16).di_page_44.json",
+      "excerpt2": "Chapter 9: Review of estimates This chapter provides additional guidance for institutions with regard to their policies on the maintenance of the models, including regular review of estimates. To ensure that the deterioration of the model performance is detected and addressed in a timely manner, the GL clarify what institutions should consider in their internal frameworks for annual reviews, as required by Article 179(1)(c) of the CRR, and what should be the minimum scope of analysis that institutions conduct during this annual review.",
+      "pageNumber2": 44,
+      "explanation": "Both documents, concerning credit institutions and their risk models, mandate regular review and maintenance of models. Filename1 explicitly states documenting validation methods for ECL models and a process for regular review of ECL models. Filename2 provides guidance on policies for the 'maintenance of the models, including regular review of estimates' to detect and address deterioration in model performance, which is directly applicable to ECL models.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_23.json",
+      "excerpt1": "i. consider the relevant internal and external factors that may affect ECL estimates, such as the underwriting standards applied to a lending exposure at origination and changes in industry, geographical, economic and political factors; p. ensure that ECL estimates appropriately incorporate forward-looking information, including macroeconomic factors, that has not already been factored into allowances measured on an individual exposure basis.",
+      "pageNumber1": 23,
+      "filename2": "BaselFramework.di_page_1787.json",
+      "excerpt2": "40.39 Principle 17:41 The supervisor determines that banks have an adequate credit risk management process that considers their risk appetite, risk profile, market conditions, macroeconomic factors and forward-looking information. This includes prudent policies and processes to identify, measure, evaluate, monitor, report and control or mitigate credit risk42 (including counterparty credit risk43) on a timely basis. The full credit life cycle is covered, including credit underwriting, credit evaluation and the ongoing management of the bank's loan and investment portfolios. 40.40 Essential criteria: (1) Laws, regulations or the supervisor require banks to have sound credit risk management processes that provide a comprehensive bank-wide view of all credit risk exposures, including a robust methodology for the early identification and appropriate measurement of credit losses. The supervisor determines that the processes are consistent with the risk appetite, risk profile, systemic importance and capital strength of the bank, that they consider current and forward-looking market and macroeconomic factors, and that they result in prudent standards of underwriting, evaluation, administration, monitoring, measurement and control of credit risk.",
+      "pageNumber2": 1787,
+      "explanation": "Both documents outline requirements for banks (credit institutions) to consider macroeconomic factors and forward-looking information when estimating credit losses and managing credit risk. Filename1 states that ECL estimates must incorporate forward-looking information, including macroeconomic factors, and consider internal and external factors affecting ECL. Filename2, in a broader context of credit risk management, requires banks to have processes that 'consider current and forward-looking market and macroeconomic factors' for the 'appropriate measurement of credit losses'. This demonstrates a direct overlap in the principle of incorporating forward-looking and macroeconomic factors into credit risk and loss estimations.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_23.json",
+      "excerpt1": "m. outline the credit institution's policies and procedures on write-offs and recoveries;",
+      "pageNumber1": 23,
+      "filename2": "BaselFramework.di_page_1792.json",
+      "excerpt2": "(4) The supervisor determines that banks have adequate and appropriate policies, processes, methodologies and organisational resources for establishing provisions and write-offs. The supervisor determines that policies, processes and methodologies for the measurement of provisions are appropriate to ensure that provisions and write-offs are timely and reflect realistic repayment and recovery expectations and, where relevant, include appropriate expectations about future credit losses based on reasonable and supportable information.",
+      "pageNumber2": 1792,
+      "explanation": "Both documents impose obligations on banks (credit institutions) regarding policies for write-offs. Filename1 requires outlining policies and procedures on write-offs and recoveries, while filename2 requires banks to have 'adequate and appropriate policies, processes, methodologies and organisational resources for establishing provisions and write-offs'. This is a direct overlap in the regulatory subject and the type of requirement.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_23.json",
+      "excerpt1": "k. identify what factors are considered when establishing appropriate historical time periods over which to evaluate historical loss experience. A credit institution should maintain sufficient historical loss data to provide a meaningful analysis of its credit loss experience for use as a starting point when estimating the level of allowances on a collective or individual basis;",
+      "pageNumber1": 23,
+      "filename2": "CELEX_32013R0575_EN_TXT.di_page_199.json",
+      "excerpt2": "(a) an institution shall base its internally generated operational risk measures on a minimum historical observation period of five years. When an institution first moves to an Advanced Measurement Approach, it may use a three-year historical observation period; (c) an institution's internal loss data shall be comprehensive in that it captures all material activities and exposures from all appropriate sub-systems and geographic locations. ... An institution shall define appropriate minimum loss thresholds for internal loss data collection; (d) aside from information on gross loss amounts, an institution shall collect information about the date of the loss event, any recoveries of gross loss amounts, as well as descriptive information about the drivers or causes of the loss event; (f) an institution shall have in place documented procedures for assessing the on-going relevance of historical loss data, including those situations in which judgement overrides, scaling, or other adjustments may be used, to what extent they may be used and who is authorised to make such decisions.",
+      "pageNumber2": 199,
+      "explanation": "Both documents impose requirements on institutions for maintaining and using historical loss data. Filename1 specifies maintaining 'sufficient historical loss data' and identifying factors for 'appropriate historical time periods' for ECL estimates. Filename2, while primarily about operational risk, details requirements for 'internal loss data', including minimum observation periods, comprehensiveness, data collection specifics (gross loss, recoveries, drivers), and documented procedures for assessing the relevance of historical loss data. Although the context of risk (credit vs. operational) differs, the general requirement for robust historical loss data, its maintenance, and assessment of its relevance constitutes an overlap in the underlying data management and use principles for risk estimation.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_23.json",
+      "excerpt1": "j. address how ECL estimates are determined (for example historical loss rates or migration analysis as a starting point, adjusted for information on current and expected conditions). A credit institution should have an unbiased view of the uncertainty and risks in its lending activities when estimating ECL; p. ensure that ECL estimates appropriately incorporate forward-looking information, including macroeconomic factors, that has not already been factored into allowances measured on an individual exposure basis.",
+      "pageNumber1": 23,
+      "filename2": "CELEX_32023R1803_EN_TXT.di_page_633.json",
+      "excerpt2": "B5.5.51 An entity need not undertake an exhaustive search for information but shall consider all reasonable and supportable information that is available without undue cost or effort and that is relevant to the estimate of expected credit losses, including the effect of expected prepayments. The information used shall include factors that are specific to the borrower, general economic conditions and an assessment of both the current as well as the forecast direction of conditions at the reporting date. An entity may use various sources of data, that may be both internal (entity-specific) and external. Possible data sources include internal historical credit loss experience, internal ratings, credit loss experience of other entities and external ratings, reports and statistics. Entities that have no, or insufficient, sources of entity-specific data may use peer group experience for the comparable financial instrument (or groups of financial instruments). B5.5.52 Historical information is an important anchor or base from which to measure expected credit losses. However, an entity shall adjust historical data, such as credit loss experience, on the basis of current observable data to reflect the effects of the current conditions and its forecasts of future conditions that did not affect the period on which the historical data is based, and to remove the effects of the conditions in the historical period that are not relevant to the future contractual cash flows. Estimates of changes in expected credit losses should reflect, and be directionally consistent with, changes in related observable data from period to period (such as changes in unemployment rates, property prices, commodity prices, payment status or other factors that are indicative of credit losses on the financial instrument or in the group of financial instruments and in the magnitude of those changes). An entity shall regularly review the methodology and assumptions used for estimating expected credit losses to reduce any differences between estimates and actual credit loss experience.",
+      "pageNumber2": 633,
+      "explanation": "Both documents regulate how credit institutions (referred to as 'entities' in filename2) should determine Expected Credit Loss (ECL) estimates. Filename1 explicitly requires addressing how ECL estimates are determined, including adjustments for current and expected conditions and the incorporation of forward-looking and macroeconomic factors. Filename2 provides detailed guidance on using historical information adjusted for 'current observable data to reflect the effects of the current conditions and its forecasts of future conditions', and considering 'general economic conditions' as part of 'reasonable and supportable information' for ECL estimation. This demonstrates a clear overlap in the methodology and factors required for ECL estimation, particularly regarding the use and adjustment of historical data and the inclusion of forward-looking and economic information.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_23.json",
+      "excerpt1": "p. ensure that ECL estimates appropriately incorporate forward-looking information, including macroeconomic factors, that has not already been factored into allowances measured on an individual exposure basis.",
+      "pageNumber1": 23,
+      "filename2": "CELEX_32023R1803_EN_TXT.di_page_624.json",
+      "excerpt2": "B5.5.4 In some circumstances an entity does not have reasonable and supportable information that is available without undue cost or effort to measure lifetime expected credit losses on an individual instrument basis. In that case, lifetime expected credit losses shall be recognised on a collective basis that considers compre- hensive credit risk information. This comprehensive credit risk information must incorporate not only past due information but also all relevant credit information, including forward-looking macroeconomic information, in order to approximate the result of recognising lifetime expected credit losses when there has been a significant increase in credit risk since initial recognition on an individual instrument level.",
+      "pageNumber2": 624,
+      "explanation": "Both documents, applicable to entities (credit institutions), mandate the incorporation of forward-looking macroeconomic information into Expected Credit Loss (ECL) estimates. Filename1 states that ECL estimates must 'appropriately incorporate forward-looking information, including macroeconomic factors'. Filename2 specifies that comprehensive credit risk information for lifetime expected credit losses 'must incorporate not only past due information but also all relevant credit information, including forward-looking macroeconomic information'. This is a direct overlap in the requirement to include macroeconomic forecasts in ECL calculations.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_23.json",
+      "excerpt1": "j. address how ECL estimates are determined (for example historical loss rates or migration analysis as a starting point, adjusted for information on current and expected conditions). A credit institution should have an unbiased view of the uncertainty and risks in its lending activities when estimating ECL; k. identify what factors are considered when establishing appropriate historical time periods over which to evaluate historical loss experience. A credit institution should maintain sufficient historical loss data to provide a meaningful analysis of its credit loss experience for use as a starting point when estimating the level of allowances on a collective or individual basis;",
+      "pageNumber1": 23,
+      "filename2": "CELEX_32023R1803_EN_TXT.di_page_631.json",
+      "excerpt2": "B5.5.35 An entity may use practical expedients when measuring expected credit losses if they are consistent with the principles in paragraph 5.5.17. An example of a practical expedient is the calculation of the expected credit losses on trade receivables using a provision matrix. The entity would use its historical credit loss experience (adjusted as appropriate in accordance with paragraphs B5.5.51-B5.5.52) for trade receivables to estimate the 12-month expected credit losses or the lifetime expected credit losses on the financial assets as relevant. A provision matrix might, for example, specify fixed provision rates depending on the number of days that a trade receivable is past due (for example, 1 per cent if not past due, 2 per cent if less than 30 days past due, 3 per cent if more than 30 days but less than 90 days past due, 20 per cent if 90-180 days past due etc.). Depending on the diversity of its customer base, the entity would use appropriate groupings if its historical credit loss experience shows significantly different loss patterns for different customer segments.",
+      "pageNumber2": 631,
+      "explanation": "Both documents, addressing entities (credit institutions) and their ECL estimations, highlight the use of historical loss experience as a starting point. Filename1 explicitly states that ECL estimates can be determined using 'historical loss rates' as a starting point and mandates maintaining 'sufficient historical loss data'. Filename2 details how an entity 'would use its historical credit loss experience' (adjusted as appropriate) to estimate expected credit losses, providing 'a provision matrix' as an example. This constitutes a clear overlap in the methodology for leveraging historical data for ECL determination.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_23.json",
+      "excerpt1": "m. outline the credit institution's policies and procedures on write-offs and recoveries;",
+      "pageNumber1": 23,
+      "filename2": "CELEX_32023R1803_EN_TXT.di_page_499.json",
+      "excerpt2": "(e) an entity's write-off policy, including the indicators that there is no reasonable expectation of recovery and information about the policy for financial assets that are written-off but are still subject to enforcement activity;",
+      "pageNumber2": 499,
+      "explanation": "Both documents require entities (credit institutions) to have a write-off policy. Filename1 requires credit institutions to 'outline the credit institution's policies and procedures on write-offs and recoveries'. Filename2 mandates disclosure of 'an entity's write-off policy, including the indicators that there is no reasonable expectation of recovery and information about the policy for financial assets that are written-off but are still subject to enforcement activity'. This is a direct overlap in the requirement for a defined write-off policy.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_23.json",
+      "excerpt1": "j. address how ECL estimates are determined (for example historical loss rates or migration analysis as a starting point, adjusted for information on current and expected conditions). A credit institution should have an unbiased view of the uncertainty and risks in its lending activities when estimating ECL; k. identify what factors are considered when establishing appropriate historical time periods over which to evaluate historical loss experience. A credit institution should maintain sufficient historical loss data to provide a meaningful analysis of its credit loss experience for use as a starting point when estimating the level of allowances on a collective or individual basis;",
+      "pageNumber1": 23,
+      "filename2": "CELEX_32013R0575_EN_TXT.di_page_115.json",
+      "excerpt2": "(e) irrespective of whether an institution is using external, internal or pooled data sources or a combination of the three, for their estimation of loss characteristics, the length of the underlying historical observation period used shall be at least five years for at least one source. If the available observation spans a longer period for any source, and these data are relevant, this longer period shall be used. An institution need not give equal importance to historic data if more recent data is a better predictor of loss rates.",
+      "pageNumber2": 115,
+      "explanation": "Both documents relate to credit institutions and the use of historical data for loss estimation. Filename1 states that a credit institution should 'maintain sufficient historical loss data' and identify factors for 'appropriate historical time periods'. Filename2 specifies that for 'estimation of loss characteristics' (which includes LGD, a component of ECL), the 'length of the underlying historical observation period used shall be at least five years' and that longer relevant periods should be used. This is a clear overlap in the requirement for and characteristics of historical data used for loss estimations.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_23.json",
+      "excerpt1": "i. consider the relevant internal and external factors that may affect ECL estimates, such as the underwriting standards applied to a lending exposure at origination and changes in industry, geographical, economic and political factors; p. ensure that ECL estimates appropriately incorporate forward-looking information, including macroeconomic factors, that has not already been factored into allowances measured on an individual exposure basis.",
+      "pageNumber1": 23,
+      "filename2": "CELEX_32023R1803_EN_TXT.di_page_500.json",
+      "excerpt2": "(b) how forward-looking information has been incorporated into the determination of expected credit losses, including the use of macroeconomic information;",
+      "pageNumber2": 500,
+      "explanation": "Both documents, relevant to entities (credit institutions), mandate the incorporation of forward-looking information, including macroeconomic factors, into the determination of Expected Credit Losses (ECL). Filename1 explicitly states to 'ensure that ECL estimates appropriately incorporate forward-looking information, including macroeconomic factors'. Filename2 requires disclosure on 'how forward-looking information has been incorporated into the determination of expected credit losses, including the use of macroeconomic information'. This is a direct overlap in the subject matter.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

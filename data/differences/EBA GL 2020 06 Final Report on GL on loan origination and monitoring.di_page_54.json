@@ -1,0 +1,26 @@
+{
+  "summary": "An overlap was identified between the EBA Guidelines on loan origination and monitoring, a Finnish Financial Supervisory Authority regulation, and the Capital Requirements Regulation (CRR). All three texts impose a similar requirement on credit institutions to ensure that collateral valuation is performed by a valuer who is competent and independent from the credit granting or decision-making process. The requirements apply within the same functional context of loan origination and ongoing monitoring of collateral value. No contradictions were found.",
+  "overlaps": [
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_54.json",
+      "excerpt1": "Institutions should ensure that the valuers provide an impartial, clear, transparent and objective valuation, and each valuation should have a final report providing the necessary information on the valuation process and property.",
+      "pageNumber1": 54,
+      "filename2": "2018_04.m3_en.di_page_17.json",
+      "excerpt2": "The valuer of collateral must be competent and adequately independent of the granting of credit.",
+      "pageNumber2": 17,
+      "explanation": "Both documents establish a requirement for institutions (or supervised entities) to ensure that the individual valuing collateral is independent and objective. The EBA Guideline requires an 'impartial' and 'objective' valuation, while the Finnish regulation requires the valuer to be 'adequately independent of the granting of credit'. Both apply to the same regulatory subject: the standards for valuers in the context of credit granting.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_54.json",
+      "excerpt1": "Institutions should ensure that the valuers provide an impartial, clear, transparent and objective valuation...",
+      "pageNumber1": 54,
+      "filename2": "CELEX_32013R0575_EN_TXT.di_page_131.json",
+      "excerpt2": "...the property valuation is reviewed when information available to institutions indicates that the value of the property may have declined materially relative to general market prices and that review is carried out by a valuer who possesses the necessary qualifications, ability and experience to execute a valuation and who is independent from the credit decision process.",
+      "pageNumber2": 131,
+      "explanation": "Both texts impose a requirement on institutions regarding the independence and competence of property valuers in the context of monitoring credit exposures. The EBA GL requires an 'impartial' and 'objective' valuation. The CRR, in Article 208(3)(b), specifies that a review of the valuation must be carried out by a valuer who is 'independent from the credit decision process' and possesses the 'necessary qualifications, ability and experience'. This represents a direct overlap on the same regulatory subject.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

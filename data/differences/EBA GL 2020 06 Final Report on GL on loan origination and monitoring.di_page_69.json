@@ -1,0 +1,16 @@
+{
+  "summary": "An overlap was identified between the EBA Guidelines on loan origination and the Basel Framework. Both texts mandate that credit institutions must establish underwriting policies which define specific metrics for assessing a borrower's ability to repay, such as the Debt Service Coverage Ratio (DSCR), and specify the acceptable limits or levels for these metrics.",
+  "overlaps": [
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_69.json",
+      "excerpt1": "In addition to the general criteria for lending to micro, small, medium-sized and large enterprises specified above, institutions should specify the following product type-specific criteria: ... 14. Acceptable debt-servicing coverage ratio limits",
+      "pageNumber1": 69,
+      "filename2": "BaselFramework.di_page_231.json",
+      "excerpt2": "National supervisors should ensure that banks put in place underwriting policies with respect to the granting of mortgage loans that include the assessment of the ability of the borrower to repay. Underwriting policies must define a metric(s) (such as the loan's debt service coverage ratio) and specify its (their) corresponding relevant level(s) to conduct such assessment.",
+      "pageNumber2": 231,
+      "explanation": "Both documents regulate the same subject: the content of loan underwriting policies for credit institutions. They both impose a specific and identical requirement for institutions to define metrics for assessing a borrower's repayment capacity (using the debt-servicing coverage ratio as an example) and to specify the acceptable limits or levels for those metrics within their policies.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

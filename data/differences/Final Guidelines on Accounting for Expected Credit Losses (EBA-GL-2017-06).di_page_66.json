@@ -1,0 +1,16 @@
+{
+  "summary": "A contradiction was identified between the EBA Guidelines on Accounting for Expected Credit Losses and the IFRS 9 framework as adopted in EU law. The EBA Guidelines restrict the use of 'practical expedients' for calculating expected credit losses to 'smaller and less complex credit institutions'. In contrast, IFRS 9 permits any 'entity' to use such expedients without a restriction based on size or complexity. This creates a conflict for large or complex credit institutions, which are permitted to use these methods under one framework but restricted by the other for the same regulatory purpose.",
+  "overlaps": [],
+  "contradictions": [
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_66.json",
+      "excerpt1": "Some respondents considered the guidelines too restrictive on the use of practical expedients. In particular they highlight that practical expedients are restricted to 'smaller and less complex credit institutions', while the general provisions on proportionality extend its application to a broader scope of credit institutions (including smaller and less complex ones), taking into account 'all relevant facts and circumstances'.",
+      "pageNumber1": 66,
+      "filename2": "CELEX_32023R1803_EN_TXT.di_page_631.json",
+      "excerpt2": "B5.5.35 An entity may use practical expedients when measuring expected credit losses if they are consistent with the principles in paragraph 5.5.17. An example of a practical expedient is the calculation of the expected credit losses on trade receivables using a provision matrix.",
+      "pageNumber2": 631,
+      "explanation": "The EBA Guidelines restrict the use of practical expedients for measuring expected credit losses to 'smaller and less complex credit institutions'. Conversely, the IFRS 9 framework, as adopted into EU law, allows 'an entity' to use practical expedients without any such limitation based on size or complexity. This creates a contradiction for a credit institution that is not considered 'smaller and less complex', as it would be permitted to use practical expedients under IFRS 9 but prohibited from doing so under the more restrictive EBA Guidelines.",
+      "type": "CONTRADICTION"
+    }
+  ]
+}

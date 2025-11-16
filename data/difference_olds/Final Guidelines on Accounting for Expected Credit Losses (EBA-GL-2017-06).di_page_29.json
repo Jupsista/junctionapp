@@ -1,0 +1,36 @@
+{
+  "summary": "The EBA Guidelines on Credit Institutions' Credit Risk Management Practices and Accounting for Expected Credit Losses (filename1) specifies that credit institutions should group exposures with shared credit risk characteristics to assess changes in credit risk and their impact on ECL estimates. This grouping methodology should be documented, reviewed, and ensure homogeneity within groups, and must not obscure increases in credit risk for individual exposures. These guidelines also cover the appropriate use of temporary adjustments for allowances. \n\nRelated content from the EBA Guidelines on Loan Origination and Monitoring (filename2) outlines similar requirements for institutions to group credit risk exposures based on shared characteristics (e.g., institutional sector, transaction purpose, geographical location) as part of their credit risk monitoring framework. The Basel Framework (filename3) also provides standards for retail exposures, mandating that rating systems group sufficiently homogeneous exposures to allow for accurate loss characteristic estimation, explicitly mentioning shared risk characteristics.",
+  "overlaps": [
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_29.json",
+      "excerpt1": "Credit institutions should group exposures with shared credit risk characteristics in a way that is sufficiently granular to be able to reasonably assess changes in credit risk and thus the impact on the estimate of ECL for these groups.",
+      "pageNumber1": 29,
+      "filename2": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_61.json",
+      "excerpt2": "Institutions should ensure that credit risk data and data infrastructure meet the following requirements: a. depth and breadth so that they cover all the significant risk factors - this should allow, inter alia, exposures to be grouped together in terms of shared credit risk characteristics, such as the institutional sector to which the borrower belongs, the purpose of the transaction and the geographical location of the borrower/collateral, so as to enable an aggregate analysis that allows the identification of the entity's exposure to these significant risk factors;",
+      "pageNumber2": 61,
+      "explanation": "Both guidelines require institutions to group exposures based on shared credit risk characteristics. The source text focuses on this for the purpose of assessing changes in credit risk and estimating Expected Credit Losses (ECL). The target text frames this requirement within the broader context of credit risk monitoring and data infrastructure, aiming to identify credit risk concentrations through grouping by shared characteristics. The core obligation of grouping by shared credit risk characteristics is identical.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_29.json",
+      "excerpt1": "Credit institutions should group exposures with shared credit risk characteristics in a way that is sufficiently granular to be able to reasonably assess changes in credit risk and thus the impact on the estimate of ECL for these groups.",
+      "pageNumber1": 29,
+      "filename2": "BaselFramework.di_page_374.json",
+      "excerpt2": "Rating systems for retail exposures must be oriented to both borrower and transaction risk, and must capture all relevant borrower and transaction characteristics. Banks must assign each exposure that falls within the definition of retail for IRB purposes into a particular pool. Banks must demonstrate that this process provides for a meaningful differentiation of risk, provides for a grouping of sufficiently homogenous exposures, and allows for accurate and consistent estimation of loss characteristics at pool level.",
+      "pageNumber2": 374,
+      "explanation": "Both texts address the grouping of exposures based on shared characteristics to enable risk assessment. The source text specifies this for 'credit institutions' and 'ECL estimates', while the target text specifies it for 'banks' and 'retail exposures' within 'rating systems' for 'IRB purposes' and 'estimation of loss characteristics'. The underlying requirement to group homogeneous exposures based on shared risk characteristics for accurate risk assessment (including loss estimation) is a direct overlap.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_29.json",
+      "excerpt1": "Exposures should not be grouped in such a way that an increase in the credit risk of particular exposures is obscured by the performance of the group as a whole.",
+      "pageNumber1": 29,
+      "filename2": "CELEX_32023R1803_EN_TXT.di_page_624.json",
+      "excerpt2": "For the purpose of determining significant increases in credit risk and recognising a loss allowance on a collective basis, an entity can group financial instruments on the basis of shared credit risk characteristics with the objective of facilitating an analysis that is designed to enable significant increases in credit risk to be identified on a timely basis. The entity should not obscure this information by grouping financial instruments with different risk characteristics.",
+      "pageNumber2": 624,
+      "explanation": "Both excerpts address the grouping of financial instruments/exposures and explicitly state that such grouping should not obscure increases in credit risk. The source text is from EBA guidelines on accounting for ECL, while the target text is from IFRS 9 (via a Delegated Regulation) concerning impairment and collective assessment. Despite different regulatory instruments and specific contexts (ECL vs. impairment/loss allowance), the underlying principle for grouping—avoiding the obscuring of increased credit risk—is identical and aims at the same outcome for financial risk management. The actors (credit institutions/entities) and the regulatory action (grouping) are aligned.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

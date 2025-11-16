@@ -1,0 +1,46 @@
+{
+  "summary": "Both documents provide lists of indicators for financial institutions to use when assessing whether the credit risk of a borrower or financial instrument has significantly increased. The first document, from the EBA Guidelines on Loan Origination and Monitoring, lists 'Early Warning Indicators' (EWIs). The second document, an EU Regulation adopting International Financial Reporting Standards, provides a similar list of indicators for determining a significant increase in credit risk for the purpose of calculating expected credit losses. Several indicators are substantively identical across both texts, creating overlaps in the requirements for credit risk monitoring and assessment.",
+  "overlaps": [
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_66.json",
+      "excerpt1": "q. an actual or expected internal credit rating/risk classification downgrade for the transaction or borrower or a decrease in behavioural scoring used to assess credit risk internally;",
+      "pageNumber1": 66,
+      "filename2": "CELEX_32023R1803_EN_TXT.di_page_627.json",
+      "excerpt2": "(e) an actual or expected internal credit rating downgrade for the borrower or decrease in behavioural scoring used to assess credit risk internally. Internal credit ratings and internal behavioural scoring are more reliable when they are mapped to external ratings or supported by default studies.",
+      "pageNumber2": 627,
+      "explanation": "Both texts identify an 'actual or expected internal credit rating downgrade' or a 'decrease in behavioural scoring used to assess credit risk internally' as an indicator of a significant increase in credit risk for a borrower. The operative requirement is identical.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_66.json",
+      "excerpt1": "l. a significant increase in credit risk on other transactions of the same borrower or significant changes in the expected payment behaviour of the borrower, when known;",
+      "pageNumber1": 66,
+      "filename2": "CELEX_32023R1803_EN_TXT.di_page_627.json",
+      "excerpt2": "(h) significant increases in credit risk on other financial instruments of the same borrower.",
+      "pageNumber2": 627,
+      "explanation": "Both documents state that a significant increase in credit risk on other transactions or financial instruments of the same borrower should be considered an indicator of increased credit risk for the exposure being assessed.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_66.json",
+      "excerpt1": "k. for transactions secured with collateral, a significant worsening of the ratio of their amount to the value of the collateral due to unfavourable developments in the value of the collateral...",
+      "pageNumber1": 66,
+      "filename2": "CELEX_32023R1803_EN_TXT.di_page_627.json",
+      "excerpt2": "(j) significant changes in the value of the collateral supporting the obligation or in the quality of third-party guarantees or credit enhancements, which are expected to reduce the borrower's economic incentive to make scheduled contractual payments or to otherwise have an effect on the probability of a default occurring.",
+      "pageNumber2": 627,
+      "explanation": "Both texts identify a significant negative change or worsening in the value of collateral securing a transaction as an indicator of an increase in credit risk.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_66.json",
+      "excerpt1": "s. one or more borrower-related facilities 30 days past due.",
+      "pageNumber1": 66,
+      "filename2": "CELEX_32023R1803_EN_TXT.di_page_628.json",
+      "excerpt2": "More than 30 days past due rebuttable presumption\nB5.5.19 The rebuttable presumption in paragraph 5.5.11 is not an absolute indicator that lifetime expected credit losses should be recognised, but is presumed to be the latest point at which lifetime expected credit losses should be recognised even when using forward-looking information (including macroeconomic factors on a portfolio level).",
+      "pageNumber2": 628,
+      "explanation": "Both texts identify an exposure being more than 30 days past due as a key indicator of increased credit risk. The first text lists it as an Early Warning Indicator, while the second establishes a 'rebuttable presumption' that credit risk has significantly increased at this point.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

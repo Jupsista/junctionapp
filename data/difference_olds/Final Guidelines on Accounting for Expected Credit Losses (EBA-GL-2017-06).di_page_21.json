@@ -1,0 +1,16 @@
+{
+  "summary": "Both documents establish requirements for credit institutions to incorporate forward-looking information and macroeconomic factors into their credit risk assessment and expected credit loss (ECL) measurement methodologies. The EBA Guidelines specify that sound methodologies must include criteria to duly consider such factors to ensure timely recognition of ECL, while the Basel Framework emphasizes that sound credit risk management processes, including methodologies for early identification and appropriate measurement of credit losses, must consider current and forward-looking market and macroeconomic factors.",
+  "overlaps": [
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_21.json",
+      "excerpt1": "Sound methodologies for assessing credit risk and measuring the level of allowances (subject to exposure type, for example retail or wholesale) should, in particular: b. include criteria to duly consider the impact of forward-looking information, including macroeconomic factors. Whether the evaluation of credit risk is conducted on a collective or individual basis, a credit institution should be able to demonstrate that this consideration has occurred so that the recognition of ECL is not delayed. Such criteria should result in the identification of factors that affect repayment, whether related to borrower incentives, willingness or ability to perform on the contractual obligations, or lending exposure terms and conditions. Economic factors considered (such as unemployment rates or occupancy rates) should be relevant to the assessment and, depending on the circumstances, this may be at the international, national, regional or local level;",
+      "pageNumber1": 21,
+      "filename2": "BaselFramework.di_page_1787.json",
+      "excerpt2": "40.40 Essential criteria: (1) Laws, regulations or the supervisor require banks to have sound credit risk management processes that provide a comprehensive bank-wide view of all credit risk exposures, including a robust methodology for the early identification and appropriate measurement of credit losses. The supervisor determines that the processes are consistent with the risk appetite, risk profile, systemic importance and capital strength of the bank, that they consider current and forward-looking market and macroeconomic factors, and that they result in prudent standards of underwriting, evaluation, administration, monitoring, measurement and control of credit risk.",
+      "pageNumber2": 1787,
+      "explanation": "Both excerpts address the mandatory consideration of forward-looking information and macroeconomic factors in credit risk assessment and the measurement of credit losses/allowances (ECL). The EBA Guidelines specify this for 'sound methodologies for assessing credit risk and measuring the level of allowances' to ensure timely ECL recognition, while the Basel Framework states that 'sound credit risk management processes' must 'consider current and forward-looking market and macroeconomic factors' for 'early identification and appropriate measurement of credit losses'. Both apply to banks/credit institutions and concern the same regulatory action within the context of credit risk management and expected credit losses.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

@@ -1,0 +1,66 @@
+{
+  "summary": "The comparison reveals several overlaps regarding risk management principles for financial institutions. Both documents emphasize the need for robust underwriting standards and credit limits that align with an institution's risk appetite, especially concerning credit risk. Furthermore, both texts detail requirements for the governance, validation, and continuous monitoring of models used in credit risk assessment and credit granting, including the importance of data quality, model accuracy, and independent review.",
+  "overlaps": [
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_25.json",
+      "excerpt1": "Institutions should define their risk appetite for syndicating leveraged transactions and derive a comprehensive limit framework, including dedicated underwriting limits and a granular set of sub-limits, detailing both maximum limits and the nature of transactions that the institution is prepared to participate in.",
+      "pageNumber1": 25,
+      "filename2": "BaselFramework.di_page_1789.json",
+      "excerpt2": "(a) a well documented and effectively implemented strategy and sound policies and processes for assuming credit risk, without undue reliance on external credit assessments; (e) prudent and appropriate credit limits consistent with the bank's risk appetite, risk profile and capital strength, which are understood by and regularly communicated to relevant staff;",
+      "pageNumber2": 1789,
+      "explanation": "Both excerpts address the establishment of prudent underwriting standards and credit limits consistent with an institution's risk appetite. Excerpt 1 specifies this for leveraged transactions, while excerpt 2 provides a general principle for credit risk, indicating a shared regulatory subject with similar requirements.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_25.json",
+      "excerpt1": "Institutions should ensure that the management body has a sufficient understanding of the use of technology-enabled innovation, its limitation and the impact it has on credit-granting procedures.",
+      "pageNumber1": 25,
+      "filename2": "BaselFramework.di_page_121.json",
+      "excerpt2": "1. All material aspects of the rating and estimation processes shall be approved by the institution's management body or a designated committee thereof and senior management. These parties shall possess a general understanding of the rating systems of the institution and detailed comprehension of its associated management reports.",
+      "pageNumber2": 121,
+      "explanation": "Both texts require the management body to have a sufficient understanding and approval role concerning critical processes related to credit risk assessment and credit granting. Excerpt 1 focuses on technology-enabled innovation for credit granting, while excerpt 2 refers to rating and estimation processes, which are integral to credit risk management.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_25.json",
+      "excerpt1": "Institutions should ensure that the models are fit for purpose, taking into account the identified task and other criteria, such as its performance and use. If explanations are required during the models' use, then consideration should be given to developing an interpretable model. (e) Understand the quality of data and inputs to the model and detect and prevent bias in the credit decision-making process, ensuring that appropriate safeguards are in place to provide confidentiality, integrity and availability of information and systems. (f) Ensure the performance of the model, including the validity and quality of its outputs, is continuously monitored and appropriate remediation measures are taken in a timely manner in the case of detected issues (e.g. worsening or deviating from expected behaviour).",
+      "pageNumber1": 25,
+      "filename2": "BaselFramework.di_page_1789.json",
+      "excerpt2": "(g) effective controls (including in respect of the quality, reliability and relevance of data and in respect of validation procedures) around the use of models to identify and measure credit risk and set limits.",
+      "pageNumber2": 1789,
+      "explanation": "Both excerpts establish requirements for the effective control, data quality, and validation of models used in credit risk management. Excerpt 1 details specific expectations for models in technology-enabled credit granting, including fitness for purpose, data quality, and continuous monitoring. Excerpt 2 broadly requires effective controls, data quality, and validation procedures for models used to identify and measure credit risk.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_25.json",
+      "excerpt1": "Institutions should ensure that the models are fit for purpose, taking into account the identified task and other criteria, such as its performance and use. If explanations are required during the models' use, then consideration should be given to developing an interpretable model.",
+      "pageNumber1": 25,
+      "filename2": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_32.json",
+      "excerpt2": "Model validation should be conducted when the ECL models are initially developed and when significant changes are made to the models, and should ensure that the models are suitable for their proposed usage on an ongoing basis.",
+      "pageNumber2": 32,
+      "explanation": "Both texts state that models used in credit risk management (ECL models or technology-enabled credit granting models) must be 'fit for purpose' or 'suitable for their proposed usage' and subject to validation or review to ensure this. This constitutes a direct overlap in the requirement for model suitability and validation.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_25.json",
+      "excerpt1": "(f) Ensure the performance of the model, including the validity and quality of its outputs, is continuously monitored and appropriate remediation measures are taken in a timely manner in the case of detected issues (e.g. worsening or deviating from expected behaviour).",
+      "pageNumber1": 25,
+      "filename2": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_32.json",
+      "excerpt2": "Model output/performance: Credit institutions should have internally established standards for acceptable model performance. Where performance thresholds are significantly breached, remedial actions up to the extent of model re-calibration or re- development should be taken.",
+      "pageNumber2": 32,
+      "explanation": "Both excerpts highlight the importance of continuous monitoring of model performance and the implementation of timely remediation measures when issues or deviations from expected behavior are detected. Excerpt 1 applies to technology-enabled innovation in credit granting, while excerpt 2 refers to ECL models, both falling under credit risk modeling.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_25.json",
+      "excerpt1": "(e) Understand the quality of data and inputs to the model and detect and prevent bias in the credit decision-making process, ensuring that appropriate safeguards are in place to provide confidentiality, integrity and availability of information and systems.",
+      "pageNumber1": 25,
+      "filename2": "Guidelines on IRRBB and CSRBB.di_page_48.json",
+      "excerpt2": "Risk measures should be based on reliable market and internal data. Institutions should scrutinise the quality of external sources of information used to establish the historical databases of credit spreads, as well as the frequency at which databases are updated. To ensure the high quality of data, institutions should implement appropriate processes that ensure that the data entered into the IT system is correct. Data inputs should be automated as much as possible to reduce administrative errors, and data mapping should be periodically reviewed and tested against an approved model version. In addition, there should be sufficient documentation of the major data sources used in the institution's risk measurement process. Institutions should also establish appropriate mechanisms to verify the correctness of the aggregation process and the reliability of model results. These mechanisms should confirm the accuracy and reliability of data.",
+      "pageNumber2": 48,
+      "explanation": "Both documents stress the critical importance of high-quality data and inputs for risk models. Excerpt 1 specifies this for technology-enabled credit granting, including bias prevention. Excerpt 2 provides detailed requirements for ensuring data quality, reliability, and accuracy for risk measures related to interest rate risk and credit spread risk in the non-trading book, including processes, automation, and documentation. While the specific risk types differ, the underlying principle of data quality for risk measurement models is identical.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

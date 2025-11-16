@@ -1,0 +1,26 @@
+{
+  "summary": "The comparison identified two overlaps between the EBA Guidelines on Accounting for Expected Credit Losses and the EBA Guidelines on Management of Non-Performing and Forborne Exposures. Both sets of guidelines impose identical requirements regarding the scope of application (individual, sub-consolidated, and consolidated basis) and the integration of their review into the Supervisory Review and Evaluation Process (SREP) by competent authorities. Both overlaps stem from applying the same articles of Directive 2013/36/EU to establish these procedural requirements. No contradictions were found.",
+  "overlaps": [
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_14.json",
+      "excerpt1": "Competent authorities should ensure that credit institutions comply with these guidelines on an individual, sub-consolidated and consolidated basis in accordance with Article 109 of Directive 2013/36/EU.",
+      "pageNumber1": 14,
+      "filename2": "Final%20Guidelines%20on%20management%20of%20non-performing%20and%20forborne%20exposures.di_page_9.json",
+      "excerpt2": "Article 109(2) of Directive 2013/36/EU requires parent undertakings and subsidiaries subject to this Directive to meet the governance requirements also on a consolidated or sub- consolidated basis, to ensure that their arrangements, processes and mechanisms are consistent and well-integrated and that any data and information relevant to the purpose of supervision can be produced.",
+      "pageNumber2": 9,
+      "explanation": "Both guidelines mandate that their respective requirements must be applied by credit institutions on an individual, sub-consolidated, and consolidated basis, referencing Article 109 of Directive 2013/36/EU. This creates an overlap in the required scope of application for financial groups.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_14.json",
+      "excerpt1": "Guidelines set out in section 4.4 should be considered as supplementing and further specifying the supervisory review and evaluation process (SREP) referred to in Article 97 and 107(1)(a) of Directive 2013/36/EU, in particular with regard to the assessment of credit risk management and controls and accounting for expected credit losses.",
+      "pageNumber1": 14,
+      "filename2": "Final%20Guidelines%20on%20management%20of%20non-performing%20and%20forborne%20exposures.di_page_9.json",
+      "excerpt2": "In accordance with Article 97 of Directive 2013/36/EU, competent authorities should review the arrangements, strategies, processes and mechanisms implemented by credit institutions to determine whether the own funds and liquidity held by them ensure a sound management and coverage of their risk. Competent authorities, when conducting the SREP, must review whether credit institutions observe the provisions of these guidelines.",
+      "pageNumber2": 9,
+      "explanation": "Both guidelines establish that their content is a key input for the Supervisory Review and Evaluation Process (SREP) conducted by competent authorities under Article 97 of Directive 2013/36/EU. This creates an overlap in how these distinct but related guidelines are integrated into the same supervisory assessment framework.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

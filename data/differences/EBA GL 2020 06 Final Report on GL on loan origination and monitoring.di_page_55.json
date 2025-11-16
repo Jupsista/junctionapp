@@ -1,0 +1,16 @@
+{
+  "summary": "A contradiction was identified between the EBA Guidelines on loan origination and monitoring and Regulation (EU) No 575/2013 (CRR) regarding the frequency of monitoring for immovable property collateral. The EBA Guidelines grant institutions discretion to set their own monitoring frequency through internal policies, whereas the CRR imposes specific, mandatory minimum frequencies (annually for commercial property, every three years for residential). This creates a contradiction where a discretionary rule is limited by a fixed numerical requirement for the same regulatory subject.",
+  "overlaps": [],
+  "contradictions": [
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_55.json",
+      "excerpt1": "When monitoring property values as laid down in Article 208(3) of Regulation (EU) No 575/2013, institutions should, for the purposes of these guidelines, also set up policies and procedures specifying the approach and the frequency of monitoring of immovable property collateral.",
+      "pageNumber1": 55,
+      "filename2": "CELEX_32013R0575_EN_TXT.di_page_131.json",
+      "excerpt2": "institutions monitor the value of the property on a frequent basis and at a minimum once every year for commercial immovable property and once every three years for residential real estate. Institutions carry out more frequent monitoring where the market is subject to significant changes in conditions;",
+      "pageNumber2": 131,
+      "explanation": "The EBA Guidelines grant institutions discretion to establish their own policies and procedures specifying the frequency for monitoring immovable property collateral. In contrast, Regulation (EU) No 575/2013 imposes prescriptive, fixed minimum frequencies for the same activity (at least once every year for commercial immovable property and once every three years for residential real estate). The fixed requirement in the Regulation contradicts the discretionary approach outlined in the Guidelines for the same regulatory subject.",
+      "type": "CONTRADICTION"
+    }
+  ]
+}

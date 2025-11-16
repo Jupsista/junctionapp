@@ -1,0 +1,36 @@
+{
+  "summary": "The provided excerpts contain overlaps regarding the principle of proportionality for credit institutions. Both the 'Final Guidelines on Accounting for Expected Credit Losses' and the 'Final Guidelines on management of non-performing and forborne exposures' state that credit institutions should apply their respective guidelines in a proportionate manner, taking into account factors like size, complexity, and internal organisation.",
+  "overlaps": [
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_60.json",
+      "excerpt1": "Option 2.1 Apply the guidelines in a proportionate manner without defining specific criteria This option would require credit institutions to apply the guidelines in a proportionate manner, without providing more specific criteria to distinguish between entities.",
+      "pageNumber1": 60,
+      "filename2": "Final Guidelines on management of non-performing and forborne exposures.di_page_10.json",
+      "excerpt2": "The guidelines should be applied in a proportionate manner and, in particular, organisational aspects of the management of NPEs and FBEs should be applied taking into account the size and complexity of the institution. Large and more complex institutions should have more sophisticated governance arrangements, policies, processes and procedures, while small and less complex institutions may implement simpler governance arrangements, policies, processes and procedures in accordance with the EBA Guidelines on internal governance.",
+      "pageNumber2": 10,
+      "explanation": "Both excerpts state that credit institutions should apply the respective guidelines (on expected credit losses and on NPE/FBE management) in a proportionate manner. While excerpt 1 discusses options for defining proportionality criteria, excerpt 2 explicitly states that proportionality should consider the size and complexity of the institution regarding organisational aspects, which aligns with the general principle of proportionate application.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_60.json",
+      "excerpt1": "Option 2.2 Develop criteria on the application of the proportionality approach and exclude smaller/less complex credit institutions in certain cases As with option 2.1, this option would require credit institutions to apply the guidelines in a proportionate manner, without providing more specific requirements on how to apply the requirements in different circumstances, except for smaller/less complex credit institutions for which the application of the practical expedients of IFRS 9 would be explicitly permitted.",
+      "pageNumber1": 60,
+      "filename2": "Final Guidelines on management of non-performing and forborne exposures.di_page_15.json",
+      "excerpt2": "Credit institutions should comply with these guidelines in a manner that is appropriate to their size and internal organisation and the nature, scope and complexity of their activities; in particular, credit institutions may comply with sections 4 and 5 taking into account the proportionality criteria specified in section 4, Title I, of the EBA Guidelines on internal governance. Furthermore, if the credit institution is classified by the competent authorities for SREP purposes as SREP Category 3 or 4 (as assigned in accordance with the EBA Guidelines on common procedures and methodologies for the SREP), then the guidelines should be applied in a proportionate manner. The principle of proportionality in the application of these guidelines will relate in particular to simplified obligations for the operationalisation and governance arrangements supporting the NPE strategies of credit institutions (section 5).",
+      "pageNumber2": 15,
+      "explanation": "Both excerpts highlight the application of proportionality based on an institution's characteristics. Excerpt 1 mentions developing criteria for smaller/less complex credit institutions, while excerpt 2 specifies that credit institutions (particularly those classified as SREP Category 3 or 4) should apply the guidelines proportionally based on their size, internal organisation, nature, scope, and complexity of activities, leading to simplified obligations in some cases. This demonstrates a common approach to tailoring requirements based on institutional characteristics.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_60.json",
+      "excerpt1": "Option 2.1 Apply the guidelines in a proportionate manner without defining specific criteria This option would require credit institutions to apply the guidelines in a proportionate manner, without providing more specific criteria to distinguish between entities.",
+      "pageNumber1": 60,
+      "filename2": "Final Guidelines on Internal Governance (EBA-GL-2017-11).di_page_60.json",
+      "excerpt2": "The implementation of internal governance arrangements should reflect differences between types of institutions in a proportionate manner, taking into account their size and internal organisation and the nature, scope and complexity of their activities.",
+      "pageNumber2": 60,
+      "explanation": "Both excerpts endorse the principle of proportionality for credit institutions. Excerpt 1 requires credit institutions to apply guidelines in a proportionate manner, while excerpt 2 specifically states that the implementation of internal governance arrangements should be proportionate, considering the institution's size, internal organisation, and the nature, scope, and complexity of its activities. This demonstrates a consistent regulatory approach to proportionality across different sets of guidelines.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

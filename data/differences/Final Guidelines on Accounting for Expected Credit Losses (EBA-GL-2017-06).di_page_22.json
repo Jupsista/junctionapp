@@ -1,0 +1,16 @@
+{
+  "summary": "One overlap was identified between the EBA Guidelines on accounting for Expected Credit Losses and the IFRS 9 standard as adopted into EU law. Both texts require that when estimating Expected Credit Losses (ECL) for accounting purposes, credit institutions must adjust historical loss data to reflect current and forward-looking economic conditions, and these adjustments must be directionally consistent with observable data. No contradictions were found.",
+  "overlaps": [
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_22.json",
+      "excerpt1": "any adjustments necessary for the estimation of ECL in accordance with the applicable accounting framework. For example, if current and forecasted economic conditions are different from those that existed during the historical estimation period being used, adjustments that are directionally consistent with those differences should be made.",
+      "pageNumber1": 22,
+      "filename2": "CELEX_32023R1803_EN_TXT.di_page_633.json",
+      "excerpt2": "However, an entity shall adjust historical data, such as credit loss experience, on the basis of current observable data to reflect the effects of the current conditions and its forecasts of future conditions that did not affect the period on which the historical data is based... Estimates of changes in expected credit losses should reflect, and be directionally consistent with, changes in related observable data from period to period...",
+      "pageNumber2": 633,
+      "explanation": "Both documents regulate the estimation of Expected Credit Losses (ECL) for accounting purposes and apply to credit institutions. They create an overlap by imposing the same requirement: that historical loss data must be adjusted to incorporate the effects of current and forecasted economic conditions, and that these adjustments must be directionally consistent with changes in relevant observable data.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

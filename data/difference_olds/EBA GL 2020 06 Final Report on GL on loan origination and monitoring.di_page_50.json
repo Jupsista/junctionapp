@@ -1,0 +1,46 @@
+{
+  "summary": "The EBA Guidelines on Loan Origination and Monitoring and the Finnish Regulations and Guidelines 4/2018 contain several overlapping provisions regarding the credit granting process, documentation of credit decisions, and the conditions for loan disbursement. Both regulatory texts require detailed and clear documentation of credit decisions, adherence to established internal procedures, and a verification process before disbursing funds. Additionally, they both address the importance of documenting creditworthiness assessments as the basis for decisions and ensuring the proper fulfillment of conditions before concluding a loan agreement and disbursing funds. There is also an overlap in the requirement for defining the authority limits for credit granting.",
+  "overlaps": [
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_50.json",
+      "excerpt1": "196. The credit decision should be clear and well documented and include all the conditions and pre-conditions, including those to mitigate the risks identified in the creditworthiness assessment, such as risks associated with ESG factors, for the loan agreement and disbursement.",
+      "pageNumber1": 50,
+      "filename2": "2018_04.m3_en.di_page_18.json",
+      "excerpt2": "(47) Credit decisions shall be made in accordance with written instructions approved by the executive management. There shall be a clear audit trail documenting the whole process, from credit application to credit decision, and it shall be approved by the appropriate level of management. The credit decision or documents appended thereto shall give a detailed account of the contents and date of the decision, the grounds for granting or turning down the application and the decision makers. The entire credit granting process must be verifiable after the event.",
+      "pageNumber2": 18,
+      "explanation": "Both excerpts require credit decisions to be clear, well-documented, and to include detailed accounts of their contents and the basis for the decision (e.g., conditions, grounds for granting/turning down).",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_50.json",
+      "excerpt1": "195. 95. The decision to approve or decline the loan application (credit decision) should be taken by the relevant credit decision-maker, in accordance with the policies and procedures and governance arrangements set out in Section 4.3.",
+      "pageNumber1": 50,
+      "filename2": "2018_04.m3_en.di_page_18.json",
+      "excerpt2": "(45) In accordance with chapter 9, section 10(1) of the Credit Institutions Act, principles and procedures concerning the processes for approving, amending, renewing, and re-financing credits shall be clearly established and documented. (47) Credit decisions shall be made in accordance with written instructions approved by the executive management. [...] (48) The tasks and responsibilities of persons involved in the granting of credit must be defined in credit granting instructions. The instructions shall also specify who has the authority to grant credit and the limit of the authority. Only authorised persons or decision-making units may make credit decisions.",
+      "pageNumber2": 18,
+      "explanation": "Both texts mandate that credit decisions must be made in accordance with established policies and procedures. The EBA Guidelines refer to 'policies and procedures and governance arrangements,' while the Finnish Regulations detail 'principles and procedures' and 'written instructions approved by the executive management,' and explicitly require defining tasks, responsibilities, and authority limits for credit granting, which aligns with the EBA's broader requirement for adherence to internal arrangements.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_50.json",
+      "excerpt1": "194. The creditworthiness assessment performed in accordance with Section 5.2 should be properly documented and used as the basis of the proposal to approve or decline the loan application by the relevant credit decision-maker. The documented outcomes of the creditworthiness assessment itself should be able to justify the proposal to approve or decline the loan application.",
+      "pageNumber1": 50,
+      "filename2": "2018_04.m3_en.di_page_14.json",
+      "excerpt2": "(20) Credit decisions by a supervised entity shall be based on a credit analysis. The credit analysis shall give a sufficiently accurate picture of the borrower applying for credit, the borrower's creditworthiness and of the project to be financed.",
+      "pageNumber2": 14,
+      "explanation": "Both excerpts require that credit decisions be based on a documented assessment of the borrower's creditworthiness. The EBA Guidelines state the assessment should be 'properly documented and used as the basis' and 'justify the proposal to approve or decline,' while the Finnish Regulations specify that 'Credit decisions by a supervised entity shall be based on a credit analysis' which provides an 'accurate picture of the borrower's creditworthiness'.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_50.json",
+      "excerpt1": "198. The conclusion of the credit agreement should not take place unless the institutions and creditors have verified that all pre-conditions and conditions that have been set out in the credit decision are fulfilled. The disbursement should take place only after the conclusion of the credit agreement.",
+      "pageNumber1": 50,
+      "filename2": "2018_04.m3_en.di_page_18.json",
+      "excerpt2": "(50) Credit may be disbursed to the customer when the customer has submitted to the supervised entity all the necessary documents, and their consistency with the decision has been ensured reliably and independently.",
+      "pageNumber2": 18,
+      "explanation": "Both texts require that the disbursement of credit should only occur after a verification process. The EBA Guidelines state that 'disbursement should take place only after the conclusion of the credit agreement' and verification of 'all pre-conditions and conditions.' The Finnish Regulations state that 'Credit may be disbursed to the customer when the customer has submitted to the supervised entity all the necessary documents, and their consistency with the decision has been ensured reliably and independently.' Both emphasize a check against the credit decision before funds are released.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

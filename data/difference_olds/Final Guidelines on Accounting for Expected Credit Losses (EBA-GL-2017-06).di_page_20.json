@@ -1,0 +1,176 @@
+{
+  "summary": "The analysis reveals several overlaps between the original EBA Guidelines on Accounting for Expected Credit Losses and various other regulatory texts. These overlaps primarily concern the establishment of sound internal methodologies for credit risk assessment, the development and validation of risk rating systems, the use of forward-looking information in credit risk and ECL measurement, and the role of internal audit and independent functions in overseeing these processes. Several documents explicitly reference the EBA Guidelines on credit risk management practices and accounting for expected credit losses, indicating a direct alignment and reiteration of similar requirements.",
+  "overlaps": [
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_20.json",
+      "excerpt1": "iii. an assessment policy that ensures ECL measurement occurs at the individual lending exposure level and also, when necessary to appropriately measure ECL in accordance with the applicable accounting framework, at the collective portfolio level by grouping exposures based on identified shared credit risk characteristics;",
+      "pageNumber1": 20,
+      "filename2": "2018_04.m3_en.di_page_20.json",
+      "excerpt2": "(68) Supervised entities must, regardless of whether they use internal models in the calculation of capital requirements for credit risk, assess and monitor the quality of their credit portfolios by a risk rating system which takes the creditworthiness of the customers into account.",
+      "pageNumber2": 20,
+      "explanation": "Both excerpts address the assessment of credit risk at a portfolio level. The original text specifies an assessment policy for ECL measurement at individual and collective portfolio levels, grouped by shared credit risk characteristics. The related text requires supervised entities to assess and monitor credit portfolio quality using a risk rating system that considers customer creditworthiness.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_20.json",
+      "excerpt1": "d. an internal audit23 function that: i. independently evaluates the effectiveness of the credit institution's credit risk assessment and measurement systems and processes, including the credit risk rating system; and",
+      "pageNumber1": 20,
+      "filename2": "2018_04.m3_en.di_page_20.json",
+      "excerpt2": "(71) A function that is independent of the credit granting shall be responsible for making the rating decisions. This independent function shall also regularly ensure that the rating reflects the actual, prevailing conditions.",
+      "pageNumber2": 20,
+      "explanation": "Both excerpts require an independent function to evaluate or ensure the effectiveness and accuracy of credit risk assessment and rating systems. The original text specifies this role for the internal audit function regarding overall credit risk assessment systems, while the related text mandates an independent function for rating decisions and ensuring ratings reflect actual conditions.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_20.json",
+      "excerpt1": "4.2.2 Principle 2 - Sound ECL methodologies Credit institutions should adopt, document and adhere to policies which include sound methodologies, procedures and controls for assessing and measuring credit risk on all lending exposures. The measurement of allowances should build upon those methodologies and result in the appropriate and timely recognition of ECL in accordance with the applicable accounting framework.",
+      "pageNumber1": 20,
+      "filename2": "2018_04.m3_en.di_page_20.json",
+      "excerpt2": "(65) In accordance with chapter 9, section 9(1) of the Credit Institutions Act, credit institutions shall have sufficient internal methodologies for the assessment of the credit and counterparty risks with regard to the nature, scope and diversity of the activities of a credit institution. The internal methodologies shall not rely solely or mechanically on external credit ratings concerning the counterparty or financial instrument.",
+      "pageNumber2": 20,
+      "explanation": "Both texts require credit institutions to adopt and document sound internal methodologies for assessing and measuring credit risk. The original emphasizes this for ECL, while the related content is a general requirement for credit and counterparty risks, explicitly stating that external ratings should not be solely relied upon.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_20.json",
+      "excerpt1": "ii. an effective process to ensure that all relevant and reasonable and supportable information, including forward-looking information, is appropriately considered in assessing credit risk and measuring ECL. This includes maintaining appropriate reports, details of reviews performed, and identification and descriptions of the roles and responsibilities of staff involved;",
+      "pageNumber1": 20,
+      "filename2": "CELEX_32023R1803_EN_TXT.di_page_601.json",
+      "excerpt2": "B4.1.3A The business model may be to hold assets to collect contractual cash flows even if the entity sells financial assets when there is an increase in the assets' credit risk. To determine whether there has been an increase in the assets' credit risk, the entity considers reasonable and supportable information, including forward looking information.",
+      "pageNumber2": 601,
+      "explanation": "Both excerpts require the consideration of 'reasonable and supportable information, including forward-looking information' when assessing credit risk. The original applies this to the overall process of assessing credit risk and measuring ECL, while the related text specifies it for determining an increase in an asset's credit risk within a specific business model context.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_20.json",
+      "excerpt1": "4.2.2 Principle 2 - Sound ECL methodologies Credit institutions should adopt, document and adhere to policies which include sound methodologies, procedures and controls for assessing and measuring credit risk on all lending exposures. The measurement of allowances should build upon those methodologies and result in the appropriate and timely recognition of ECL in accordance with the applicable accounting framework.",
+      "pageNumber1": 20,
+      "filename2": "Final Guidelines on management of non-performing and forborne exposures.di_page_49.json",
+      "excerpt2": "174. Credit institutions should adopt, document and adhere to sound policies, procedures and controls for assessing and measuring loss allowances and write-off on NPEs in accordance with the EBA Guidelines on credit risk management practices and accounting for expected credit losses.",
+      "pageNumber2": 49,
+      "explanation": "The related excerpt explicitly references and aligns with the requirements of the original document. Both require credit institutions to adopt, document, and adhere to sound policies, procedures, and controls for assessing and measuring loss allowances (ECL) on credit exposures, specifically in the context of Non-Performing Exposures (NPEs) in the related text.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_20.json",
+      "excerpt1": "d. an internal audit23 function that: i. independently evaluates the effectiveness of the credit institution's credit risk assessment and measurement systems and processes, including the credit risk rating system; and",
+      "pageNumber1": 20,
+      "filename2": "Final Guidelines on management of non-performing and forborne exposures.di_page_49.json",
+      "excerpt2": "177. A credit institution's internal audit function should verify the methodologies used in accordance with the EBA Guidelines on internal governance.38",
+      "pageNumber2": 49,
+      "explanation": "Both excerpts define the role of a credit institution's internal audit function in evaluating or verifying the effectiveness of methodologies and systems. The original focuses on credit risk assessment and ECL measurement systems, while the related text mentions verifying methodologies generally in accordance with EBA Guidelines on internal governance, which would encompass credit risk methodologies.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_20.json",
+      "excerpt1": "ii. an effective process to ensure that all relevant and reasonable and supportable information, including forward-looking information, is appropriately considered in assessing credit risk and measuring ECL. This includes maintaining appropriate reports, details of reviews performed, and identification and descriptions of the roles and responsibilities of staff involved;",
+      "pageNumber1": 20,
+      "filename2": "BaselFramework.di_page_1787.json",
+      "excerpt2": "40.39 Principle 17:41 The supervisor determines that banks have an adequate credit risk management process that considers their risk appetite, risk profile, market conditions, macroeconomic factors and forward-looking information. This includes prudent policies and processes to identify, measure, evaluate, monitor, report and control or mitigate credit risk42 (including counterparty credit risk43) on a timely basis.",
+      "pageNumber2": 1787,
+      "explanation": "Both excerpts emphasize the importance of considering 'forward-looking information' in credit risk management. The original specifies this for assessing credit risk and measuring ECL, while the related text frames it within an adequate credit risk management process that includes identification, measurement, evaluation, monitoring, reporting, and control of credit risk.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_20.json",
+      "excerpt1": "iii. an assessment policy that ensures ECL measurement occurs at the individual lending exposure level and also, when necessary to appropriately measure ECL in accordance with the applicable accounting framework, at the collective portfolio level by grouping exposures based on identified shared credit risk characteristics;",
+      "pageNumber1": 20,
+      "filename2": "BaselFramework.di_page_1791.json",
+      "excerpt2": "(1) Laws, regulations or the supervisor require banks to formulate policies, processes and methodologies for grading, classifying and monitoring all credit exposures (including off-balance sheet and forborne exposures49) and identifying and managing problem exposures. In addition, laws, regulations or the supervisor require regular reviews by banks of their credit exposures (at an individual level or at a portfolio level for credit exposures with homogeneous characteristics) to ensure appropriate exposure classification, detection of deteriorating exposures and timely identification of problem exposures.",
+      "pageNumber2": 1791,
+      "explanation": "Both excerpts address the assessment/monitoring of credit exposures at both individual and portfolio levels, with a focus on grouping exposures with shared characteristics. The original specifies this for ECL measurement, while the related text details it for grading, classifying, and monitoring credit exposures to ensure appropriate classification and identification of deteriorating exposures.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_20.json",
+      "excerpt1": "4.2.2 Principle 2 - Sound ECL methodologies Credit institutions should adopt, document and adhere to policies which include sound methodologies, procedures and controls for assessing and measuring credit risk on all lending exposures. The measurement of allowances should build upon those methodologies and result in the appropriate and timely recognition of ECL in accordance with the applicable accounting framework.",
+      "pageNumber1": 20,
+      "filename2": "EBA%20GL%202020%2006%20Final%20Report%20on%20GL%20on%20loan%20origination%20and%20monitoring.di_page_21.json",
+      "excerpt2": "34. Institutions should set out, in their credit risk policies and procedures, the criteria for identifying, assessing, approving, monitoring, reporting and mitigating credit risk, and the criteria for measuring allowances for both accounting and capital adequacy purposes. Institutions should document the framework and update it regularly.",
+      "pageNumber2": 21,
+      "explanation": "Both texts require institutions to adopt, document, and adhere to policies and procedures for assessing and measuring credit risk and allowances. The original specifically mentions 'sound ECL methodologies' for 'all lending exposures,' leading to 'appropriate and timely recognition of ECL.' The related text states that 'credit risk policies and procedures' should include 'criteria for measuring allowances for both accounting and capital adequacy purposes' and be 'documented' and 'updated regularly.' These are consistent requirements for institutions to formalize their credit risk and allowance measurement processes.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_20.json",
+      "excerpt1": "ii. an effective process to ensure that all relevant and reasonable and supportable information, including forward-looking information, is appropriately considered in assessing credit risk and measuring ECL. This includes maintaining appropriate reports, details of reviews performed, and identification and descriptions of the roles and responsibilities of staff involved;",
+      "pageNumber1": 20,
+      "filename2": "CELEX_32023R1803_EN_TXT.di_page_552.json",
+      "excerpt2": "5.5.11 If reasonable and supportable forward-looking information is available without undue cost or effort, an entity cannot rely solely on past due information when determining whether credit risk has increased significantly since initial recognition.",
+      "pageNumber2": 552,
+      "explanation": "Both excerpts emphasize the importance of using 'reasonable and supportable forward-looking information' when assessing credit risk. The original states that such information should be 'appropriately considered in assessing credit risk and measuring ECL,' while the related text prohibits sole reliance on past due information when forward-looking information is available for determining significant increases in credit risk.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_20.json",
+      "excerpt1": "4.2.2 Principle 2 - Sound ECL methodologies Credit institutions should adopt, document and adhere to policies which include sound methodologies, procedures and controls for assessing and measuring credit risk on all lending exposures. The measurement of allowances should build upon those methodologies and result in the appropriate and timely recognition of ECL in accordance with the applicable accounting framework.",
+      "pageNumber1": 20,
+      "filename2": "CELEX_32013L0036_EN_TXT.di_page_44.json",
+      "excerpt2": "Competent authorities shall ensure that: (b) institutions have internal methodologies that enable them to assess the credit risk of exposures to individual obligors, securities or securitisation positions and credit risk at the portfolio level. In particular, internal methodologies shall not rely solely or mechanistically on external credit ratings. Where own funds requirements are based on a rating by an External Credit Assessment Institution (ECAI) or based on the fact that an exposure is unrated, this shall not exempt institutions from additionally considering other relevant information for assessing their allocation of internal capital;",
+      "pageNumber2": 44,
+      "explanation": "Both excerpts require institutions to have 'internal methodologies' for assessing 'credit risk' at both individual and portfolio levels. The original specifies these for 'ECL methodologies' ensuring 'appropriate and timely recognition of ECL,' while the related text provides a broader requirement for internal methodologies to assess credit risk, explicitly prohibiting sole reliance on external credit ratings.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_20.json",
+      "excerpt1": "iii. an assessment policy that ensures ECL measurement occurs at the individual lending exposure level and also, when necessary to appropriately measure ECL in accordance with the applicable accounting framework, at the collective portfolio level by grouping exposures based on identified shared credit risk characteristics;",
+      "pageNumber1": 20,
+      "filename2": "CELEX_32023R1803_EN_TXT.di_page_624.json",
+      "excerpt2": "B5.5.5 For the purpose of determining significant increases in credit risk and recognising a loss allowance on a collective basis, an entity can group financial instruments on the basis of shared credit risk characteristics with the objective of facilitating an analysis that is designed to enable significant increases in credit risk to be identified on a timely basis.",
+      "pageNumber2": 624,
+      "explanation": "Both excerpts describe the practice of grouping financial instruments or exposures based on 'shared credit risk characteristics' for assessment purposes. The original applies this to ECL measurement at a collective portfolio level, and the related text applies it to determining significant increases in credit risk for recognizing loss allowances on a collective basis.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_20.json",
+      "excerpt1": "iv. an effective model validation process to ensure that the credit risk assessment and measurement models are able to generate accurate, consistent and unbiased predictive estimates, on an ongoing basis. This includes establishing policies and procedures which set out the accountability and reporting structure of the model validation process, internal rules for assessing and approving changes to the models, and reporting of the outcome of the model validation;",
+      "pageNumber1": 20,
+      "filename2": "CELEX_32013R0575_EN_TXT.di_page_121.json",
+      "excerpt2": "Institutions shall have robust systems in place to validate the accuracy and consistency of their internal models and modelling processes. All material elements of the internal models and the modelling process and validation shall be documented. The validation and documentation of institutions' internal models and modelling processes shall be subject to the following requirements: (a) institutions shall use the internal validation process to assess the performance of its internal models and processes in a consistent and meaningful way;",
+      "pageNumber2": 121,
+      "explanation": "Both excerpts require institutions to have robust systems for validating the accuracy and consistency of their internal models used for credit risk assessment. The original focuses on an 'effective model validation process' for 'credit risk assessment and measurement models,' ensuring 'accurate, consistent and unbiased predictive estimates.' The related text states that 'institutions shall have robust systems in place to validate the accuracy and consistency of their internal models and modelling processes' and use 'internal validation process to assess the performance' of these models.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_20.json",
+      "excerpt1": "d. an internal audit23 function that: i. independently evaluates the effectiveness of the credit institution's credit risk assessment and measurement systems and processes, including the credit risk rating system; and",
+      "pageNumber1": 20,
+      "filename2": "CELEX_32013R0575_EN_TXT.di_page_122.json",
+      "excerpt2": "Internal audit or another comparable independent auditing unit shall review at least annually the institution's rating systems and its operations, including the operations of the credit function and the estimation of PDs, LGDs, ELs and conversion factors. Areas of review shall include adherence to all applicable require- ments.",
+      "pageNumber2": 122,
+      "explanation": "Both excerpts define the role of the internal audit function in independently reviewing credit risk rating systems and their operations. The original states that the internal audit function 'independently evaluates the effectiveness of the credit institution's credit risk assessment and measurement systems and processes, including the credit risk rating system'. The related text specifies that 'Internal audit... shall review at least annually the institution's rating systems and its operations, including the operations of the credit function and the estimation of PDs, LGDs, ELs and conversion factors.'",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_20.json",
+      "excerpt1": "iii. an assessment policy that ensures ECL measurement occurs at the individual lending exposure level and also, when necessary to appropriately measure ECL in accordance with the applicable accounting framework, at the collective portfolio level by grouping exposures based on identified shared credit risk characteristics;",
+      "pageNumber1": 20,
+      "filename2": "Final Guidelines on management of non-performing and forborne exposures.di_page_29.json",
+      "excerpt2": "73. The EBA Guidelines on credit risk management practices and accounting for expected credit losses25 describe the policies for credit institutions of grouping exposures with shared credit risk characteristics. Homogeneous portfolios should be built up in order to tailor treatments specifically to NPEs.",
+      "pageNumber2": 29,
+      "explanation": "The related excerpt explicitly references the original EBA Guidelines and reiterates the requirement for grouping exposures based on shared credit risk characteristics. This creates a direct overlap in the regulatory subject of collective assessment of credit risk/ECL based on shared characteristics.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_20.json",
+      "excerpt1": "iv. an effective model validation process to ensure that the credit risk assessment and measurement models are able to generate accurate, consistent and unbiased predictive estimates, on an ongoing basis. This includes establishing policies and procedures which set out the accountability and reporting structure of the model validation process, internal rules for assessing and approving changes to the models, and reporting of the outcome of the model validation;",
+      "pageNumber1": 20,
+      "filename2": "EBA%20GL%202020%2006%20Final%20Report%20on%20GL%20on%20loan%20origination%20and%20monitoring.di_page_26.json",
+      "excerpt2": "54. When using automated models for creditworthiness assessment and credit decision-making, institutions should understand the models used, and their methodology, input data, assumptions, limitations and outputs, and should have in place: c. internal policies and procedures ensuring that the quality of the model output is regularly assessed, using measures appropriate to the model's use, including backtesting the performance of the model;",
+      "pageNumber2": 26,
+      "explanation": "Both excerpts require ongoing assessment and validation of models used for credit risk. The original speaks of an 'effective model validation process to ensure...accurate, consistent and unbiased predictive estimates, on an ongoing basis' for credit risk assessment. The related text requires 'internal policies and procedures ensuring that the quality of the model output is regularly assessed, using measures appropriate to the model's use, including backtesting the performance of the model' for automated models in creditworthiness assessment.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_20.json",
+      "excerpt1": "ii. an effective process to ensure that all relevant and reasonable and supportable information, including forward-looking information, is appropriately considered in assessing credit risk and measuring ECL. This includes maintaining appropriate reports, details of reviews performed, and identification and descriptions of the roles and responsibilities of staff involved;",
+      "pageNumber1": 20,
+      "filename2": "CELEX_32023R1803_EN_TXT.di_page_551.json",
+      "excerpt2": "5.5.9 At each reporting date, an entity shall assess whether the credit risk on a financial instrument has increased significantly since initial recognition. When making the assessment, an entity shall use the change in the risk of a default occurring over the expected life of the financial instrument instead of the change in the amount of expected credit losses. To make that assessment, an entity shall compare the risk of a default occurring on the financial instrument as at the reporting date with the risk of a default occurring on the financial instrument as at the date of initial recognition and consider reasonable and supportable information, that is available without undue cost or effort, that is indicative of significant increases in credit risk since initial recognition.",
+      "pageNumber2": 551,
+      "explanation": "Both excerpts mandate the use of 'reasonable and supportable information' when assessing credit risk, specifically mentioning the consideration of information indicative of significant increases in credit risk. The original focuses on the overall process of assessing credit risk and measuring ECL, while the related text specifies its use for determining significant increases in credit risk since initial recognition.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

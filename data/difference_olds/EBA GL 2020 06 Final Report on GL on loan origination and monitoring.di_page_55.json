@@ -1,0 +1,26 @@
+{
+  "summary": "The documents present an overlap in the requirements for institutions regarding the monitoring and revaluation of immovable property collateral. Both documents refer to the need for institutions to have policies and procedures for monitoring immovable property values, specifically linking this to Article 208(3) of Regulation (EU) No 575/2013 and specifying a minimum frequency for such monitoring.",
+  "overlaps": [
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_55.json",
+      "excerpt1": "When monitoring property values as laid down in Article 208(3) of Regulation (EU) No 575/2013, institutions should, for the purposes of these guidelines, also set up policies and procedures specifying the approach and the frequency of monitoring of immovable property collateral.",
+      "pageNumber1": 55,
+      "filename2": "Final%20Guidelines%20on%20management%20of%20non-performing%20and%20forborne%20exposures.di_page_51.json",
+      "excerpt2": "Credit institutions should monitor the value of immovable property collateral on a frequent basis and at a minimum as specified in Article 208(3) of Regulation (EU) No 575/2013.",
+      "pageNumber2": 51,
+      "explanation": "Both excerpts address the same regulatory subject: the monitoring and revaluation of immovable property collateral by institutions. They both explicitly refer to Article 208(3) of Regulation (EU) No 575/2013 as the basis for these requirements and mandate that institutions establish policies and procedures for such monitoring, at a minimum frequency.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_55.json",
+      "excerpt1": "When monitoring property values as laid down in Article 208(3) of Regulation (EU) No 575/2013, institutions should, for the purposes of these guidelines, also set up policies and procedures specifying the approach and the frequency of monitoring of immovable property collateral. These policies and procedures should account, when relevant, for the following elements: a. the type of property; b. the credit quality of the loan secured by property; c. the development status of the property; d. the value of the property; e. assumptions made in the appraisal; f. changes in market conditions.",
+      "pageNumber1": 55,
+      "filename2": "CELEX_32013R0575_EN_TXT.di_page_131.json",
+      "excerpt2": "Institutions monitor the value of the property on a frequent basis and at a minimum once every year for commercial immovable property and once every three years for residential real estate. Institutions carry out more frequent monitoring where the market is subject to significant changes in conditions; (b) the property valuation is reviewed when information available to institutions indicates that the value of the property may have declined materially relative to general market prices and that review is carried out by a valuer who possesses the necessary qualifications, ability and experience to execute a valuation and who is independent from the credit decision process. For loans exceeding EUR 3 million or 5% of the own funds of an institution, the property valuation shall be reviewed by such valuer at least every three years. Institutions may use statistical methods to monitor the value of the property and to identify property that needs revaluation.",
+      "pageNumber2": 131,
+      "explanation": "Both excerpts establish requirements for institutions to monitor the value of immovable property collateral. The first excerpt from EBA GL 2020/06 requires institutions to set up policies and procedures for the approach and frequency of monitoring, taking into account elements like property type, credit quality, value, and market conditions. The second excerpt from CRR Article 208(3) specifies minimum monitoring frequencies (annual for commercial, triennial for residential), mandates more frequent monitoring under significant market changes, and outlines conditions for property valuation review by an independent valuer, including a three-year review for large loans. Both sets of rules apply to the same actor (institutions) and the same regulatory action (monitoring and revaluation of immovable property collateral), presenting an overlap in the general requirement, with the CRR providing more specific numerical thresholds and conditions.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

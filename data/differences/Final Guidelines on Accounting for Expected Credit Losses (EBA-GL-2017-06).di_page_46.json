@@ -1,0 +1,27 @@
+{
+  "summary": "The comparison identifies one overlap and one contradiction related to the accounting for Expected Credit Losses (ECL) under IFRS 9 for credit institutions. The overlap occurs where the EBA Guidelines directly quote and reinforce the IFRS 9 rule for assessing credit risk on modified financial assets. The contradiction arises from the treatment of \"practical expedients\". IFRS 9 provides a general discretionary option for entities to use these expedients if obtaining more complex information involves \"undue cost or effort\". However, the EBA Guidelines specifically state that for credit institutions, this is unlikely to be the case, thereby severely restricting their ability to use these expedients.",
+  "overlaps": [
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_46.json",
+      "excerpt1": "Lending exposures transferred to lifetime ECL that are subsequently renegotiated or modified, and not derecognised, should not move back to 12-month ECL measurement unless there is sufficient evidence that the credit risk over the life of the exposure has not increased significantly compared with that upon initial recognition. ... In accordance with paragraph B5.5.27 of IFRS 9 'evidence that the criteria for the recognition of lifetime ECL are no longer met could include a history of up-to-date and timely payment performance against the modified contractual terms. Typically, a customer would need to demonstrate consistently good payment behaviour over a period of time before the credit risk is considered to have decreased. For example, a history of missed or incomplete payments would not typically be erased by simply making one payment on time following a modification of the contractual terms'.",
+      "pageNumber1": 46,
+      "filename2": "CELEX_32023R1803_EN_TXT.di_page_630.json",
+      "excerpt2": "B5.5.27 If the contractual cash flows on a financial asset have been renegotiated or otherwise modified, but the financial asset is not derecognised, that financial asset is not automatically considered to have lower credit risk. An entity shall assess whether there has been a significant increase in credit risk since initial recognition on the basis of all reasonable and supportable information that is available without undue cost or effort. ... Evidence that the criteria for the recognition of lifetime expected credit losses are no longer met may include a history of up-to-date and timely payment performance against the modified contractual terms. Typically a customer would need to demonstrate consistently good payment behaviour over a period of time before the credit risk is considered to have decreased. For example, a history of missed or incomplete payments would not typically be erased by simply making one payment on time following a modification of the contractual terms.",
+      "pageNumber2": 630,
+      "explanation": "Both texts regulate the assessment of credit risk for a financial asset that has been modified without being derecognised. They establish identical requirements for an entity (including a credit institution) to determine if the asset's credit risk has improved enough to move from lifetime ECL measurement back to 12-month ECL. The EBA Guideline explicitly quotes and reinforces the IFRS 9 text, creating a clear overlap in the rule.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": [
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_46.json",
+      "excerpt1": "Credit institutions should make limited use of those practical expedients as they have the potential to introduce significant bias and because - given their business - the cost of obtaining the relevant information is not likely to involve 'undue cost or effort'.",
+      "pageNumber1": 46,
+      "filename2": "CELEX_32023R1803_EN_TXT.di_page_552.json",
+      "excerpt2": "However, when information that is more forward-looking than past due status (either on an individual or a collective basis) is not available without undue cost or effort, an entity may use past due information to determine whether there have been significant increases in credit risk since initial recognition.",
+      "pageNumber2": 552,
+      "explanation": "Both texts govern the use of the \"undue cost or effort\" practical expedient for measuring Expected Credit Losses. IFRS 9 provides a general, discretionary rule allowing any entity to use simpler data (like past-due status) if obtaining more complex forward-looking information involves \"undue cost or effort\". In contrast, the EBA Guideline creates a different standard for credit institutions, stating that for them, obtaining such information is 'not likely' to involve 'undue cost or effort', and they should make 'limited use' of such expedients. This effectively removes the discretion granted by IFRS 9 for a specific type of actor, creating a contradiction.",
+      "type": "CONTRADICTION"
+    }
+  ]
+}

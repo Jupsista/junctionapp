@@ -1,0 +1,26 @@
+{
+  "summary": "The EBA Guidelines on Loan Origination and Monitoring and the FIN-FSA Regulations and Guidelines 4/2018 both address the assessment of a borrower's financial position and repayment capacity within the creditworthiness assessment. They overlap by requiring institutions to consider current and projected financial positions and repayment capacity, including under adverse events. Both documents also refer to the EBA Guidelines on Connected Clients, indicating a shared understanding of how to assess borrowers within a group context.",
+  "overlaps": [
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_39.json",
+      "excerpt1": "128. For the purposes of the analysis of the financial position within the creditworthiness assessment as specified above, institutions should consider the following: a. both the current and the projected financial position, including balance sheets, source of repayment capacity to meet contractual obligations, including under possible adverse events, and, where relevant, capital structure, working capital, income and cash flow; b. where relevant, the borrower's leverage level, dividend distribution, and actual and projected/forecasted capital expenditure, as well as its cash conversion cycle in relation to the facility under consideration; C. where relevant, the exposure profile until maturity, in relation to potential market movements, such as exposures denominated in foreign currencies and exposures collateralised by repayment vehicles;",
+      "pageNumber1": 39,
+      "filename2": "2018_04.m3_en.di_page_14.json",
+      "excerpt2": "(23) At a minimum, the following factors must be considered in the context of credit decisions:2 · the borrower's previous repayment performance, current repayment capacity and estimate of future repayment capacity considering all of its assets and liabilities",
+      "pageNumber2": 14,
+      "explanation": "Both excerpts address the assessment of a borrower's financial position and repayment capacity for creditworthiness. Excerpt 128 explicitly states that institutions should consider 'both the current and the projected financial position, including... source of repayment capacity to meet contractual obligations, including under possible adverse events'. Excerpt 23 requires considering 'the borrower's previous repayment performance, current repayment capacity and estimate of future repayment capacity considering all of its assets and liabilities'. These requirements are almost the same, focusing on comprehensive assessment of repayment capacity under various conditions.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_39.json",
+      "excerpt1": "124. If the borrower is a member of a group of connected clients, institutions should carry out the assessment at individual level and, where relevant, at group level, in accordance with the EBA Guidelines on connected clients, especially when repayment is reliant on cash flow emanating from other connected parties.",
+      "pageNumber1": 39,
+      "filename2": "2018_04.m3_en.di_page_15.json",
+      "excerpt2": "· group of connected clients3, its obligations (incl. guarantee obligations) and the supervised entity's position in terms of priority, preferential rights and collateral",
+      "pageNumber2": 15,
+      "explanation": "Both excerpts address the assessment of borrowers who are members of a 'group of connected clients'. Excerpt 124 mandates institutions to carry out the assessment at individual and group level, in accordance with EBA Guidelines on connected clients. Excerpt 23 from the FIN-FSA document lists 'group of connected clients' as a factor that must be considered in credit decisions. This demonstrates a shared regulatory subject regarding the assessment of connected clients in the context of loan origination and credit risk.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

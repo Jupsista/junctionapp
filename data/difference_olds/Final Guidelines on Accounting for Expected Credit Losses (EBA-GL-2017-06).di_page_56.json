@@ -1,0 +1,16 @@
+{
+  "summary": "The EBA Guidelines emphasize the importance of using forward-looking information for credit institutions in accounting for expected credit losses under IFRS 9 to ensure adequate ECL allowances and avoid low-quality implementation. This aligns with and is reinforced by IFRS 9 itself, which mandates the use of reasonable and supportable forward-looking information when assessing significant increases in credit risk.",
+  "overlaps": [
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_56.json",
+      "excerpt1": "This could result in a low-quality and inconsistent implementation of IFRS 9, and therefore in inadequate levels of ECL allowances relative to the credit risk of the loan portfolios - for instance if credit institutions minimise the effort to consider forward-looking information, which is a central feature of an expected credit loss model.",
+      "pageNumber1": 56,
+      "filename2": "CELEX_32023R1803_EN_TXT.di_page_552.json",
+      "excerpt2": "If reasonable and supportable forward-looking information is available without undue cost or effort, an entity cannot rely solely on past due information when determining whether credit risk has increased significantly since initial recognition.",
+      "pageNumber2": 552,
+      "explanation": "Both excerpts address the application of IFRS 9 concerning Expected Credit Losses (ECLs) and the crucial role of forward-looking information for credit institutions (or 'entities' in IFRS 9) in assessing credit risk. The EBA Guidelines highlight the prudential concern if credit institutions minimize the effort to consider forward-looking information, stating it's a 'central feature' of an ECL model. IFRS 9 directly reinforces this by explicitly stating that an entity 'cannot rely solely on past due information' if reasonable and supportable forward-looking information is available without undue cost or effort when determining significant increases in credit risk. This demonstrates an overlap in the requirement for credit institutions to actively incorporate forward-looking information in their ECL assessments.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

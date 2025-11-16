@@ -1,0 +1,36 @@
+{
+  "summary": "The primary document outlines the policy objectives for the EBA Guidelines on credit institutions' credit risk management practices and accounting for expected credit losses, aiming for consistent application of an expected loss accounting framework and estimation of adequate expected credit losses. The related documents, specifically 'Final Guidelines on management of non-performing and forborne exposures.di_page_48.json', 'Final Guidelines on management of non-performing and forborne exposures.di_page_49.json', and '2018_04.m3_en.di_page_15.json', directly reference and mandate adherence to these EBA Guidelines. They require credit institutions to estimate loss allowances, implement sound policies for loss allowances and write-offs, and consider specific factors in credit risk assessment in accordance with the aforementioned EBA Guidelines. These are overlaps because the related documents explicitly refer to and implement the guidelines whose objectives are described in the primary document, thereby reinforcing and applying the same regulatory subject of credit risk management and expected credit loss accounting for credit institutions.",
+  "overlaps": [
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_54.json",
+      "excerpt1": "At a more specific level, these guidelines aim at: a) promoting the consistent application of accounting requirements related to the application of an expected loss accounting framework, leading to comparable financial information; and b) promoting the high-quality and robust application of an expected loss accounting framework, leading to the estimation of adequate amounts of expected credit losses.",
+      "pageNumber1": 54,
+      "filename2": "Final%20Guidelines%20on%20management%20of%20non-performing%20and%20forborne%20exposures.di_page_48.json",
+      "excerpt2": "167. Credit institutions should estimate loss allowances for NPEs and FBEs subject to impairment in accordance with the EBA Guidelines on credit risk management practices and accounting for expected credit losses.",
+      "pageNumber2": 48,
+      "explanation": "Excerpt 1 from the original document states the policy objective of the EBA Guidelines, which includes promoting the high-quality and robust application of an expected loss accounting framework, leading to the estimation of adequate amounts of expected credit losses. Excerpt 2 from the related document explicitly requires credit institutions to estimate loss allowances for Non-Performing Exposures (NPEs) and Forborne Exposures (FBEs) in accordance with these very same EBA Guidelines, thereby directly applying the objective of estimating expected credit losses.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_54.json",
+      "excerpt1": "At a more specific level, these guidelines aim at: a) promoting the consistent application of accounting requirements related to the application of an expected loss accounting framework, leading to comparable financial information; and b) promoting the high-quality and robust application of an expected loss accounting framework, leading to the estimation of adequate amounts of expected credit losses.",
+      "pageNumber1": 54,
+      "filename2": "Final%20Guidelines%20on%20management%20of%20non-performing%20and%20forborne%20exposures.di_page_49.json",
+      "excerpt2": "174. Credit institutions should adopt, document and adhere to sound policies, procedures and controls for assessing and measuring loss allowances and write-off on NPEs in accordance with the EBA Guidelines on credit risk management practices and accounting for expected credit losses. Credit institutions should back-test their loss allowance estimations against actual losses.",
+      "pageNumber2": 49,
+      "explanation": "Excerpt 1 describes the policy objective of the EBA Guidelines, which includes promoting the high-quality and robust application of an expected loss accounting framework and the estimation of adequate expected credit losses. Excerpt 2 mandates credit institutions to adopt, document, and adhere to sound policies and procedures for assessing and measuring loss allowances and write-offs on NPEs, explicitly stating this must be 'in accordance with the EBA Guidelines on credit risk management practices and accounting for expected credit losses'. This demonstrates a direct application of the guidelines' stated objectives.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_54.json",
+      "excerpt1": "At a more specific level, these guidelines aim at: a) promoting the consistent application of accounting requirements related to the application of an expected loss accounting framework, leading to comparable financial information; and b) promoting the high-quality and robust application of an expected loss accounting framework, leading to the estimation of adequate amounts of expected credit losses.",
+      "pageNumber1": 54,
+      "filename2": "2018_04.m3_en.di_page_15.json",
+      "excerpt2": "(24) In order to assess credit risk, supervised entities must take into account the matters listed in chapter 4.2.2, paragraph (36) of the EBA Guidelines (EBA/GL/2017/06) on credit institutions' credit risk management practices and accounting for expected credit losses to the extent that they were not taken into account under paragraph (23).",
+      "pageNumber2": 15,
+      "explanation": "Excerpt 1 states the core objective of the EBA Guidelines on credit risk management and expected credit losses. Excerpt 2 directly references these same EBA Guidelines (EBA/GL/2017/06) and requires supervised entities to take into account specific matters for credit risk assessment outlined within those guidelines. This establishes a clear overlap in the regulatory subject of credit risk assessment and management, which is central to the application of an expected loss accounting framework.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

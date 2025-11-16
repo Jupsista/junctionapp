@@ -1,0 +1,76 @@
+{
+  "summary": "The EBA Guidelines on loan origination and monitoring require institutions to obtain evidence of insurance for collateral. This directly overlaps with Regulation (EU) No 575/2013, which mandates institutions to have procedures for monitoring that collateral property is adequately insured. Furthermore, both the EBA Guidelines and Regulation (EU) No 575/2013, along with the Basel Framework, include requirements for institutions to obtain information or evidence regarding the enforceability and valuation of collateral, particularly for commercial real estate lending. They also consistently require monitoring the value of such collateral and ensuring adequate insurance.",
+  "overlaps": [
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_72.json",
+      "excerpt1": "15. Evidence of insurance of the collateral",
+      "pageNumber1": 72,
+      "filename2": "CELEX_32013R0575_EN_TXT.di_page_131.json",
+      "excerpt2": "5. Institutions shall have in place procedures to monitor that the property taken as credit protection is adequately insured against the risk of damage.",
+      "pageNumber2": 131,
+      "explanation": "The EBA GL requires institutions to obtain 'evidence of insurance of the collateral' during loan origination for enterprise lending. Regulation (EU) No 575/2013 mandates that institutions 'have in place procedures to monitor that the property taken as credit protection is adequately insured against the risk of damage'. Both excerpts concern the requirement for collateral to be insured and for institutions to manage this aspect, with the EBA GL focusing on initial evidence and the CRR on ongoing monitoring procedures, indicating a strong overlap in the underlying regulatory subject of ensuring collateral insurance.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_72.json",
+      "excerpt1": "16. Information on the enforceability of the collateral (in the case of specialised lending, a description of the structure and security package of the transaction)",
+      "pageNumber1": 72,
+      "filename2": "CELEX_32013R0575_EN_TXT.di_page_131.json",
+      "excerpt2": "2. .The following requirements on legal certainly shall be met: (a) a mortgage or charge is enforceable in all jurisdictions which are relevant at the time of the conclusion of the credit agreement and shall be properly filed on a timely basis; (b) all legal requirements for establishing the pledge have been fulfilled; (c) the protection agreement and the legal process under- pinning it enable the institution to realise the value of the protection within a reasonable timeframe.",
+      "pageNumber2": 131,
+      "explanation": "The EBA GL requires 'information on the enforceability of the collateral' for enterprise lending. Regulation (EU) No 575/2013 sets out explicit requirements for 'legal certainly' of collateral, including enforceability in all relevant jurisdictions and the ability to realise the value within a reasonable timeframe. Both texts address the legal enforceability of collateral, which is a key aspect of the 'information on enforceability' required by the EBA GL.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_72.json",
+      "excerpt1": "14. Evidence of the value of the collateral",
+      "pageNumber1": 72,
+      "filename2": "CELEX_32013R0575_EN_TXT.di_page_131.json",
+      "excerpt2": "3. The following requirements on monitoring of property values and on property valuation shall be met: (a) institutions monitor the value of the property on a frequent basis and at a minimum once every year for commercial immovable property and once every three years for resi- dential real estate. Institutions carry out more frequent monitoring where the market is subject to significant changes in conditions; (b) the property valuation is reviewed when information available to institutions indicates that the value of the property may have declined materially relative to general market prices and that review is carried out by a valuer who possesses the necessary qualifications, ability and experience to execute a valuation and who is independent from the credit decision process. For loans exceeding EUR 3 million or 5% of the own funds of an institution, the property valuation shall be reviewed by such valuer at least every three years.",
+      "pageNumber2": 131,
+      "explanation": "The EBA GL requires 'Evidence of the value of the collateral' for lending to enterprises. Regulation (EU) No 575/2013 details requirements for 'monitoring of property values and on property valuation', including frequent monitoring and professional review. Both texts concern the valuation of collateral, with the EBA GL requiring initial evidence and the CRR detailing the ongoing monitoring and review procedures for that valuation, constituting a clear overlap in the regulatory subject.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_72.json",
+      "excerpt1": "15. Evidence of insurance of the collateral",
+      "pageNumber1": 72,
+      "filename2": "BaselFramework.di_page_414.json",
+      "excerpt2": "36.132Additional collateral management requirements are as follows: (2) The bank must take steps to ensure that the property taken as collateral is adequately insured against damage or deterioration.",
+      "pageNumber2": 414,
+      "explanation": "The EBA GL requires 'Evidence of insurance of the collateral' for enterprise lending. The Basel Framework states that a bank 'must take steps to ensure that the property taken as collateral is adequately insured against damage or deterioration'. Both texts impose requirements on institutions to ensure collateral is adequately insured, representing an overlap in the specific obligation.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_72.json",
+      "excerpt1": "14. Evidence of the value of the collateral",
+      "pageNumber1": 72,
+      "filename2": "BaselFramework.di_page_413.json",
+      "excerpt2": "(3) Frequent revaluation: the bank is expected to monitor the value of the collateral on a frequent basis and at a minimum once every year. More frequent monitoring is suggested where the market is subject to significant changes in conditions. Statistical methods of evaluation (eg reference to house price indices, sampling) may be used to update estimates or to identify collateral that may have declined in value and that may need re- appraisal. A qualified professional must evaluate the property when information indicates that the value of the collateral may have declined materially relative to general market prices or when a credit event, such as default, occurs.",
+      "pageNumber2": 413,
+      "explanation": "The EBA GL requires 'Evidence of the value of the collateral' for enterprise lending. The Basel Framework specifies 'Frequent revaluation' requirements for commercial and residential real estate collateral, including monitoring and professional re-appraisal under certain conditions. Both texts relate to the valuation of collateral, with the EBA GL requiring evidence of value and the Basel Framework detailing the ongoing monitoring and revaluation processes, thus overlapping in the regulatory subject.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_72.json",
+      "excerpt1": "C. Commercial real estate lending In addition to the items specified in Section B above: 1. Information on rent levels, vacancy and tenants, including contracts for the particular property associated with the purpose of the loan",
+      "pageNumber1": 72,
+      "filename2": "BaselFramework.di_page_296.json",
+      "excerpt2": "30.14 IPRE lending refers to a method of providing funding to real estate (such as, office buildings to let, retail space, multifamily residential buildings, industrial or warehouse space, or hotels) where the prospects for repayment and recovery on the exposure depend primarily on the cash flows generated by the asset. The primary source of these cash flows would generally be lease or rental payments or the sale of the asset.",
+      "pageNumber2": 296,
+      "explanation": "The EBA GL specifies 'Information on rent levels, vacancy and tenants, including contracts' as an additional requirement for 'Commercial real estate lending' to enterprises. The Basel Framework defines 'Income-producing real estate (IPRE) lending' as that where repayment depends primarily on 'cash flows generated by the asset,' with the 'primary source of these cash flows...generally be lease or rental payments'. Both texts identify 'rent levels' and 'rental payments' as key information/factors for commercial real estate lending, specifically where the income from the property is central to repayment prospects.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_72.json",
+      "excerpt1": "14. Evidence of the value of the collateral",
+      "pageNumber1": 72,
+      "filename2": "151_2022.di_page_8.json",
+      "excerpt2": "A mortgage-backed loan is only eligible as collateral if, when granting the credit, the fair value of the collateral asset has been determined in compliance with the provisions of the EU Capital Requirements Regulation and chapter 9, section 10 of the Act on Credit Institutions as well as provisions on credit risk management issued by the Financial Supervisory Authority by virtue of chapter 9, section 24 of the Act on Credit Institutions. The issuer shall monitor the fair value of the cover assets securing mortgage-backed loans at least quarterly as referred to in subsection 1, based on a reliable statistical method describing the development of the market value of real estate or by some other reliable method.",
+      "pageNumber2": 8,
+      "explanation": "The EBA GL requires 'Evidence of the value of the collateral' during loan origination for enterprise lending. This document mandates that for a mortgage-backed loan to be eligible collateral, its fair value must be determined at credit granting and subsequently monitored at least quarterly. Both excerpts focus on the critical need for collateral valuation and its ongoing monitoring, establishing a clear overlap in the regulatory subject.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

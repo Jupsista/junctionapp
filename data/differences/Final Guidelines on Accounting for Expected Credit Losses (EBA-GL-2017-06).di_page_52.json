@@ -1,0 +1,16 @@
+{
+  "summary": "One overlap was identified between the documents. Both texts refer to the power of competent authorities to require credit institutions to hold additional own funds under Article 104 of Directive 2013/36/EU as part of the Supervisory Review and Evaluation Process (SREP). The rules are consistent and describe the same supervisory power, thus constituting a true overlap.",
+  "overlaps": [
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_52.json",
+      "excerpt1": "imposing additional own funds requirements pursuant to Article 104 under Section III, Chapter 2, Title VII of Directive 2013/36/EU.",
+      "pageNumber1": 52,
+      "filename2": "Final Guidelines on management of non-performing and forborne exposures.di_page_9.json",
+      "excerpt2": "As an outcome of the SREP, and in accordance with Article 104(1)(d) of Directive 2013/36/EU, competent authorities may require an institution to apply a specific provisioning policy, which may - where permitted by accounting rules and regulations - result in an increase in impairments, or the need to hold additional own funds.",
+      "pageNumber2": 9,
+      "explanation": "Both excerpts describe the same regulatory subject and action: the power of a competent authority to impose a requirement on a credit institution to hold additional own funds under Article 104 of Directive 2013/36/EU as an outcome of the Supervisory Review and Evaluation Process (SREP). The rules are consistent and therefore represent an overlap.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

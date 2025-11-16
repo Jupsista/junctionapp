@@ -1,0 +1,26 @@
+{
+  "summary": "Both the EBA Guidelines on Accounting for Expected Credit Losses and the Basel Framework emphasize the importance of incorporating forward-looking information, including macroeconomic factors, into credit risk management processes. The EBA Guidelines specifically focus on this for the estimation of Expected Credit Losses (ECL) by credit institutions, detailing that historical information alone is insufficient and that experienced credit judgment should be used to integrate forward-looking data. The Basel Framework, in its Principle 17, similarly states that supervisors ensure banks' credit risk management processes consider macroeconomic factors and forward-looking information for identification, measurement, evaluation, monitoring, reporting, and control of credit risk. These texts align on the fundamental requirement for banks to use forward-looking and macroeconomic information in their credit risk assessments, particularly concerning credit losses.",
+  "overlaps": [
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_33.json",
+      "excerpt1": "Credit institutions should use their experienced credit judgement to thoroughly incorporate the expected impact of all reasonable and supportable forward-looking information, including macroeconomic factors, on its estimate of ECL.",
+      "pageNumber1": 33,
+      "filename2": "BaselFramework.di_page_1787.json",
+      "excerpt2": "The supervisor determines that banks have an adequate credit risk management process that considers their risk appetite, risk profile, market conditions, macroeconomic factors and forward-looking information.",
+      "pageNumber2": 1787,
+      "explanation": "Both excerpts address the same regulatory subject: the requirement for credit institutions/banks to incorporate forward-looking information, including macroeconomic factors, into their credit risk management processes. Excerpt 1 specifies this for the estimation of Expected Credit Losses (ECL), while Excerpt 2 states it as a general principle for an adequate credit risk management process. The core obligation to consider these factors is an overlap.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_33.json",
+      "excerpt1": "Given that information on historical loss experience or the impact of current conditions may not fully reflect the credit risk in lending exposures, credit institutions should use their experienced credit judgement to thoroughly incorporate the expected impact of all reasonable and supportable forward-looking information, including macroeconomic factors, on its estimate of ECL.",
+      "pageNumber1": 33,
+      "filename2": "CELEX_32023R1803_EN_TXT.di_page_624.json",
+      "excerpt2": "This comprehensive credit risk information must incorporate not only past due information but also all relevant credit information, including forward-looking macroeconomic information, in order to approximate the result of recognising lifetime expected credit losses when there has been a significant increase in credit risk since initial recognition on an individual instrument level.",
+      "pageNumber2": 624,
+      "explanation": "Both excerpts concern the methodology for credit institutions to estimate expected credit losses, specifically highlighting that historical information or past due data alone is insufficient and must be supplemented with forward-looking macroeconomic information. They both mandate the inclusion of forward-looking macroeconomic data for robust ECL estimation.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

@@ -1,0 +1,36 @@
+{
+  "summary": "The EBA Guidelines emphasize the responsibility of credit institutions' management for credit risk management and the timely recognition and measurement of Expected Credit Losses (ECL) by considering forward-looking and macroeconomic information. Several related documents from the Basel Framework, IFRS 9 (via CELEX_32023R1803_EN_TXT), and other EBA Guidelines (on stress testing, internal governance) show consistent themes regarding the need for institutions to incorporate forward-looking and macroeconomic factors in their risk assessments and loss measurements, particularly for credit risk and stress testing. While the general principle of considering forward-looking information and robust risk management is broadly consistent across these documents, a direct overlap regarding the specific obligation to consider forward-looking macroeconomic factors for credit loss assessment, particularly in the context of ECL, is identified.",
+  "overlaps": [
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_18.json",
+      "excerpt1": "22. In order to ensure a timely recognition of credit losses, credit institutions should consider forward-looking information, including macroeconomic factors. When considering forward- looking information, credit institutions should apply sound judgement consistent with generally accepted methods for economic analysis and forecasting, and supported by a sufficient set of data.",
+      "pageNumber1": 18,
+      "filename2": "BaselFramework.di_page_1787.json",
+      "excerpt2": "Principle 17:41 The supervisor determines that banks have an adequate credit risk management process that considers their risk appetite, risk profile, market conditions, macroeconomic factors and forward-looking information. This includes prudent policies and processes to identify, measure, evaluate, monitor, report and control or mitigate credit risk42 (including counterparty credit risk43) on a timely basis.",
+      "pageNumber2": 1787,
+      "explanation": "Both excerpts address the same regulatory subject: the requirement for credit institutions/banks to consider forward-looking information, including macroeconomic factors, in their credit risk management processes, specifically for the purpose of timely identification and measurement of credit losses/risk. The EBA guidelines state institutions 'should consider' these factors for ECL recognition, while the Basel Principle states that an adequate credit risk management process 'considers' them.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_18.json",
+      "excerpt1": "23. Credit institutions should be able to demonstrate how they have considered relevant, reasonable and supportable information in the ECL assessment and measurement process. Credit institutions should apply experienced credit judgement in the consideration of future scenarios and take into account the potential consequence of events occurring or not occurring, and the resulting impact on the measurement of ECL.",
+      "pageNumber1": 18,
+      "filename2": "CELEX_32023R1803_EN_TXT.di_page_628.json",
+      "excerpt2": "B5.5.20 An entity can rebut this presumption. However, it can do so only when it has reasonable and supportable information available that demonstrates that even if contractual payments become more than 30 days past due, this does not represent a significant increase in the credit risk of a financial instrument. For example when non-payment was an administrative oversight, instead of resulting from financial difficulty of the borrower, or the entity has access to historical evidence that demonstrates that there is no correlation between significant increases in the risk of a default occurring and financial assets on which payments are more than 30 days past due, but that evidence does identify such a correlation when payments are more than 60 days past due.",
+      "pageNumber2": 628,
+      "explanation": "Both excerpts, concerning credit institutions/entities, emphasize the necessity of 'reasonable and supportable information' for credit risk assessment and measurement (ECL context). The EBA guideline requires institutions to demonstrate the consideration of such information, while the IFRS 9 text (via Delegated Regulation) uses the term 'reasonable and supportable information' as a condition for rebutting a presumption regarding significant increase in credit risk, directly linking it to the assessment of credit risk and ultimately ECL.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_18.json",
+      "excerpt1": "22. In order to ensure a timely recognition of credit losses, credit institutions should consider forward-looking information, including macroeconomic factors. When considering forward- looking information, credit institutions should apply sound judgement consistent with generally accepted methods for economic analysis and forecasting, and supported by a sufficient set of data.",
+      "pageNumber1": 18,
+      "filename2": "CELEX_32023R1803_EN_TXT.di_page_500.json",
+      "excerpt2": "35G An entity shall explain the inputs, assumptions and estimation techniques used to apply the requirements in Section 5.5 of IFRS 9. For this purpose an entity shall disclose: (b) how forward-looking information has been incorporated into the determination of expected credit losses, including the use of macroeconomic information;",
+      "pageNumber2": 500,
+      "explanation": "Both documents, pertaining to credit institutions/entities, stipulate the consideration and incorporation of forward-looking information, including macroeconomic information, for the determination/recognition of Expected Credit Losses (ECL). The EBA guideline outlines the operational requirement to consider it, while IFRS 9 (via the Delegated Regulation) mandates disclosure on how this information is incorporated for ECL determination.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

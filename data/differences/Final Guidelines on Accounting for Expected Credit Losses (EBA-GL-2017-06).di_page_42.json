@@ -1,0 +1,26 @@
+{
+  "summary": "Two overlaps were identified concerning the criteria for assessing credit risk deterioration. The first overlap exists between the EBA Guidelines on Expected Credit Losses and a CELEX regulation, both of which provide nearly identical lists of factors for determining a significant increase in credit risk, such as rating downgrades and adverse economic conditions. The second overlap is between two separate EBA Guidelines (one on Expected Credit Losses and another on Loan Origination and Monitoring), which both mandate that institutions consider similar macroeconomic and industry-specific signals as indicators of declining credit quality.",
+  "overlaps": [
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_42.json",
+      "excerpt1": "c. a downgrade of a borrower by a recognised credit rating agency, or within a credit institution's internal credit rating system; ... 108. When assessing whether there has been a significant increase in credit risk for a lending exposure, credit institutions should also take into account the following factors which are related to the environment in which a credit institution or the borrower operates: a. deterioration of the macroeconomic outlook relevant to a particular borrower or to a group of borrowers.",
+      "pageNumber1": 42,
+      "filename2": "CELEX_32023R1803_EN_TXT.di_page_627.json",
+      "excerpt2": "(d) an actual or expected significant change in the financial instrument's external credit rating. (e) an actual or expected internal credit rating downgrade for the borrower or decrease in behavioural scoring used to assess credit risk internally. ... (f) existing or forecast adverse changes in business, financial or economic conditions that are expected to cause a significant change in the borrower's ability to meet its debt obligations, such as an actual or expected increase in interest rates or an actual or expected significant increase in unemployment rates.",
+      "pageNumber2": 627,
+      "explanation": "Both documents provide a list of factors for credit institutions to use when assessing a significant increase in credit risk. The lists are substantively identical, covering external and internal rating downgrades and adverse changes in economic conditions. This creates an overlap as both texts regulate the same subject (assessment criteria for significant increase in credit risk) for the same actor (credit institutions) in the same functional context (IFRS 9 impairment accounting).",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_42.json",
+      "excerpt1": "108. When assessing whether there has been a significant increase in credit risk for a lending exposure, credit institutions should also take into account the following factors which are related to the environment in which a credit institution or the borrower operates: a. deterioration of the macroeconomic outlook relevant to a particular borrower or to a group of borrowers. ... b. deterioration of prospects for the sector or industries within which a borrower operates.",
+      "pageNumber1": 42,
+      "filename2": "EBA%20GL%202020%2006%20Final%20Report%20on%20GL%20on%20loan%20origination%20and%20monitoring.di_page_65.json",
+      "excerpt2": "274. As part of their ongoing monitoring of credit risk, institutions should consider the following credit quality deterioration signals: a. negative macroeconomic events (including but not limited to economic development, changes in legislation and technological threats to an industry) affecting the future profitability of an industry, a geographical segment, a group of borrowers or an individual corporate borrower, as well as the increased risk of unemployment for groups of individuals;",
+      "pageNumber2": 65,
+      "explanation": "Both EBA Guidelines require institutions to monitor for signals of credit quality deterioration and provide similar examples of such signals. Both texts identify negative macroeconomic events and deterioration in a borrower's industry as key factors to consider. This constitutes an overlap in the regulatory requirements for credit risk monitoring frameworks for the same type of actor (institutions).",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

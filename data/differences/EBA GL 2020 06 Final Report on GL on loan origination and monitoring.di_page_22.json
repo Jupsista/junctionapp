@@ -1,0 +1,46 @@
+{
+  "summary": "The comparison identified four overlaps concerning the requirements for institutions' internal credit risk management policies and procedures. These overlaps relate to the management of credit risk concentrations, the establishment of credit limits, procedures for handling deviations from credit policies, and rules for the use of collateral. Both the EBA Guidelines and the Basel Framework mandate that institutions have documented policies and controls for these specific areas of credit risk management, demonstrating a consistent regulatory expectation across different frameworks. No contradictions were found.",
+  "overlaps": [
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_22.json",
+      "excerpt1": "e. requirements for exposure aggregation and credit risk limits and the management of credit risk concentrations;",
+      "pageNumber1": 22,
+      "filename2": "BaselFramework.di_page_1293.json",
+      "excerpt2": "32.9 Banks should have in place effective internal policies, systems and controls to identify, measure, monitor, and control their credit risk concentrations.",
+      "pageNumber2": 1293,
+      "explanation": "Both texts require that banks/institutions establish and maintain internal policies, systems, and controls for the specific purpose of managing credit risk concentrations.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_22.json",
+      "excerpt1": "e. requirements for exposure aggregation and credit risk limits and the management of credit risk concentrations;",
+      "pageNumber1": 22,
+      "filename2": "BaselFramework.di_page_1789.json",
+      "excerpt2": "(e) prudent and appropriate credit limits consistent with the bank's risk appetite, risk profile and capital strength, which are understood by and regularly communicated to relevant staff;",
+      "pageNumber2": 1789,
+      "explanation": "Both texts mandate that an institution's credit risk framework must include the establishment of credit limits. The EBA GL requires 'requirements for ... credit risk limits' to be part of the framework, and the Basel Framework specifies that policies must establish 'prudent and appropriate credit limits'.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_22.json",
+      "excerpt1": "h. a risk-based approach, addressing possible deviations from standard credit policies and procedures and credit-granting criteria, including: i. conditions defining the approval process for deviations and exceptions and the specific documentation requirements, including the audit trail;",
+      "pageNumber1": 22,
+      "filename2": "BaselFramework.di_page_1789.json",
+      "excerpt2": "(f) exception tracking and reporting processes that ensure prompt action at the appropriate level of the bank's senior management or board where necessary;",
+      "pageNumber2": 1789,
+      "explanation": "Both texts require institutions to have a formal process for managing deviations or exceptions from standard credit policies. The EBA GL focuses on the approval and documentation of such exceptions, while the Basel Framework emphasizes the need for tracking and reporting processes to ensure prompt action, but both govern the same requirement to manage policy exceptions.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_22.json",
+      "excerpt1": "f. requirements and procedures regarding the acceptance and use of collateral and credit risk mitigation measures, to determine their effectiveness in minimising the inherent risk of a credit facility - such requirements and procedures should be asset class- specific and product type-specific and should duly consider the type, size and complexity of the credit facilities being granted;",
+      "pageNumber1": 22,
+      "filename2": "Final Report on Guidelines on common procedures and methodologies for SREP and supervisory stress testing.di_page_91.json",
+      "excerpt2": "c. the policies and procedures are sound and consistent with the credit risk strategy, and cover all the main businesses and processes relevant to managing, measuring and controlling credit risk, in particular: · credit granting and pricing: for example, borrowers, guarantors and collateral eligibility; credit limits; selection of FMIs, CCPs and correspondent banks; types of credit facilities available; terms and conditions (including collateral and netting agreements requirement) to be applied;",
+      "pageNumber2": 91,
+      "explanation": "Both texts require that an institution's credit risk policies and procedures explicitly cover the topic of collateral. The Loan Origination Guidelines list 'requirements and procedures regarding the acceptance and use of collateral' as a mandatory component, while the SREP Guidelines list 'collateral and netting agreements requirement' as a key element that credit risk policies must cover.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

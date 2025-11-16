@@ -1,0 +1,16 @@
+{
+  "summary": "One overlap was identified between the EBA Guidelines on loan origination and monitoring and a Finnish Financial Supervisory Authority regulation. Both documents provide criteria for creditworthiness assessment at the point of loan origination. While the criteria are similar, focusing on repayment capacity and collateral, the EBA guidelines explicitly state that collateral should be a 'second way out' and not the predominant criterion, whereas the Finnish regulation lists collateral as one of several minimum factors to be considered without the same explicit subordination. This constitutes an overlap as they are divergent but compatible rules governing the same regulatory subject for the same type of actor.",
+  "overlaps": [
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_38.json",
+      "excerpt1": "When assessing the creditworthiness of the borrower, institutions should put emphasis on the borrower's realistic and sustainable future income and future cash flow, and not on available collateral. Collateral by itself should not be a predominant criterion for approving a loan and cannot by itself justify the approval of any loan agreement. Collateral should be considered the institution's second way out in case of default or material deterioration of the risk profile, and not the primary source of repayment, with the exception of when the loan agreement envisages that the repayment of the loan is based on the sale of the property pledged as collateral or liquid collateral provided.",
+      "pageNumber1": 38,
+      "filename2": "2018_04.m3_en.di_page_15.json",
+      "excerpt2": "At a minimum, the following factors must be considered in the context of credit decisions:· the borrower's previous repayment performance, current repayment capacity and estimate of future repayment capacity considering all of its assets and liabilities · the purpose of use of the credit and the source of funds for its repayment (continuity factors must be taken into account) · the funding plan for the project and the proportion of the borrower's equity finance · collateral type, valuation, coverage and realisability",
+      "pageNumber2": 15,
+      "explanation": "Both documents regulate the criteria for creditworthiness assessment by financial institutions when granting a loan. They both mandate the assessment of the borrower's repayment capacity and the role of collateral. The EBA Guideline specifically subordinates the importance of collateral, stating it should not be a 'predominant criterion' and should be considered a 'second way out'. The Finnish FSA regulation lists collateral alongside repayment capacity and other items as a 'minimum' factor to be considered, without the same explicit subordination. This represents an overlap, as they are slightly divergent but compatible rules governing the same regulatory subject (credit granting criteria) for the same actor (institutions).",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

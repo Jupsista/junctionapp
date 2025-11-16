@@ -1,0 +1,46 @@
+{
+  "summary": "The provided text segments demonstrate an overlap in regulatory requirements for credit institutions regarding their internal control mechanisms, sound administration, and accounting procedures for risk management, especially concerning credit risk assessment, monitoring, and provisioning. Both the 'Final Guidelines on Accounting for Expected Credit Losses' and 'Final Guidelines on Management of Non-Performing and Forborne Exposures' refer to these fundamental aspects, with the latter explicitly referencing the former for detailed practices in loss allowances and write-offs.",
+  "overlaps": [
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_7.json",
+      "excerpt1": "Article 74 of Directive 2013/36/EU6 requires credit institutions to have 'adequate internal control mechanisms, including sound administration and accounting procedures ... that are consistent with and promote sound and effective risk management'. Article 79(1) of Directive 2013/36/EU requires competent authorities to ensure that '(b) institutions have internal methodologies that enable them to assess the credit risk of exposures to individual obligors ... and credit risk at the portfolio level' and '(c) the ongoing administration and monitoring of the various risk-bearing portfolios and exposures of institutions, including for identifying and managing problem credits and for making adequate value adjustments and provisions, is operated through effective systems'.",
+      "pageNumber1": 7,
+      "filename2": "Final Guidelines on management of non-performing and forborne exposures.di_page_49.json",
+      "excerpt2": "Credit institutions should adopt, document and adhere to sound policies, procedures and controls for assessing and measuring loss allowances and write-off on NPEs in accordance with the EBA Guidelines on credit risk management practices and accounting for expected credit losses. Credit institutions should back-test their loss allowance estimations against actual losses. These methodologies should also include policies and procedures on write-offs and recoveries as defined in the EBA Guidelines on credit risk management practices and accounting for expected credit losses. The policy on write-offs should include indicators used to assess expectations of recovery and detailed information on those exposures that have been written off but are still subject to enforcement activity. In accordance with the EBA Guidelines on credit risk management practices and accounting for expected credit losses, credit institutions should have in place common processes, systems, tools and data.",
+      "pageNumber2": 49,
+      "explanation": "Both excerpts address the obligation for credit institutions to have sound internal methodologies, policies, procedures, and controls for credit risk management, particularly concerning the assessment, monitoring, and making of adequate value adjustments and provisions/loss allowances for credit exposures. The second excerpt explicitly refers to the guidelines mentioned in the first excerpt, indicating a direct alignment and detailing of the requirements.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_7.json",
+      "excerpt1": "Article 74 of Directive 2013/36/EU6 requires credit institutions to have 'adequate internal control mechanisms, including sound administration and accounting procedures ... that are consistent with and promote sound and effective risk management'. Article 79(1) of Directive 2013/36/EU requires competent authorities to ensure that '(b) institutions have internal methodologies that enable them to assess the credit risk of exposures to individual obligors ... and credit risk at the portfolio level' and '(c) the ongoing administration and monitoring of the various risk-bearing portfolios and exposures of institutions, including for identifying and managing problem credits and for making adequate value adjustments and provisions, is operated through effective systems'.",
+      "pageNumber1": 7,
+      "filename2": "2018_04.m3_en.di_page_20.json",
+      "excerpt2": "In accordance with chapter 9, section 9(1) of the Credit Institutions Act, credit institutions shall have sufficient internal methodologies for the assessment of the credit and counterparty risks with regard to the nature, scope and diversity of the activities of a credit institution. The internal methodologies shall not rely solely or mechanically on external credit ratings concerning the counterparty or financial instrument. ... Supervised entities must have a credit risk rating process in accordance with chapter 4.3.2, paragraphs (42-48) of the EBA Guidelines on credit institutions' credit risk management practices and accounting for expected credit losses.",
+      "pageNumber2": 20,
+      "explanation": "Both excerpts establish the requirement for credit institutions to have internal methodologies for assessing credit risk. The second excerpt explicitly mandates that supervised entities must have a credit risk rating process in accordance with the EBA Guidelines on credit institutions' credit risk management practices and accounting for expected credit losses, which is the subject of the first document. This demonstrates an overlap in the specific requirement for internal methodologies and processes for credit risk assessment.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_7.json",
+      "excerpt1": "Article 74 of Directive 2013/36/EU6 requires credit institutions to have 'adequate internal control mechanisms, including sound administration and accounting procedures ... that are consistent with and promote sound and effective risk management'.",
+      "pageNumber1": 7,
+      "filename2": "Final Guidelines on management of non-performing and forborne exposures.di_page_14.json",
+      "excerpt2": "These guidelines apply in relation to Article 74 of Directive 2013/36/EU,8 which requires institutions to have robust governance arrangements, including a clear organisational structure with well-defined, transparent and consistent lines of responsibility, effective processes to identify, manage, monitor and report the risks they are or might be exposed to and adequate control mechanisms.",
+      "pageNumber2": 14,
+      "explanation": "Both excerpts refer to Article 74 of Directive 2013/36/EU, which mandates institutions to have 'adequate internal control mechanisms' and 'robust governance arrangements' with effective processes to identify, manage, monitor, and report risks. This is a clear overlap in the foundational requirement for internal control and risk management frameworks for credit institutions.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_7.json",
+      "excerpt1": "Article 74 of Directive 2013/36/EU6 requires credit institutions to have 'adequate internal control mechanisms, including sound administration and accounting procedures ... that are consistent with and promote sound and effective risk management'.",
+      "pageNumber1": 7,
+      "filename2": "CELEX_32013L0036_EN_TXT.di_page_44.json",
+      "excerpt2": "Competent authorities shall ensure that: (a) credit-granting is based on sound and well-defined criteria and that the process for approving, amending, renewing, and re-financing credits is clearly established; (b) institutions have internal methodologies that enable them to assess the credit risk of exposures to individual obligors, securities or securitisation positions and credit risk at the portfolio level. In particular, internal methodologies shall not rely solely or mechanistically on external credit ratings. Where own funds requirements are based on a rating by an External Credit Assessment Institution (ECAI) or based on the fact that an exposure is unrated, this shall not exempt institutions from additionally considering other relevant information for assessing their allocation of internal capital; (c) the ongoing administration and monitoring of the various credit risk-bearing portfolios and exposures of institutions, including for identifying and managing problem credits and for making adequate value adjustments and provisions, is operated through effective systems; (d) diversification of credit portfolios is adequate given an institution's target markets and overall credit strategy.",
+      "pageNumber2": 44,
+      "explanation": "Both excerpts derive from Directive 2013/36/EU, specifically Article 74 and Article 79. The first excerpt quotes Article 74 and Article 79(1)(b) and (c). The second excerpt (from the Directive itself) contains the full text of Article 79, which directly mirrors the requirements for institutions to have internal methodologies for assessing credit risk, and for the ongoing administration and monitoring of credit risk-bearing portfolios, including making adequate value adjustments and provisions, as stated in the first excerpt.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

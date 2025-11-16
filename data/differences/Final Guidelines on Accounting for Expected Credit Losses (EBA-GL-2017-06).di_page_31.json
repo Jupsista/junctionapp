@@ -1,0 +1,26 @@
+{
+  "summary": "Two overlaps were identified concerning the methodologies for calculating Expected Credit Losses (ECL). The first overlap requires credit institutions to use a collective assessment for ECL when individual assessments are insufficient, and to incorporate forward-looking macroeconomic information into that assessment. The second overlap mandates that the overall credit risk management process, including the measurement of credit losses, must consider and incorporate current and forward-looking market and macroeconomic factors.",
+  "overlaps": [
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_31.json",
+      "excerpt1": "In cases when a credit institution's individual assessments of exposures do not adequately consider forward-looking information, and in order to allow identification of relationships between forward-looking information and ECL estimates that may not be apparent at the individual level, an institution should group lending exposures with shared credit risk characteristics to estimate the impact of forward-looking information, including macroeconomic factors.",
+      "pageNumber1": 31,
+      "filename2": "CELEX_32023R1803_EN_TXT.di_page_624.json",
+      "excerpt2": "In some circumstances an entity does not have reasonable and supportable information that is available without undue cost or effort to measure lifetime expected credit losses on an individual instrument basis. In that case, lifetime expected credit losses shall be recognised on a collective basis that considers compre- hensive credit risk information. This comprehensive credit risk information must incorporate not only past due information but also all relevant credit information, including forward-looking macroeconomic information, in order to approximate the result of recognising lifetime expected credit losses when there has been a significant increase in credit risk since initial recognition on an individual instrument level.",
+      "pageNumber2": 624,
+      "explanation": "Both texts require credit institutions/entities to perform a collective (grouped) assessment for Expected Credit Losses (ECL) when an individual assessment is insufficient or lacks the necessary information. Both explicitly state that this collective assessment must incorporate forward-looking information, including macroeconomic factors, to ensure a comprehensive view of credit risk. The regulatory subject (methodology for collective ECL assessment), actor (credit institutions), and core requirement are the same.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_31.json",
+      "excerpt1": "When credit institutions use individual assessments, the ECL estimate should always incorporate the expected impact of all reasonable and supportable forward-looking information, including macroeconomic factors, that affect collectability and credit risk.",
+      "pageNumber1": 31,
+      "filename2": "BaselFramework.di_page_1787.json",
+      "excerpt2": "Laws, regulations or the supervisor require banks to have sound credit risk management processes that provide a comprehensive bank-wide view of all credit risk exposures, including a robust methodology for the early identification and appropriate measurement of credit losses. The supervisor determines that the processes are consistent with the risk appetite, risk profile, systemic importance and capital strength of the bank, that they consider current and forward-looking market and macroeconomic factors, and that they result in prudent standards of underwriting, evaluation, administration, monitoring, measurement and control of credit risk.",
+      "pageNumber2": 1787,
+      "explanation": "Both documents mandate that the process for measuring credit losses must incorporate forward-looking information and macroeconomic factors. The EBA Guidelines specify this requirement directly for the ECL estimate, while the Basel Framework establishes it as an essential criterion for a bank's overall credit risk management process, which explicitly includes the measurement of credit losses. The actor (credit institutions/banks), regulatory action (measurement of credit losses), and the specific requirement to include forward-looking and macroeconomic information are the same.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

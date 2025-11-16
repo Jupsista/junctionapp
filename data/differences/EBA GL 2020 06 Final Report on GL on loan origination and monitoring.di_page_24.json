@@ -1,0 +1,16 @@
+{
+  "summary": "One overlap was identified between the two documents. Both texts establish the same requirement for financial institutions to integrate Anti-Money Laundering/Countering Financing of Terrorism (AML/CFT) risk management into their credit granting processes. Specifically, they both mandate that at the individual relationship level, institutions must have policies to identify, assess, and manage ML/TF risks by considering the purpose of the credit and the legitimacy of the source of funds for repayment. One document provides this as a direct guideline for loan origination, while the other lists it as a criterion for supervisory assessment, creating a direct overlap in the underlying obligation for the institution.",
+  "overlaps": [
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_24.json",
+      "excerpt1": "b. at the level of the individual relationship, identify, assess and manage the ML/TF risk associated with this relationship - as part of this, institutions should:\ni. consider the purpose of the credit;\n...iii. in particular, in situations in which the ML/TF risk associated with the individual relationship is established, institutions should take risk-sensitive measures to understand if the funds used to repay the credit, including cash or equivalents provided as collateral, are from legitimate sources.",
+      "pageNumber1": 24,
+      "filename2": "Final Report on Guidelines on common procedures and methodologies for SREP and supervisory stress testing.di_page_91.json",
+      "excerpt2": "d. the policies and procedures also specify how ML/TF risks to which the institution is exposed as a result of the credit granting activities are identified, assessed and managed both at the level of the business (in terms of types of customers served, lending products provided, geographies to which they are exposed and distribution channels used) and at the level of the individual relationship (considering the purpose of the credit, the extent to which the counterparty gives rise to ML/TF risk, and the legitimacy of the source of funds used to repay the credit);",
+      "pageNumber2": 91,
+      "explanation": "Both texts impose the same requirement on institutions to integrate Money Laundering/Terrorist Financing (ML/TF) risk assessment into the credit granting process. They both specify that at the individual relationship level, policies must address how ML/TF risks are identified, assessed, and managed, explicitly mentioning the need to consider 'the purpose of the credit' and 'the legitimacy of the source of funds used to repay the credit'. The first document establishes this requirement in the context of loan origination guidelines, while the second establishes it as a criterion for competent authorities to assess during the Supervisory Review and Evaluation Process (SREP), creating a direct overlap of the same rule.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

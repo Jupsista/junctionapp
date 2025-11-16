@@ -1,0 +1,26 @@
+{
+  "summary": "Two overlaps were identified concerning the governance of credit risk within credit institutions. \n\nThe first overlap is between the EBA Guidelines on Expected Credit Losses and the Capital Requirements Regulation (CRR). Both legal instruments assign the responsibility for approving credit risk frameworks, specifically rating and estimation processes, to the institution's management body, and the responsibility for implementation and operational oversight to senior management. \n\nThe second overlap is between the EBA Guidelines on Expected Credit Losses and the EBA Guidelines on Loan Origination and Monitoring. Both sets of guidelines explicitly require the management body of a credit institution to approve the credit risk strategy. \n\nNo contradictions were found. Other provided texts were not comparable as they addressed different regulatory subjects (e.g., AML/CFT, operational risk, IRRBB), were directed at different primary actors (e.g., competent authorities conducting supervisory reviews), or were high-level principles not imposing direct, specific obligations on the same actor.",
+  "overlaps": [
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_19.json",
+      "excerpt1": "The credit institution's management body should be responsible for approving and regularly reviewing a credit institution's credit risk management strategy and the main policies and processes for identifying, measuring, evaluating, monitoring, reporting and mitigating credit risk... Senior management should be responsible for implementing the credit risk strategy approved by the management body and developing the aforementioned policies and processes.",
+      "pageNumber1": 19,
+      "filename2": "CELEX_32013R0575_EN_TXT.di_page_121.json",
+      "excerpt2": "All material aspects of the rating and estimation processes shall be approved by the institution's management body or a designated committee thereof and senior management. ... Senior management shall be subject to the following requirements: ... (b) they shall have a good understanding of the rating systems designs and operations; (c) they shall ensure, on an ongoing basis that the rating systems are operating properly.",
+      "pageNumber2": 121,
+      "explanation": "Both texts regulate the internal governance of credit risk management for credit institutions. They establish an overlapping responsibility for the management body to approve the core elements of the credit risk framework (strategy, policies, rating/estimation processes) and for senior management to be responsible for its implementation and proper operation.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_19.json",
+      "excerpt1": "The credit institution's management body should be responsible for approving and regularly reviewing a credit institution's credit risk management strategy and the main policies and processes for identifying, measuring, evaluating, monitoring, reporting and mitigating credit risk consistent with the approved risk appetite set by the management body.",
+      "pageNumber1": 19,
+      "filename2": "EBA%20GL%202020%2006%20Final%20Report%20on%20GL%20on%20loan%20origination%20and%20monitoring.di_page_19.json",
+      "excerpt2": "The management body, as referred to in the EBA Guidelines on internal governance, in relation to credit granting, should: a. approve the institution's credit risk strategy, within the overall risk strategy, and business strategy, to ensure that they are in line with the institution's risk appetite framework (RAF), capital and liquidity planning, and are in line with the internal capital adequacy assessment process (ICAAP) and internal liquidity adequacy assessment process (ILAAP), when relevant;",
+      "pageNumber2": 19,
+      "explanation": "Both guidelines regulate the responsibilities of the management body of a credit institution. They contain an overlapping requirement for the management body to approve the institution's credit risk strategy, placing the same obligation on the same actor for the same regulatory action.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

@@ -1,0 +1,26 @@
+{
+  "summary": "The EBA Guidelines on Loan Origination and Monitoring specify various metrics for creditworthiness assessments and credit risk monitoring for both consumer lending and enterprise lending. The Basel Framework, in particular, also defines the 'Debt Service Coverage Ratio' (DSCR) and highlights its importance in the context of commercial real estate and project finance lending, requiring underwriting policies to define such metrics and their relevant levels for assessing the borrower's ability to repay. This creates an overlap because both documents refer to and require the consideration of the Debt Service Coverage Ratio (DSCR) for credit risk assessment.",
+  "overlaps": [
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_75.json",
+      "excerpt1": "B. Lending to micro, small, medium-sized and large enterprises: ... 14. Total debt service coverage ratio (EBITDA) over total debt service",
+      "pageNumber1": 75,
+      "filename2": "BaselFramework.di_page_231.json",
+      "excerpt2": "20.73 National supervisors should ensure that banks put in place underwriting policies with respect to the granting of mortgage loans that include the assessment of the ability of the borrower to repay. Underwriting policies must define a metric(s) (such as the loan's debt service coverage ratio) and specify its (their) corresponding relevant level(s) to conduct such assessment.",
+      "pageNumber2": 231,
+      "explanation": "Both excerpts define or explicitly list 'Debt Service Coverage Ratio' as a metric to be used for assessing the creditworthiness and repayment ability of borrowers (in the context of enterprise lending and mortgage loans, respectively). The EBA GL includes it as a recommended metric for enterprises, while the Basel Framework mandates its definition and use in underwriting policies for mortgage loans, confirming its role in credit risk assessment for similar actor types (institutions/banks lending to enterprises/borrowers) and regulatory action (creditworthiness assessment).",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_75.json",
+      "excerpt1": "A. Lending to consumers: ... 5. LTV",
+      "pageNumber1": 75,
+      "filename2": "BaselFramework.di_page_231.json",
+      "excerpt2": "20.74 The LTV is the amount of the loan divided by the value of the property. When calculating the LTV, the loan amount will be reduced as the loan amortises. The value of the property will be maintained at the value measured at origination, with the following exceptions: (1) The national supervisors elect to require banks to revise the property value downward. If the value has been adjusted downwards, a subsequent upwards adjustment can be made but not to a higher value than the value at origination. (2) The value must be adjusted if an extraordinary, idiosyncratic event occurs resulting in a permanent reduction of the property value.",
+      "pageNumber2": 231,
+      "explanation": "Both documents refer to the 'LTV' (Loan-to-Value) metric for lending. The EBA GL lists LTV as a metric for consumer lending, while the Basel Framework defines LTV in the context of mortgage loans and provides specific rules for its calculation and adjustment. This represents an overlap as both prescribe the use and definition of LTV for credit assessment by institutions.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

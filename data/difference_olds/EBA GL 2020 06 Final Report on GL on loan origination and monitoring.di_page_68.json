@@ -1,0 +1,56 @@
+{
+  "summary": "The provided texts contain several overlaps regarding credit-granting criteria, particularly concerning the assessment of a borrower's creditworthiness, repayment capacity, and the management of collateral and guarantees. Both the EBA Guidelines and the FIN-FSA regulations mandate that supervised entities consider specific factors during the loan origination process for both consumers and enterprises. These factors include customer acceptance criteria, repayment capacity, collateral requirements, and collateral valuation. There are also overlaps in the broad requirement for institutions to have policies and procedures for accepting, monitoring, and valuing collateral.",
+  "overlaps": [
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_68.json",
+      "excerpt1": "Lending to consumers 1. Customer acceptance criteria, i.e. customer types, customer age limits, customer credit record (...) 13. Acceptable maximum size of loan to repayment capacity (...) Lending to micro, small, medium-sized and large enterprises 3. Minimum requirements for revenues, cash flow and financial projections",
+      "pageNumber1": 68,
+      "filename2": "2018_04.m3_en.di_page_15.json",
+      "excerpt2": "(23) At a minimum, the following factors must be considered in the context of credit decisions:2 · the borrower's previous repayment performance, current repayment capacity and estimate of future repayment capacity considering all of its assets and liabilities",
+      "pageNumber2": 15,
+      "explanation": "Both excerpts address the mandatory consideration of a borrower's credit record and repayment capacity during credit decisions. The EBA GL refers to 'customer credit record' and 'Acceptable maximum size of loan to repayment capacity' for consumers, and 'Minimum requirements for revenues, cash flow and financial projections' for enterprises, while the FIN-FSA regulation requires considering 'the borrower's previous repayment performance, current repayment capacity and estimate of future repayment capacity'. These are essentially the same requirement for assessing creditworthiness.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_68.json",
+      "excerpt1": "Lending to consumers (...) 3. Minimum requirements for collateral 4. Minimum requirements for guarantees (...) Lending to micro, small, medium-sized and large enterprises (...) 4. Minimum requirements for collateral 5. Minimum requirements for guarantees and credit enhancements",
+      "pageNumber1": 68,
+      "filename2": "2018_04.m3_en.di_page_15.json",
+      "excerpt2": "(23) At a minimum, the following factors must be considered in the context of credit decisions:2 (...) · collateral type, valuation, coverage and realisability (...) · group of connected clients3, its obligations (incl. guarantee obligations) and the supervised entity's position in terms of priority, preferential rights and collateral",
+      "pageNumber2": 15,
+      "explanation": "Both texts require consideration of collateral and guarantees during the credit-granting process. The EBA GL specifies 'Minimum requirements for collateral' and 'Minimum requirements for guarantees' for both consumer and enterprise lending, while the FIN-FSA regulation includes 'collateral type, valuation, coverage and realisability' and 'guarantee obligations' as factors to be considered in credit decisions. This indicates an overlap in the regulatory subject of collateral and guarantee requirements for loan origination.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_68.json",
+      "excerpt1": "Lending to consumers (...) 9. Acceptable loan-to-value ratio limits (for secured lending) 10. Acceptable loan-to-income ratio limits 11. Acceptable debt-to-income ratio limits 12. Acceptable income-to-total-credit-obligation ratio limits (including for gross income, income after taxes and premiums, income after financial expenses, income after regular other expenses) 13. Acceptable maximum size of loan to repayment capacity",
+      "pageNumber1": 68,
+      "filename2": "L_2023029EN.01000101.json",
+      "excerpt2": "For the purposes of paragraph 1, the authorities designated in accordance with Article 124 (1a) of Regulation (EU) No 575/2013 shall have regard to other macroprudential measures in force that already address the identified systemic risks affecting the appropriateness of the risk weights referred to in Article 124 (2), first subparagraph, of that Regulation, including the following measures in national law designed to enhance the resilience of the financial system: • (a) loan-to-value (LTV) limits; • (b) debt-to-income limits; • (c) debt-service-to-income limits; • (d) other instruments addressing lending standards.",
+      "pageNumber2": 1,
+      "explanation": "Both documents refer to 'loan-to-value (LTV) limits', 'debt-to-income limits', and 'debt-service-to-income limits' as criteria relevant to lending and financial stability. The EBA GL lists these as 'Acceptable loan-to-value ratio limits', 'Acceptable loan-to-income ratio limits', 'Acceptable debt-to-income ratio limits', and 'Acceptable income-to-total-credit-obligation ratio limits' within credit-granting criteria for consumers. The Delegated Regulation mentions these as macroprudential measures to be considered by competent authorities, directly relating to lending standards. This indicates a clear overlap in the regulatory subject of applying and considering these financial ratios in lending.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_68.json",
+      "excerpt1": "This annex provides a set of criteria to be considered in the design and documentation of credit-granting criteria, in accordance with these guidelines. (...) Lending to consumers (...) 3. Minimum requirements for collateral (...) Lending to micro, small, medium-sized and large enterprises (...) 4. Minimum requirements for collateral",
+      "pageNumber1": 68,
+      "filename2": "2018_04.m3_en.di_page_17.json",
+      "excerpt2": "(41) Supervised entities must have documented procedures and guidelines for: · accepting different types of collateral · regularly monitoring and assessing collateral values4 · collateral valuation (hair-cut) · ensuring that collateral is binding, adequate and realisable · identifying any concentrations of risk arising from collateral.",
+      "pageNumber2": 17,
+      "explanation": "Both texts address requirements for collateral in lending. The EBA GL specifies 'Minimum requirements for collateral' as a credit-granting criterion for both consumer and enterprise lending. The FIN-FSA regulation outlines detailed requirements for supervised entities to have documented procedures for 'accepting different types of collateral', 'regularly monitoring and assessing collateral values', 'collateral valuation', and 'ensuring that collateral is binding, adequate and realisable'. This is a direct overlap in the subject of collateral management as part of loan origination.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_68.json",
+      "excerpt1": "This annex provides a set of criteria to be considered in the design and documentation of credit-granting criteria, in accordance with these guidelines. (...) Lending to consumers (...) 3. Minimum requirements for collateral (...) Lending to micro, small, medium-sized and large enterprises (...) 4. Minimum requirements for collateral",
+      "pageNumber1": 68,
+      "filename2": "CELEX_32013R0575_EN_TXT.di_page_127.json",
+      "excerpt2": "2. Unless otherwise specified under Article 124(2), institutions may use as eligible collateral residential property which is or will be occupied or let by the owner, or the beneficial owner in the case of personal investment companies, and commercial immovable property, including offices and other commercial premises, where both the following conditions are met: (a) the value of the property does not materially depend upon the credit quality of the obligor. Institutions may exclude situations where purely macro-economic factors affect both the value of the property and the performance of the borrower from their determination of the materiality of such dependence; (b) the risk of the borrower does not materially depend upon the performance of the underlying property or project, but on the underlying capacity of the borrower to repay the debt from other sources, and as a consequence the repayment of the facility does not materially depend on any cash flow generated by the underlying property serving as collateral.",
+      "pageNumber2": 127,
+      "explanation": "Both documents establish criteria for acceptable collateral. The EBA GL refers to 'Minimum requirements for collateral' as a credit-granting criterion. CRR Article 208(2) (from which this excerpt is taken by reference) specifies conditions for 'eligible collateral' concerning residential and commercial immovable property, including requirements that the property value and borrower's risk not materially depend on each other. This is an overlap in defining the conditions for what constitutes acceptable collateral in lending.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

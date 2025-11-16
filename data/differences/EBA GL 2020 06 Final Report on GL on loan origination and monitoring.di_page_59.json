@@ -1,0 +1,16 @@
+{
+  "summary": "One contradiction was identified between the EBA Guidelines on Loan Origination and Monitoring and the EBA Guidelines on Management of Non-performing and Forborne Exposures regarding the use of statistical models for collateral valuation. The former sets general capability requirements for 'any' statistical model-based valuation, implying its broad applicability, while the latter explicitly prohibits using such models as the sole means for valuing immovable property for non-performing exposures, creating a specific restriction that contradicts the general permissiveness of the first rule.",
+  "overlaps": [],
+  "contradictions": [
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_59.json",
+      "excerpt1": "Institutions should have adequate IT processes, systems and capabilities in place and sufficient and accurate data for the purposes of any statistical model-based valuation or revaluation of collateral.",
+      "pageNumber1": 59,
+      "filename2": "Final%20Guidelines%20on%20management%20of%20non-performing%20and%20forborne%20exposures.di_page_51.json",
+      "excerpt2": "Valuations and revaluations of immovable property collateral should not be carried out using a statistical model as the sole means of undertaking the review of the property valuation.",
+      "pageNumber2": 51,
+      "explanation": "One guideline states that institutions should have adequate IT systems and data for 'any' statistical model-based valuation of collateral, which implies a general allowance for this practice. Another guideline, specific to non-performing exposures (NPEs), states that valuations of immovable property collateral 'should not be carried out using a statistical model as the sole means' of valuation. This specific prohibition contradicts the general permissiveness implied by the first guideline for this particular subset of collateral valuation (immovable property for NPEs). The rules are different but can both be complied with, meeting the definition of a contradiction.",
+      "type": "CONTRADICTION"
+    }
+  ]
+}

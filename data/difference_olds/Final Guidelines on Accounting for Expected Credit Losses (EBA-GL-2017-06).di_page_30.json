@@ -1,0 +1,26 @@
+{
+  "summary": "The EBA Guidelines and CELEX 32023R1803 (IFRS 9) both address the calculation and assessment of Expected Credit Losses (ECL) by credit institutions. They both mandate the use of forward-looking information, including macroeconomic factors, in determining ECL allowances. Furthermore, both documents specify that entities may use individual or collective assessment approaches, particularly when individual instrument-level information is not readily available, to ensure the adequate reflection of credit risk.",
+  "overlaps": [
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_30.json",
+      "excerpt1": "Credit institutions should consider information which goes beyond historical and current data, and take into account reasonable and supportable forward-looking information, including macroeconomic factors, that are relevant to the exposure(s) being evaluated (for example retail or wholesale) in accordance with the applicable accounting framework.",
+      "pageNumber1": 30,
+      "filename2": "CELEX_32023R1803_EN_TXT.di_page_624.json",
+      "excerpt2": "This comprehensive credit risk information must incorporate not only past due information but also all relevant credit information, including forward-looking macroeconomic information, in order to approximate the result of recognising lifetime expected credit losses when there has been a significant increase in credit risk since initial recognition on an individual instrument level.",
+      "pageNumber2": 624,
+      "explanation": "Both excerpts require credit institutions (or entities, which include credit institutions) to incorporate forward-looking macroeconomic information when assessing expected credit losses. The EBA Guidelines state that credit institutions 'should consider information which goes beyond historical and current data, and take into account reasonable and supportable forward-looking information, including macroeconomic factors.' Similarly, CELEX 32023R1803 (IFRS 9) mandates that 'comprehensive credit risk information must incorporate not only past due information but also all relevant credit information, including forward-looking macroeconomic information.' This demonstrates a clear overlap in the requirement for using forward-looking macroeconomic data in ECL assessment.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_30.json",
+      "excerpt1": "Depending on the ability to incorporate forward-looking information into the ECL estimate, credit institutions may use individual or collective assessment approaches; regardless of the assessment approach used, they should be consistent with the relevant accounting requirements and not result in materially different allowance measurements. Together, individual and collective assessments form the basis for the allowance for ECL.",
+      "pageNumber1": 30,
+      "filename2": "CELEX_32023R1803_EN_TXT.di_page_624.json",
+      "excerpt2": "In some circumstances an entity does not have reasonable and supportable information that is available without undue cost or effort to measure lifetime expected credit losses on an individual instrument basis. In that case, lifetime expected credit losses shall be recognised on a collective basis that considers compre- hensive credit risk information.",
+      "pageNumber2": 624,
+      "explanation": "Both documents provide for the use of individual or collective assessment approaches for Expected Credit Losses (ECL). The EBA Guidelines explicitly state that 'credit institutions may use individual or collective assessment approaches' for ECL estimates. CELEX 32023R1803 (IFRS 9) echoes this by stating that 'if... an entity does not have reasonable and supportable information... to measure lifetime expected credit losses on an individual instrument basis... lifetime expected credit losses shall be recognised on a collective basis'. This indicates a shared principle that collective assessment is permissible, particularly when individual assessment is impractical or unavailable.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

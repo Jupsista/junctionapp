@@ -1,0 +1,36 @@
+{
+  "summary": "Three overlaps were identified regarding the methodologies for calculating Expected Credit Losses (ECL). The first overlap is between the main EBA Guideline on ECL and a specific EBA Guideline on Non-Performing Exposures, where the latter explicitly cross-references and reiterates the requirements of the former. The second overlap occurs where a Finnish national regulation directly incorporates the requirements of the main EBA Guideline, making it binding for supervised entities in that jurisdiction. The third overlap is between the EBA Guideline and the underlying IFRS 9 accounting standard, where both texts require that ECL assessment can be performed on a collective basis.",
+  "overlaps": [
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_20.json",
+      "excerpt1": "Credit institutions should adopt, document and adhere to policies which include sound methodologies, procedures and controls for assessing and measuring credit risk on all lending exposures. The measurement of allowances should build upon those methodologies and result in the appropriate and timely recognition of ECL in accordance with the applicable accounting framework.",
+      "pageNumber1": 20,
+      "filename2": "Final%20Guidelines%20on%20management%20of%20non-performing%20and%20forborne%20exposures.di_page_49.json",
+      "excerpt2": "174. Credit institutions should adopt, document and adhere to sound policies, procedures and controls for assessing and measuring loss allowances and write-off on NPEs in accordance with the EBA Guidelines on credit risk management practices and accounting for expected credit losses.",
+      "pageNumber2": 49,
+      "explanation": "Both texts impose an identical requirement on credit institutions to adopt, document, and adhere to sound policies and procedures for measuring credit losses. The first text establishes this as a general principle for all lending exposures, while the second text explicitly makes this requirement applicable to Non-Performing Exposures (NPEs) by directly cross-referencing the first guideline. This creates a direct overlap in the regulatory obligation for the same actor.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_20.json",
+      "excerpt1": "Credit institutions should adopt, document and adhere to policies which include sound methodologies, procedures and controls for assessing and measuring credit risk on all lending exposures.",
+      "pageNumber1": 20,
+      "filename2": "2018_04.m3_en.di_page_20.json",
+      "excerpt2": "(73) Supervised entities must have a credit risk rating process in accordance with chapter 4.3.2, paragraphs (42-48) of the EBA Guidelines on credit institutions' credit risk management practices and accounting for expected credit losses.",
+      "pageNumber2": 20,
+      "explanation": "Both documents regulate the credit risk management processes for credit institutions (referred to as 'supervised entities' in the second text). The EBA Guideline establishes comprehensive principles for methodologies for measuring credit risk. The Finnish FSA regulation directly incorporates the EBA Guideline by reference, mandating that supervised entities' credit risk rating processes must be in accordance with it. This creates a direct overlap where a national rule enforces a pan-EU guideline.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_20.json",
+      "excerpt1": "an assessment policy that ensures ECL measurement occurs at the individual lending exposure level and also, when necessary to appropriately measure ECL in accordance with the applicable accounting framework, at the collective portfolio level by grouping exposures based on identified shared credit risk characteristics;",
+      "pageNumber1": 20,
+      "filename2": "CELEX_32023R1803_EN_TXT.di_page_624.json",
+      "excerpt2": "In order to meet the objective of recognising lifetime expected credit losses for significant increases in credit risk since initial recognition, it may be necessary to perform the assessment of significant increases in credit risk on a collective basis by considering information that is indicative of significant increases in credit risk on, for example, a group or sub-group of financial instruments.",
+      "pageNumber2": 624,
+      "explanation": "Both texts regulate the methodology for assessing credit risk for Expected Credit Loss (ECL) purposes for the same actor type (credit institutions). The EBA Guideline requires an assessment policy that facilitates ECL measurement at both an individual and collective level. The second text, containing the underlying IFRS 9 accounting principles, establishes that it may be necessary to perform this assessment on a collective basis. The EBA Guideline translates the accounting principle into a prudential requirement, creating an overlap on the need for collective assessment capabilities.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

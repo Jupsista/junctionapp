@@ -1,0 +1,16 @@
+{
+  "summary": "An overlap was identified where the 'Guidelines on management of non-performing and forborne exposures' explicitly require credit institutions to adhere to the 'Guidelines on credit institutions' credit risk management practices and accounting for expected credit losses'. This creates a direct application of the rules from the first document to the context of the second, concerning the same regulatory action (assessing and measuring loss allowances) for the same actor type (credit institutions).",
+  "overlaps": [
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_13.json",
+      "excerpt1": "These guidelines specify sound credit risk management practices for credit institutions associated with the implementation and ongoing application of expected credit loss ('ECL') accounting frameworks.",
+      "pageNumber1": 13,
+      "filename2": "Final%20Guidelines%20on%20management%20of%20non-performing%20and%20forborne%20exposures.di_page_49.json",
+      "excerpt2": "Credit institutions should adopt, document and adhere to sound policies, procedures and controls for assessing and measuring loss allowances and write-off on NPEs in accordance with the EBA Guidelines on credit risk management practices and accounting for expected credit losses.",
+      "pageNumber2": 49,
+      "explanation": "The guidelines on managing non-performing exposures explicitly mandate that credit institutions must follow the 'Guidelines on credit risk management practices and accounting for expected credit losses' when creating policies for assessing and measuring loss allowances for non-performing exposures. This creates a direct overlap by incorporating the requirements of one set of guidelines into the other for the same actor (credit institutions) and regulatory subject (practices for measuring credit loss allowances).",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

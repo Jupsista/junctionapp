@@ -1,0 +1,46 @@
+{
+  "summary": "The provided EBA guidelines consistently outline the compliance and reporting obligations for competent authorities and financial institutions regarding EBA guidelines issued under Article 16 of Regulation (EU) No 1093/2010. Specifically, they all require competent authorities to make every effort to comply, incorporate the guidelines into their practices, notify the EBA of their compliance status by a given deadline, and use the compliance@eba.europa.eu email address with a specific reference number for each set of guidelines. Notifications of compliance status changes must also be reported and will be published on the EBA website. While the specific reference numbers and notification deadlines vary between the different sets of guidelines, the underlying procedural and substantive obligations for compliance and reporting are identical or nearly identical.",
+  "overlaps": [
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_13.json",
+      "excerpt1": "1. This document contains guidelines issued pursuant to Article 16 of Regulation (EU) No 1093/201010. In accordance with Article 16(3) of Regulation (EU) No 1093/2010, competent authorities and financial institutions must make every effort to comply with the guidelines.",
+      "pageNumber1": 13,
+      "filename2": "Final%20Guidelines%20on%20Accounting%20for%20Expected%20Credit%20Losses%20(EBA-GL-2017-06).di_page_12.json",
+      "excerpt2": "1. This document contains guidelines issued pursuant to Article 16 of Regulation (EU) No 1093/2010 15. In accordance with Article 16(3) of Regulation (EU) No 1093/2010, competent authorities and financial institutions must make every effort to comply with the guidelines.",
+      "pageNumber2": 12,
+      "explanation": "Both excerpts state the general obligation for competent authorities and financial institutions to make every effort to comply with the guidelines, citing Article 16(3) of Regulation (EU) No 1093/2010. This is an identical requirement for the same actor types and regulatory subject (compliance with EBA guidelines).",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_13.json",
+      "excerpt1": "2. The guidelines set the European Banking Authority's (EBA's) view of appropriate supervisory practices within the European System of Financial Supervision or of how Union law should be applied in a particular area. Competent authorities, as defined in Article 4(2) of Regulation (EU) No 1093/2010, to whom guidelines apply should comply by incorporating them into their practices as appropriate (e.g. by amending their legal framework or their supervisory processes), including when guidelines are directed primarily at institutions.",
+      "pageNumber1": 13,
+      "filename2": "Final%20Guidelines%20on%20Accounting%20for%20Expected%20Credit%20Losses%20(EBA-GL-2017-06).di_page_12.json",
+      "excerpt2": "2. Guidelines set the EBA view of appropriate supervisory practices within the European System of Financial Supervision (ESFS) or of how Union law should be applied in a particular area. Competent authorities as defined in Article 4(2) of Regulation (EU) No 1093/2010 to whom guidelines apply should comply by incorporating them into their practices as appropriate (e.g. by amending their legal framework or their supervisory processes), including where guidelines are directed primarily at institutions.",
+      "pageNumber2": 12,
+      "explanation": "Both excerpts define the nature of the EBA guidelines and impose the obligation on competent authorities to comply by incorporating them into their practices (e.g., amending legal frameworks or supervisory processes). This is an identical requirement for the same actor types and regulatory subject.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_13.json",
+      "excerpt1": "3. According to Article 16(3) of Regulation (EU) No 1093/2010, competent authorities must notify the EBA whether they comply or intend to comply with these guidelines, or otherwise with reasons for non-compliance, by (. In the absence of any notification by this deadline, competent authorities will be considered by the EBA to be non-compliant. Notifications should be sent by submitting the form available on the EBA website to compliance@eba.europa.eu, with the reference 'EBA/GL/2020/06'. Notifications should be submitted by persons with appropriate authority to report compliance on behalf of their competent authorities. Any change in the status of compliance must also be reported to the EBA.",
+      "pageNumber1": 13,
+      "filename2": "Final%20Guidelines%20on%20Accounting%20for%20Expected%20Credit%20Losses%20(EBA-GL-2017-06).di_page_12.json",
+      "excerpt2": "3. According to Article 16(3) of Regulation (EU) No 1093/2010, competent authorities must notify the EBA as to whether they comply or intend to comply with these guidelines, or otherwise with reasons for non-compliance, by ([dd.mm.yyyy]). In the absence of any notification by this deadline, competent authorities will be considered by the EBA to be non- compliant. Notifications should be sent by submitting the form available on the EBA website to compliance@eba.europa.eu with the reference 'EBA/GL/2017/06'. Notifications should be submitted by persons with appropriate authority to report compliance on behalf of their competent authorities. Any change in the status of compliance must also be reported to the EBA.",
+      "pageNumber2": 12,
+      "explanation": "Both excerpts outline the identical reporting requirements for competent authorities: to notify the EBA of their compliance status or reasons for non-compliance by a deadline, the consequence of not doing so, the email address and method for submission, the requirement for appropriate authority, and the need to report changes in compliance status. The only differences are the placeholder for the specific deadline and the guidelines' reference number, which are specific to each document but the underlying rule is the same.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_13.json",
+      "excerpt1": "4. Notifications will be published on the EBA website, in line with Article 16(3) of Regulation (EU) No 1093/2010.",
+      "pageNumber1": 13,
+      "filename2": "Final%20Guidelines%20on%20Accounting%20for%20Expected%20Credit%20Losses%20(EBA-GL-2017-06).di_page_12.json",
+      "excerpt2": "4. Notifications will be published on the EBA website, in line with Article 16(3).",
+      "pageNumber2": 12,
+      "explanation": "Both excerpts state that notifications of compliance will be published on the EBA website in line with Article 16(3) of Regulation (EU) No 1093/2010. This is an identical requirement concerning the publication of compliance notifications.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

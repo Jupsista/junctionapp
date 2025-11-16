@@ -1,0 +1,36 @@
+{
+  "summary": "The analysis compared guidelines for credit institutions on accounting for expected credit losses with the underlying IFRS 9 regulation. Three overlaps were identified where both documents regulate the assessment of a 'significant increase in credit risk'. Specifically, they both address the use of internal credit management actions, internal rating downgrades, and the initial credit risk level as factors in this assessment. The EBA Guidelines provide more detailed, explanatory guidance that complements and reinforces the principles set out in the IFRS 9 text, rather than diverging from them. No contradictions were found.",
+  "overlaps": [
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_43.json",
+      "excerpt1": "Credit institutions should give thorough consideration and full weight to discretionary decisions by a credit institution's management body or senior management which point to a change in credit risk. For example, if because of concerns about credit risk a decision is made to intensify the monitoring of a borrower or class of borrowers, it is unlikely that such action would have been taken by the decision-maker had the increase in credit risk not been perceived as significant.",
+      "pageNumber1": 43,
+      "filename2": "CELEX_32023R1803_EN_TXT.di_page_628.json",
+      "excerpt2": "(o) changes in the entity's credit management approach in relation to the financial instrument; ie based on emerging indicators of changes in the credit risk of the financial instrument, the entity's credit risk management practice is expected to become more active or to be focused on managing the instrument, including the instrument becoming more closely monitored or controlled, or the entity specifically intervening with the borrower.",
+      "pageNumber2": 628,
+      "explanation": "Both texts regulate the same subject: using changes in the credit management approach, specifically intensified monitoring, as an indicator of a significant increase in credit risk for an exposure. The EBA Guideline provides a specific example and rationale that directly corresponds to the principle outlined in the IFRS 9 implementation guidance.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_43.json",
+      "excerpt1": "Credit institutions should look beyond how many 'grades' a rating downgrade entails because the change in PD for a one-grade movement may not be linear... Furthermore, because the significance of a one-grade movement would depend on the granularity of a bank's rating system - and hence the 'width' of each grade - an appropriate initial segmentation should be defined to ensure that a significant increase in credit risk for an individual lending exposure or a group of lending exposures is not obscured within a segment... Credit institutions should also be mindful of the fact that a significant increase in credit risk could occur prior to a movement in a credit grade.",
+      "pageNumber1": 43,
+      "filename2": "CELEX_32023R1803_EN_TXT.di_page_627.json",
+      "excerpt2": "(e) an actual or expected internal credit rating downgrade for the borrower or decrease in behavioural scoring used to assess credit risk internally. Internal credit ratings and internal behavioural scoring are more reliable when they are mapped to external ratings or supported by default studies.",
+      "pageNumber2": 627,
+      "explanation": "Both texts address the use of an internal credit rating downgrade as an indicator of a significant increase in credit risk. The IFRS 9 text lists it as a potential indicator, while the EBA Guideline provides specific, detailed guidance on how credit institutions should interpret this indicator, cautioning against a purely mechanical application and highlighting the importance of the rating system's granularity.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_43.json",
+      "excerpt1": "Credit institutions should take into account that there are some circumstances in which an adverse movement in the factors listed in paragraphs 107 and 108 above might not be indicative of a significant increase in credit risk. For example, it may be the case that the default probability of a lending exposure rated AA is low, and not much greater than one rated AAA.",
+      "pageNumber1": 43,
+      "filename2": "CELEX_32023R1803_EN_TXT.di_page_625.json",
+      "excerpt2": "The significance of a change in the credit risk since initial recognition depends on the risk of a default occurring as at initial recognition. Thus, a given change, in absolute terms, in the risk of a default occurring will be more significant for a financial instrument with a lower initial risk of a default occurring compared to a financial instrument with a higher initial risk of a default occurring.",
+      "pageNumber2": 625,
+      "explanation": "Both texts regulate the same principle for assessing a significant increase in credit risk: the significance of a change is relative to the initial risk of default. The IFRS 9 text states the general principle that a given change in default risk is more significant for an initially lower-risk instrument. The EBA Guideline provides a specific example of this principle, noting that a rating change for a very low-risk exposure (e.g., AA to AAA) might not be significant.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

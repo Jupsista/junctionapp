@@ -1,0 +1,26 @@
+{
+  "summary": "Two overlaps were identified concerning the governance of leveraged transactions and controls for credit risk models. The first overlap occurs because both the EBA Guidelines and a Finnish FSA regulation impose frameworks for managing leveraged transactions, with the Finnish regulation referencing separate ECB guidance. The second overlap exists between EBA Guidelines on technology-enabled credit granting and the Basel Framework, as both mandate effective controls, validation, and data quality management for models used in credit risk processes by financial institutions.",
+  "overlaps": [
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_25.json",
+      "excerpt1": "51. Institutions should establish a sound governance structure for leveraged transactions, enabling a comprehensive and consistent oversight of all leveraged transactions originated, syndicated or purchased by them, including, when relevant, 'best efforts' deals and 'club deals', as well as standard bilateral loans to micro, small, medium-sized and large enterprises.",
+      "pageNumber1": 25,
+      "filename2": "2018_04.m3_en.di_page_16.json",
+      "excerpt2": "(30) The ECB has provided guidance on the definition of high-leverage projects, and the risk strategy, organisation, syndication, credit analysis, credit granting process, monitoring, secondary-market activity as well as reporting and systems in such projects (Guidance on leveraged transactions).\n(31) The FIN-FSA recommends that supervised entities comply with the ECB Guidance referred to in paragraph (30).",
+      "pageNumber2": 16,
+      "explanation": "Both documents establish rules for institutions regarding the governance and risk management of leveraged transactions. The EBA GL 2020/06 sets specific requirements for governance, risk appetite, and approval processes. The FIN-FSA document directs supervised entities to comply with a separate ECB Guidance on the same topic, covering risk strategy, organisation, and processes. These constitute different sets of rules from different authorities governing the same regulatory subject.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_25.json",
+      "excerpt1": "53. When using technology-enabled innovation for credit-granting purposes, institutions should do the following: ... c. Understand the underlying models used, including their capabilities, assumptions and limitations, along with ensuring their traceability, auditability, and robustness and resilience. ... e. Understand the quality of data and inputs to the model and detect and prevent bias in the credit decision-making process... f. Ensure the performance of the model...is continuously monitored...",
+      "pageNumber1": 25,
+      "filename2": "BaselFramework.di_page_1789.json",
+      "excerpt2": "(g) effective controls (including in respect of the quality, reliability and relevance of data and in respect of validation procedures) around the use of models to identify and measure credit risk and set limits.",
+      "pageNumber2": 1789,
+      "explanation": "Both texts regulate the governance and controls for models used in credit risk management by institutions. The EBA Guidelines detail requirements for models in credit granting, covering model robustness, data quality, and performance monitoring. Similarly, the Basel Framework requires effective controls, including data quality and validation, for models used to identify and measure credit risk. They address the same regulatory action and functional context for the same type of actor.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

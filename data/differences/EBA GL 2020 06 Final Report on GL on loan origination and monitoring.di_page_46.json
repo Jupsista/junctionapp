@@ -1,0 +1,16 @@
+{
+  "summary": "One overlap was identified between the EBA Guidelines on loan origination and the Basel Framework's supervisory slotting criteria for specialized lending. Both documents provide detailed, parallel sets of criteria for assessing the credit risk of commercial real estate loans, focusing on factors like cash flow predictability, tenant quality, and sponsor experience. The EBA GL sets these out as general assessment requirements, while the Basel Framework organizes similar factors into a structured table for categorizing risk. This constitutes an overlap as they are divergent rules governing the same regulatory subject for the same type of actor.",
+  "overlaps": [
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_46.json",
+      "excerpt1": "170. Institutions should carry out an assessment of the income-producing capacity of the property and an assessment of the prospect of refinancing. ... 171. In the assessment of the borrower's repayment capacity, institutions should assess, where relevant: a. the sustainability of the cash flow; b. the quality of the tenants, the impact of changes to current rental income on the amortisation schedule, lease terms, maturities and conditions, and payment history of the tenant if already in place; C. reletting prospects...",
+      "pageNumber1": 46,
+      "filename2": "BaselFramework.di_page_346.json",
+      "excerpt2": "Cash-flow predictability\nThe property's leases are of various terms with tenants that range in creditworthiness. The property experiences a very high level of tenant turnover upon lease expiration. Its vacancy rate is high. ... Most of the property's leases are long-term, with tenants that range in creditworthiness. The property experiences a normal level of tenant turnover upon lease expiration. Its vacancy rate is low. Expenses are predictable",
+      "pageNumber2": 346,
+      "explanation": "Both documents establish criteria for the credit risk assessment of commercial real estate loans by financial institutions. The EBA Guidelines require an assessment of the 'income-producing capacity', including 'sustainability of the cash flow' and 'quality of the tenants'. The Basel Framework provides supervisory slotting criteria for income-producing real estate which includes a 'Cash-flow predictability' factor based on lease terms, tenant creditworthiness, and vacancy rates. These are divergent rules (guidelines vs. a rating framework) that govern the same regulatory subject: the specific factors to be analyzed in CRE credit assessment.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

@@ -1,0 +1,56 @@
+{
+  "summary": "The provided text segments contain several overlaps concerning the general requirements for institutions to establish, implement, and maintain a sound credit risk culture, and to align their remuneration frameworks and credit risk strategies with their overall risk appetite. Both the EBA Guidelines on Loan Origination and Monitoring and the EBA Guidelines on Internal Governance emphasize the importance of a 'tone from the top,' staff accountability, and the effective communication and implementation of risk culture across all levels of the institution. Furthermore, the alignment of remuneration policies for staff with risk profiles and the institution's long-term interests is a common theme. Specific references to credit risk management practices, including the role of the management body and senior management in setting and monitoring credit risk strategies, are also consistently addressed across multiple documents.",
+  "overlaps": [
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_20.json",
+      "excerpt1": "26. Institutions should develop a credit risk culture as part of the overall risk culture through policies, communication and staff training, in accordance with the EBA Guidelines on internal governance.",
+      "pageNumber1": 20,
+      "filename2": "Final report on Guidelines on internal governance under CRD.di_page_37.json",
+      "excerpt2": "95. Institutions should develop an integrated and institution-wide risk culture, based on a full understanding and holistic view of the risks they face and how they are managed, taking into account the institution's risk appetite. 96. Institutions should develop a risk culture through policies, communication and staff training regarding the institutions' activities, strategy and risk profile, and should adapt communication and staff training to take into account staff's responsibilities regarding risk- taking and risk management.",
+      "pageNumber2": 37,
+      "explanation": "Both excerpts explicitly state that institutions should develop a risk culture (specifically, a credit risk culture in excerpt 1, and an integrated institution-wide risk culture in excerpt 2) through policies, communication, and staff training. The requirements are the same for the same actor (institutions) and address the same regulatory action (developing a risk culture).",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_20.json",
+      "excerpt1": "27. The credit risk culture should include an adequate 'tone from the top' and ensure that credit is granted to borrowers who, to the institution's best knowledge at the time of granting the credit, will be able to fulfil the terms and conditions of the credit agreement, and is secured, when relevant, by sufficient and appropriate collateral, where relevant, and considering the impact on the institution's capital position and profitability, and sustainability, and related environmental, social and governance (ESG) factors. 28. Institutions should ensure that a credit risk culture is implemented effectively across all levels of the institution, and that all members of staff involved in the credit risk-taking, credit risk management and monitoring processes are fully aware of it and they will be held accountable for their actions. 29. Institutions should adopt policies and processes to monitor adherence of all staff members involved in credit-granting, monitoring and control processes to the institution's credit risk culture (e.g. by means of self-assessments carried out by staff members).",
+      "pageNumber1": 20,
+      "filename2": "Final report on Guidelines on internal governance under CRD.di_page_37.json",
+      "excerpt2": "98. A strong risk culture should include but is not necessarily limited to: a. Tone from the top: the management body should be responsible for setting and communicating the institution's core values and expectations. The behaviour of its members should reflect the values. Institutions' management, including key function holders, should contribute to the internal communication of core values and expectations to staff. Staff should act in accordance with all applicable laws and regulations and promptly escalate observed non-compliance within or outside the institution (e.g. to the competent authority through a whistleblowing process). The management body should on an ongoing basis promote, monitor and assess the risk culture of the institution; consider the impact of the risk culture on the financial stability, risk profile and robust governance of the institution; and make changes where necessary. b. Accountability: relevant staff at all levels should know and understand the core values of the institution and, to the extent necessary for their role, its risk appetite and risk capacity. They should be capable of performing their roles and be aware that they will be held accountable for their actions in relation to the institution's risk-taking behaviour.",
+      "pageNumber2": 37,
+      "explanation": "Both excerpts detail components of a strong risk culture. Excerpt 1 mentions 'adequate 'tone from the top'' and ensuring staff are 'held accountable for their actions' regarding credit risk culture, and that it is 'implemented effectively across all levels of the institution'. Excerpt 2 explicitly lists 'Tone from the top' as the management body's responsibility and 'Accountability' for relevant staff at all levels for their actions in relation to risk-taking behavior, ensuring a consistent approach to risk culture implementation and governance.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_20.json",
+      "excerpt1": "h. ensure that the remuneration framework, including any relevant performance targets, and the performance assessment framework for credit decision-makers who are identified staff remain aligned with the credit risk and credit risk appetite.",
+      "pageNumber1": 20,
+      "filename2": "Draft Final report on GL on remuneration policies under CRD.di_page_8.json",
+      "excerpt2": "15. The gender-neutral remuneration policy for all staff, including identified staff, must be consistent with and promote sound and effective risk management. The remuneration policy should be consistent with the long-term strategy of the institution including the overall business strategy, the corresponding risk strategy and appetite, including all risk types (e.g. credit, market, operational, liquidity, reputational and other risks).",
+      "pageNumber2": 8,
+      "explanation": "Both excerpts address the requirement for the remuneration framework/policy to be aligned with the institution's risk appetite and risk management. Excerpt 1 focuses on credit decision-makers and alignment with 'credit risk and credit risk appetite,' while excerpt 2 provides a broader principle for all staff (including identified staff) to align remuneration with the institution's 'risk strategy and appetite, including all risk types'. This is a clear overlap in the principle of aligning remuneration with risk appetite.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_20.json",
+      "excerpt1": "30. The credit risk appetite, credit risk strategy and the overall credit risk policy should be aligned with the institution's overall RAF. The institution's credit risk appetite should specify the scope and focus of the credit risk of the institution, the composition of the credit portfolio, including its concentration, and diversification objectives in relation to business lines, geographies, economic sectors and products. 31. The credit risk appetite should be implemented with the support of appropriate credit risk metrics and limits.",
+      "pageNumber1": 20,
+      "filename2": "Final Report on Guidelines on common procedures and methodologies for SREP and supervisory stress testing.di_page_89.json",
+      "excerpt2": "222. Competent authorities should assess whether the institution has a sound, clearly formulated and documented credit risk appetite, strategy and limits approved by the management body. For this assessment, among other factors, competent authorities should take into account: a. whether the management body clearly expresses the credit risk strategy and appetite, as well as the process for their review; b. whether senior management properly implements and monitors the credit risk strategy approved by the management body, ensuring that the institution's activities are consistent with the established strategy, that written procedures are drawn up and implemented, and that responsibilities are clearly and properly assigned; c. whether the institution's credit and counterparty risk strategy reflects the institution's appetite levels for credit risk and whether it is consistent with the overall risk appetite; d. whether the institution's credit risk strategy is appropriate for the institution given its: · business model; · overall risk appetite; . market environment and role in the financial system; and · financial condition, funding capacity and adequacy of own funds;",
+      "pageNumber2": 89,
+      "explanation": "Both excerpts refer to the institution's credit risk appetite and strategy, stating that they should be clearly formulated and aligned with the overall risk appetite framework (RAF). Excerpt 1 requires the credit risk appetite to specify scope, focus, composition, concentration, and diversification, and be supported by metrics and limits. Excerpt 2 details supervisory assessment of these same elements, including approval by the management body and proper implementation and monitoring by senior management. This constitutes a direct overlap in the regulatory subject of credit risk appetite and strategy.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_20.json",
+      "excerpt1": "31. The credit risk appetite should be implemented with the support of appropriate credit risk metrics and limits. These metrics and limits should cover key aspects of the credit risk appetite, as well as client segments, currency, collateral types and credit risk mitigation instruments.",
+      "pageNumber1": 20,
+      "filename2": "BaselFramework.di_page_1789.json",
+      "excerpt2": "e) prudent and appropriate credit limits consistent with the bank's risk appetite, risk profile and capital strength, which are understood by and regularly communicated to relevant staff;",
+      "pageNumber2": 1789,
+      "explanation": "Both excerpts address the necessity of having credit limits that are consistent with the institution's risk appetite. Excerpt 1 specifies that these limits should cover various aspects like client segments and collateral types, while excerpt 2 emphasizes their prudence, appropriateness, and communication to staff. This is an overlap on the requirement for credit limits aligned with risk appetite.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

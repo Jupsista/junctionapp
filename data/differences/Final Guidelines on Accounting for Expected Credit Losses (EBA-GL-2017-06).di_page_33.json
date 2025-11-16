@@ -1,0 +1,26 @@
+{
+  "summary": "The analysis found two overlaps concerning the requirement for credit institutions to use forward-looking information and macroeconomic factors in their credit risk management and Expected Credit Loss (ECL) estimation processes. The EBA Guidelines overlap with principles in both the EU's implementation of IFRS 9 and the Basel Framework, all of which mandate the consideration of such forward-looking data.",
+  "overlaps": [
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_33.json",
+      "excerpt1": "Credit institutions should use their experienced credit judgement to thoroughly incorporate the expected impact of all reasonable and supportable forward-looking information, including macroeconomic factors, on its estimate of ECL.",
+      "pageNumber1": 33,
+      "filename2": "CELEX_32023R1803_EN_TXT.di_page_624.json",
+      "excerpt2": "Consequently when reasonable and supportable information that is more forward-looking than past due information is available without undue cost or effort, it must be used to assess changes in credit risk.",
+      "pageNumber2": 624,
+      "explanation": "Both texts regulate the same subject: the requirement for financial institutions (credit institutions/entities) to incorporate forward-looking information when assessing credit risk and measuring Expected Credit Losses (ECL). The EBA Guideline requires credit institutions to incorporate 'all reasonable and supportable forward-looking information, including macroeconomic factors'. Similarly, the EU Regulation adopting IFRS 9 states that 'reasonable and supportable information that is more forward-looking than past due information...must be used to assess changes in credit risk'. This constitutes an overlap as both frameworks impose the same requirement on the same actors for the same regulatory purpose.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_33.json",
+      "excerpt1": "A credit institution's use of experienced credit judgement, especially in the consideration of reasonable and supportable forward-looking information, including macroeconomic factors, is essential to the assessment of credit risk and measurement of ECL.",
+      "pageNumber1": 33,
+      "filename2": "BaselFramework.di_page_1787.json",
+      "excerpt2": "The supervisor determines that banks have an adequate credit risk management process that considers their risk appetite, risk profile, market conditions, macroeconomic factors and forward-looking information.",
+      "pageNumber2": 1787,
+      "explanation": "Both texts regulate the same subject: the requirement for banks/credit institutions to consider forward-looking information and macroeconomic factors as part of their credit risk management process. The EBA Guideline states this is 'essential to the assessment of credit risk and measurement of ECL'. The Basel Framework establishes this as a core component of an 'adequate credit risk management process' that supervisors must verify. Both frameworks impose the same obligation on the same type of actor (banks/credit institutions) within the same functional context (credit risk management).",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

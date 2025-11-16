@@ -1,0 +1,16 @@
+{
+  "summary": "One overlap was identified between the EBA Guidelines on loan origination and the Finnish Financial Supervisory Authority's regulations. Both documents establish minimum information requirements for institutions when conducting a creditworthiness assessment for corporate borrowers prior to granting a loan. The lists of required information are similar in scope and intent, covering aspects like the loan's purpose, the borrower's financial situation, business model, and collateral, but differ in their specific wording and structure, thereby creating an overlap.",
+  "overlaps": [
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_33.json",
+      "excerpt1": "For the purposes of the creditworthiness assessment of micro, small, medium-sized and large enterprises, institutions should have available, and use, information, supported by necessary and appropriate evidence, in relation to at least the following: a. . purpose of the loan, when relevant to the type of product; b. income and cash flow; C. financial position and commitments, including assets pledged and contingent liabilities; d. business model and, when relevant, corporate structure; e. business plans supported by financial projections; f. collateral (for secured lending); g. other risk mitigants, such as guarantees, when available; h. product type-specific legal documentation (e.g. permits, contracts).",
+      "pageNumber1": 33,
+      "filename2": "2018_04.m3_en.di_page_15.json",
+      "excerpt2": "At a minimum, the following factors must be considered in the context of credit decisions: · the purpose of use of the credit and the source of funds for its repayment (continuity factors must be taken into account) · the funding plan for the project and the proportion of the borrower's equity finance · collateral type, valuation, coverage and realisability... in the case of corporate credit, also the following: - assessment of the borrower's business idea, sector and position/competitiveness within the sector - assessment of the competence and expertise of company management - ownership structure of the company and its influence in the potential event of equity recapitalisation",
+      "pageNumber2": 15,
+      "explanation": "Both documents establish minimum information requirements for financial institutions (referred to as 'institutions' and 'supervised entities') to use when assessing the creditworthiness of corporate borrowers before granting a loan. The EBA Guidelines provide a list of factors for all enterprises, while the FIN-FSA regulations provide a general list with specific additions for corporate credit. The topics covered are substantially the same (e.g., loan purpose, repayment sources, collateral, business model/idea, corporate structure), representing overlapping rules for the same regulatory subject and action.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

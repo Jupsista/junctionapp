@@ -1,0 +1,16 @@
+{
+  "summary": "An overlap was identified between the EBA Guidelines on loan origination and the EBA Guidelines on institutions' stress testing. Both mandate that institutions conduct sensitivity analyses on individual credit exposures, taking into account macroeconomic and idiosyncratic factors. While the loan origination guideline applies this requirement specifically to the borrower creditworthiness assessment process, the stress testing guideline presents it as a broader component of an institution’s risk management framework, applicable at the individual exposure level. This creates two separate but similar requirements for the same analytical action on the same regulatory subject.",
+  "overlaps": [
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_44.json",
+      "excerpt1": "Institutions should assess the sustainability and feasibility of the borrower's financial position and the future repayment capacity under potential adverse conditions that may occur in the duration of the loan agreement. To this end, institutions should carry out a single- or multifactor sensitivity analysis, considering market and idiosyncratic events, or a combination of any of them.",
+      "pageNumber1": 44,
+      "filename2": "Guidelines%20on%20institutions%20stress%20testing%20(EBA-GL-2018-04).di_page_27.json",
+      "excerpt2": "Institutions should conduct sensitivity analyses at the level of individual exposures, portfolios or business units, institution wide, and for specific risk types... Institutions should identify relevant risk factors... including macroeconomic and macrofinancial variables... and idiosyncratic factors...",
+      "pageNumber2": 27,
+      "explanation": "Both guidelines require institutions to perform a sensitivity analysis on individual credit exposures considering macroeconomic and idiosyncratic risk factors. The Guideline on Loan Origination and Monitoring specifies this requirement for the pre-origination assessment of a borrower's creditworthiness. The Guideline on Stress Testing mandates sensitivity analysis as a general risk management tool applicable at various levels, including individual exposures. This represents an overlap as they are distinct rules from different guidelines governing the same regulatory action (sensitivity analysis) for the same actor (institutions) in the same functional context (assessment of an individual credit exposure).",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

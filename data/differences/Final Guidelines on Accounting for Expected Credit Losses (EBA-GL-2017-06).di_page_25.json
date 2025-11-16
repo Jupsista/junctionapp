@@ -1,0 +1,16 @@
+{
+  "summary": "One overlap was identified between the EBA Guidelines on accounting for Expected Credit Losses and an EU Regulation adopting IFRS 9. Both texts require credit institutions to use forward-looking information and consider a range of possible outcomes or scenarios when estimating Expected Credit Losses (ECL) for accounting purposes. This establishes a common methodological principle for the same regulatory action and actor.",
+  "overlaps": [
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_25.json",
+      "excerpt1": "Sound credit risk methodologies should consider different potential scenarios and should not rely purely on subjective, biased or overly optimistic considerations. Credit institutions should develop and document their processes to generate relevant scenarios to be used in the estimation of ECL.",
+      "pageNumber1": 25,
+      "filename2": "CELEX_32023R1803_EN_TXT.di_page_632.json",
+      "excerpt2": "Paragraph 5.5.17(a) requires the estimate of expected credit losses to reflect an unbiased and probability- weighted amount that is determined by evaluating a range of possible outcomes. ... In other situations, the identification of scenarios that specify the amount and timing of the cash flows for particular outcomes and the estimated probability of those outcomes will probably be needed.",
+      "pageNumber2": 632,
+      "explanation": "Both documents define the methodology for estimating Expected Credit Losses (ECL) for credit institutions. The EBA Guideline requires that methodologies 'should consider different potential scenarios'. The EU regulation, adopting IFRS 9, requires that the ECL estimate 'reflect an unbiased and probability-weighted amount that is determined by evaluating a range of possible outcomes', which may necessitate the 'identification of scenarios'. Both texts mandate the same core methodological principle (use of multiple future-looking scenarios/outcomes) for the same regulatory action (ECL estimation for accounting) and the same actor (credit institutions), constituting a clear overlap.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

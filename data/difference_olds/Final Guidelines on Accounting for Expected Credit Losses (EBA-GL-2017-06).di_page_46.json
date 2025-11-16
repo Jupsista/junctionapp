@@ -1,0 +1,36 @@
+{
+  "summary": "The EBA Guidelines (EBA-GL-2017-06) specify that credit institutions should make limited use of practical expedients under IFRS 9 for measuring Expected Credit Losses (ECL), particularly referencing the 'undue cost or effort' criterion and the objective of an unbiased and probability-weighted ECL estimate. This is an overlap with IFRS 9 (CELEX_32023R1803), which states that ECL measurement should reflect reasonable and supportable information available 'without undue cost or effort' and be an 'unbiased and probability-weighted amount'. The EBA Guidelines also reference the 30-days-past-due rebuttable presumption, which is elaborated upon in IFRS 9, indicating consistency in the conceptual framework but with the EBA adding a layer of prudential caution for credit institutions.",
+  "overlaps": [
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_46.json",
+      "excerpt1": "Credit institutions should consider the need to make adjustments when using practical expedients to avoid any resulting bias, as they should take into account that the objective of IFRS 9 is to estimate expected credit losses to reflect an unbiased and probability-weighted amount that is determined by evaluating a range of possible outcomes (IFRS 9, paragraph 5.5.17).",
+      "pageNumber1": 46,
+      "filename2": "CELEX_32023R1803_EN_TXT.di_page_553.json",
+      "excerpt2": "An entity shall measure expected credit losses of a financial instrument in a way that reflects: (a) an unbiased and probability-weighted amount that is determined by evaluating a range of possible outcomes; (b) the time value of money; and (c) reasonable and supportable information that is available without undue cost or effort at the reporting date about past events, current conditions and forecasts of future economic conditions.",
+      "pageNumber2": 553,
+      "explanation": "Both excerpts address the fundamental principle for measuring Expected Credit Losses (ECL) under IFRS 9. The EBA Guidelines explicitly state that credit institutions should consider the objective of IFRS 9 to estimate ECL as an 'unbiased and probability-weighted amount' determined by 'evaluating a range of possible outcomes'. IFRS 9 paragraph 5.5.17, which is referenced by the EBA, directly mirrors this by requiring ECL to reflect 'an unbiased and probability-weighted amount that is determined by evaluating a range of possible outcomes'. This represents a direct restatement of the core principle.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_46.json",
+      "excerpt1": "Credit institutions should make limited use of those practical expedients as they have the potential to introduce significant bias and because - given their business - the cost of obtaining the relevant information is not likely to involve 'undue cost or effort'.",
+      "pageNumber1": 46,
+      "filename2": "CELEX_32023R1803_EN_TXT.di_page_553.json",
+      "excerpt2": "An entity shall measure expected credit losses of a financial instrument in a way that reflects: ... (c) reasonable and supportable information that is available without undue cost or effort at the reporting date about past events, current conditions and forecasts of future economic conditions.",
+      "pageNumber2": 553,
+      "explanation": "The EBA Guidelines advise credit institutions to make limited use of practical expedients because obtaining relevant information is 'not likely to involve undue cost or effort' for them. IFRS 9 itself qualifies the use of information for ECL measurement by stating it should be 'available without undue cost or effort'. The EBA's statement, while an instruction on the extent of use, is predicated on its interpretation of the 'undue cost or effort' criterion as it applies to credit institutions, directly engaging with a core condition set by IFRS 9.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_46.json",
+      "excerpt1": "The paragraphs below address the following practical expedients: the information set which an entity must consider in measuring ECL; the exception for 'low' credit risk exposures; and the 30-days-past-due rebuttable presumption.",
+      "pageNumber1": 46,
+      "filename2": "CELEX_32023R1803_EN_TXT.di_page_552.json",
+      "excerpt2": "Regardless of the way in which an entity assesses significant increases in credit risk, there is a rebuttable presumption that the credit risk on a financial asset has increased significantly since initial recognition when contractual payments are more than 30 days past due. An entity can rebut this presumption if the entity has reasonable and supportable information that is available without undue cost or effort, that demonstrates that the credit risk has not increased significantly since initial recognition even though the contractual payments are more than 30 days past due.",
+      "pageNumber2": 552,
+      "explanation": "The EBA Guidelines list the '30-days-past-due rebuttable presumption' as a practical expedient it addresses. IFRS 9 (paragraph 5.5.11) explicitly defines and explains this rebuttable presumption, including the conditions under which it can be rebutted. The EBA's reference to this presumption directly aligns with the rule established in IFRS 9, indicating a shared regulatory subject.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

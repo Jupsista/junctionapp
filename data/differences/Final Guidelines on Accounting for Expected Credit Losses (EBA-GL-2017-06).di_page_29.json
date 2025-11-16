@@ -1,0 +1,16 @@
+{
+  "summary": "The comparison between the EBA Guidelines on Accounting for Expected Credit Losses and related regulatory texts reveals one overlap. Both the EBA Guidelines and IFRS 9 (as adopted by the EU) mandate that for the purpose of estimating Expected Credit Losses (ECL), financial instruments must be grouped based on shared credit risk characteristics. The guidelines provide similar examples of such characteristics (e.g., instrument type, industry, geography) and share the principle that grouping should not obscure the risk of individual exposures within a group. The EBA Guideline operationalizes the principles set out in IFRS 9 for credit institutions. No contradictions were found.",
+  "overlaps": [
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_29.json",
+      "excerpt1": "49. Credit institutions should group exposures with shared credit risk characteristics in a way that is sufficiently granular to be able to reasonably assess changes in credit risk and thus the impact on the estimate of ECL for these groups. 50. A credit institution's methodology for grouping exposures to assess credit risk (such as by instrument type, product terms and conditions, industry/market segment, geographical location or vintages) should be documented... 52. Exposures should not be grouped in such a way that an increase in the credit risk of particular exposures is obscured by the performance of the group as a whole.",
+      "pageNumber1": 29,
+      "filename2": "CELEX_32023R1803_EN_TXT.di_page_624.json",
+      "excerpt2": "B5.5.5 For the purpose of determining significant increases in credit risk and recognising a loss allowance on a collective basis, an entity can group financial instruments on the basis of shared credit risk characteristics with the objective of facilitating an analysis that is designed to enable significant increases in credit risk to be identified on a timely basis. The entity should not obscure this information by grouping financial instruments with different risk characteristics. Examples of shared credit risk characteristics may include, but are not limited to, the: (a) instrument type; (b) credit risk ratings; (c) collateral type; (d) date of initial recognition; (e) remaining term to maturity; (f) industry; (g) geographical location of the borrower; and",
+      "pageNumber2": 624,
+      "explanation": "Both documents regulate the grouping of financial assets for the purpose of calculating Expected Credit Losses (ECL). They require institutions to group exposures based on shared credit risk characteristics. The lists of example characteristics are very similar (instrument type, industry, geography). Furthermore, both texts explicitly state that grouping should not obscure the risk of particular exposures within the group, using almost identical phrasing.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

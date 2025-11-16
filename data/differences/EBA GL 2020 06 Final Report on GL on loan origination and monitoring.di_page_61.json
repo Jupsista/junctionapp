@@ -1,0 +1,26 @@
+{
+  "summary": "The analysis identified two overlaps concerning the requirements for institutions' credit risk monitoring frameworks. The first overlap relates to the mandatory consideration of macroeconomic factors in credit risk assessment. The second concerns the use of key risk indicators and portfolio segmentation for monitoring purposes. No contradictions were found.",
+  "overlaps": [
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_61.json",
+      "excerpt1": "As part of credit risk monitoring and reporting, institutions should identify the relevant drivers of its aggregate credit risk as well as the credit risk in its portfolios and sub-portfolios, taking into account macroeconomic (including demographic) factors and the fact that credit risk drivers may change over time.",
+      "pageNumber1": 61,
+      "filename2": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_42.json",
+      "excerpt2": "When assessing whether there has been a significant increase in credit risk for a lending exposure, credit institutions should also take into account the following factors which are related to the environment in which a credit institution or the borrower operates: a. deterioration of the macroeconomic outlook relevant to a particular borrower or to a group of borrowers.",
+      "pageNumber2": 42,
+      "explanation": "Both documents require institutions to incorporate macroeconomic factors into their credit risk assessment processes. The first document requires this for the general credit risk monitoring framework, while the second requires it specifically for assessing significant increases in credit risk for accounting (ECL) purposes. This constitutes an overlap as both mandate the consideration of the same type of information (macroeconomic outlook) for the same actor (institutions) in the closely related functional contexts of credit risk monitoring and assessment.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_61.json",
+      "excerpt1": "To this end, within the monitoring framework, institutions should ensure the implementation and application of relevant key risk indicators that are asset type or portfolio level specific, to determine the ongoing evolving credit risk profile of the portfolios and institution.",
+      "pageNumber1": 61,
+      "filename2": "Final Guidelines on management of non-performing and forborne exposures.di_page_69.json",
+      "excerpt2": "Portfolio-level information\nPortfolio distribution\nSize distribution and concentration level\nTop x (e.g. 10) groups of connected clients and related risk indicators\nAsset class distribution\nBreakdown by industry, sector, collateral type, country, maturity, etc.\nRisk parameters Stock of loss\nPD/LGD evolution (overall and per portfolio)\nPD/LGD forecasts and projections",
+      "pageNumber2": 69,
+      "explanation": "Both texts address the use of key risk indicators (KRIs) and portfolio segmentation for credit risk monitoring by institutions. The first document establishes the general requirement to implement and apply relevant KRIs at the portfolio level. The second document provides a list of specific examples of such portfolio-level information and risk parameters (e.g., PD/LGD evolution, breakdown by industry/sector/country) that serve as KRIs for monitoring. This is an overlap as they both address the same requirement for the same actor in the same functional context of portfolio risk monitoring.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

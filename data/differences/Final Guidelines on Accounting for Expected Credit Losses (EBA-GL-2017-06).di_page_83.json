@@ -1,0 +1,16 @@
+{
+  "summary": "One overlap was identified between the EBA's analysis of its guidelines on Expected Credit Losses (ECL) and the IFRS 9 regulation. Both texts address the methodology for assessing a significant increase in credit risk for financial instruments. They both prescribe a non-exhaustive, indicator-based approach for this assessment, with the EBA's guidance providing a specific example that aligns with the broader principles outlined in IFRS 9, thus creating a true overlap.",
+  "overlaps": [
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_83.json",
+      "excerpt1": "Paragraph 107 of the guidelines includes a non-exhaustive list of indicators in assessing a significant increase in credit risk, having regard to the proportional application of these guidelines. Risk-adjusted pricing is mentioned as an indicator of significant increase of credit risk but is not mandated such that risk-adjusted pricing should be used in all occasions mechanically as the only indicator of significant increase of credit risk.",
+      "pageNumber1": 83,
+      "filename2": "CELEX_32023R1803_EN_TXT.di_page_627.json",
+      "excerpt2": "B5.5.17 The following is a non-exhaustive list of types of information that may be relevant in assessing changes in credit risk...\n(a) significant changes in internal price indicators of credit risk as a result of a change in credit risk since inception, including, but not limited to, the credit spread that would result if a particular financial instrument or similar financial instrument with the same terms and the same counterparty were newly originated or issued at the reporting date.",
+      "pageNumber2": 627,
+      "explanation": "Both documents regulate the assessment of a significant increase in credit risk for entities applying IFRS 9. Both mandate the use of a non-exhaustive list of indicators. The EBA's mention of 'Risk-adjusted pricing' as an indicator is a specific implementation of the broader principle in IFRS 9, which refers to 'significant changes in internal price indicators of credit risk'. They govern the same regulatory subject for the same actor (credit institutions) and establish the same, convergent requirement.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

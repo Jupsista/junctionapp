@@ -1,0 +1,16 @@
+{
+  "summary": "One overlap was identified between the EBA Guidelines on loan origination and the FIN-FSA guidelines concerning the principles for loan pricing. Both texts require credit institutions to ensure that their loan pricing covers a nearly identical set of cost components, including credit risk, funding costs, capital costs, and operating costs. They regulate the same subject for the same type of actor with substantively the same requirements.",
+  "overlaps": [
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_51.json",
+      "excerpt1": "Institutions should consider, and reflect in loan pricing, all relevant costs until the next repricing date or maturity, including: a. the cost of capital (considering both regulatory and economic capital), which should result from the capital allocation in place, according to the established breakdowns, e.g. geography, business line and product; b. the cost of funding, which should match the key features of the loan, e.g. the expected duration of the loan, taking into account not only contractual terms but also behavioural assumptions, e.g. pre-payment risk; C. operating and administrative costs, which should result from cost allocation; d. credit risk costs calculated for different homogeneous risk groups, taking into account historical experience of recognising credit risk losses and when relevant using expected loss models;",
+      "pageNumber1": 51,
+      "filename2": "2018_04.m3_en.di_page_16.json",
+      "excerpt2": "The FIN-FSA recommends that housing credit is priced so that customer income from housing credit covers the credit risk, the bank's funding costs, the bank's requirement for return on capital and other operating costs throughout the validity of the contracts.",
+      "pageNumber2": 16,
+      "explanation": "Both documents establish requirements for how credit institutions must price loans. They both mandate that loan pricing must cover a nearly identical set of fundamental cost components: credit risk, funding costs, capital costs (phrased as 'cost of capital' and 'requirement for return on capital'), and operating costs. This constitutes an overlap as they govern the same regulatory subject (loan pricing components) for the same actor (credit institutions) with almost identical requirements.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

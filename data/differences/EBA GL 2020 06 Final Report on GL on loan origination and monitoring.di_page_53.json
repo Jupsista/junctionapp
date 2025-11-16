@@ -1,0 +1,16 @@
+{
+  "summary": "One overlap was identified between the EBA Guidelines on loan origination and a Finnish Financial Supervisory Authority regulation. Both texts require institutions to use internationally recognised valuation standards when assessing collateral. The other provided texts were found to address different regulatory subjects, such as the valuation of collateral for non-performing exposures or for specific capital requirement calculation approaches (e.g., IRB), rather than the general requirements for valuation at the point of loan origination, thus not meeting the criteria for an overlap or contradiction.",
+  "overlaps": [
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_53.json",
+      "excerpt1": "Institutions should ensure that the property collateral is valued in accordance with applicable international, European and national standards, such as the International Valuation Standards Council, the European Group of Valuers' Associations European Valuation Standards and the Royal Institution of Chartered Surveyors standards.",
+      "pageNumber1": 53,
+      "filename2": "2018_04.m3_en.di_page_17.json",
+      "excerpt2": "Supervised entities must ensure that the valuation of acceptable collateral is based on reliable appraisal methods, taking internationally recognised valuation standards into account.",
+      "pageNumber2": 17,
+      "explanation": "Both texts require financial institutions (referred to as 'Institutions' and 'Supervised entities') to use internationally recognised standards for the valuation of property collateral. This constitutes an overlap as they govern the same regulatory subject (collateral valuation standards), apply to the same type of actor (financial institutions), and impose the same requirement (adherence to international standards).",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

@@ -1,0 +1,286 @@
+{
+  "summary": "Both documents provide guidelines for institutions regarding model validation processes, emphasizing the importance of independent validation, documentation, and a comprehensive scope for assessing model robustness, accuracy, and data quality. While the primary document focuses on Expected Credit Loss (ECL) models, the related documents address model validation for credit risk management more broadly, including creditworthiness assessment, IRRBB, CSRBB, CVA, and general internal models, creating several overlaps in the general principles and specific requirements for model validation frameworks.",
+  "overlaps": [
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_32.json",
+      "excerpt1": "Model validation should be conducted when the ECL models are initially developed and when significant changes are made to the models, and should ensure that the models are suitable for their proposed usage on an ongoing basis.",
+      "pageNumber1": 32,
+      "filename2": "Guidelines on IRRBB and CSRBB.di_page_32.json",
+      "excerpt2": "Model risk management for IRRBB measures should follow a holistic approach that begins with motivation, development and implementation by model owners and users. Prior to receiving internal approval for usage, the process for determining model inputs, assumptions, modelling methodologies and outputs should be reviewed and validated independently of the development of IRRBB models.",
+      "pageNumber2": 32,
+      "explanation": "Both excerpts establish the general requirement for model validation when models are initially developed and/or before use, and on an ongoing basis, to ensure their suitability. The source refers to ECL models and the target to IRRBB models, both critical financial models for institutions.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_32.json",
+      "excerpt1": "Model validation should be performed independently of the model development process and by staff with the necessary experience and expertise.",
+      "pageNumber1": 32,
+      "filename2": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_26.json",
+      "excerpt2": "When using automated models for creditworthiness assessment and credit decision-making, institutions should understand the models used, and their methodology, input data, assumptions, limitations and outputs, and should have in place: a. internal policies and procedures detecting and preventing bias and ensuring the quality of the input data;",
+      "pageNumber2": 26,
+      "explanation": "The source requires model validation to be independent and performed by competent staff. The target, in the context of creditworthiness assessment models, emphasizes understanding the models (methodology, input data, assumptions, limitations, outputs) and having policies to detect bias and ensure input data quality. While not explicitly stating 'independent validation', the emphasis on understanding the model's inner workings and data quality for credit decision-making models implies similar scrutiny to what independent validation would provide, particularly regarding input data quality.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_32.json",
+      "excerpt1": "Model inputs: Credit institutions should have internally established quality and reliability standards on data (historical, current and forward-looking information) used as model inputs. Data used to estimate ECL allowances should be relevant to the credit institutions' portfolios and, as far as possible, accurate, reliable and complete (i.e. without exclusions that could bias ECL estimates). Validation should ensure that the data used meet these standards.",
+      "pageNumber1": 32,
+      "filename2": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_26.json",
+      "excerpt2": "internal policies and procedures detecting and preventing bias and ensuring the quality of the input data;",
+      "pageNumber2": 26,
+      "explanation": "Both excerpts address the requirement for institutions to establish internal standards and procedures to ensure the quality, reliability, and accuracy of data used as model inputs. The source explicitly mentions ECL models, while the target refers to models for creditworthiness assessment and credit decision-making. Both stress preventing bias and ensuring data quality.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_32.json",
+      "excerpt1": "Model design: For model design, validation should assess that the underlying theory of the model is conceptually sound, recognised and generally accepted for its intended purpose. From a forward-looking perspective, validation should also assess the extent to which the model, at the overall model and individual risk factor level, can take into consideration changes in the economic or credit environment, as well as changes to portfolio business profile or strategy, without significantly reducing model robustness.",
+      "pageNumber1": 32,
+      "filename2": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_26.json",
+      "excerpt2": "When using automated models for creditworthiness assessment and credit decision-making, institutions should understand the models used, and their methodology, input data, assumptions, limitations and outputs",
+      "pageNumber2": 26,
+      "explanation": "The source requires validation of model design to ensure conceptual soundness and robustness to environmental changes for ECL models. The target, for creditworthiness assessment models, requires institutions to understand the model's methodology, assumptions, and limitations. Both requirements point to a need for thorough assessment of the model's underlying logic and structure to ensure its appropriateness.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_32.json",
+      "excerpt1": "Model output/performance: Credit institutions should have internally established standards for acceptable model performance. Where performance thresholds are significantly breached, remedial actions up to the extent of model re-calibration or re- development should be taken.",
+      "pageNumber1": 32,
+      "filename2": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_26.json",
+      "excerpt2": "internal policies and procedures ensuring that the quality of the model output is regularly assessed, using measures appropriate to the model's use, including backtesting the performance of the model;",
+      "pageNumber2": 26,
+      "explanation": "Both excerpts require institutions to have mechanisms for assessing model output and performance. The source mandates internally established standards for acceptable performance and remedial actions for breaches for ECL models, while the target specifies regular assessment of model output quality using appropriate measures, including backtesting, for creditworthiness assessment models. This indicates a shared requirement for ongoing monitoring and review of model performance.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_32.json",
+      "excerpt1": "Model validation should be performed independently of the model development process and by staff with the necessary experience and expertise.",
+      "pageNumber1": 32,
+      "filename2": "Guidelines on IRRBB and CSRBB.di_page_31.json",
+      "excerpt2": "Institutions should ensure that the validation of IRRBB measurement methods - which should be reviewed and validated independently of their development - and the assessment of corresponding model risk are included in a formal policy process that should be reviewed and approved by the management body or its delegates.",
+      "pageNumber2": 31,
+      "explanation": "Both excerpts explicitly state that model validation must be performed independently of the model development process. The source refers to ECL models, and the target refers to IRRBB measurement methods. This is a direct overlap in the principle of independence for model validation.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_32.json",
+      "excerpt1": "Clear roles and responsibilities for model validation with adequate independence and competence. Model validation should be performed independently of the model development process and by staff with the necessary experience and expertise.",
+      "pageNumber1": 32,
+      "filename2": "Guidelines on IRRBB and CSRBB.di_page_32.json",
+      "excerpt2": "Prior to receiving internal approval for usage, the process for determining model inputs, assumptions, modelling methodologies and outputs should be reviewed and validated independently of the development of IRRBB models.",
+      "pageNumber2": 32,
+      "explanation": "Both excerpts emphasize the importance of independent model validation. The source focuses on ECL models, highlighting the need for clear roles, responsibilities, independence, and competent staff. The target, for IRRBB models, mandates independent review and validation of inputs, assumptions, methodologies, and outputs prior to internal approval. This represents an overlap in the fundamental requirement for independent validation.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_32.json",
+      "excerpt1": "Model inputs: Credit institutions should have internally established quality and reliability standards on data (historical, current and forward-looking information) used as model inputs. Data used to estimate ECL allowances should be relevant to the credit institutions' portfolios and, as far as possible, accurate, reliable and complete (i.e. without exclusions that could bias ECL estimates). Validation should ensure that the data used meet these standards.",
+      "pageNumber1": 32,
+      "filename2": "Guidelines on IRRBB and CSRBB.di_page_33.json",
+      "excerpt2": "Model inputs or assumptions, whether stemming from internal model processes or from third parties, should be included in the validation process. The institution should document and explain model specification choices as part of the validation process.",
+      "pageNumber2": 33,
+      "explanation": "Both excerpts require model inputs to be part of the validation process. The source specifically requires credit institutions to have quality and reliability standards for data used in ECL models and for validation to ensure these standards are met. The target broadly states that model inputs or assumptions for IRRBB models should be included in the validation process. There is a clear overlap in the need to validate model inputs, including their quality and reliability, as part of the overall model validation.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_32.json",
+      "excerpt1": "Comprehensive documentation of the model validation framework and process. This should include documenting the validation procedures performed, any changes in validation methodology and tools, the range of data used, validation results and any remedial actions",
+      "pageNumber1": 32,
+      "filename2": "CELEX_32013R0575_EN_TXT.di_page_121.json",
+      "excerpt2": "All material elements of the internal models and the modelling process and validation shall be documented.",
+      "pageNumber2": 121,
+      "explanation": "Both excerpts require comprehensive documentation of the model validation process. The source details what should be documented for ECL models (procedures, changes, data, results, actions). The target provides a broader requirement for documentation of all material elements of internal models and validation. This is an overlap regarding the principle of documenting validation processes.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_32.json",
+      "excerpt1": "Model validation should be performed independently of the model development process and by staff with the necessary experience and expertise.",
+      "pageNumber1": 32,
+      "filename2": "CELEX_32013R0575_EN_TXT.di_page_120.json",
+      "excerpt2": "established management systems, procedures, and control functions for ensuring the periodic and independent review of all elements of the internal modelling process, including approval of model revisions, vetting of model inputs, and review of model results, such as direct verifi- cation of risk computations. These reviews shall assess the accuracy, completeness, and appropriateness of model inputs and results and focus on both finding and limiting potential errors associated with known weaknesses and identifying unknown model weaknesses. Such reviews may be conducted by an internal independent unit, or by an independent external third party;",
+      "pageNumber2": 120,
+      "explanation": "Both excerpts stress the importance of independent review/validation of models. The source focuses on ECL model validation being independent of development and performed by experts. The target discusses periodic and independent review of internal models, including inputs and results, to assess accuracy and completeness. This represents an overlap in the fundamental principle of independent oversight of internal models.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_32.json",
+      "excerpt1": "Model inputs: Credit institutions should have internally established quality and reliability standards on data (historical, current and forward-looking information) used as model inputs. Data used to estimate ECL allowances should be relevant to the credit institutions' portfolios and, as far as possible, accurate, reliable and complete (i.e. without exclusions that could bias ECL estimates). Validation should ensure that the data used meet these standards.",
+      "pageNumber1": 32,
+      "filename2": "CELEX_32013R0575_EN_TXT.di_page_120.json",
+      "excerpt2": "the estimate of potential loss shall be robust to adverse market movements relevant to the long-term risk profile of the institution's specific holdings. The data used to represent return distributions shall reflect the longest sample period for which data is available and meaningful in representing the risk profile of the institution's specific equity exposures. The data used shall be sufficient to provide conservative, statistically reliable and robust loss estimates that are not based purely on subjective or judg- mental considerations.",
+      "pageNumber2": 120,
+      "explanation": "Both excerpts address the quality and sufficiency of data used in models. The source requires quality and reliability standards for data inputs in ECL models, ensuring relevance, accuracy, reliability, and completeness. The target, for equity exposure models, requires data to reflect a long sample period, be meaningful, sufficient, conservative, statistically reliable, and robust. This is an overlap in the underlying principle of using high-quality and appropriate data for model inputs.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_32.json",
+      "excerpt1": "Model validation should be performed independently of the model development process and by staff with the necessary experience and expertise.",
+      "pageNumber1": 32,
+      "filename2": "CELEX_32013R0575_EN_TXT.di_page_179.json",
+      "excerpt2": "The risk control unit shall be responsible for the design and implementation of its CCR management, including the initial and on-going validation of the model, and shall carry out the following functions and meet the following require- ments: ... (d) it shall be independent from units responsible for orig- inating, renewing or trading exposures and free from undue influence;",
+      "pageNumber2": 179,
+      "explanation": "Both excerpts mandate that model validation be independent of the model development/origination process. The source refers to ECL model validation, while the target refers to the risk control unit's responsibility for CCR model validation, requiring it to be independent from business units. This is a direct overlap in the independence requirement for validation.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_32.json",
+      "excerpt1": "Model validation should be performed independently of the model development process and by staff with the necessary experience and expertise.",
+      "pageNumber1": 32,
+      "filename2": "BaselFramework.di_page_117.json",
+      "excerpt2": "Where the model is developed by the institution itself, it should be based on appropriate assumptions, which have been assessed and challenged by suitably qualified parties independent of the development process. The model should be developed or approved independently of the front office. It should be independently tested. This includes validating the mathematics, the assumptions and the software implementation.",
+      "pageNumber2": 117,
+      "explanation": "Both excerpts emphasize the importance of independent model validation/testing. The source specifies this for ECL models, requiring independence from model development and expert staff. The target, in the context of 'marking to model' valuations, requires models to be assessed and challenged by independent parties, developed/approved independently of the front office, and independently tested. This highlights a common principle of independent oversight and scrutiny for internal models.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_32.json",
+      "excerpt1": "Model validation should be conducted when the ECL models are initially developed and when significant changes are made to the models, and should ensure that the models are suitable for their proposed usage on an ongoing basis.",
+      "pageNumber1": 32,
+      "filename2": "CELEX_32013R0575_EN_TXT.di_page_184.json",
+      "excerpt2": "it shall carry out an initial validation and an on-going periodic review of its CCR exposure model and the risk measures generated by it. The validation and review shall be independent of the model development;",
+      "pageNumber2": 184,
+      "explanation": "Both excerpts require initial and ongoing validation of models, performed independently. The source specifies ECL models, while the target focuses on CCR exposure models. This is a direct overlap in the timing and independence of model validation.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_32.json",
+      "excerpt1": "Comprehensive documentation of the model validation framework and process. This should include documenting the validation procedures performed, any changes in validation methodology and tools, the range of data used, validation results and any remedial actions",
+      "pageNumber1": 32,
+      "filename2": "CELEX_32013R0575_EN_TXT.di_page_184.json",
+      "excerpt2": "An institution shall document the process for initial and on-going validation of its CCR exposure model and the calcu- lation of the risk measures generated by the models to a level of detail that would enable a third party to recreate, respectively, the analysis and the risk measures. That documentation shall set out the frequency with which back testing analysis and any other on-going validation will be conducted, how the validation is conducted with respect to data flows and portfolios and the analyses that are used.",
+      "pageNumber2": 184,
+      "explanation": "Both excerpts require comprehensive documentation of the model validation process. The source outlines the content for ECL model validation documentation (procedures, changes, data, results, actions). The target provides detailed requirements for documenting the CCR exposure model validation process to enable recreation by a third party, including frequency and methodology. This is an overlap in the requirement for detailed documentation of model validation.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_32.json",
+      "excerpt1": "Model inputs: Credit institutions should have internally established quality and reliability standards on data (historical, current and forward-looking information) used as model inputs. Data used to estimate ECL allowances should be relevant to the credit institutions' portfolios and, as far as possible, accurate, reliable and complete (i.e. without exclusions that could bias ECL estimates). Validation should ensure that the data used meet these standards.",
+      "pageNumber1": 32,
+      "filename2": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_58.json",
+      "excerpt2": "Institutions should ensure that the advanced statistical models used are: ... d. based on up-to-date data of high quality.",
+      "pageNumber2": 58,
+      "explanation": "Both excerpts require institutions to ensure high quality of data used in their models. The source states that credit institutions should have established quality and reliability standards for data used in ECL models and that validation should ensure these standards are met. The target, for advanced statistical models for valuation, requires models to be based on up-to-date data of high quality. This is an overlap in the fundamental requirement for high-quality data inputs.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_32.json",
+      "excerpt1": "Model output/performance: Credit institutions should have internally established standards for acceptable model performance. Where performance thresholds are significantly breached, remedial actions up to the extent of model re-calibration or re- development should be taken.",
+      "pageNumber1": 32,
+      "filename2": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_58.json",
+      "excerpt2": "Institutions should ensure that the advanced statistical models used are: ... b. valid and accurate, and subject to robust and regular backtesting against the actual observed transaction prices;",
+      "pageNumber2": 58,
+      "explanation": "Both excerpts address the assessment of model performance. The source requires internal standards for acceptable performance and remedial actions for ECL models. The target requires advanced statistical models for valuation to be 'valid and accurate, and subject to robust and regular backtesting against the actual observed transaction prices'. While wording differs, both point to ongoing assessment and validation of model output performance.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_32.json",
+      "excerpt1": "Model validation should be conducted when the ECL models are initially developed and when significant changes are made to the models, and should ensure that the models are suitable for their proposed usage on an ongoing basis.",
+      "pageNumber1": 32,
+      "filename2": "CELEX_32013R0575_EN_TXT.di_page_111.json",
+      "excerpt2": "the institution shall have a regular cycle of model validation that includes monitoring of model performance and stability; review of model specification; and testing of model outputs against outcomes;",
+      "pageNumber2": 111,
+      "explanation": "Both excerpts require ongoing model validation. The source states that ECL models should be validated when initially developed, upon significant changes, and on an ongoing basis. The target, in the context of statistical models in the rating process, requires a regular cycle of model validation including monitoring performance, stability, and testing outputs against outcomes. This is an overlap in the requirement for continuous model validation.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_32.json",
+      "excerpt1": "Model inputs: Credit institutions should have internally established quality and reliability standards on data (historical, current and forward-looking information) used as model inputs. Data used to estimate ECL allowances should be relevant to the credit institutions' portfolios and, as far as possible, accurate, reliable and complete (i.e. without exclusions that could bias ECL estimates). Validation should ensure that the data used meet these standards.",
+      "pageNumber1": 32,
+      "filename2": "CELEX_32013R0575_EN_TXT.di_page_111.json",
+      "excerpt2": "the institution shall have in place a process for vetting data inputs into the model, which includes an assessment of the accuracy, completeness and appropriateness of the data;",
+      "pageNumber2": 111,
+      "explanation": "Both excerpts require institutions to have processes and standards for ensuring the quality of model input data. The source focuses on ECL models, requiring established quality and reliability standards and validation of data inputs for accuracy, reliability, and completeness. The target, for statistical models in the rating process, requires a process for vetting data inputs, including assessment of accuracy, completeness, and appropriateness. This is a clear overlap in the requirement for robust data input quality control.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_32.json",
+      "excerpt1": "Comprehensive documentation of the model validation framework and process. This should include documenting the validation procedures performed, any changes in validation methodology and tools, the range of data used, validation results and any remedial actions",
+      "pageNumber1": 32,
+      "filename2": "CELEX_32013R0575_EN_TXT.di_page_111.json",
+      "excerpt2": "Where the institution employs statistical models in the rating process, the institution shall document their methodol- ogies. This material shall: (a) provide a detailed outline of the theory, assumptions and mathematical and empirical basis of the assignment of estimates to grades, individual obligors, exposures, or pools, and the data source(s) used to estimate the model; (b) establish a rigorous statistical process including out-of-time and out-of-sample performance tests for validating the model; (c) indicate any circumstances under which the model does not work effectively.",
+      "pageNumber2": 111,
+      "explanation": "Both excerpts require detailed documentation of model methodologies and validation. The source specifies documentation for the ECL model validation framework and process, including procedures, changes, data, results, and actions. The target outlines documentation requirements for statistical models in the rating process, covering theory, assumptions, data sources, statistical validation processes, and limitations. This is an overlap in the necessity and scope of documentation for model validation.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_32.json",
+      "excerpt1": "Model validation should be conducted when the ECL models are initially developed and when significant changes are made to the models, and should ensure that the models are suitable for their proposed usage on an ongoing basis.",
+      "pageNumber1": 32,
+      "filename2": "Final report on Guidelines on ICAAP ILAAP (EBA-GL-2016-10).di_page_32.json",
+      "excerpt2": "Competent authorities should also receive from institutions adequate explanation of how institutions ensure that the ICAAP and ILAAP frameworks and models used provide reliable results (e.g. validation concepts, validation reports) and a description of both the internal validation approach (process, frequency) and the validation content, where available. In particular, competent authorities should receive from institutions all available results of the internal validations/reviews of ICAAP and ILAAP methodologies and calculation outcomes performed by the independent validation function.",
+      "pageNumber2": 32,
+      "explanation": "Both excerpts refer to model validation as a means to ensure models provide reliable results and are suitable for ongoing use. The source discusses ECL models, while the target focuses on ICAAP and ILAAP models, requiring institutions to explain their internal validation approach, content, and results, particularly from independent validation functions. This highlights a common emphasis on internal model validation for reliability and ongoing suitability.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_32.json",
+      "excerpt1": "Model validation should be performed independently of the model development process and by staff with the necessary experience and expertise.",
+      "pageNumber1": 32,
+      "filename2": "Final report on Guidelines on ICAAP ILAAP (EBA-GL-2016-10).di_page_61.json",
+      "excerpt2": "The EBA notes that validation of the models and their outcomes by a party independent of the model development is considered good risk management practice. Furthermore, competent authorities would expect models used for the calculation of capital requirements to be internally validated, by analogy with the models used for the calculation of minimum own funds requirements, in order to ensure the reliability of model outcomes.",
+      "pageNumber2": 61,
+      "explanation": "Both excerpts emphasize that model validation should be independent of model development. The source directly mandates this for ECL models. The target, in its analysis of ICAAP/ILAAP model validation, notes that independent validation is considered good risk management practice and is expected for models used in capital calculations to ensure reliability. This represents a strong conceptual and practical overlap in the principle of independent validation.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_32.json",
+      "excerpt1": "Model inputs: Credit institutions should have internally established quality and reliability standards on data (historical, current and forward-looking information) used as model inputs. Data used to estimate ECL allowances should be relevant to the credit institutions' portfolios and, as far as possible, accurate, reliable and complete (i.e. without exclusions that could bias ECL estimates). Validation should ensure that the data used meet these standards.",
+      "pageNumber1": 32,
+      "filename2": "Guidelines on PD and LGD estimation (EBA-GL-2017-16).di_page_52.json",
+      "excerpt2": "In order for the data used in the model development and in the application of risk parameters as inputs into the model to meet the requirements of accuracy, completeness and appropriateness specified in Article 174(b) of Regulation (EU) No 575/2013, it should be sufficiently precise to avoid material distortions of the outcome of the assignment of exposures to obligors or facility grades or pools, and it should not contain any biases which make the data unfit for purpose.",
+      "pageNumber2": 52,
+      "explanation": "Both excerpts emphasize the importance of high-quality data inputs for models. The source requires internally established quality and reliability standards for data used in ECL models, ensuring they are accurate, reliable, and complete. The target, for PD and LGD estimation models, requires data to meet accuracy, completeness, and appropriateness standards, be sufficiently precise, and avoid biases. This is a direct overlap in the criteria for acceptable model input data quality.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_32.json",
+      "excerpt1": "Model validation should be performed independently of the model development process and by staff with the necessary experience and expertise.",
+      "pageNumber1": 32,
+      "filename2": "BaselFramework.di_page_584.json",
+      "excerpt2": "Banks employing the internal models method must have an independent control unit that is responsible for the design and implementation of the bank's CCR management system, including the initial and on-going validation of the internal model. This unit must control input data integrity and produce and analyse daily reports on the output of the bank's risk measurement model, including an evaluation of the relationship between measures of CCR risk exposure and credit and trading limits. This unit must be independent from business credit and trading units; it must be adequately staffed; it must report directly to senior management of the bank. The work of this unit should be closely integrated into the day-to-day credit risk management process of the bank. Its output should accordingly be an integral part of the process of planning, monitoring and controlling the bank's credit and overall risk profile.",
+      "pageNumber2": 584,
+      "explanation": "Both excerpts specify the requirement for an independent function responsible for model validation. The source states that ECL model validation should be independent and performed by expert staff. The target describes an independent control unit for CCR model validation, requiring it to be independent from business units, adequately staffed, and report to senior management. This is a clear overlap in the organizational and independence requirements for model validation functions.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_32.json",
+      "excerpt1": "Model validation should be conducted when the ECL models are initially developed and when significant changes are made to the models, and should ensure that the models are suitable for their proposed usage on an ongoing basis.",
+      "pageNumber1": 32,
+      "filename2": "BaselFramework.di_page_581.json",
+      "excerpt2": "A bank must carry out backtesting using historical data on movements in market risk factors prior to supervisory approval. Backtesting must consider a number of distinct prediction time horizons out to at least one year, over a range of various start (initialisation) dates and covering a wide range of market conditions. (2) Banks must backtest the performance of their EPE model and the model's relevant risk measures as well as the market risk factor predictions that support EPE. For collateralised trades, the prediction time horizons considered must include those reflecting typical margin periods of risk applied in collateralised/margined trading, and must include long time horizons of at least 1 year. (3) The pricing models used to calculate counterparty credit risk exposure for a given scenario of future shocks to market risk factors must be tested as part of the initial and on-going model validation process.",
+      "pageNumber2": 581,
+      "explanation": "Both excerpts require initial and ongoing validation/testing of models to ensure their suitability and performance. The source applies this to ECL models, emphasizing validation during initial development, upon significant changes, and on an ongoing basis. The target details requirements for initial and ongoing validation, including backtesting, for IMM models (specifically EPE models) and pricing models used for counterparty credit risk exposure. This is an overlap in the continuous validation requirement.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_32.json",
+      "excerpt1": "Comprehensive documentation of the model validation framework and process. This should include documenting the validation procedures performed, any changes in validation methodology and tools, the range of data used, validation results and any remedial actions",
+      "pageNumber1": 32,
+      "filename2": "BaselFramework.di_page_581.json",
+      "excerpt2": "Banks must document the process for initial and on-going validation of their IMM model to a level of detail that would enable a third party to recreate the analysis. Banks must also document the calculation of the risk measures generated by the models to a level of detail that would allow a third party to re- create the risk measures. This documentation must set out the frequency with which backtesting analysis and any other on-going validation will be conducted, how the validation is conducted with respect to dataflows and portfolios and the analyses that are used.",
+      "pageNumber2": 581,
+      "explanation": "Both excerpts require comprehensive documentation of model validation processes to a level of detail that allows recreation and understanding. The source outlines what needs to be documented for ECL model validation (procedures, changes, data, results, actions). The target provides similar requirements for IMM model validation, specifying documentation of the process, risk measure calculation, frequency of backtesting, methodology, dataflows, and analyses. This is a direct overlap in the documentation requirements for model validation.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_32.json",
+      "excerpt1": "Model validation should be performed independently of the model development process and by staff with the necessary experience and expertise.",
+      "pageNumber1": 32,
+      "filename2": "BaselFramework.di_page_932.json",
+      "excerpt2": "A bank must have an independent control unit that is responsible for the effective initial and ongoing validation of the exposure models. This unit must be independent from business credit and trading units (including the CVA desk), must be adequately staffed and must report directly to senior management of the bank.",
+      "pageNumber2": 932,
+      "explanation": "Both excerpts require model validation to be performed independently. The source specifies this for ECL models, by independent and expert staff. The target, for CVA exposure models, mandates an independent control unit for validation, explicitly stating its independence from business units, adequate staffing, and reporting line to senior management. This is a strong overlap in the principle and structure of independent model validation.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_32.json",
+      "excerpt1": "Comprehensive documentation of the model validation framework and process. This should include documenting the validation procedures performed, any changes in validation methodology and tools, the range of data used, validation results and any remedial actions",
+      "pageNumber1": 32,
+      "filename2": "BaselFramework.di_page_932.json",
+      "excerpt2": "A bank must document the process for initial and ongoing validation of its exposure models to a level of detail that would enable a third party to understand how the models operate, their limitations, and their key assumptions; and recreate the analysis. This documentation must set out the minimum frequency with which ongoing validation will be conducted as well as other circumstances (such as a sudden change in market behaviour) under which additional validation should be conducted. In addition, the documentation must describe how the validation is conducted with respect to data flows and portfolios, what analyses are used and how representative counterparty portfolios are constructed.",
+      "pageNumber2": 932,
+      "explanation": "Both excerpts mandate comprehensive documentation for model validation, specifying that it should be detailed enough to understand and recreate the analysis. The source lists elements for ECL model validation documentation. The target provides detailed requirements for CVA exposure model validation documentation, including operational understanding, limitations, assumptions, frequency, circumstances for additional validation, data flows, portfolios, and analyses used. This is a direct and detailed overlap in documentation requirements.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

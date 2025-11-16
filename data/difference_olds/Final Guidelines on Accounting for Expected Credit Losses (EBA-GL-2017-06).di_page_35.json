@@ -1,0 +1,46 @@
+{
+  "summary": "The EBA Guidelines provide high-level principles for public disclosures by credit institutions regarding credit risk management practices and expected credit losses (ECLs), including the application of judgment by senior management for data aggregation and the incorporation of forward-looking information. The CRR (EU Regulation 2023/1803, amending IFRS 7) specifies detailed disclosure requirements for credit risk in financial statements, directly aligning with IFRS 9 impairment rules. Both documents cover the objectives of disclosures, the aggregation of data, the incorporation of forward-looking information, and specific elements like definitions of default and grouping of exposures. The CRR provides a more prescriptive and detailed framework for these disclosures, while the EBA Guidelines offer general principles and expectations for credit institutions.",
+  "overlaps": [
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_35.json",
+      "excerpt1": "78. The objective of public disclosures is to provide decision-useful information on a credit institution's financial position and performance, and changes therein, to a wide range of users in a clear and understandable manner. Credit institutions should aim to provide information that is relevant and comparable so that users can make timely, informed decisions and are able to evaluate the stewardship of management body and senior management.",
+      "pageNumber1": 35,
+      "filename2": "CELEX_32023R1803_EN_TXT.di_page_499.json",
+      "excerpt2": "35B The credit risk disclosures made in accordance with paragraphs 35F-35N shall enable users of financial statements to understand the effect of credit risk on the amount, timing and uncertainty of future cash flows. To achieve this objective, credit risk disclosures shall provide:(a) information about an entity's credit risk management practices and how they relate to the recognition and measurement of expected credit losses, including the methods, assumptions and information used to measure expected credit losses; (b) quantitative and qualitative information that allows users of financial statements to evaluate the amounts in the financial statements arising from expected credit losses, including changes in the amount of expected credit losses and the reasons for those changes; and (c) information about an entity's credit risk exposure (ie the credit risk inherent in an entity's financial assets and commitments to extend credit) including significant credit risk concentrations.",
+      "pageNumber2": 499,
+      "explanation": "Both excerpts define the core objective of credit risk and ECL disclosures: to provide decision-useful, understandable, relevant, and comparable information to users of financial statements regarding the credit institution's financial position, performance, credit risk exposure, and ECL estimates.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_35.json",
+      "excerpt1": "80. Consistently with the applicable accounting standards and regulations, credit institutions' senior management should apply judgement to determine the appropriate level of aggregation and disaggregation of data disclosed, such that disclosures continue to meet accounting requirements, and provide insights into a credit institution's exposure to credit risk and ECLs for users to perform individual institution analysis and relevant peer group comparisons.",
+      "pageNumber1": 35,
+      "filename2": "CELEX_32023R1803_EN_TXT.di_page_499.json",
+      "excerpt2": "35D To meet the objectives in paragraph 35B, an entity shall (except as otherwise specified) consider how much detail to disclose, how much emphasis to place on different aspects of the disclosure requirements, the appropriate level of aggregation or disaggregation, and whether users of financial statements need additional explanations to evaluate the quantitative information disclosed.",
+      "pageNumber2": 499,
+      "explanation": "Both documents require credit institutions to exercise judgment in determining the appropriate level of aggregation or disaggregation of data for disclosures related to credit risk and ECLs, ensuring the information is useful and meets applicable requirements.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_35.json",
+      "excerpt1": "81. Quantitative and qualitative disclosures when taken as a whole should communicate to users the main assumptions/inputs used to develop ECL estimates. Disclosures should highlight policies and definitions that are integral to the estimation of ECL (such as a credit institution's basis for grouping lending exposures into portfolios with similar credit risk characteristics and its definition of default27), factors that cause changes in ECL estimates, and the manner in which senior management's experienced credit judgement has been incorporated. Disclosure of significant policies should indicate how those policies have been implemented in the specific context of the credit institution.",
+      "pageNumber1": 35,
+      "filename2": "CELEX_32023R1803_EN_TXT.di_page_499.json",
+      "excerpt2": "35F An entity shall explain its credit risk management practices and how they relate to the recognition and measurement of expected credit losses. To meet this objective an entity shall disclose information that enables users of financial statements to understand and evaluate: (a) how an entity determined whether the credit risk of financial instruments has increased significantly since initial recognition, including, if and how: (i) financial instruments are considered to have low credit risk in accordance with paragraph 5.5.10 of IFRS 9, including the classes of financial instruments to which it applies; and (ii) the presumption in paragraph 5.5.11 of IFRS 9, that there have been significant increases in credit risk since initial recognition when financial assets are more than 30 days past due, has been rebutted; (b) an entity's definitions of default, including the reasons for selecting those definitions; (c) how the instruments were grouped if expected credit losses were measured on a collective basis; (e) an entity's write-off policy, including the indicators that there is no reasonable expectation of recovery and information about the policy for financial assets that are written-off but are still subject to enforcement activity;",
+      "pageNumber2": 499,
+      "explanation": "Both texts require disclosures concerning key policies and definitions integral to ECL estimation. Specifically, both mention the definition of default and the basis/methods for grouping lending exposures based on shared credit risk characteristics.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_35.json",
+      "excerpt1": "82. Credit institutions should provide qualitative disclosures on how forward-looking information, including macroeconomic factors, has been incorporated into the ECL estimation process, in accordance with the applicable accounting framework, in particular when the assessment is carried out on an individual basis.",
+      "pageNumber1": 35,
+      "filename2": "CELEX_32023R1803_EN_TXT.di_page_500.json",
+      "excerpt2": "35G An entity shall explain the inputs, assumptions and estimation techniques used to apply the requirements in Section 5.5 of IFRS 9. For this purpose an entity shall disclose: (a) the basis of inputs and assumptions and the estimation techniques used to: (i) measure the 12-month and lifetime expected credit losses; (ii) determine whether the credit risk of financial instruments has increased significantly since initial recognition; and (iii) determine whether a financial asset is a credit-impaired financial asset. (b) how forward-looking information has been incorporated into the determination of expected credit losses, including the use of macroeconomic information; and (c) changes in the estimation techniques or significant assumptions made during the reporting period and the reasons for those changes.",
+      "pageNumber2": 500,
+      "explanation": "Both excerpts require disclosures on how forward-looking information, including macroeconomic factors, is incorporated into the Expected Credit Loss (ECL) estimation process.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

@@ -1,0 +1,27 @@
+{
+  "summary": "Both documents provide rules for credit institutions on assessing a significant increase in credit risk (SICR) for the purpose of calculating expected credit losses (ECL) under IFRS 9. An overlap exists as both texts mandate or allow for the assessment of SICR on a collective basis for groups of exposures. A contradiction is identified based on the provided definitions, as the EBA Guidelines describe a holistic, discretionary assessment process based on a wide range of factors, while the IFRS 9 text introduces a specific numerical trigger (a rebuttable presumption when payments are more than 30 days past due) that constrains the purely discretionary approach.",
+  "overlaps": [
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_39.json",
+      "excerpt1": "credit institutions should implement systems that are capable of handling and systematically assessing the large amounts of information that will be required to judge whether or not particular lending exposures or groups of lending exposures exhibit a significant increase in credit risk, and to measure lifetime ECL where that is the case.",
+      "pageNumber1": 39,
+      "filename2": "CELEX_32023R1803_EN_TXT.di_page_624.json",
+      "excerpt2": "In order to meet the objective of recognising lifetime expected credit losses for significant increases in credit risk since initial recognition, it may be necessary to perform the assessment of significant increases in credit risk on a collective basis by considering information that is indicative of significant increases in credit risk on, for example, a group or sub-group of financial instruments.",
+      "pageNumber2": 624,
+      "explanation": "Both texts govern the assessment of a significant increase in credit risk for credit institutions. They establish an overlapping requirement for institutions to be able to assess credit risk on a collective or group basis for multiple exposures, rather than only on an individual basis.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": [
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_39.json",
+      "excerpt1": "Credit institutions' processes in place should enable them to determine on a timely and holistic basis whether there has been a significant increase in credit risk subsequent to the initial recognition of a lending exposure... As noted in paragraph B5.5.17 of IFRS 9 on assessing significant increases in credit risk since initial recognition, the range of information that will need to be considered in making this determination is wide.",
+      "pageNumber1": 39,
+      "filename2": "CELEX_32023R1803_EN_TXT.di_page_552.json",
+      "excerpt2": "Regardless of the way in which an entity assesses significant increases in credit risk, there is a rebuttable presumption that the credit risk on a financial asset has increased significantly since initial recognition when contractual payments are more than 30 days past due.",
+      "pageNumber2": 552,
+      "explanation": "Both texts regulate the assessment of a significant increase in credit risk. The EBA Guideline outlines a discretionary, holistic approach requiring the consideration of a 'wide' range of information. In contrast, the IFRS 9 text imposes a specific, fixed numerical threshold ('more than 30 days past due') that creates a rebuttable presumption. According to the provided definitions, this fixed numerical requirement contradicts the discretionary, principles-based formulation by introducing a specific trigger that constrains the holistic assessment.",
+      "type": "CONTRADICTION"
+    }
+  ]
+}

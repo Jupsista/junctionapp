@@ -1,0 +1,26 @@
+{
+  "summary": "The EBA guidelines emphasize applying IFRS 9's Expected Credit Loss (ECL) accounting in a proportionate manner, allowing practical expedients and stressing the avoidance of bias. IFRS 9 itself (paragraphs 5.5.17, B5.5.35) supports the use of practical expedients for measuring ECL, provided they are consistent with its principles, such as those related to unbiased, probability-weighted amounts and reasonable, supportable information. This creates an overlap regarding the allowance and usage of practical expedients in ECL calculation.",
+  "overlaps": [
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_77.json",
+      "excerpt1": "The EBA guidelines do not cover all the practical expedients that institutions may use under IFRS 9 but refer specifically only to the information set, the low credit risk exemption and the 30-days-past-due rebuttable presumption. The principles of proportionality and materiality as explained above should also be applied on the initial application of the guidelines and in accordance with chapter 7.2. of IFRS 9. The reference to bias has been kept in the text, as, irrespective of the size or complexity of the bank, bias should not be introduced to meet the objectives of IFRS 9.",
+      "pageNumber1": 77,
+      "filename2": "CELEX_32023R1803_EN_TXT.di_page_631.json",
+      "excerpt2": "An entity may use practical expedients when measuring expected credit losses if they are consistent with the principles in paragraph 5.5.17. An example of a practical expedient is the calculation of the expected credit losses on trade receivables using a provision matrix. The entity would use its historical credit loss experience (adjusted as appropriate in accordance with paragraphs B5.5.51-B5.5.52) for trade receivables to estimate the 12-month expected credit losses or the lifetime expected credit losses on the financial assets as relevant. A provision matrix might, for example, specify fixed provision rates depending on the number of days that a trade receivable is past due (for example, 1 per cent if not past due, 2 per cent if less than 30 days past due, 3 per cent if more than 30 days but less than 90 days past due, 20 per cent if 90-180 days past due etc.).",
+      "pageNumber2": 631,
+      "explanation": "Both excerpts address the concept of 'practical expedients' for institutions in the context of Expected Credit Loss (ECL) accounting under IFRS 9. Excerpt 1 (EBA Guidelines) acknowledges that institutions 'may use' practical expedients under IFRS 9 and specifically lists some (e.g., low credit risk exemption, 30-days-past-due rebuttable presumption), while also stressing proportionality and the avoidance of bias. Excerpt 2 (IFRS 9 itself, paragraph B5.5.35) explicitly permits the use of practical expedients for measuring ECL, provided they are consistent with underlying principles (referencing 5.5.17), and provides an example (provision matrix). Both texts confirm the allowance and usage of practical expedients in the ECL measurement process for credit institutions.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_77.json",
+      "excerpt1": "The reference to bias has been kept in the text, as, irrespective of the size or complexity of the bank, bias should not be introduced to meet the objectives of IFRS 9.",
+      "pageNumber1": 77,
+      "filename2": "CELEX_32023R1803_EN_TXT.di_page_553.json",
+      "excerpt2": "An entity shall measure expected credit losses of a financial instrument in a way that reflects: (a) an unbiased and probability-weighted amount that is determined by evaluating a range of possible outcomes; (b) the time value of money; and (c) reasonable and supportable information that is available without undue cost or effort at the reporting date about past events, current conditions and forecasts of future economic conditions.",
+      "pageNumber2": 553,
+      "explanation": "Both excerpts address the need for an 'unbiased' measurement of expected credit losses for credit institutions. Excerpt 1 from the EBA Guidelines states that 'bias should not be introduced to meet the objectives of IFRS 9,' regardless of the bank's size or complexity. Excerpt 2, from IFRS 9 itself (paragraph 5.5.17), specifies that an entity 'shall measure expected credit losses... in a way that reflects: (a) an unbiased and probability-weighted amount'. This demonstrates a direct overlap in the principle of ensuring unbiased ECL measurement.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

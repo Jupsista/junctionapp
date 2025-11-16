@@ -1,0 +1,126 @@
+{
+  "summary": "The EBA Guidelines on Loan Origination and Monitoring and the CRR, as well as the EBA Guidelines on Management of Non-Performing and Forborne Exposures, contain overlapping requirements regarding the valuation of immovable property collateral. They consistently mandate that such valuations be performed by an independent and qualified valuer, using market value or mortgage lending value, and require clear documentation. While the EBA GL on Loan Origination focuses on origination, and the EBA GL on NPEs focuses on non-performing exposures, the core principles for valuation and appraiser qualifications remain consistent, reflecting the underlying CRR requirements.",
+  "overlaps": [
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_53.json",
+      "excerpt1": "207. Institutions should ensure that the property collateral is valued in accordance with applicable international, European and national standards, such as the International Valuation Standards Council, the European Group of Valuers' Associations European Valuation Standards and the Royal Institution of Chartered Surveyors standards.",
+      "pageNumber1": 53,
+      "filename2": "Final Guidelines on management of non-performing and forborne exposures.di_page_54.json",
+      "excerpt2": "208. Property collateral should be valued in accordance with applicable international, European and national standards.39 These include the European Valuation Standards EVS-2016 (the Blue Book) and the Royal Institute of Chartered Surveyors (RICS) standards.",
+      "pageNumber2": 54,
+      "explanation": "Both excerpts require institutions to ensure that property collateral is valued in accordance with applicable international, European, and national standards, explicitly mentioning similar examples such as European Valuation Standards and RICS standards.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_53.json",
+      "excerpt1": "209. At the point of origination, institutions should ensure that the value of all immovable property collateral for loans to consumers and micro, small, medium-sized and large enterprises is assessed by an internal or external valuer using full visit with internal and external assessment of the property.",
+      "pageNumber1": 53,
+      "filename2": "Final Guidelines on management of non-performing and forborne exposures.di_page_51.json",
+      "excerpt2": "190. All valuations of immovable property, including updated valuations, should be performed by an independent and qualified appraiser, internal or external, who possesses the necessary qualifications, ability and experience to execute a valuation, as specified in Article 208(3)(b) and Article 229 of Regulation (EU) No 575/2013.",
+      "pageNumber2": 51,
+      "explanation": "Both excerpts require that immovable property collateral valuations be performed by a qualified and independent internal or external valuer. Excerpt 1 specifies 'full visit with internal and external assessment' at origination, while Excerpt 2 reiterates the general requirement for all valuations (including updated) to be by an independent and qualified appraiser for NPEs, referencing CRR articles.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_53.json",
+      "excerpt1": "206. When a credit facility is secured by an immovable or movable property collateral, institutions should ensure that the valuation of the collateral is carried out accurately at the point of origination. Institutions should set out internal policies and procedures for valuation of collateral. These policies and procedures should specify the valuation approaches to be used by a valuer and the use of advanced statistical models for each type of collateral. Institutions should ensure that these approaches are prudent and proportionate to the type and potential values of the collateral and in relation to the credit agreements, and are in line with the credit risk policies and procedures and conditions set out in Section 7.4.",
+      "pageNumber1": 53,
+      "filename2": "Final Guidelines on management of non-performing and forborne exposures.di_page_50.json",
+      "excerpt2": "179. A credit institution should have in place a written policy and procedures governing the valuation of property collateral. The policy and procedures should be fully aligned with the credit institution's RAF.",
+      "pageNumber2": 50,
+      "explanation": "Both excerpts require institutions to establish internal policies and procedures for the valuation of property collateral. Excerpt 1 specifies these policies should cover valuation approaches and the use of statistical models at origination. Excerpt 2 generally requires a written policy aligned with the Risk Appetite Framework for all property collateral valuations related to NPEs.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_53.json",
+      "excerpt1": "210. As a derogation from paragraph 209, for the purposes of a valuation of residential real estate in well-developed and mature property markets, the value may be assessed by means of a desktop valuation, carried out by an internal or external valuer and supported by advanced statistical models. The valuer remains responsible for the valuation, while the advanced statistical models should be used as supporting tools, meeting the conditions set out in Section 7.4, and including a confidence measure to indicate the robustness of the value proposal and other relevant property-specific information. In this case, the value proposal should be assessed, reviewed and approved by the internal or external valuer, who should understand all inputs and assumptions considered in the model. If the confidence measure in the supporting advanced statistical model indicates low robustness, and/or other property- specific information gives rise to uncertainty about the value proposal, the valuer should choose a valuation method other than desktop valuation.",
+      "pageNumber1": 53,
+      "filename2": "CELEX_32013R0575_EN_TXT.di_page_131.json",
+      "excerpt2": "Institutions may use statistical methods to monitor the value of the property and to identify property that needs revaluation.",
+      "pageNumber2": 131,
+      "explanation": "Both excerpts acknowledge the use of statistical methods in property valuation. Excerpt 1 explicitly allows for desktop valuation supported by advanced statistical models for residential real estate in well-developed markets, under specific conditions. Excerpt 2 generally permits the use of statistical methods to monitor property value and identify revaluation needs.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_53.json",
+      "excerpt1": "209. At the point of origination, institutions should ensure that the value of all immovable property collateral for loans to consumers and micro, small, medium-sized and large enterprises is assessed by an internal or external valuer using full visit with internal and external assessment of the property.",
+      "pageNumber1": 53,
+      "filename2": "CELEX_32013R0575_EN_TXT.di_page_146.json",
+      "excerpt2": "1. For immovable property collateral, the collateral shall be valued by an independent valuer at or at less than the market value. An institution shall require the independent valuer to document the market value in a transparent and clear manner. In those Member States that have laid down rigorous criteria for the assessment of the mortgage lending value in statutory or regulatory provisions the property may instead be valued by an independent valuer at or at less than the mortgage lending value. Institutions shall require the independent valuer not to take into account speculative elements in the assessment of the mortgage lending value and to document that value in a trans- parent and clear manner.",
+      "pageNumber2": 146,
+      "explanation": "Both excerpts mandate that immovable property collateral is valued by an independent valuer. Excerpt 1 focuses on the initial assessment process for all loans, while Excerpt 2 (Article 229 CRR) provides the core valuation principles for IRB, specifying valuation at market or mortgage lending value and transparent documentation by the independent valuer. The requirement for an 'independent valuer' is common.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_53.json",
+      "excerpt1": "209. At the point of origination, institutions should ensure that the value of all immovable property collateral for loans to consumers and micro, small, medium-sized and large enterprises is assessed by an internal or external valuer using full visit with internal and external assessment of the property.",
+      "pageNumber1": 53,
+      "filename2": "Guidelines on CRM for A-IRB institutions.di_page_39.json",
+      "excerpt2": "(i) The immovable property collateral is valued by an independent valuer at or at less than the market value. In those Member States that have laid down rigorous criteria for the assessment of the mortgage lending value in statutory or regulatory provisions, the property may instead be valued by an independent valuer at or at less than the mortgage lending value. Institutions should require the independent valuer not to take into account speculative elements in the assessment of the mortgage lending value. (ii) The independent valuer documents the market value or mortgage lending value in a transparent and clear manner. (iv) The independent valuer should possess the necessary qualifications, ability and experience to execute a valuation and should be independent from the credit decision process. As long as an employee of the institution meets all the aforementioned conditions, that employee can be considered an independent valuer.",
+      "pageNumber2": 39,
+      "explanation": "Both excerpts impose requirements on the valuer for immovable property collateral. Excerpt 1 specifies that valuation at origination should be by an internal or external valuer. Excerpt 2 (from EBA GL on CRM for A-IRB, referencing CRR Article 208(3)(b) and 229(1)) also requires an independent valuer (internal or external), specifies valuation at market or mortgage lending value, and details requirements for valuer qualifications, ability, experience, and independence from the credit decision process. This is a consistent requirement across different contexts.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_53.json",
+      "excerpt1": "206. When a credit facility is secured by an immovable or movable property collateral, institutions should ensure that the valuation of the collateral is carried out accurately at the point of origination. Institutions should set out internal policies and procedures for valuation of collateral. These policies and procedures should specify the valuation approaches to be used by a valuer and the use of advanced statistical models for each type of collateral. Institutions should ensure that these approaches are prudent and proportionate to the type and potential values of the collateral and in relation to the credit agreements, and are in line with the credit risk policies and procedures and conditions set out in Section 7.4.",
+      "pageNumber1": 53,
+      "filename2": "Final Guidelines on management of non-performing and forborne exposures.di_page_53.json",
+      "excerpt2": "203. Credit institutions should have defined collateral valuation approaches for each collateral product type; these should be adequate and appropriate for the type of collateral in question.",
+      "pageNumber2": 53,
+      "explanation": "Both excerpts require institutions to have defined collateral valuation approaches appropriate for each type of collateral. Excerpt 1 is in the context of loan origination and refers to internal policies, while Excerpt 2 is in the context of NPE management. The core requirement for defined and appropriate valuation approaches is consistent.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_53.json",
+      "excerpt1": "208. When applicable, institutions should take into account ESG factors affecting the value of the collateral, for example the energy efficiency of buildings.",
+      "pageNumber1": 53,
+      "filename2": "BaselFramework.di_page_234.json",
+      "excerpt2": "Banks should determine whether the current market value incorporates the potential changes in the value of properties emerging from climate- related financial risks (eg potential damage related to weather hazard, the implementation of climate-policy standards or changes in investment and consumption patterns derived from transition policies). National supervisors should consider jurisdiction-specific features that account for climate-related financial risks when setting out prudent valuation criteria.",
+      "pageNumber2": 234,
+      "explanation": "Both excerpts address the consideration of climate-related/ESG factors in property valuation. Excerpt 1 states that institutions should take into account ESG factors, such as energy efficiency, when applicable. Excerpt 2 (from Basel Framework FAQ) states that banks should determine whether current market value incorporates potential changes from climate-related financial risks (e.g., weather hazards, climate-policy standards). This represents a consistent expectation for institutions to consider these factors in valuation.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_53.json",
+      "excerpt1": "206. When a credit facility is secured by an immovable or movable property collateral, institutions should ensure that the valuation of the collateral is carried out accurately at the point of origination.",
+      "pageNumber1": 53,
+      "filename2": "CELEX_32013R0575_EN_TXT.di_page_131.json",
+      "excerpt2": "3. The following requirements on monitoring of property values and on property valuation shall be met:\n(b) the property valuation is reviewed when information available to institutions indicates that the value of the property may have declined materially relative to general market prices and that review is carried out by a valuer who possesses the necessary qualifications, ability and experience to execute a valuation and who is independent from the credit decision process.",
+      "pageNumber2": 131,
+      "explanation": "Both excerpts discuss property valuation accuracy and valuer qualifications/independence. Excerpt 1 requires accurate valuation at origination, to be carried out according to internal policies. Excerpt 2 (Article 208(3) CRR) mandates a review of property valuation when value declines, specifying that the review must be carried out by a qualified and independent valuer. While one is at origination and the other at review, the underlying requirement for qualified and independent valuation is consistent.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_53.json",
+      "excerpt1": "206. When a credit facility is secured by an immovable or movable property collateral, institutions should ensure that the valuation of the collateral is carried out accurately at the point of origination. Institutions should set out internal policies and procedures for valuation of collateral. These policies and procedures should specify the valuation approaches to be used by a valuer and the use of advanced statistical models for each type of collateral. Institutions should ensure that these approaches are prudent and proportionate to the type and potential values of the collateral and in relation to the credit agreements, and are in line with the credit risk policies and procedures and conditions set out in Section 7.4.",
+      "pageNumber1": 53,
+      "filename2": "Final Guidelines on management of non-performing and forborne exposures.di_page_53.json",
+      "excerpt2": "204. All immovable property collateral should be valued on the basis of market value or mortgage lending value, as specified under Article 229 of Regulation (EU) No 575/2013. Movable property should be valued at its market value.",
+      "pageNumber2": 53,
+      "explanation": "Both excerpts address the valuation basis for collateral. Excerpt 1 states that valuation approaches for all collateral types should be prudent and proportionate. Excerpt 2 specifies that immovable property collateral should be valued based on market value or mortgage lending value (referencing CRR Article 229), and movable property at market value. This is a specific clarification of valuation approaches that aligns with the general principle of 'valuation approaches' in Excerpt 1.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_53.json",
+      "excerpt1": "206. When a credit facility is secured by an immovable or movable property collateral, institutions should ensure that the valuation of the collateral is carried out accurately at the point of origination. Institutions should set out internal policies and procedures for valuation of collateral. These policies and procedures should specify the valuation approaches to be used by a valuer and the use of advanced statistical models for each type of collateral. Institutions should ensure that these approaches are prudent and proportionate to the type and potential values of the collateral and in relation to the credit agreements, and are in line with the credit risk policies and procedures and conditions set out in Section 7.4.",
+      "pageNumber1": 53,
+      "filename2": "Final Guidelines on management of non-performing and forborne exposures.di_page_50.json",
+      "excerpt2": "180. The policy and procedures should cover the valuation of all immovable and movable property collateral irrespective of its eligibility for prudential purposes in accordance with the requirements of Article 208 and Article 210 of Regulation (EU) No 575/2013.",
+      "pageNumber2": 50,
+      "explanation": "Both excerpts address the scope of internal policies and procedures for collateral valuation. Excerpt 1 broadly states policies for valuation of immovable and movable collateral at origination. Excerpt 2 specifies that these policies for NPEs should cover 'all immovable and movable property collateral' irrespective of prudential eligibility, explicitly referencing Articles 208 and 210 of CRR.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_53.json",
+      "excerpt1": "206. When a credit facility is secured by an immovable or movable property collateral, institutions should ensure that the valuation of the collateral is carried out accurately at the point of origination. Institutions should set out internal policies and procedures for valuation of collateral. These policies and procedures should specify the valuation approaches to be used by a valuer and the use of advanced statistical models for each type of collateral. Institutions should ensure that these approaches are prudent and proportionate to the type and potential values of the collateral and in relation to the credit agreements, and are in line with the credit risk policies and procedures and conditions set out in Section 7.4.",
+      "pageNumber1": 53,
+      "filename2": "Final Guidelines on management of non-performing and forborne exposures.di_page_50.json",
+      "excerpt2": "181. The policy and procedures should be approved by the management body and should be reviewed at least on an annual basis.",
+      "pageNumber2": 50,
+      "explanation": "Both excerpts require institutions to have internal policies and procedures for collateral valuation. Excerpt 1 requires policies for valuation approaches at origination. Excerpt 2 (for NPEs) adds governance requirements that these policies and procedures must be approved by the management body and reviewed annually. This is an overlap as the underlying requirement for policies exists in both, with Excerpt 2 providing more detail on governance.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

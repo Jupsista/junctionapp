@@ -1,0 +1,16 @@
+{
+  "summary": "Both documents address the assessment of 'low credit risk' for financial instruments under IFRS 9, specifically concerning the use of external 'investment grade' ratings. IFRS 9 presents an 'investment grade' rating as an example of a factor that may indicate low credit risk. The EBA Guideline provides a more prescriptive and restrictive rule for credit institutions, stating that an investment grade rating cannot automatically qualify an exposure as low credit risk and prohibits institutions from relying solely or mechanistically on such external ratings, mandating the primacy of their own internal assessments.",
+  "overlaps": [
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_47.json",
+      "excerpt1": "However, all lending exposures that have an 'investment grade' rating from a credit rating agency cannot automatically be considered low credit risk. Credit institutions should rely primarily on their own credit risk assessments in order to evaluate the credit risk of a lending exposure, and not rely solely or mechanistically on ratings provided by credit rating agencies (where the latter are available).",
+      "pageNumber1": 47,
+      "filename2": "CELEX_32023R1803_EN_TXT.di_page_629.json",
+      "excerpt2": "To determine whether a financial instrument has low credit risk, an entity may use its internal credit risk ratings or other methodologies that are consistent with a globally understood definition of low credit risk and that consider the risks and the type of financial instruments that are being assessed. An external rating of 'investment grade' is an example of a financial instrument that may be considered as having low credit risk.",
+      "pageNumber2": 629,
+      "explanation": "Both texts govern the criteria for assessing a financial instrument as having 'low credit risk' under IFRS 9. The IFRS 9 text (in CELEX_32023R1803_EN_TXT) provides an 'investment grade' external rating as a permissible example of an indicator for low credit risk. The EBA Guideline imposes a more restrictive rule specifically on credit institutions, prohibiting them from automatically considering such exposures as low credit risk and from relying solely or mechanistically on external ratings. This creates an overlap by adding a specific, binding constraint on the more general principle outlined in IFRS 9.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

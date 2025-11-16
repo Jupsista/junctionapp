@@ -1,0 +1,26 @@
+{
+  "summary": "An overlap exists between the EBA Guidelines on Loan Origination and Monitoring and the EBA Guidelines on Internal Governance regarding the integration of ESG factors into risk management. Both documents, applying to financial institutions, explicitly require or provide guidance on including ESG (Environmental, Social, and Governance) risk factors in risk management policies and procedures, particularly in relation to credit risk.",
+  "overlaps": [
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_79.json",
+      "excerpt1": "Option 2a: Include ESG factors in risk management policies, credit risk policies and procedures. Baseline scenario A diverse range of sector-specific market and policy factors has motivated the evolution of the sustainable finance agenda, with financial institutions developing methodologies and implementing procedures to integrate environmental factors into risk management systems, including customer credit and lending evaluations.",
+      "pageNumber1": 79,
+      "filename2": "Final%20report%20on%20Guidelines%20on%20internal%20governance%20under%20CRD.di_page_22.json",
+      "excerpt2": "When taking into account all risks, institutions are exposed to, institutions should take into account all relevant risk factors, including environmental, social and governance risk factors. Institutions should consider that the latter may drive their prudential risks, including credit risks, e.g. via risk factors related to the transition to a sustainable economy or external physical climate- related events that may affect debtors, market, liquidity, operational risks and also reputational risks, e.g. via social and governance risk factors, e.g. in the context of outsourcing arrangements16.",
+      "pageNumber2": 22,
+      "explanation": "Both excerpts address the integration of ESG factors into the risk management framework of financial institutions, specifically mentioning credit risk. The first excerpt from the Loan Origination Guidelines proposes and retains the option to include ESG factors in risk management and credit risk policies and procedures, while the second excerpt from the Internal Governance Guidelines explicitly states that institutions should take into account ESG risk factors when managing all risks, including credit risks. This constitutes an overlap in the requirement for institutions to incorporate ESG factors into their risk and credit management processes.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_79.json",
+      "excerpt1": "Option 2a: Include ESG factors in risk management policies, credit risk policies and procedures.",
+      "pageNumber1": 79,
+      "filename2": "Final%20report%20on%20Guidelines%20on%20internal%20governance%20under%20CRD.di_page_8.json",
+      "excerpt2": "In the same way institutions should take into account environmental, social and governance (ESG) risk factors within their risk management framework.",
+      "pageNumber2": 8,
+      "explanation": "Both excerpts establish a requirement for institutions to incorporate ESG risk factors into their overall risk management framework. The first excerpt explicitly refers to 'risk management policies, credit risk policies and procedures' as a retained option for including ESG factors, while the second generalises this by stating institutions 'should take into account environmental, social and governance (ESG) risk factors within their risk management framework'. This clearly indicates an overlap in the fundamental obligation to integrate ESG considerations into an institution's risk management.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

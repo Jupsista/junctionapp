@@ -1,0 +1,26 @@
+{
+  "summary": "The comparison between the EBA's 'Final Guidelines on Accounting for Expected Credit Losses' and the provided excerpts from a regulation detailing accounting standards (likely IFRS 9) reveals two instances of clear overlap. Both documents establish substantively identical principles for assessing the credit risk of financial assets that have been renegotiated or modified. Specifically, they both mandate that a modification does not automatically imply a decrease in credit risk and that a period of good payment behavior is required before risk can be considered to have improved. Additionally, both texts provide aligned guidance on the treatment of purchased or originated credit-impaired assets. No contradictions were found, as the EBA guidelines for credit institutions directly reflect and reinforce the underlying accounting principles applicable to all entities.",
+  "overlaps": [
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_27.json",
+      "excerpt1": "Renegotiations/modifications should not automatically lead to the conclusion that there has been an immediate decrease in the credit risk of the exposure. Any decrease in the reported allowance level due to improved credit risk should be supported by strong evidence. Customers should demonstrate consistently satisfactory payment performance over a reasonable period of time before credit risk would be considered to have decreased, considering also the relevant requirements for exposures in the probation period as defined in Part 2 of Annex V of Commission Implementing Regulation (EU) 680/2014.",
+      "pageNumber1": 27,
+      "filename2": "CELEX_32023R1803_EN_TXT.di_page_630.json",
+      "excerpt2": "If the contractual cash flows on a financial asset have been renegotiated or otherwise modified, but the financial asset is not derecognised, that financial asset is not automatically considered to have lower credit risk. An entity shall assess whether there has been a significant increase in credit risk since initial recognition on the basis of all reasonable and supportable information that is available without undue cost or effort. ... Typically a customer would need to demonstrate consistently good payment behaviour over a period of time before the credit risk is considered to have decreased.",
+      "pageNumber2": 630,
+      "explanation": "Both documents establish the same core principles for assessing the credit risk of a modified or renegotiated financial asset that has not been derecognised. Both state that a modification does not automatically imply reduced credit risk and that a period of good payment history is necessary to demonstrate improvement. The EBA Guideline for credit institutions and the accounting standard's application guidance for all entities are substantively identical, creating a direct overlap on the same regulatory subject.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_27.json",
+      "excerpt1": "Credit institutions should take into account the following criteria regarding renegotiations/modifications of lending exposures: ii. Renegotiations/modifications should not automatically lead to the conclusion that there has been an immediate decrease in the credit risk of the exposure. ... b. Credit institutions should take into account the following criteria regarding purchased or originated credit-impaired lending exposures: i. The methodology should enable appropriate identification and accounting for purchased or originated credit-impaired lending.",
+      "pageNumber1": 27,
+      "filename2": "CELEX_32023R1803_EN_TXT.di_page_552.json",
+      "excerpt2": "If the contractual cash flows on a financial asset have been renegotiated or modified and the financial asset was not derecognised, an entity shall assess whether there has been a significant increase in the credit risk of the financial instrument in accordance with paragraph 5.5.3 by comparing: (a) the risk of a default occurring at the reporting date (based on the modified contractual terms); and (b) the risk of a default occurring at initial recognition (based on the original, unmodified contractual terms). ... 5.5.13 Despite paragraphs 5.5.3 and 5.5.5, at the reporting date, an entity shall only recognise the cumulative changes in lifetime expected credit losses since initial recognition as a loss allowance for purchased or originated credit-impaired financial assets.",
+      "pageNumber2": 552,
+      "explanation": "Both texts regulate the assessment of credit risk for modified financial assets and the accounting for purchased or originated credit-impaired (POCI) assets. The EBA Guideline sets a principle for credit institutions that modifications do not automatically reduce risk, which aligns with the accounting standard's specific requirement to compare default risk before and after modification. For POCI assets, both texts require a methodology that tracks cumulative changes in lifetime expected credit losses since initial recognition. The rules address the same actor type and regulatory action, creating an overlap.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

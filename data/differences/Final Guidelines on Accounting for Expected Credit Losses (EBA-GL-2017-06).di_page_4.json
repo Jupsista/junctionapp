@@ -1,0 +1,26 @@
+{
+  "summary": "The analysis identified two overlaps between the provided texts, both centered on the alignment between prudential regulations (EBA Guidelines) and IFRS 9 accounting standards for credit institutions. The first overlap concerns the trigger for writing off a financial asset, where both the EBA Guidelines and the IFRS framework use 'no reasonable expectation of recovery' as the core criterion. The second overlap establishes a reciprocal link between the prudential concept of 'default' and the IFRS 9 accounting status of 'credit-impaired', ensuring consistent classification of distressed assets across both regimes. No contradictions were found.",
+  "overlaps": [
+    {
+      "filename1": "Final Guidelines on management of non-performing and forborne exposures.di_page_48.json",
+      "excerpt1": "When the credit institution has no reasonable expectation of recovering contractual cash flow of the exposure it should lead to a partial or full write-off of the exposure (IFRS 9.B3.2.16.r).",
+      "pageNumber1": 48,
+      "filename2": "CELEX_32023R1803_EN_TXT.di_page_499.json",
+      "excerpt2": "an entity's write-off policy, including the indicators that there is no reasonable expectation of recovery and information about the policy for financial assets that are written-off but are still subject to enforcement activity;",
+      "pageNumber2": 499,
+      "explanation": "Both texts establish the same substantive criterion for a write-off of a financial asset. The EBA Guidelines on non-performing exposures mandate that a write-off should occur when there is 'no reasonable expectation of recovering contractual cash flow'. Similarly, the EU regulation incorporating IFRS standards requires entities to disclose their write-off policy, which must include the 'indicators that there is no reasonable expectation of recovery'. Both apply to credit institutions and govern the same regulatory action (write-off) based on the identical principle of unrecoverability.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Report on Guidelines on default definition (EBA-GL-2016-07).di_page_27.json",
+      "excerpt1": "Where the institution treats an exposure as credit-impaired under IFRS 9, i.e. assigns it to Stage 3 as defined in IFRS 9 Financial Instruments, published by the IASB in July 2014, such exposure should be considered defaulted...",
+      "pageNumber1": 27,
+      "filename2": "CELEX_32023R1803_EN_TXT.di_page_582.json",
+      "excerpt2": "Evidence that a financial asset is credit-impaired include observable data about the following events: (a) significant financial difficulty of the issuer or the borrower; (b) a breach of contract, such as a default or past due event;",
+      "pageNumber2": 582,
+      "explanation": "The texts demonstrate a strong overlap and reciprocal relationship between the prudential definition of 'default' and the accounting definition of 'credit-impaired'. The EBA Guidelines on default definition state that an asset classified as 'credit-impaired' under IFRS 9 should be considered 'defaulted'. Concurrently, the IFRS 9 definition of a 'credit-impaired' financial asset includes 'a default or past due event' as key evidence. This creates a direct alignment where each status can trigger the other, ensuring consistency between the accounting and prudential frameworks for credit institutions.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

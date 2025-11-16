@@ -1,0 +1,16 @@
+{
+  "summary": "An overlap was identified between the EBA Guidelines on loan origination and monitoring and the EBA Guidelines on management of non-performing and forborne exposures. Both documents establish a similar rule for credit institutions regarding the revaluation of immovable property collateral, specifying that statistical models should not be the sole means used for the valuation. While one guideline applies this rule in the context of a review triggered under Regulation (EU) No 575/2013, the other applies it generally to collateral for non-performing exposures.",
+  "overlaps": [
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_56.json",
+      "excerpt1": "When the conditions for a review in accordance with Article 208(3)(b) of Regulation (EU) No 575/2013 are met, institutions should update the value of the immovable property collateral by means of a revaluation carried out by a valuer who is potentially supported by appropriate advanced statistical models that meet the conditions set out in Section 7.4 and account for individual characteristics of the property and geographical area. Institutions should not use these models as the sole means of the revaluation.",
+      "pageNumber1": 56,
+      "filename2": "Final Guidelines on management of non-performing and forborne exposures.di_page_51.json",
+      "excerpt2": "Valuations and revaluations of immovable property collateral should be performed on an individual and a property-specific basis. Valuations and revaluations of immovable property collateral should not be carried out using a statistical model as the sole means of undertaking the review of the property valuation.",
+      "pageNumber2": 51,
+      "explanation": "Both guidelines regulate the methodology for revaluing immovable property collateral by credit institutions, establishing a near-identical rule that prohibits the use of statistical models as the sole means for conducting the revaluation. The Guideline on loan origination applies this for reviews under Article 208(3)(b) of Regulation (EU) No 575/2013, while the Guideline on non-performing exposures applies it to collateral for those specific exposures.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

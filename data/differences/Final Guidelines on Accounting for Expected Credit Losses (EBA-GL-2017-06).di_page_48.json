@@ -1,0 +1,16 @@
+{
+  "summary": "An overlap was identified between the EBA Guidelines and the EU-endorsed IFRS 9 text regarding the 'more-than-30-days-past-due' rebuttable presumption. Both texts establish the same rule for credit institutions when assessing a significant increase in credit risk for the purpose of calculating expected credit losses (ECL). They both state that there is a rebuttable presumption of a significant increase in credit risk when contractual payments are over 30 days past due, and both allow this presumption to be rebutted with reasonable and supportable information.",
+  "overlaps": [
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_48.json",
+      "excerpt1": "Although the use of the more-than-30-days-past-due rebuttable presumption as a backstop measure is not precluded in accordance with IFRS 9 alongside other, earlier indicators for assessing significant increase in credit risk, credit institutions should avoid using it as a primary indicator of transfer to lifetime ECL. ... Any assertion that the more-than-30-days-past-due presumption is rebutted on the basis that there has not been a significant increase in credit risk should be accompanied by a thorough analysis clearly demonstrating that 30 days past due is not correlated with a significant increase in credit risk",
+      "pageNumber1": 48,
+      "filename2": "CELEX_32023R1803_EN_TXT.di_page_552.json",
+      "excerpt2": "Regardless of the way in which an entity assesses significant increases in credit risk, there is a rebuttable presumption that the credit risk on a financial asset has increased significantly since initial recognition when contractual payments are more than 30 days past due. An entity can rebut this presumption if the entity has reasonable and supportable information that is available without undue cost or effort, that demonstrates that the credit risk has not increased significantly since initial recognition even though the contractual payments are more than 30 days past due.",
+      "pageNumber2": 552,
+      "explanation": "Both texts regulate the same subject: the use of a 'more-than-30-days-past-due' rebuttable presumption for determining a significant increase in credit risk under IFRS 9 for credit institutions. Both establish that there is a rebuttable presumption that credit risk has significantly increased when payments are more than 30 days past due. Both also state that this presumption can be rebutted with reasonable and supportable information demonstrating that credit risk has not, in fact, increased significantly. The EBA Guideline provides interpretative detail (calling it a 'backstop measure' and discouraging its use as a 'primary indicator'), but the underlying rule and conditions for its application are identical to those in the IFRS 9 text, creating a clear overlap.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

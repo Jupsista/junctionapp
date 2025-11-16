@@ -1,0 +1,16 @@
+{
+  "summary": "A single overlap was identified between the EBA Guidelines on Accounting for Expected Credit Losses and the Basel Framework. Both texts mandate that supervisory authorities must assess and ensure that banks or credit institutions implement a robust, timely, and forward-looking process for the measurement of credit losses (Expected Credit Losses). The core supervisory requirement is identical, focusing on the adequacy of the institution's loss measurement methodology.",
+  "overlaps": [
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_50.json",
+      "excerpt1": "Competent authorities should be satisfied that the methods employed by a credit institution to determine accounting allowances lead to an appropriate measurement of ECL in accordance with the applicable accounting framework.",
+      "pageNumber1": 50,
+      "filename2": "BaselFramework.di_page_1787.json",
+      "excerpt2": "Principle 17: The supervisor determines that banks have an adequate credit risk management process that considers their risk appetite, risk profile, market conditions, macroeconomic factors and forward-looking information. This includes prudent policies and processes to identify, measure, evaluate, monitor, report and control or mitigate credit risk... on a timely basis.",
+      "pageNumber2": 1787,
+      "explanation": "Both texts impose a requirement on the supervisory authority ('competent authorities' in the EBA text, 'the supervisor' in the Basel Framework) to ensure that the financial institution ('credit institution' or 'bank') has an appropriate and adequate process for measuring credit losses. Both frameworks specify that this process must be robust, timely, and consider forward-looking information including macroeconomic factors, thus establishing the same regulatory subject and requirement for the supervisor.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

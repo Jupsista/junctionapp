@@ -1,0 +1,16 @@
+{
+  "summary": "The EBA Guidelines and IFRS 9 both address the collective assessment of significant increases in credit risk for groups of financial instruments. While the EBA clarifies that an increase in credit risk for a single exposure should not automatically trigger a significant increase for the entire group, IFRS 9 provides the foundational principle for performing such assessments on a collective basis, stating it 'may be necessary' and 'can group financial instruments on the basis of shared credit risk characteristics'. The EBA's clarification builds upon and aligns with the IFRS 9 approach.",
+  "overlaps": [
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_85.json",
+      "excerpt1": "Similar to IFRS 9 requirements and BCBS guidance, the identification of significant increase of credit risk in one exposure is not an automatic trigger of significant increase of credit risk for a group of exposures of which it is a part. For the avoidance of any misunderstanding the text in this paragraph has been amended.",
+      "pageNumber1": 85,
+      "filename2": "CELEX_32023R1803_EN_TXT.di_page_624.json",
+      "excerpt2": "B5.5.1 In order to meet the objective of recognising lifetime expected credit losses for significant increases in credit risk since initial recognition, it may be necessary to perform the assessment of significant increases in credit risk on a collective basis by considering information that is indicative of significant increases in credit risk on, for example, a group or sub-group of financial instruments. This is to ensure that an entity meets the objective of recognising lifetime expected credit losses when there are significant increases in credit risk, even if evidence of such significant increases in credit risk at the individual instrument level is not yet available.",
+      "pageNumber2": 624,
+      "explanation": "Both excerpts address the assessment of significant increases in credit risk for groups of exposures. IFRS 9 B5.5.1 establishes the necessity for collective assessment when individual instrument-level evidence is not yet available, and B5.5.5 permits grouping based on shared credit risk characteristics. The EBA Guidelines, by stating that 'identification of significant increase of credit risk in one exposure is not an automatic trigger of significant increase of credit risk for a group of exposures of which it is a part,' provide a specific clarification that aligns with the spirit of the collective assessment framework in IFRS 9, ensuring that collective assessment is not a mere aggregation of individual triggers but a nuanced evaluation of the group's shared credit risk characteristics. This is an overlap as both regulate the conditions for assessing credit risk collectively for groups of financial instruments.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

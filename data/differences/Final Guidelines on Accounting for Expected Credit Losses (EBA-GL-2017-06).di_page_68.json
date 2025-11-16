@@ -1,0 +1,26 @@
+{
+  "summary": "Two overlaps were identified where different EBA guideline documents articulate the same policy regarding the relationship between EBA's prudential guidelines and the IFRS 9 accounting standard. Both sets of documents establish a principle of alignment and non-contradiction with IFRS 9, while allowing for deviations or restrictions where necessary to meet prudential objectives or comply with primary legislation. No contradictions were found.",
+  "overlaps": [
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_68.json",
+      "excerpt1": "Therefore, it is not the objective of these guidelines to contradict the accounting requirements of IFRS 9, although they may have the effect of restricting the flexibility that IFRS 9 allows.",
+      "pageNumber1": 68,
+      "filename2": "Final Guidelines on management of non-performing and forborne exposures.di_page_122.json",
+      "excerpt2": "The EBA is of the view that the requirement is in line with the accounting rules, namely IFRS 9.",
+      "pageNumber2": 122,
+      "explanation": "Both excerpts articulate the EBA's policy of ensuring its guidelines are consistent with the IFRS 9 accounting standard. The first document states this as a general objective for the guidelines on expected credit losses. The second document confirms that a specific requirement in the guidelines on non-performing exposures is considered to be in line with IFRS 9. This represents an overlap in the stated regulatory principle of aligning with accounting standards.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_68.json",
+      "excerpt1": "Therefore, it is not the objective of these guidelines to contradict the accounting requirements of IFRS 9, although they may have the effect of restricting the flexibility that IFRS 9 allows.",
+      "pageNumber1": 68,
+      "filename2": "Final Report on Guidelines on default definition (EBA-GL-2016-07).di_page_73.json",
+      "excerpt2": "The EBA recognises the benefits of aligning the frameworks. However, some differences may remain where they stem from different objectives of prudential and accounting regulations or from the specific wording of primary regulations.",
+      "pageNumber2": 73,
+      "explanation": "Both excerpts describe the EBA's policy regarding the relationship between its prudential guidelines and the IFRS 9 accounting standard. Both articulate a principle of alignment and non-contradiction, while also acknowledging that the prudential framework may impose restrictions or deviate from IFRS 9 due to differing regulatory objectives. This constitutes an overlap as they state the same regulatory principle in the context of different guidelines.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

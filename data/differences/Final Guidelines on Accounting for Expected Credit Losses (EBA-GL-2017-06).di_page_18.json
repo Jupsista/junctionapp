@@ -1,0 +1,36 @@
+{
+  "summary": "Three overlaps were identified regarding the requirement for credit institutions to incorporate forward-looking information, including macroeconomic factors, into their credit risk management and Expected Credit Loss (ECL) accounting processes. The EBA Guidelines, the Basel Framework, and the EU-adopted IFRS 9 all establish consistent and overlapping rules on this subject. These rules cover the general principle of using such information, its specific application in ECL measurement, and the requirement for institutions to be able to demonstrate or disclose how this information was used. No contradictions were found among the provided texts.",
+  "overlaps": [
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_18.json",
+      "excerpt1": "In order to ensure a timely recognition of credit losses, credit institutions should consider forward-looking information, including macroeconomic factors.",
+      "pageNumber1": 18,
+      "filename2": "BaselFramework.di_page_1787.json",
+      "excerpt2": "The supervisor determines that banks have an adequate credit risk management process that considers their risk appetite, risk profile, market conditions, macroeconomic factors and forward-looking information.",
+      "pageNumber2": 1787,
+      "explanation": "Both texts require credit institutions (banks) to use forward-looking information and macroeconomic factors as part of their credit risk management. The EBA Guideline specifies this in the context of accounting for expected credit losses, while the Basel Framework establishes it as a core principle of an adequate credit risk management process that supervisors must verify. Both apply to the same actor type and mandate the same high-level requirement within the same functional context.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_18.json",
+      "excerpt1": "In order to ensure a timely recognition of credit losses, credit institutions should consider forward-looking information, including macroeconomic factors.",
+      "pageNumber1": 18,
+      "filename2": "CELEX_32023R1803_EN_TXT.di_page_624.json",
+      "excerpt2": "In that case, lifetime expected credit losses shall be recognised on a collective basis that considers comprehensive credit risk information. This comprehensive credit risk information must incorporate not only past due information but also all relevant credit information, including forward-looking macroeconomic information, in order to approximate the result of recognising lifetime expected credit losses when there has been a significant increase in credit risk since initial recognition on an individual instrument level.",
+      "pageNumber2": 624,
+      "explanation": "Both documents mandate the use of forward-looking macroeconomic information for the purpose of measuring expected credit losses. The EBA Guideline sets the general principle, and the EU-adopted IFRS 9 text provides a specific application of this principle, requiring the incorporation of such information for recognizing lifetime expected credit losses on a collective basis. They address the same regulatory subject (ECL measurement), actor (credit institutions), and specific action (use of forward-looking information).",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_18.json",
+      "excerpt1": "Credit institutions should be able to demonstrate how they have considered relevant, reasonable and supportable information in the ECL assessment and measurement process.",
+      "pageNumber1": 18,
+      "filename2": "CELEX_32023R1803_EN_TXT.di_page_500.json",
+      "excerpt2": "An entity shall explain the inputs, assumptions and estimation techniques used to apply the requirements in Section 5.5 of IFRS 9. For this purpose an entity shall disclose: ... (b) how forward-looking information has been incorporated into the determination of expected credit losses, including the use of macroeconomic information;",
+      "pageNumber2": 500,
+      "explanation": "Both texts concern the transparency and justification of the ECL measurement process. The EBA Guideline requires credit institutions to be able to 'demonstrate' how they have used relevant information, while the EU-adopted IFRS 9 text imposes a specific requirement to 'disclose' and 'explain' how forward-looking information was incorporated. The requirement to demonstrate and the requirement to disclose are two facets of the same regulatory obligation concerning the accountability of the ECL process.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

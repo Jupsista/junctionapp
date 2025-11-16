@@ -1,0 +1,56 @@
+{
+  "summary": "The EBA GL 2017-06 document outlines requirements for credit institutions regarding ECL measurement, including robust procedures, assessment of credit risk mitigants, cash flow estimates, and timely recognition of uncollectability through allowances or write-offs. It also requires policies for validating internal credit risk assessment models. Related documents from the EBA GL on NPLs refer to the obligation for credit institutions to follow the EBA GL 2017-06 for assessing and measuring loss allowances and write-offs on NPEs, and specifically reiterate the requirement for uncollectability to be recognised in the appropriate period through loss allowances or write-offs. Furthermore, FIN-FSA guidelines explicitly refer to specific paragraphs of EBA GL 2017-06 for credit risk assessment matters and the establishment of common processes, systems, tools, and information.",
+  "overlaps": [
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_50.json",
+      "excerpt1": "e. regardless of the method used to determine ECL, the credit institution's internal processes for measuring ECL take account of the credit risk that the credit institution has taken on and changes in the credit risk of the credit institution's lending exposures. d. uncollectability is recognised in the appropriate period through allowances or write-offs;",
+      "pageNumber1": 50,
+      "filename2": "Final%20Guidelines%20on%20management%20of%20non-performing%20and%20forborne%20exposures.di_page_48.json",
+      "excerpt2": "169. In accordance with the EBA Guidelines on credit risk management practices and accounting for expected credit losses,37 uncollectability should be recognised in the appropriate period through loss allowances or write-offs. When the credit institution has no reasonable expectation of recovering contractual cash flow of the exposure it should lead to a partial or full write-off of the exposure (IFRS 9.B3.2.16.r).",
+      "pageNumber2": 48,
+      "explanation": "Both excerpts address the same regulatory subject for credit institutions: the recognition of uncollectability through allowances or write-offs. The original document states this as a general requirement for ECL measurement, while the related document specifically reiterates it in the context of Non-Performing Exposures (NPEs) and explicitly references the original EBA Guidelines on credit risk management practices and accounting for expected credit losses. The wording is almost identical for the core requirement of recognizing uncollectability through allowances or write-offs in the appropriate period.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_50.json",
+      "excerpt1": "141. In assessing the methods employed by a credit institution to estimate allowances, competent authorities should be satisfied that the credit institution is following policies and practices consistent with the ECL measurement principles outlined in these guidelines, including, but not limited to, the following: a. the procedures used by a credit institution to measure ECL are robust and timely and take into account criteria such as updated valuations of credit risk mitigants (and, in particular, collateral, the residual risk after taking into account the mitigants, the correlation of that risk with borrowers' creditworthiness and the potential impact in terms of the effectiveness of protection), cash flow estimates based on assessments of borrower-specific factors and current and future macroeconomic conditions, together with other relevant forward-looking information that affects the expected collectability of the credit institution's lending exposure;",
+      "pageNumber1": 50,
+      "filename2": "2018_04.m3_en.di_page_15.json",
+      "excerpt2": "(24) In order to assess credit risk, supervised entities must take into account the matters listed in chapter 4.2.2, paragraph (36) of the EBA Guidelines (EBA/GL/2017/06) on credit institutions' credit risk management practices and accounting for expected credit losses to the extent that they were not taken into account under paragraph (23). (Issued on 20 October 2020, valid from 30 June 2021)",
+      "pageNumber2": 15,
+      "explanation": "Both excerpts concern the criteria and matters that credit institutions (referred to as 'supervised entities' in the related text) must take into account for credit risk assessment, specifically referencing the EBA GL 2017-06. The related text directly refers to a specific paragraph (4.2.2, para 36) of the guidelines in the original document, indicating an overlap in the underlying requirements for credit risk assessment practices that inform ECL.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_50.json",
+      "excerpt1": "f. the credit institution's policies and procedures for validating the accuracy and consistency of its internal credit risk assessment models are robust.",
+      "pageNumber1": 50,
+      "filename2": "2018_04.m3_en.di_page_20.json",
+      "excerpt2": "(73) Supervised entities must have a credit risk rating process in accordance with chapter 4.3.2, paragraphs (42-48) of the EBA Guidelines on credit institutions' credit risk management practices and accounting for expected credit losses.",
+      "pageNumber2": 20,
+      "explanation": "Both excerpts address the internal credit risk assessment models/processes of credit institutions (referred to as 'supervised entities' in the related text) and their robustness/compliance with the EBA GL 2017-06. The original document generally states that policies and procedures for validating these models must be robust, while the related document explicitly mandates adherence to specific paragraphs of the same EBA GL for the credit risk rating process.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_50.json",
+      "excerpt1": "e. regardless of the method used to determine ECL, the credit institution's internal processes for measuring ECL take account of the credit risk that the credit institution has taken on and changes in the credit risk of the credit institution's lending exposures.",
+      "pageNumber1": 50,
+      "filename2": "Final%20Guidelines%20on%20management%20of%20non-performing%20and%20forborne%20exposures.di_page_49.json",
+      "excerpt2": "174. Credit institutions should adopt, document and adhere to sound policies, procedures and controls for assessing and measuring loss allowances and write-off on NPEs in accordance with the EBA Guidelines on credit risk management practices and accounting for expected credit losses.",
+      "pageNumber2": 49,
+      "explanation": "Both excerpts concern credit institutions' processes for assessing and measuring credit losses. The original document specifies that internal processes for measuring ECL must account for credit risk and changes therein. The related document mandates that credit institutions adopt sound policies for assessing and measuring loss allowances on NPEs, explicitly stating this must be 'in accordance with the EBA Guidelines on credit risk management practices and accounting for expected credit losses' (the source of the original excerpt). This constitutes an overlap in the obligation for credit institutions to maintain robust processes for credit loss measurement.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_50.json",
+      "excerpt1": "f. the credit institution's policies and procedures for validating the accuracy and consistency of its internal credit risk assessment models are robust.",
+      "pageNumber1": 50,
+      "filename2": "BaselFramework.di_page_1792.json",
+      "excerpt2": "(4) The supervisor determines that banks have adequate and appropriate policies, processes, methodologies and organisational resources for establishing provisions and write-offs. The supervisor determines that policies, processes and methodologies for the measurement of provisions are appropriate to ensure that provisions and write-offs are timely and reflect realistic repayment and recovery expectations and, where relevant, include appropriate expectations about future credit losses based on reasonable and supportable information. The supervisor determines that banks' credit loss provisions and write-off methodologies and levels are subject to an effective review and validation process conducted by a function independent of the relevant risk-taking function.",
+      "pageNumber2": 1792,
+      "explanation": "Both excerpts address the validation of credit risk assessment models and methodologies for credit institutions (referred to as 'banks' in the related text). The original document states that a credit institution's policies and procedures for validating its internal credit risk assessment models must be robust. The related document outlines that supervisors determine that banks' credit loss provision and write-off methodologies and levels are subject to an effective review and validation process conducted by an independent function. This shows an overlap in the requirement for robust and independent validation of internal credit risk models/methodologies, particularly in the context of credit loss provisions.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

@@ -1,0 +1,16 @@
+{
+  "summary": "One overlap was identified between the EBA Guidelines on loan origination and monitoring and a regulation from the Finnish Financial Supervisory Authority. Both texts impose a requirement on financial institutions to establish a formal framework or set of principles for the ongoing monitoring of credit risk, specifically including the monitoring of borrowers and collateral. The other compared documents did not meet the strict criteria for an overlap or contradiction as they addressed different regulatory subjects (e.g., management of non-performing exposures, accounting rules), were directed at different actors (e.g., competent authorities), or operated in a different functional context.",
+  "overlaps": [
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_60.json",
+      "excerpt1": "Institutions should have a robust and effective monitoring framework, supported by an adequate data infrastructure, to ensure that information regarding their credit risk exposures, borrowers and collateral is relevant and up to date, and that the external reporting is reliable, complete, up to date and timely.",
+      "pageNumber1": 60,
+      "filename2": "2018_04.m3_en.di_page_22.json",
+      "excerpt2": "Supervised entities shall establish principles for the monitoring of customers, collateral and guarantees. The principles shall describe how problem customers are identified as early as possible and the procedures for treatment of problem customers of various degree.",
+      "pageNumber2": 22,
+      "explanation": "Both documents require supervised financial institutions to establish a formal framework or set of principles for the ongoing monitoring of credit risk. Both specify that this monitoring must cover borrowers (referred to as 'borrowers' and 'customers') and collateral/guarantees. The regulatory subject is the same: the requirement for institutions to have a system for monitoring their credit exposures.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

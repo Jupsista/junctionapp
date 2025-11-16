@@ -1,0 +1,26 @@
+{
+  "summary": "Both excerpts address the application of the '30-days-past-due' rebuttable presumption in the context of assessing significant increases in credit risk for the purpose of IFRS 9 Expected Credit Loss (ECL) measurement. The EBA guidelines emphasize that the use of practical expedients, including the 30-days-past-due presumption, should be limited and subject to proportionality and materiality, ensuring the objectives of IFRS 9 for unbiased and probability-weighted ECL. The IFRS 9 text (EU Regulation) details the conditions under which this presumption applies and can be rebutted, acknowledging its role in determining significant increases in credit risk.",
+  "overlaps": [
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_78.json",
+      "excerpt1": "For instance, the use of the 30-days-past-due rebuttable presumption would need to be assessed against the criteria to apply a proportionate approach considering the specificities of the exposure (and the portfolio in which the exposure may be grouped) and the credit institutions as included in the main text of the guidelines. The EBA also recalls that all credit institutions applying IFRS 9 should ensure that they meet the objectives of IFRS 9 when applying the standard, so as to estimate expected credit losses which reflect an unbiased and probability-weighted amount that is determined by evaluating a range of possible outcomes (IFRS 9, paragraph 5.5.17). Therefore, the use of practical expedients is expected to be limited, as practical expedients have the potential to introduce bias in ECL measurement.",
+      "pageNumber1": 78,
+      "filename2": "CELEX_32023R1803_EN_TXT.di_page_552.json",
+      "excerpt2": "Regardless of the way in which an entity assesses significant increases in credit risk, there is a rebuttable presumption that the credit risk on a financial asset has increased significantly since initial recognition when contractual payments are more than 30 days past due. An entity can rebut this presumption if the entity has reasonable and supportable information that is available without undue cost or effort, that demonstrates that the credit risk has not increased significantly since initial recognition even though the contractual payments are more than 30 days past due.",
+      "pageNumber2": 552,
+      "explanation": "Both excerpts address the '30-days-past-due' rebuttable presumption for assessing a significant increase in credit risk, which is a key component of IFRS 9's expected credit loss (ECL) measurement. The EBA Guidelines refer to this presumption as a practical expedient requiring careful assessment under proportionality and materiality, while the IFRS 9 text itself (as part of the EU Regulation) establishes this rebuttable presumption and outlines how it can be challenged. They regulate the same subject: the application of the 30-days-past-due rebuttable presumption in the context of IFRS 9 ECL for credit institutions, with consistent rules regarding its nature as a presumption that can be rebutted.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_78.json",
+      "excerpt1": "As explained in the guidelines, credit institutions should make limited use of practical expedients. However, this is also subject to the principles of proportionality and materiality.",
+      "pageNumber1": 78,
+      "filename2": "CELEX_32023R1803_EN_TXT.di_page_631.json",
+      "excerpt2": "An entity may use practical expedients when measuring expected credit losses if they are consistent with the principles in paragraph 5.5.17. An example of a practical expedient is the calculation of the expected credit losses on trade receivables using a provision matrix. The entity would use its historical credit loss experience (adjusted as appropriate in accordance with paragraphs B5.5.51-B5.5.52) for trade receivables to estimate the 12-month expected credit losses or the lifetime expected credit losses on the financial assets as relevant.",
+      "pageNumber2": 631,
+      "explanation": "Both excerpts address the use of 'practical expedients' for credit institutions in measuring expected credit losses (ECL) under IFRS 9. The EBA guidelines state that their use should be 'limited' and subject to 'proportionality and materiality', whereas the IFRS 9 text itself explicitly allows for practical expedients if they are 'consistent with the principles in paragraph 5.5.17', and provides an example (provision matrix). Both acknowledge the existence and conditions for using practical expedients in ECL measurement.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

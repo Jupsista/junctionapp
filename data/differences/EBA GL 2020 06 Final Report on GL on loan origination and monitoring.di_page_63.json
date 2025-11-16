@@ -1,0 +1,16 @@
+{
+  "summary": "A comparison of the EBA Guidelines on Loan Origination and Monitoring against related texts reveals one overlap with the EBA Guidelines on Management of Non-Performing and Forborne Exposures. Both sets of guidelines require credit institutions to conduct more frequent credit reviews for borrowers who show signs of deteriorating credit quality or are otherwise considered higher risk. They also both specifically mention the need for regular assessment of bullet loans. This overlap provides consistent regulatory expectations for the same actor (credit institutions) in the same context (ongoing credit risk monitoring).",
+  "overlaps": [
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_63.json",
+      "excerpt1": "The review process and frequency should be specific and proportionate to the type and risk profile of the borrower and the type, size and complexity of the credit facility, and should be specified in relevant policies and procedures. Institutions should carry out more frequent reviews if they identify a deterioration in the credit and asset quality. ... Institutions should assess risks associated with the refinancing of existing debt, monitoring loans with bullet/balloon repayment terms separately from other loans on a regular basis.",
+      "pageNumber1": 63,
+      "filename2": "Final%20Guidelines%20on%20management%20of%20non-performing%20and%20forborne%20exposures.di_page_44.json",
+      "excerpt2": "For borrowers on a watch list or with a weak rating, more frequent review processes should be in place, depending on the materiality, the portfolio and the borrower's financial standing. The regular assessment of the borrower's repayment capabilities should also apply to bullet loans, because these loans represent a higher level of risk than a loan subject to regular amortisation...",
+      "pageNumber2": 44,
+      "explanation": "Both guidelines impose a substantively identical requirement on credit institutions to increase the frequency of credit reviews for borrowers exhibiting higher risk. The Guideline on Loan Origination and Monitoring mandates 'more frequent reviews if they identify a deterioration in the credit and asset quality', while the Guideline on Non-Performing Exposures requires 'more frequent review processes' for borrowers 'on a watch list or with a weak rating'. Both also explicitly state that the regular assessment of repayment capabilities should apply to bullet loans. This is an overlap as both texts regulate the same actor (credit institutions) and the same specific action (intensified monitoring of higher-risk borrowers and bullet loans) within the same functional context of ongoing credit risk management.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

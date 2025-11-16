@@ -1,0 +1,56 @@
+{
+  "summary": "The documents present overlapping requirements for collateral valuation. Both sets of guidelines emphasize the need for transparency, clarity, objectivity, and the documentation of valuation processes and parameters. They also both require that valuers possess relevant qualifications and experience. Specific overlaps include the requirement for valuation reports to detail methodology, assumptions, and collateral descriptions. Both guidelines also mention the establishment of a panel of external valuers and the critical review of valuations by institutions. While the 'Guidelines on CRM' specifically require an 'independent valuer' who is 'independent from the credit decision process' for immovable property, the 'Guidelines on Loan Origination' also broadly require 'impartial' valuations and specify criteria for valuers and reports, which align with the spirit of independence and comprehensive documentation.",
+  "overlaps": [
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_54.json",
+      "excerpt1": "11. When institutions use external valuers, they should establish a panel (a list) of accepted external valuers. The composition of the panel of valuers should ensure that valuers have relevant expertise in relevant segments of the property sector.",
+      "pageNumber1": 54,
+      "filename2": "Final%20Guidelines%20on%20management%20of%20non-performing%20and%20forborne%20exposures.di_page_51.json",
+      "excerpt2": "191. For the purposes of external appraisals, credit institutions should establish a panel of independent and qualified appraisers, based on the criteria set out below. The appraisers'",
+      "pageNumber2": 51,
+      "explanation": "Both excerpts require institutions to establish a panel or list of accepted/independent external valuers/appraisers, ensuring they have relevant expertise.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_54.json",
+      "excerpt1": "212. Institutions should ensure that the valuers provide an impartial, clear, transparent and objective valuation, and each valuation should have a final report providing the necessary information on the valuation process and property. The valuation report should clearly state who ordered the valuation and that the valuation has been requested for the purposes of loan application, renewal or contractual adjustments, or in the case of structural changes. Valuation should be carried out (internal valuation) or ordered (external valuation) by the institution or a collateral agent (in the case of syndicated loans), unless it is subject to a request from the borrower.",
+      "pageNumber1": 54,
+      "filename2": "Guidelines%20on%20CRM%20for%20A-IRB%20institutions.di_page_39.json",
+      "excerpt2": "For the purposes of valuing an immovable property collateral and reviewing its value under the conditions specified in Article 208(3)(b) of that Regulation, institutions should ensure the following:(i) The immovable property collateral is valued by an independent valuer at or at less than the market value. In those Member States that have laid down rigorous criteria for the assessment of the mortgage lending value in statutory or regulatory provisions, the property may instead be valued by an independent valuer at or at less than the mortgage lending value. Institutions should require the independent valuer not to take into account speculative elements in the assessment of the mortgage lending value.(ii) The independent valuer documents the market value or mortgage lending value in a transparent and clear manner.",
+      "pageNumber2": 39,
+      "explanation": "Both excerpts impose requirements for clear, transparent, and objective valuations, and for the valuation report to document the valuation process, value, and property details. The CRM GL explicitly requires an 'independent valuer' and documentation of market/mortgage lending value transparently and clearly, while the Loan Origination GL requires valuers to provide an 'impartial, clear, transparent and objective valuation' and for the report to provide 'necessary information on the valuation process and property'.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_54.json",
+      "excerpt1": "213. At the end of the valuation process, institutions should ensure that they have obtained, for each property collateral, a clear and transparent valuation report documenting all elements and parameters that determine the value of the collateral, including all the information necessary and sufficient for easy understanding of these elements and parameters, in particular:a. the reference value of the collateral;b. the approaches, methodology and key parameters and assumptions that have been used to assess the value;c. a description of the collateral, including its current use or multiple uses if applicable, and the property type and quality, including age and state of preservation;d. a description of the location of the collateral, the local market conditions and the liquidity;e. the legal and actual attributes of the collateral;f. any known circumstances that may affect the value in the short term, including drawing attention to and commenting on any issues affecting the degree of certainty or uncertainty.",
+      "pageNumber1": 54,
+      "filename2": "CELEX_32013R0575_EN_TXT.di_page_146.json",
+      "excerpt2": "1. For immovable property collateral, the collateral shall be valued by an independent valuer at or at less than the market value. An institution shall require the independent valuer to document the market value in a transparent and clear manner. In those Member States that have laid down rigorous criteria for the assessment of the mortgage lending value in statutory or regulatory provisions the property may instead be valued by an independent valuer at or at less than the mortgage lending value. Institutions shall require the independent valuer not to take into account speculative elements in the assessment of the mortgage lending value and to document that value in a trans- parent and clear manner.",
+      "pageNumber2": 146,
+      "explanation": "Both excerpts outline requirements for the content and transparency of valuation reports for immovable property collateral. The Loan Origination GL provides a detailed list of elements to be documented, including reference value, methodology, description of collateral, location, legal attributes, and circumstances affecting value. CRR Article 229(1) requires the independent valuer to 'document the market value or mortgage lending value in a transparent and clear manner' and not to take into account speculative elements.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_54.json",
+      "excerpt1": "214. Institutions should critically review the valuation they receive, from the valuer, in particular focusing on aspects such as comprehensibility (whether the approaches and assumptions are clear and transparent), the prudence of assumptions (e.g. as regards cash flow and discount rates), and the clear and reasonable identification of comparable properties used as a value benchmark.",
+      "pageNumber1": 54,
+      "filename2": "Final%20Guidelines%20on%20management%20of%20non-performing%20and%20forborne%20exposures.di_page_50.json",
+      "excerpt2": "182. Credit institutions should monitor and review the valuations performed by internal or external appraisers on a regular basis as set out in this section. 183. Credit institutions should develop and implement a robust internal quality assurance policy and procedures for valuations conducted internally and externally, considering the following:a) The quality assurance process should be carried out by a function that is independent from the function conducting the initial valuation, loan processing, loan monitoring and the underwriting process.b) The independence of the external appraiser selection process should be tested on a regular basis as part of the quality assurance process.c) An appropriate, similar sample of internal and external valuations should be compared with market observations on a regular basis.d) Back-testing of both internal and external valuations should be carried out on a regular basis.e) The quality assurance process should be based on an appropriate sample size.",
+      "pageNumber2": 50,
+      "explanation": "Both excerpts address the critical review and monitoring of collateral valuations by institutions. The Loan Origination GL focuses on the 'critical review' of valuations received, checking comprehensibility, prudence of assumptions, and comparable properties. The NPE GL provides a more detailed framework for 'monitoring and review' through a robust internal quality assurance policy, including independence, comparison with market observations, and back-testing, which implicitly covers the critical review aspects mentioned in the Loan Origination GL.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_54.json",
+      "excerpt1": "215. At the point of origination, institutions should ensure that the value of all movable property collateral is assessed through an appropriate and prudent approach that is proportionate to the nature, type and complexity of the collateral, by an internal or external valuer, appropriate advanced statistical models meeting the conditions set out in Section 7.4 or other standard",
+      "pageNumber1": 54,
+      "filename2": "Final%20Guidelines%20on%20management%20of%20non-performing%20and%20forborne%20exposures.di_page_53.json",
+      "excerpt2": "204. All immovable property collateral should be valued on the basis of market value or mortgage lending value, as specified under Article 229 of Regulation (EU) No 575/2013. Movable property should be valued at its market value. 205. For movable property, credit institutions should, in accordance with the requirements of Article 199(6) of Regulation (EU) No 575/2013, periodically assess the liquidity of the property. If there is material volatility in the market prices, the institution should demonstrate that the valuation of the collateral is sufficiently conservative.",
+      "pageNumber2": 53,
+      "explanation": "Both excerpts concern the valuation of movable property. The Loan Origination GL states that movable property collateral should be assessed through an 'appropriate and prudent approach' proportionate to its nature, type, and complexity, by an internal or external valuer or statistical models. The NPE GL specifies that 'Movable property should be valued at its market value' and requires periodic assessment of liquidity and conservative valuation if market prices are volatile.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

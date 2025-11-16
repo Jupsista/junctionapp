@@ -1,0 +1,26 @@
+{
+  "summary": "An overlap was identified between the EBA Guidelines on credit risk management and the source directive (Directive 2013/36/EU) it is based on, as both texts establish the identical requirement for credit institutions to maintain internal methodologies for credit risk assessment. A second overlap was found with a Finnish national regulation that implements the same principle, requiring supervised entities to have sufficient internal methodologies for credit risk assessment. Both instances concern the same actor, regulatory action, and functional context, creating a clear overlap in requirements.",
+  "overlaps": [
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_7.json",
+      "excerpt1": "Article 79(1) of Directive 2013/36/EU requires competent authorities to ensure that '(b) institutions have internal methodologies that enable them to assess the credit risk of exposures to individual obligors ... and credit risk at the portfolio level' and '(c) the ongoing administration and monitoring of the various risk-bearing portfolios and exposures of institutions, including for identifying and managing problem credits and for making adequate value adjustments and provisions, is operated through effective systems'.",
+      "pageNumber1": 7,
+      "filename2": "CELEX_32013L0036_EN_TXT.di_page_44.json",
+      "excerpt2": "Competent authorities shall ensure that: ... (b) institutions have internal methodologies that enable them to assess the credit risk of exposures to individual obligors, securities or securitisation positions and credit risk at the portfolio level. ... (c) the ongoing administration and monitoring of the various credit risk-bearing portfolios and exposures of institutions, including for identifying and managing problem credits and for making adequate value adjustments and provisions, is operated through effective systems;",
+      "pageNumber2": 44,
+      "explanation": "Both documents establish the same requirement for credit institutions to have internal methodologies for assessing credit risk and effective systems for monitoring credit risk-bearing portfolios. Document 1 (EBA Guidelines) explicitly cites Article 79 of Document 2 (Directive 2013/36/EU) as the legal basis for this requirement, creating a direct and complete overlap of the regulatory subject and the obligation imposed.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_7.json",
+      "excerpt1": "Article 79(1) of Directive 2013/36/EU requires competent authorities to ensure that '(b) institutions have internal methodologies that enable them to assess the credit risk of exposures to individual obligors ... and credit risk at the portfolio level'",
+      "pageNumber1": 7,
+      "filename2": "2018_04.m3_en.di_page_20.json",
+      "excerpt2": "In accordance with chapter 9, section 9(1) of the Credit Institutions Act, credit institutions shall have sufficient internal methodologies for the assessment of the credit and counterparty risks with regard to the nature, scope and diversity of the activities of a credit institution.",
+      "pageNumber2": 20,
+      "explanation": "Both documents impose a requirement on credit institutions to have internal methodologies for assessing credit risk. Document 1 is an EBA Guideline based on an EU Directive that establishes this principle, while Document 2 represents a national (Finnish) implementation of this requirement, referencing its national Credit Institutions Act. They both govern the same actor (credit institutions) and the same regulatory requirement (maintaining internal credit risk assessment methodologies).",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

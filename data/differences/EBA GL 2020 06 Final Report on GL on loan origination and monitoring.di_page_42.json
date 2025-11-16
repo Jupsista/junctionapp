@@ -1,0 +1,26 @@
+{
+  "summary": "Two overlaps were identified between the EBA Guidelines on loan origination and the Finnish FSA's regulations. Both overlaps concern the specific factors that institutions must consider when conducting a borrower's creditworthiness assessment. The first overlap relates to the requirement to assess the borrower's status within a group of connected clients and the associated collateral. The second overlap pertains to the assessment of the borrower's overall financial commitments, repayment history, and future repayment capacity. No contradictions were found.",
+  "overlaps": [
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_42.json",
+      "excerpt1": "If the borrower is a member of a group of connected clients, institutions should carry out the assessment at individual level and, where relevant, at group level... assess the structure of the transaction, including the risk of structural subordination and related terms, e.g. covenants, and, if applicable, third-party guarantees and collateral structure.",
+      "pageNumber1": 42,
+      "filename2": "2018_04.m3_en.di_page_15.json",
+      "excerpt2": "· group of connected clients3, its obligations (incl. guarantee obligations) and the supervised entity's position in terms of priority, preferential rights and collateral\n· collateral type, valuation, coverage and realisability",
+      "pageNumber2": 15,
+      "explanation": "Both documents impose rules on the same actor (credit institutions / supervised entities) for the same regulatory action (creditworthiness assessment). They both require the assessment of the borrower's relationship with a 'group of connected clients' and an evaluation of the 'collateral' for the loan.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_42.json",
+      "excerpt1": "consider all the borrower's financial commitments, such as all drawn and undrawn committed facilities with institutions, including working capital facilities, credit exposures of the borrower and the past repayment behaviour of the borrower, as well as other obligations arising from tax or other public authorities or social security funds;",
+      "pageNumber1": 42,
+      "filename2": "2018_04.m3_en.di_page_14.json",
+      "excerpt2": "· the borrower's previous repayment performance, current repayment capacity and estimate of future repayment capacity considering all of its assets and liabilities",
+      "pageNumber2": 14,
+      "explanation": "Both documents impose rules on the same actor (credit institutions / supervised entities) for the same regulatory action (creditworthiness assessment). They require the institution to analyze the borrower's complete financial situation, specifically mandating a review of past repayment performance and an assessment of their current and future capacity to meet all financial obligations.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

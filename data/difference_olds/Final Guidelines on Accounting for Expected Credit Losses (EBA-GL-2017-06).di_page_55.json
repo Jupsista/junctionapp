@@ -1,0 +1,36 @@
+{
+  "summary": "",
+  "overlaps": [
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_55.json",
+      "excerpt1": "Article 16 of the EBA Regulation",
+      "pageNumber1": 55,
+      "filename2": "Final report on joint EBA and ESMA GL on the assessment of suitability.di_page_77.json",
+      "excerpt2": "Article 16(2) of the EBA and ESMA Regulations provides that the EBA and ESMA should carry out an analysis of 'the potential related costs and benefits' of any Guidelines they develop. This analysis should provide an overview of the findings regarding the problem to be dealt with, the solutions proposed and the potential impact of these options.",
+      "pageNumber2": 77,
+      "explanation": "Both excerpts refer to the requirement for the EBA to conduct a cost-benefit analysis for guidelines it develops, citing Article 16 of the EBA Regulation. The first excerpt mentions 'Issue own initiative guidelines pursuant to Article 16 of the EBA Regulation' in the context of options considered, and then elaborates on the cost-benefit analysis. The second explicitly states the mandate under Article 16(2) of the EBA Regulation for conducting such an analysis.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_55.json",
+      "excerpt1": "E. Cost-benefit analysis The incremental costs and benefits of these guidelines, both one-off and ongoing costs, predominantly affect credit institutions and competent authorities. The costs and benefits analysis includes the incremental costs and benefits besides those related to the application of IFRS 9, which will be generated from the application of these guidelines.",
+      "pageNumber1": 55,
+      "filename2": "EBA revised Guidelines on outsourcing arrangements.di_page_56.json",
+      "excerpt2": "Article 16(2) of Regulation (EU) No 1093/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Banking Authority) (the EBA Regulation) provides that the EBA should carry out an analysis of 'the potential related costs and benefits' of any guidelines it develops. This analysis should provide an overview of the findings regarding the problem to be dealt with, the solutions proposed and the potential impact of these options. E. Cost-benefit analysis The guidelines impose a limited set of specific requirements on institutions, payment institutions and competent authorities under the already existing framework, providing clarification and procedural guidance. A higher level of clarity on outsourcing requirements benefits institutions by creating a higher level of transparency regarding regulatory requirements and supervisory expectations. Standardised requirements lead to a reduction in costs for implementing processes, in particular when assessed on a consolidated basis.",
+      "pageNumber2": 56,
+      "explanation": "Both excerpts discuss the EBA's obligation to conduct a cost-benefit analysis for the guidelines it develops. The first excerpt refers to the cost-benefit analysis for guidelines on credit risk management, while the second refers to the cost-benefit analysis for outsourcing guidelines, both under the mandate of the EBA Regulation (Article 16(2)). Both sections are titled 'Cost-benefit analysis' and detail the scope and purpose of such an analysis, covering the costs and benefits affecting institutions and competent authorities.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_55.json",
+      "excerpt1": "E. Cost-benefit analysis The incremental costs and benefits of these guidelines, both one-off and ongoing costs, predominantly affect credit institutions and competent authorities. The costs and benefits analysis includes the incremental costs and benefits besides those related to the application of IFRS 9, which will be generated from the application of these guidelines.",
+      "pageNumber1": 55,
+      "filename2": "Guidelines on IRRBB and CSRBB.di_page_58.json",
+      "excerpt2": "5.1 Cost-benefit analysis / impact assessment 1. Article 16(2) of the EBA Regulation (Regulation (EU) No 1093/2010 of the European Parliament and of the Council) provides that, where appropriate, the EBA should analyse 'the related potential costs and benefits' of Guidelines issued by the EBA. Such analysis shall be proportionate in relation to the scope, nature and impact of the Guidelines. The following section provides an impact assessment of the Guidelines. It includes an overview of the findings regarding the problems to be dealt with, options available to tackle the problems, and cost-benefit analysis compared with the baseline scenario.",
+      "pageNumber2": 58,
+      "explanation": "Both excerpts detail the requirement for the EBA to conduct a cost-benefit analysis or impact assessment for its guidelines, citing Article 16(2) of the EBA Regulation. Both refer to 'costs and benefits' or 'potential related costs and benefits' as a mandatory part of the guideline development process. The first excerpt is about the cost-benefit analysis for ECL guidelines, and the second is for IRRBB/CSRBB guidelines.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

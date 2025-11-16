@@ -1,0 +1,26 @@
+{
+  "summary": "The EBA Guidelines on Loan Origination and Monitoring state that their criteria should be proportionate to the type, size, complexity, and risk profile of loans and facilities, and that requirements for loan origination apply to existing loans if their terms are changed via a new agreement. The FIN-FSA regulations and guidelines acknowledge and recommend compliance with these EBA guidelines, noting that they clarify requirements for assessing creditworthiness, risk-based pricing, collateral valuation, and ongoing credit risk monitoring. The FIN-FSA explicitly recommends that supervised entities apply the EBA guidelines' chapter 5 on loan origination procedures for consumer loans, with one specific exclusion.",
+  "overlaps": [
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_11.json",
+      "excerpt1": "16. The above differentiation in the application of proportionality aims to ensure that, while even smaller and less complex institutions have a robust and effective credit-granting process, loan origination and monitoring criteria are proportionate to the type, size, complexity and risk profile of the loans that the institutions are originating or credit facilities that they are monitoring.",
+      "pageNumber1": 11,
+      "filename2": "2018_04.m3_en.di_page_11.json",
+      "excerpt2": "(1) On 29 May 2020, the European Banking Authority (EBA) issued guidelines on loan origination and monitoring (EBA/GL/2020/06). The guidelines clarify, in particular, the internal governance and control framework for the credit-granting and decision-making process, specify the requirements for assessing the creditworthiness of borrowers at the point of credit granting to consumers and enterprises, and set out requirements for the information to be used in assessments. In addition, the guidelines set out supervisory expectations for the risk-based pricing of loans and provide guidance on, among other things, the valuation of immovable and movable property collateral at the point of credit granting, and the monitoring and review of the value of such collateral. The guidelines also provide specifications on the ongoing monitoring of credit risks. (Issued on 20 October 2020, valid from 30 June 2021)",
+      "pageNumber2": 11,
+      "explanation": "Excerpt 1 from the EBA document specifies the principle of proportionality in applying loan origination and monitoring criteria. Excerpt 2 from the FIN-FSA document explicitly refers to and summarises the EBA Guidelines on Loan Origination and Monitoring, mentioning that they 'specify the requirements for assessing the creditworthiness of borrowers' and 'provide guidance on, among other things, the valuation of immovable and movable property collateral at the point of credit granting, and the monitoring and review of the value of such collateral' and 'provide specifications on the ongoing monitoring of credit risks.' This shows the FIN-FSA adopting and reiterating the broad scope and subject matter of the EBA guidelines.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_11.json",
+      "excerpt1": "18. These guidelines apply from 30 June 2021, meaning that (1) the competent authorities should implement these guidelines by incorporating them into their supervisory processes and procedures, and (2) institutions should implement them in their business practices by 30 June 2021.",
+      "pageNumber1": 11,
+      "filename2": "2018_04.m3_en.di_page_11.json",
+      "excerpt2": "(2) In accordance with Article 16(3) of the EBA Regulation (1093/2010), financial institutions shall make every effort to comply with the EBA Guidelines referred to in paragraph (1). (Issued on 20 October 2020, valid from 30 June 2021)",
+      "pageNumber2": 11,
+      "explanation": "Excerpt 1 from the EBA document states that institutions 'should implement' the guidelines in their business practices by 30 June 2021. Excerpt 2 from the FIN-FSA document, which refers to the same EBA Guidelines, explicitly mandates that 'financial institutions shall make every effort to comply with the EBA Guidelines' in accordance with Article 16(3) of the EBA Regulation, effective from 30 June 2021. This constitutes an overlap in the obligation for institutions to implement/comply with the EBA guidelines by the specified date.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

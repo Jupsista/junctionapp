@@ -1,0 +1,56 @@
+{
+  "summary": "The comparison identifies several overlaps where both documents address the same regulatory subjects related to credit risk management for institutions, specifically concerning the performance of stress tests on credit portfolios and the assessment of allowances (provisions). There are no contradictions found.",
+  "overlaps": [
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_31.json",
+      "excerpt1": "j. performing stress tests on the aggregate credit portfolio as well as on relevant sub- portfolios and geographical segments;",
+      "pageNumber1": 31,
+      "filename2": "Final%20Report%20on%20Guidelines%20on%20common%20procedures%20and%20methodologies%20for%20SREP%20and%20supervisory%20stress%20testing.di_page_88.json",
+      "excerpt2": "219. When evaluating the inherent credit risk of an institution, competent authorities should take into account the results of stress tests performed by the institution to identify any previously unidentified sources of credit risk, such as those emerging from changes in credit quality, credit concentrations, collateral value and credit exposure during a stressed period.",
+      "pageNumber2": 88,
+      "explanation": "Both excerpts address the same regulatory subject of institutions performing stress tests to identify credit risk. Excerpt 1 explicitly lists 'performing stress tests on the aggregate credit portfolio' as a task for institutions, while Excerpt 2 refers to 'stress tests performed by the institution' as something competent authorities should consider when evaluating credit risk.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_31.json",
+      "excerpt1": "j. performing stress tests on the aggregate credit portfolio as well as on relevant sub- portfolios and geographical segments;",
+      "pageNumber1": 31,
+      "filename2": "Final%20Report%20on%20Guidelines%20on%20common%20procedures%20and%20methodologies%20for%20SREP%20and%20supervisory%20stress%20testing.di_page_93.json",
+      "excerpt2": "230. Competent authorities should assess whether the institution has undertaken stress testing to understand the impact of adverse events on its credit risk exposures and on the adequacy of its credit risk provisioning.",
+      "pageNumber2": 93,
+      "explanation": "Both excerpts deal with the requirement for institutions to perform stress testing for credit risk. Excerpt 1 outlines the task for institutions to perform stress tests on their credit portfolio, and Excerpt 2 describes the supervisory assessment of whether institutions have undertaken stress testing for credit risk exposures and provisioning.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_31.json",
+      "excerpt1": "g. assessing the appropriateness of allowances in accordance with the relevant accounting framework;",
+      "pageNumber1": 31,
+      "filename2": "Final%20Report%20on%20Guidelines%20on%20common%20procedures%20and%20methodologies%20for%20SREP%20and%20supervisory%20stress%20testing.di_page_88.json",
+      "excerpt2": "Assessment of the level of loan loss provisions and credit valuation adjustments 216. Competent authorities should assess whether the level of loan loss provisions and credit valuation adjustments are appropriate for the quality of the exposures and, where relevant, for the level of collateral. Competent authorities should assess: a. whether the level of loan loss provisions is consistent with the level of risk in different portfolios, over time and compared with the institution's relevant peers; b. whether the credit valuation adjustments to derivatives' market values reflect the creditworthiness of relevant counterparties; c. whether accounting loan loss provisions are in line with applicable accounting principles and are assessed as sufficient to cover expected losses;",
+      "pageNumber2": 88,
+      "explanation": "Both excerpts address the assessment of allowances/loan loss provisions for institutions. Excerpt 1 states that institutions should perform 'assessing the appropriateness of allowances in accordance with the relevant accounting framework', while Excerpt 2 details how competent authorities should 'assess whether the level of loan loss provisions and credit valuation adjustments are appropriate' and 'consistent with applicable accounting principles' for institutions.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_31.json",
+      "excerpt1": "j. performing stress tests on the aggregate credit portfolio as well as on relevant sub- portfolios and geographical segments;",
+      "pageNumber1": 31,
+      "filename2": "CELEX_32013R0575_EN_TXT.di_page_181.json",
+      "excerpt2": "Article 290 Stress testing 1. An institution shall have a comprehensive stress testing programme for CCR, including for use in assessment of own funds requirements for CCR, which complies with the requirements laid down in paragraphs 2 to 10. 2. It shall identify possible events or future changes in economic conditions that could have unfavourable effects on an institution's credit exposures and assess the institution's ability to withstand such changes.",
+      "pageNumber2": 181,
+      "explanation": "Both excerpts impose a requirement on institutions to perform stress tests related to credit exposures. Excerpt 1 mentions 'performing stress tests on the aggregate credit portfolio', and Excerpt 2 mandates that 'An institution shall have a comprehensive stress testing programme for CCR... to identify possible events or future changes in economic conditions that could have unfavourable effects on an institution's credit exposures'. Both refer to the institution's obligation to conduct stress tests on its credit exposures.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_31.json",
+      "excerpt1": "j. performing stress tests on the aggregate credit portfolio as well as on relevant sub- portfolios and geographical segments;",
+      "pageNumber1": 31,
+      "filename2": "CELEX_32013R0575_EN_TXT.di_page_112.json",
+      "excerpt2": "Article 177 Stress tests used in assessment of capital adequacy 1. An institution shall have in place sound stress testing processes for use in the assessment of its capital adequacy. Stress testing shall involve identifying possible events or future changes in economic conditions that could have unfavourable effects on an institution's credit exposures and assessment of the institution's ability to withstand such changes. 2. An institution shall regularly perform a credit risk stress test to assess the effect of certain specific conditions on its total capital requirements for credit risk.",
+      "pageNumber2": 112,
+      "explanation": "Both excerpts require institutions to perform credit risk stress tests. Excerpt 1 lists 'performing stress tests on the aggregate credit portfolio' as an institutional task, while Excerpt 2 states that 'An institution shall have in place sound stress testing processes for use in the assessment of its capital adequacy' and 'shall regularly perform a credit risk stress test'. Both define the requirement for institutions to conduct stress testing on their credit exposures.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

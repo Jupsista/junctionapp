@@ -1,0 +1,16 @@
+{
+  "summary": "The comparison identified a true overlap between the two documents. Both texts contain a standardized 'Compliance and reporting obligations' section, which is common boilerplate language for guidelines issued by the European Banking Authority (EBA) under Article 16 of Regulation (EU) No 1093/2010. These sections regulate the exact same subject matter: the legal status of the guidelines and the procedural requirement for competent authorities and financial institutions to strive for compliance, and for competent authorities to report their compliance status to the EBA. The rules imposed on the same actors for the same regulatory action are identical, representing a clear overlap. No contradictions were found.",
+  "overlaps": [
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_12.json",
+      "excerpt1": "In accordance with Article 16(3) of Regulation (EU) No 1093/2010, competent authorities and financial institutions must make every effort to comply with the guidelines. ... According to Article 16(3) of Regulation (EU) No 1093/2010, competent authorities must notify the EBA as to whether they comply or intend to comply with these guidelines, or otherwise with reasons for non-compliance, by ([dd.mm.yyyy]).",
+      "pageNumber1": 12,
+      "filename2": "Guidelines on IRRBB and CSRBB.di_page_11.json",
+      "excerpt2": "In accordance with Article 16(3) of Regulation (EU) No 1093/2010, competent authorities and financial institutions must make every effort to comply with the Guidelines. ... According to Article 16(3) of Regulation (EU) No 1093/2010, competent authorities must notify the EBA as to whether they comply or intend to comply with these Guidelines, or otherwise with reasons for non-compliance, by 02.05.2023.",
+      "pageNumber2": 11,
+      "explanation": "Both documents contain a standard 'Compliance and reporting obligations' section that is boilerplate text for EBA Guidelines issued under Article 16 of Regulation (EU) No 1093/2010. They regulate the same subject by imposing identical obligations on the same actors (competent authorities and financial institutions) to 'make every effort to comply' with the guidelines and for competent authorities to report their compliance status to the EBA. This constitutes a true overlap of procedural requirements.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

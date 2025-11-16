@@ -1,0 +1,16 @@
+{
+  "summary": "One overlap was identified between the EBA Guidelines on Loan Origination and Monitoring and the EBA Guidelines on Internal Governance. Both require credit institutions to integrate Environmental, Social, and Governance (ESG) factors into their risk management frameworks. The Internal Governance guidelines set a high-level principle for the overall framework, while the Loan Origination guidelines specify this requirement for credit risk policies and procedures, creating a direct overlap on the same regulatory subject for the same actor.",
+  "overlaps": [
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_79.json",
+      "excerpt1": "Option 2a: Include ESG factors in risk management policies, credit risk policies and procedures.",
+      "pageNumber1": 79,
+      "filename2": "Final report on Guidelines on internal governance under CRD.di_page_22.json",
+      "excerpt2": "When taking into account all risks, institutions are exposed to, institutions should take into account all relevant risk factors, including environmental, social and governance risk factors.",
+      "pageNumber2": 22,
+      "explanation": "Both documents impose a requirement on credit institutions to integrate ESG considerations into their risk management. The Guidelines on Loan Origination and Monitoring specifically mandate the inclusion of ESG factors in credit risk policies and procedures. The Guidelines on Internal Governance establish a broader, high-level requirement for institutions' overall risk management framework to account for all relevant risk factors, explicitly including ESG. This constitutes an overlap as both texts regulate the same subject (integration of ESG risk factors into risk management) for the same actor (credit institutions) with consistent and reinforcing requirements.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

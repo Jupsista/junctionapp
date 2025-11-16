@@ -1,0 +1,26 @@
+{
+  "summary": "Both excerpts address the type of information that credit institutions (or entities) should consider when assessing credit risk and measuring Expected Credit Losses (ECL). They both specify that this information should include past events, current conditions, and forecasts of future economic conditions, and should be reasonable and supportable.",
+  "overlaps": [
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_17.json",
+      "excerpt1": "Credit institutions should consider a wide range of information when applying ECL accounting models. Information considered should be relevant to the assessment of credit risk and measurement of ECL of the particular lending exposure being assessed, and should include information about past events, current conditions and forecasts of future economic conditions. Information which is ultimately included in the assessment of credit risk and measurement of ECL should also be reasonable and supportable.",
+      "pageNumber1": 17,
+      "filename2": "CELEX_32023R1803_EN_TXT.di_page_553.json",
+      "excerpt2": "5.5.17 An entity shall measure expected credit losses of a financial instrument in a way that reflects: (c) reasonable and supportable information that is available without undue cost or effort at the reporting date about past events, current conditions and forecasts of future economic conditions.",
+      "pageNumber2": 553,
+      "explanation": "Both excerpts require credit institutions/entities to use 'reasonable and supportable information' that includes 'past events, current conditions and forecasts of future economic conditions' for the measurement of expected credit losses (ECL). The EBA GL mentions considering a 'wide range of information' that is 'relevant' and 'reasonable and supportable', while IFRS 9 specifies that the measurement of ECL shall reflect 'reasonable and supportable information that is available without undue cost or effort at the reporting date about past events, current conditions and forecasts of future economic conditions'. The core requirements for the type of information to be considered are the same.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_17.json",
+      "excerpt1": "Credit institutions should consider a wide range of information when applying ECL accounting models. Information considered should be relevant to the assessment of credit risk and measurement of ECL of the particular lending exposure being assessed, and should include information about past events, current conditions and forecasts of future economic conditions. Information which is ultimately included in the assessment of credit risk and measurement of ECL should also be reasonable and supportable. Credit institutions should use their experienced credit judgement in determining the range of relevant information that",
+      "pageNumber1": 17,
+      "filename2": "CELEX_32023R1803_EN_TXT.di_page_633.json",
+      "excerpt2": "B5.5.49 For the purpose of this Standard, reasonable and supportable information is that which is reasonably available at the reporting date without undue cost or effort, including information about past events, current conditions and forecasts of future economic conditions. Information that is available for financial reporting purposes is considered to be available without undue cost or effort. B5.5.51 An entity need not undertake an exhaustive search for information but shall consider all reasonable and supportable information that is available without undue cost or effort and that is relevant to the estimate of expected credit losses, including the effect of expected prepayments. The information used shall include factors that are specific to the borrower, general economic conditions and an assessment of both the current as well as the forecast direction of conditions at the reporting date.",
+      "pageNumber2": 633,
+      "explanation": "Both texts define and require the use of 'reasonable and supportable information' for ECL assessment, including 'past events, current conditions and forecasts of future economic conditions'. The EBA GL states credit institutions 'should consider a wide range of information' that is 'relevant' and 'reasonable and supportable'. The IFRS 9 guidance (B5.5.49 and B5.5.51) explicitly defines 'reasonable and supportable information' as that available 'without undue cost or effort' and states entities 'shall consider all reasonable and supportable information... that is relevant to the estimate of expected credit losses', further elaborating on the type of factors to include. The core obligation regarding the nature and scope of information for ECL assessment is consistent.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

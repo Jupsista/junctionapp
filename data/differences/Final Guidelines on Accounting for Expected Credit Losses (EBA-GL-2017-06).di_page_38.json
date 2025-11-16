@@ -1,0 +1,46 @@
+{
+  "summary": "The EBA Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06) provide specific guidance for credit institutions that directly aligns with and elaborates on the principles of IFRS 9, as found in Regulation (EU) 2023/1803. Multiple overlaps were identified where the EBA Guidelines reiterate or clarify the requirements set out in IFRS 9 for the same actors (credit institutions/entities applying IFRS 9) and the same regulatory action (assessment of significant increases in credit risk for the purpose of calculating Expected Credit Losses). No contradictions were found, as the EBA text is complementary to the IFRS 9 requirements.",
+  "overlaps": [
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_38.json",
+      "excerpt1": "IFRS 9, paragraph 5.5.4, states that 'the objective of the impairment requirements is to recognise lifetime expected credit losses for all financial instruments for which there have been significant increases in credit risk since initial recognition - whether assessed on an individual or collective basis'.",
+      "pageNumber1": 38,
+      "filename2": "CELEX_32023R1803_EN_TXT.di_page_551.json",
+      "excerpt2": "The objective of the impairment requirements is to recognise lifetime expected credit losses for all financial instruments for which there have been significant increases in credit risk since initial recognition - whether assessed on an individual or collective basis - considering all reasonable and supportable information, including that which is forward-looking.",
+      "pageNumber2": 551,
+      "explanation": "Both documents state the identical core objective of the impairment framework: to recognise lifetime expected credit losses (ECL) when a financial instrument's credit risk has increased significantly since its initial recognition. The actor (credit institutions/entities applying IFRS 9) and the regulatory subject (ECL impairment objective) are identical. The EBA Guideline directly quotes the principle from IFRS 9.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_38.json",
+      "excerpt1": "Lending exposures should not be grouped in such a way as to obscure the identification of significant increases in credit risk on a timely basis (see also Principles 3 and 4 of these guidelines for additional requirements regarding grouping and collective assessments of ECL).",
+      "pageNumber1": 38,
+      "filename2": "CELEX_32023R1803_EN_TXT.di_page_624.json",
+      "excerpt2": "For the purpose of determining significant increases in credit risk and recognising a loss allowance on a collective basis, an entity can group financial instruments on the basis of shared credit risk characteristics with the objective of facilitating an analysis that is designed to enable significant increases in credit risk to be identified on a timely basis. The entity should not obscure this information by grouping financial instruments with different risk characteristics.",
+      "pageNumber2": 624,
+      "explanation": "Both texts regulate the collective assessment and grouping of financial instruments for the purpose of identifying significant increases in credit risk (SICR). They both impose the same requirement on the same actor type (credit institutions/entities), which is that the grouping methodology must be designed for timely identification of SICR and should not obscure this process.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_38.json",
+      "excerpt1": "In formulating the estimate of the amount equal to 12-month ECL, credit institutions should consider reasonable and supportable information, as referred to in the Definitions and in Principle 6 of these guidelines, that affect credit risk, especially forward-looking information, including macroeconomic factors.",
+      "pageNumber1": 38,
+      "filename2": "CELEX_32023R1803_EN_TXT.di_page_552.json",
+      "excerpt2": "If reasonable and supportable forward-looking information is available without undue cost or effort, an entity cannot rely solely on past due information when determining whether credit risk has increased significantly since initial recognition.",
+      "pageNumber2": 552,
+      "explanation": "Both documents require credit institutions/entities to use reasonable, supportable, and forward-looking information when assessing credit risk for the purpose of calculating expected credit losses, and explicitly state that reliance on past-due information alone is insufficient when forward-looking data is available. This constitutes the same regulatory requirement for the same actor and subject.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_38.json",
+      "excerpt1": "IFRS 9 provides that an entity does not need to undertake an exhaustive search for information when measuring an amount equal to 12- month ECL. However, credit institutions should actively incorporate information that may affect the estimate of ECL, and credit institutions should not exclude or ignore relevant information that is reasonably available.",
+      "pageNumber1": 38,
+      "filename2": "CELEX_32023R1803_EN_TXT.di_page_626.json",
+      "excerpt2": "An entity need not undertake an exhaustive search for information when determining whether credit risk has increased significantly since initial recognition.",
+      "pageNumber2": 626,
+      "explanation": "Both texts provide an identical rule for the same actor (credit institutions/entities) in the same context (determining significant increases in credit risk for ECL calculation). They both state that an entity is not required to undertake an exhaustive search for information. The EBA Guideline explicitly references and reiterates the IFRS 9 provision.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

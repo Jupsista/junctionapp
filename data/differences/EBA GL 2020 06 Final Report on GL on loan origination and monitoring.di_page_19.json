@@ -1,0 +1,26 @@
+{
+  "summary": "Two overlaps were identified concerning the responsibilities of an institution's management body. Both overlaps relate to the requirement for the management body to approve the credit risk strategy. The first overlap is with a guideline on credit risk management practices, which states a nearly identical requirement. The second overlap is with a guideline on non-performing exposures, which cites a broader requirement from CRD for the management body to approve strategies for all risks, which encompasses credit risk. No contradictions were found.",
+  "overlaps": [
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_19.json",
+      "excerpt1": "The management body, as referred to in the EBA Guidelines on internal governance, in relation to credit granting, should: a. approve the institution's credit risk strategy, within the overall risk strategy, and business strategy, to ensure that they are in line with the institution's risk appetite framework (RAF), capital and liquidity planning, and are in line with the internal capital adequacy assessment process (ICAAP) and internal liquidity adequacy assessment process (ILAAP), when relevant;",
+      "pageNumber1": 19,
+      "filename2": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_19.json",
+      "excerpt2": "The credit institution's management body should be responsible for approving and regularly reviewing a credit institution's credit risk management strategy and the main policies and processes for identifying, measuring, evaluating, monitoring, reporting and mitigating credit risk consistent with the approved risk appetite set by the management body.",
+      "pageNumber2": 19,
+      "explanation": "Both guidelines stipulate that the management body of a credit institution is responsible for approving the institution's credit risk strategy. The regulatory subject (management body's role in credit risk governance) and the specific requirement (approval of credit risk strategy) are the same.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_19.json",
+      "excerpt1": "The management body, as referred to in the EBA Guidelines on internal governance, in relation to credit granting, should: a. approve the institution's credit risk strategy, within the overall risk strategy, and business strategy...",
+      "pageNumber1": 19,
+      "filename2": "Final Guidelines on management of non-performing and forborne exposures.di_page_9.json",
+      "excerpt2": "Article 76 of Directive 2013/36/EU sets out requirements for the involvement of the management body in risk management, the setting up of a risk committee for significant institutions, and the tasks and organisation of the risk management function, and it requires in particular that the management body of a credit institution must approve and periodically review the strategies and policies for taking up, managing, monitoring and mitigating the risks the institution is or might be exposed to.",
+      "pageNumber2": 9,
+      "explanation": "Both documents require the management body of a credit institution to approve risk strategies. The Guideline on loan origination specifies the 'credit risk strategy', which is a specific type of risk strategy covered by the broader requirement cited in the Guideline on non-performing exposures for the management body to approve strategies for all risks.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

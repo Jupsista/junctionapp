@@ -1,0 +1,26 @@
+{
+  "summary": "The documents provide similar guidance regarding the qualifications, independence, and performance assessment of valuers/appraisers. Both the 'EBA GL 2020 06 Final Report on GL on loan origination and monitoring' and the 'Final Guidelines on management of non-performing and forborne exposures' emphasize that institutions should ensure valuers are professionally competent, independent from the credit decision process, and that their performance, including the accuracy of valuations, is assessed regularly. While the specific context varies slightly (loan origination vs. NFE management), the core requirements for the valuer's attributes and the institution's oversight obligations are highly consistent.",
+  "overlaps": [
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_57.json",
+      "excerpt1": "231. Institutions should ensure that a valuer carrying out the valuation or revaluation tasks: a. is professionally competent and meets any national or international requirements and accepted professional standards that apply to the valuer or for carrying out a particular valuation assignment; b. has the appropriate technical skills and experience to perform the assignment; c. has the necessary knowledge, i.e. knowledge of the subject of the valuation, the relevant property market and the purpose of the valuation; d. is independent from the credit decision process.",
+      "pageNumber1": 57,
+      "filename2": "Final%20Guidelines%20on%20management%20of%20non-performing%20and%20forborne%20exposures.di_page_51.json",
+      "excerpt2": "190. All valuations of immovable property, including updated valuations, should be performed by an independent and qualified appraiser, internal or external, who possesses the necessary qualifications, ability and experience to execute a valuation, as specified in Article 208(3)(b) and Article 229 of Regulation (EU) No 575/2013.",
+      "pageNumber2": 51,
+      "explanation": "Both excerpts address the requirements for valuers/appraisers used by institutions for collateral valuation. Excerpt 1 (Loan Origination GL) broadly applies to valuers for movable property, while Excerpt 2 (NPE GL) specifically mentions valuers for immovable property. Despite the difference in property type, the core requirements for the valuer's competence, qualifications, ability, experience, and independence from the credit decision process are the same. Both paragraphs impose obligations on institutions to ensure these qualities in their valuers.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_57.json",
+      "excerpt1": "233. Institutions should assess the performance of the valuers, in particular the accuracy of the valuations provided, e.g. by backtesting on the value of the collateral through advanced statistical models. As part of such assessments, institutions should also look at the concentration of valuations performed by and fees paid to specific valuers.",
+      "pageNumber1": 57,
+      "filename2": "Final%20Guidelines%20on%20management%20of%20non-performing%20and%20forborne%20exposures.di_page_50.json",
+      "excerpt2": "183. Credit institutions should develop and implement a robust internal quality assurance policy and procedures for valuations conducted internally and externally, considering the following: ... d) Back-testing of both internal and external valuations should be carried out on a regular basis. e) The quality assurance process should be based on an appropriate sample size.",
+      "pageNumber2": 50,
+      "explanation": "Both excerpts require institutions to assess the performance and accuracy of valuations, specifically mentioning the use of back-testing. Excerpt 1 (Loan Origination GL) requires institutions to assess the performance of valuers, including accuracy by backtesting. Excerpt 2 (NPE GL) requires robust internal quality assurance policies, including regular back-testing of internal and external valuations. The regulatory subject, actor type (institutions/credit institutions), and regulatory action (assessment of valuer performance/valuation accuracy through back-testing) are the same.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

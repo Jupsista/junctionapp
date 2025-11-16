@@ -1,0 +1,26 @@
+{
+  "summary": "The analysis identified two overlaps between the EBA Guidelines on Expected Credit Losses and other regulatory texts. The first overlap is with a Finnish regulation that directly incorporates the EBA's list of credit risk factors by reference, making both sets of rules applicable to Finnish institutions. The second overlap is with an EU Regulation implementing IFRS 9, which provides a specific rebuttable presumption (30 days past due) for identifying a significant increase in credit risk, a key component of the general ECL assessment process outlined in the EBA Guidelines. Both overlaps concern the same regulatory subject: the assessment of credit risk for ECL purposes by credit institutions.",
+  "overlaps": [
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_24.json",
+      "excerpt1": "With respect to factors related to the character, capacity and capital of borrowers, the terms of lending exposures, and the values of assets pledged as collateral together with other credit risk mitigants that may affect the full collectability of cash flows, a credit institution should (depending on the type of exposure) consider...",
+      "pageNumber1": 24,
+      "filename2": "2018_04.m3_en.di_page_15.json",
+      "excerpt2": "(24) In order to assess credit risk, supervised entities must take into account the matters listed in chapter 4.2.2, paragraph (36) of the EBA Guidelines (EBA/GL/2017/06) on credit institutions' credit risk management practices and accounting for expected credit losses to the extent that they were not taken into account under paragraph (23).",
+      "pageNumber2": 15,
+      "explanation": "Both texts regulate the assessment of credit risk by supervised entities (credit institutions). The Finnish regulation explicitly incorporates by reference the list of factors from paragraph 36 of the EBA Guideline. This creates a direct overlap, as the Finnish rules mandate compliance with the EBA's requirements in addition to its own national provisions for the same regulatory subject.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_24.json",
+      "excerpt1": "35. Senior management should consider relevant facts and circumstances, including forward- looking information, that are likely to cause ECL to differ from historical experience and that may affect credit risk and the full collectability of cash flows.",
+      "pageNumber1": 24,
+      "filename2": "CELEX_32023R1803_EN_TXT.di_page_628.json",
+      "excerpt2": "B5.5.19 The rebuttable presumption in paragraph 5.5.11 is not an absolute indicator that lifetime expected credit losses should be recognised, but is presumed to be the latest point at which lifetime expected credit losses should be recognised even when using forward-looking information (including macroeconomic factors on a portfolio level).",
+      "pageNumber2": 628,
+      "explanation": "Both texts govern the assessment of credit risk for the calculation of Expected Credit Losses (ECL) by credit institutions. The EBA Guideline establishes a general principle to consider forward-looking information. The EU Regulation provides a more specific, operational rule by establishing a rebuttable presumption that a significant increase in credit risk occurs when a payment is more than 30 days past due, which is a key trigger for recognizing lifetime ECL. This creates an overlap between a general principle and a specific, binding rule on the same regulatory subject.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

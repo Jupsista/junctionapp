@@ -1,0 +1,16 @@
+{
+  "summary": "One contradiction was identified between the EBA Guidelines on loan origination and the Finnish national regulation regarding the principle of proportionality in collateral valuation. The EBA Guidelines grant institutions discretion to apply proportionality based on the specific characteristics of the collateral and facility. In contrast, the Finnish regulation requires institutions to establish pre-defined maximum valuation percentages for different collateral types, imposing a more rigid framework that constrains the discretion provided by the EBA.",
+  "overlaps": [],
+  "contradictions": [
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_10.json",
+      "excerpt1": "Second, when implementing the requirements for the creditworthiness assessment, collateral valuation and credit risk monitoring, competent authorities and institutions, instead of the size and complexity of institutions, should consider the type, size and complexity of the credit facilities being originated or monitored, because these are the main drivers that could give rise to a disproportionate application of the guidelines. Furthermore, the proportionality in the collateral valuation is also driven by the size, nature and complexity of the collateral and the relationship between the loan and collateral",
+      "pageNumber1": 10,
+      "filename2": "2018_04.m3_en.di_page_17.json",
+      "excerpt2": "Supervised entities must establish acceptable types of collateral as well as collateral valuation percentages for each type of acceptable collateral. The valuation percentages shall be consistent with a prudential maximum limit for the relevant types of collateral. However, collateral value must always be based on a case-specific assessment, and special attention should be paid on collateral whose fair value cannot be considered stable.",
+      "pageNumber2": 17,
+      "explanation": "The EBA Guidelines grant institutions discretionary power to apply a proportionality principle to collateral valuation based on the specific characteristics of the credit facility and the collateral. The Finnish regulation contradicts this by mandating a more prescriptive approach, requiring supervised entities to establish fixed 'collateral valuation percentages' that act as a 'prudential maximum limit' for each collateral type, thereby restricting the discretion afforded by the EBA's principle-based approach.",
+      "type": "CONTRADICTION"
+    }
+  ]
+}

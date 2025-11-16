@@ -1,0 +1,16 @@
+{
+  "summary": "An overlap was identified between the EBA Guidelines on loan origination and monitoring and a Finnish Financial Supervisory Authority (FIN-FSA) regulation. Both texts impose a requirement on credit institutions to establish and maintain processes for the regular monitoring of covenants in their credit agreements as part of their ongoing credit risk management framework. The requirements are substantively the same, addressing the same actor, regulatory action, and functional context.",
+  "overlaps": [
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_64.json",
+      "excerpt1": "Where applicable, institutions should monitor borrowers' adherence to the covenants agreed in the credit agreements.",
+      "pageNumber1": 64,
+      "filename2": "2018_04.m3_en.di_page_22.json",
+      "excerpt2": "Where special terms, or covenants, are applied in lending, the supervised entity must have processes, systems and responsible persons to conduct the requisite regular monitoring and implementation of documented measures.",
+      "pageNumber2": 22,
+      "explanation": "Both documents establish a mandatory requirement for credit institutions ('institutions' in the EBA GL, 'Supervised entities' in the FIN-FSA text) to actively monitor borrower compliance with covenants set out in credit agreements. This represents a direct overlap in regulatory obligations concerning the same action (covenant monitoring) for the same actor within the same functional context (credit risk management).",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

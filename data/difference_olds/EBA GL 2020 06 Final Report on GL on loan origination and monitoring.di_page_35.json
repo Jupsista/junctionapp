@@ -1,0 +1,27 @@
+{
+  "summary": "An overlap is identified regarding the role of collateral in loan approval and repayment. Both documents state that collateral should not be the primary basis for loan approval, with one specifying exceptions. A contradiction is found concerning whether collateral should be disregarded when assessing a borrower's financial difficulties, with one document explicitly stating to disregard it and the other implying its secondary but not primary role in loan approval.",
+  "overlaps": [
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_35.json",
+      "excerpt1": "Collateral, in the case of secured lending, by itself should not be a predominant criterion for approving a loan and cannot by itself justify the approval of any loan agreement. Collateral should be considered the institution's second way out in case of default or material deterioration of the risk profile, and not the primary source of repayment, with the exception of when the loan agreement envisages that the repayment of the loan is based on the sale of the property pledged as collateral or liquid collateral provided.",
+      "pageNumber1": 35,
+      "filename2": "2018_04.m3_en.di_page_17.json",
+      "excerpt2": "Credit decisions must be primarily based on the customer's creditworthiness. As a rule, credit shall not be granted if the customer lacks credit repayment potential apart from the realisation of collateral.",
+      "pageNumber2": 17,
+      "explanation": "Both excerpts address the role of collateral in the context of loan approval by institutions/supervised entities. The first excerpt states that collateral should not be a 'predominant criterion' or 'primary source of repayment' for loan approval, except in specific cases where repayment is based on collateral sale. The second excerpt reinforces this by stating credit decisions must be 'primarily based on the customer's creditworthiness' and that credit should 'not be granted if the customer lacks credit repayment potential apart from the realisation of collateral'. This demonstrates a shared principle that collateral serves as a secondary rather than primary factor for initial loan approval, with the first document explicitly outlining exceptions.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": [
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_35.json",
+      "excerpt1": "Collateral, in the case of secured lending, by itself should not be a predominant criterion for approving a loan and cannot by itself justify the approval of any loan agreement. Collateral should be considered the institution's second way out in case of default or material deterioration of the risk profile, and not the primary source of repayment, with the exception of when the loan agreement envisages that the repayment of the loan is based on the sale of the property pledged as collateral or liquid collateral provided.",
+      "pageNumber1": 35,
+      "filename2": "Final Guidelines on management of non-performing and forborne exposures.di_page_44.json",
+      "excerpt2": "The assessment of any financial difficulties on the part of a borrower should be based on the situation of the borrower only, disregarding collateral or any guarantees provided by third parties.",
+      "pageNumber2": 44,
+      "explanation": "Excerpt 1, from the loan origination guidelines, specifies that collateral should not be the 'primary source of repayment' but acknowledges its role as a 'second way out' in case of default, and even allows for exceptions where repayment *is* based on collateral sale. This implies that while not primary, collateral is a relevant factor to consider in the overall lending assessment, especially post-origination. Excerpt 2, from the NPL/forborne exposures guidelines, explicitly states that for the purpose of assessing 'financial difficulties on the part of a borrower', collateral or guarantees should be 'disregarded'. This creates a contradiction as one document suggests collateral is a secondary consideration (or even primary in some cases for repayment), while the other mandates its complete disregard when assessing financial difficulties, which is a key part of repayment capacity.",
+      "type": "CONTRADICTION"
+    }
+  ]
+}

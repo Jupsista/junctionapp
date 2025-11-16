@@ -1,0 +1,26 @@
+{
+  "summary": "An overlap was identified between two EBA guidelines and between an EBA guideline and an EU Regulation (incorporating IFRS 9) concerning the signals institutions must use to monitor for credit quality deterioration. Both sets of documents provide parallel, non-exhaustive lists of factors to consider when assessing an increase in credit risk for a borrower. Specifically, both the EBA Guidelines on Loan Origination and the EBA Guidelines on Accounting for ECL require institutions to monitor the macroeconomic outlook. Similarly, the EBA Guidelines on Loan Origination and the EU regulation on IFRS 9 both require institutions to consider whether a loan's terms would be significantly different if it were re-issued today, as a key indicator of increased credit risk. These represent divergent but functionally identical rules governing the same regulatory subject and actor.",
+  "overlaps": [
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_65.json",
+      "excerpt1": "As part of their ongoing monitoring of credit risk, institutions should consider the following credit quality deterioration signals: a. negative macroeconomic events (including but not limited to economic development, changes in legislation and technological threats to an industry) affecting the future profitability of an industry, a geographical segment, a group of borrowers or an individual corporate borrower, as well as the increased risk of unemployment for groups of individuals;",
+      "pageNumber1": 65,
+      "filename2": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_42.json",
+      "excerpt2": "When assessing whether there has been a significant increase in credit risk for a lending exposure, credit institutions should also take into account the following factors which are related to the environment in which a credit institution or the borrower operates: a. deterioration of the macroeconomic outlook relevant to a particular borrower or to a group of borrowers.",
+      "pageNumber2": 42,
+      "explanation": "Both EBA guidelines require credit institutions to consider negative macroeconomic conditions as a key signal of increasing credit risk. The first text lists 'negative macroeconomic events' as a 'credit quality deterioration signal' for the purpose of loan monitoring. The second text lists 'deterioration of the macroeconomic outlook' as a factor in assessing a 'significant increase in credit risk' for ECL accounting purposes. They apply to the same actor and govern the same regulatory action (monitoring for increased credit risk) with substantively identical requirements.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_65.json",
+      "excerpt1": "As part of their ongoing monitoring of credit risk, institutions should consider the following credit quality deterioration signals: ... f. changes in the credit risk of a transaction that would cause the terms and conditions to be significantly different if the transaction were newly originated or issued at the reporting date (such as increased amounts of required collateral or guarantees, or a higher recurring income coverage of the borrower);",
+      "pageNumber1": 65,
+      "filename2": "CELEX_32023R1803_EN_TXT.di_page_627.json",
+      "excerpt2": "(b) other changes in the rates or terms of an existing financial instrument that would be significantly different if the instrument was newly originated or issued at the reporting date (such as more stringent covenants, increased amounts of collateral or guarantees, or higher income coverage) because of changes in the credit risk of the financial instrument since initial recognition.",
+      "pageNumber2": 627,
+      "explanation": "Both texts require financial institutions to assess whether changes in credit risk would result in significantly different terms if the financial instrument were newly issued at the reporting date. The EBA Guideline lists this as a 'credit quality deterioration signal' for ongoing monitoring, while the EU Regulation (incorporating IFRS 9) lists it as a factor for assessing a 'significant increase in credit risk'. The regulatory subject, action, and specific requirement are nearly identical, creating a clear overlap.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

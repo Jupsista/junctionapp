@@ -1,0 +1,16 @@
+{
+  "summary": "An overlap was identified between the EBA Guidelines on Accounting for Expected Credit Losses and Commission Delegated Regulation (EU) 2023/1803. Both texts impose an identical requirement on credit institutions/entities regarding the type of information that must be used when calculating Expected Credit Losses (ECL). Specifically, both mandate the use of reasonable and supportable information that includes past events, current conditions, and forecasts of future economic conditions.",
+  "overlaps": [
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_17.json",
+      "excerpt1": "Credit institutions should consider a wide range of information when applying ECL accounting models. Information considered should be relevant to the assessment of credit risk and measurement of ECL of the particular lending exposure being assessed, and should include information about past events, current conditions and forecasts of future economic conditions. Information which is ultimately included in the assessment of credit risk and measurement of ECL should also be reasonable and supportable.",
+      "pageNumber1": 17,
+      "filename2": "CELEX_32023R1803_EN_TXT.di_page_553.json",
+      "excerpt2": "An entity shall measure expected credit losses of a financial instrument in a way that reflects: (a) an unbiased and probability-weighted amount that is determined by evaluating a range of possible outcomes; (b) the time value of money; and (c) reasonable and supportable information that is available without undue cost or effort at the reporting date about past events, current conditions and forecasts of future economic conditions.",
+      "pageNumber2": 553,
+      "explanation": "Both documents establish the same requirement for the same regulatory subject. They both mandate that credit institutions (or 'entities' under IFRS 9) must use 'reasonable and supportable information' that includes 'information about past events, current conditions and forecasts of future economic conditions' when measuring Expected Credit Losses (ECL).",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

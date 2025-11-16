@@ -1,0 +1,26 @@
+{
+  "summary": "The original document states that the EBA Guidelines on credit risk management practices and accounting for expected credit losses (EBA-GL-2017-06) aim not to contradict IFRS 9 requirements, though they may restrict flexibility, and seek to align with BCBS guidance. Related content confirms this stance, highlighting that the guidelines should be applied while respecting IFRS 9 and avoiding contradiction. This demonstrates a consistent regulatory approach regarding the interplay between EBA guidelines and IFRS 9.",
+  "overlaps": [
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_68.json",
+      "excerpt1": "Therefore, it is not the objective of these guidelines to contradict the accounting requirements of IFRS 9, although they may have the effect of restricting the flexibility that IFRS 9 allows.",
+      "pageNumber1": 68,
+      "filename2": "Final Guidelines on management of non-performing and forborne exposures.di_page_121.json",
+      "excerpt2": "The EBA received several comments regarding potential contradictions and duplications of accounting standards (e.g. IFRS 9) or other EBA guidelines (e.g. on expected loss) and asking for further clarification on the requirements in the guidelines in relation to prudential standards. In order to avoid any risk of contradiction or duplication, the EBA removed some of the subsections.",
+      "pageNumber2": 121,
+      "explanation": "Both excerpts address the relationship between EBA guidelines and IFRS 9 accounting standards, specifically stating the intent to avoid contradiction. The first excerpt from the 'Accounting for Expected Credit Losses' guidelines explicitly states this objective, while the second excerpt from the 'Management of Non-Performing and Forborne Exposures' guidelines (which refers to the former) describes how the EBA took action (removing subsections) 'in order to avoid any risk of contradiction or duplication' with IFRS 9, confirming the same regulatory principle.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_68.json",
+      "excerpt1": "The objective of the EBA guidelines is to be in line with the BCBS guidance so that compliance with the EBA guidelines would also result in compliance with the BCBS guidance.",
+      "pageNumber1": 68,
+      "filename2": "Final Report on Guidelines on default definition (EBA-GL-2016-07).di_page_69.json",
+      "excerpt2": "The Group stresses that it is important to ensure consistency in the default definition not only between institutions but also between different regulations, including in particular the accounting framework and IFRS 9. At the same time the BSG requests that consistency with global standards should not be neglected.",
+      "pageNumber2": 69,
+      "explanation": "Both excerpts highlight the importance of consistency with global standards (such as BCBS guidance). The first excerpt explicitly states the objective of EBA guidelines to be in line with BCBS guidance to ensure compliance. The second excerpt, from a different EBA guideline, reflects a stakeholder request for consistency with 'global standards' alongside IFRS 9, showing a consistent focus across EBA documents on harmonisation with international frameworks.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

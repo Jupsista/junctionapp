@@ -1,0 +1,26 @@
+{
+  "summary": "The analysis identified two overlaps concerning remuneration policies for staff involved in credit granting. The EBA GL on Loan Origination and Monitoring sets principles that remuneration should not incentivize excessive risk-taking, should align with risk appetite, and should avoid conflicts of interest. These principles are mirrored in both a Finnish Financial Supervisory Authority guideline, which applies the same rules to lenders, and in the foundational Capital Requirements Directive (CRD IV), which establishes these principles for all staff whose activities have a material impact on an institution's risk profile. Both instances represent a true overlap where different regulatory texts impose the same obligations on the same actors for the same regulatory subject.",
+  "overlaps": [
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_32.json",
+      "excerpt1": "institutions' remuneration policies and practices should be in line with the approach to credit risk management, credit risk appetite and strategies, and should not create a conflict of interest. Remuneration policies and practices applicable to staff, and in particular identified staff engaged in credit granting, credit administration and monitoring, should be consistent and not provide incentives for risk taking that exceeds the tolerated risk of the institution, and should be aligned with the business strategy, objectives and long-term interests of the institution.",
+      "pageNumber1": 32,
+      "filename2": "2018_04.m3_en.di_page_13.json",
+      "excerpt2": "In accordance with chapter 7a, section 10 of the Consumer Protection Act, in preparing and applying its policies on remuneration of personnel responsible for the assessment of consumers' creditworthiness, lenders must ensure that the policies prevent the emergence of conflicts of interests. ... The policies must promote appropriate and effective risk management and they must not encourage risk taking in excess of the risk level acceptable for the lender.",
+      "pageNumber2": 13,
+      "explanation": "Both documents establish rules for institutions' remuneration policies for staff involved in credit granting. They both mandate that these policies must be aligned with risk management, prevent conflicts of interest, and not encourage risk-taking that goes beyond the institution's accepted risk level. The regulatory subject (remuneration policy for credit staff), the actor (institutions/lenders), and the requirements are the same, constituting a true overlap.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_32.json",
+      "excerpt1": "Remuneration policies and practices applicable to staff, and in particular identified staff engaged in credit granting, credit administration and monitoring, should be consistent and not provide incentives for risk taking that exceeds the tolerated risk of the institution, and should be aligned with the business strategy, objectives and long-term interests of the institution. In addition, remuneration policies and practices should incorporate measures to manage conflicts of interest, with a view to protecting consumers from undesirable detriment arising from the remuneration of sales staff.",
+      "pageNumber1": 32,
+      "filename2": "CELEX_32013L0036_EN_TXT.di_page_49.json",
+      "excerpt2": "(a) the remuneration policy is consistent with and promotes sound and effective risk management and does not encourage risk-taking that exceeds the level of tolerated risk of the institution;\n(b) the remuneration policy is in line with the business strategy, objectives, values and long-term interests of the institution, and incorporates measures to avoid conflicts of interest;",
+      "pageNumber2": 49,
+      "explanation": "Both documents define the core principles for remuneration policies. The EBA Guideline specifically applies these principles to staff engaged in credit granting, while the Capital Requirements Directive (CRD IV) applies them more broadly to all staff with a material impact on the institution's risk profile. The principles themselves—consistency with risk management, not encouraging excessive risk-taking, alignment with business strategy, and avoiding conflicts of interest—are identical. This is a true overlap as the rule is the same, applied to the same actor type for the same regulatory purpose.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

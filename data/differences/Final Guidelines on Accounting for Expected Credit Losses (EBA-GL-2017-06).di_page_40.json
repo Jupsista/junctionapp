@@ -1,0 +1,36 @@
+{
+  "summary": "The comparison between the EBA's 'Final Guidelines on Accounting for Expected Credit Losses' and the provided excerpts from IFRS 9 (as codified in CELEX_32023R1803_EN_TXT) reveals several direct overlaps. The EBA Guidelines explicitly reference, quote, and elaborate upon the core principles of IFRS 9 for the same actors (credit institutions) regarding the same regulatory subject: the calculation of expected credit losses (ECL). Key overlapping requirements include the mandate to use reasonable and supportable forward-looking information, the principle that lifetime ECLs should be recognized before an instrument is past due, and the rule against relying solely on delinquency data. No contradictions were found, as the EBA Guidelines serve to reinforce and operationalize the IFRS 9 standards.",
+  "overlaps": [
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_40.json",
+      "excerpt1": "IFRS 9, paragraph B5.5.2, states that lifetime expected credit losses are generally expected to be recognised before a financial instrument becomes past due and that 'typically, credit risk increases significantly before a financial instrument becomes past due or other lagging borrower-specific factors (for example a modification or restructuring) are observed'.",
+      "pageNumber1": 40,
+      "filename2": "CELEX_32023R1803_EN_TXT.di_page_624.json",
+      "excerpt2": "B5.5.2 Lifetime expected credit losses are generally expected to be recognised before a financial instrument becomes past due. Typically, credit risk increases significantly before a financial instrument becomes past due or other lagging borrower-specific factors (for example, a modification or restructuring) are observed.",
+      "pageNumber2": 624,
+      "explanation": "Both documents establish the identical principle for credit institutions regarding the timing of recognizing lifetime expected credit losses. They state that such losses should generally be recognized before a financial instrument becomes past due, as credit risk typically increases significantly before that point. The EBA Guideline directly quotes the IFRS 9 standard, creating a clear overlap for the same regulatory subject.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_40.json",
+      "excerpt1": "Credit institutions should be mindful that delinquency data are generally backward-looking, and will seldom on their own be appropriate in the implementation of an ECL approach.",
+      "pageNumber1": 40,
+      "filename2": "CELEX_32023R1803_EN_TXT.di_page_552.json",
+      "excerpt2": "If reasonable and supportable forward-looking information is available without undue cost or effort, an entity cannot rely solely on past due information when determining whether credit risk has increased significantly since initial recognition.",
+      "pageNumber2": 552,
+      "explanation": "Both texts govern the same regulatory subject for credit institutions: the assessment of significant increases in credit risk for ECL purposes. They impose the same rule, stating that institutions cannot rely only on past-due (delinquency) data when forward-looking information is available without undue cost or effort. The EBA Guideline provides guidance that directly reflects the core requirement in IFRS 9.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_40.json",
+      "excerpt1": "required consideration of all reasonable and supportable forward-looking information that is available without undue cost and effort (see also paragraph 131 of these guidelines on the information set to be used), in addition to information about current conditions and historical data.",
+      "pageNumber1": 40,
+      "filename2": "CELEX_32023R1803_EN_TXT.di_page_633.json",
+      "excerpt2": "B5.5.49 For the purpose of this Standard, reasonable and supportable information is that which is reasonably available at the reporting date without undue cost or effort, including information about past events, current conditions and forecasts of future economic conditions.",
+      "pageNumber2": 633,
+      "explanation": "Both documents impose an identical requirement on credit institutions to use 'reasonable and supportable information that is available without undue cost or effort' when assessing expected credit losses. The EBA Guideline uses the exact terminology and concept defined in the IFRS 9 standard, creating a direct overlap on the scope of information to be used for ECL calculation.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

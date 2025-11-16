@@ -1,0 +1,16 @@
+{
+  "summary": "One overlap was identified concerning the rules for the valuation of immovable property collateral by credit institutions. Both the EBA Guidelines on loan origination and monitoring and the EBA Guidelines on the management of non-performing and forborne exposures stipulate that statistical models cannot be used as the sole means for reviewing property valuations. No contradictions were found.",
+  "overlaps": [
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_81.json",
+      "excerpt1": "When Article 208 (3) does apply, a statistical model cannot be used as a sole means of undertaking the review of the property valuation.",
+      "pageNumber1": 81,
+      "filename2": "Final%20Guidelines%20on%20management%20of%20non-performing%20and%20forborne%20exposures.di_page_51.json",
+      "excerpt2": "Valuations and revaluations of immovable property collateral should not be carried out using a statistical model as the sole means of undertaking the review of the property valuation.",
+      "pageNumber2": 51,
+      "explanation": "Both documents establish the same rule for credit institutions regarding the use of statistical models for the valuation of immovable property collateral. The Final Report on loan origination guidelines summarizes the existing regulatory landscape, including the rule from the CRR, which prohibits statistical models from being the sole means of valuation review. The Guidelines on management of non-performing and forborne exposures contain the direct, operative rule with the identical prohibition. This is an overlap as both texts govern the same actor, regulatory subject, and impose the same requirement.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

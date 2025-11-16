@@ -1,0 +1,16 @@
+{
+  "summary": "The provided texts contain an overlap regarding the intensified monitoring of borrowers as a response to deteriorating credit risk. Both excerpts, while serving slightly different primary purposes (procedural requirement vs. IFRS 9 interpretation), refer to the increased frequency of reviews and information gathering for borrowers exhibiting signs of increased risk. Specifically, one text mandates increased monitoring upon Early Warning Indicator (EWI) triggers, and the other discusses intensified monitoring as a discretionary decision by management indicating a change in credit risk and cautions against automatically treating it as a trigger for significant increase in credit risk for IFRS 9 purposes.",
+  "overlaps": [
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_67.json",
+      "excerpt1": "277. Triggering EWIs should lead to an increased frequency in the reviewing process, including discussions and decisions by credit decision-makers, and more intense information gathering from the borrower. The information gathered should be sufficient to support more frequent credit reviews of the borrowers.",
+      "pageNumber1": 67,
+      "filename2": "Final%20Guidelines%20on%20Accounting%20for%20Expected%20Credit%20Losses%20(EBA-GL-2017-06).di_page_43.json",
+      "excerpt2": "113. Credit institutions should give thorough consideration and full weight to discretionary decisions by a credit institution's management body or senior management which point to a change in credit risk. For example, if because of concerns about credit risk a decision is made to intensify the monitoring of a borrower or class of borrowers, it is unlikely that such action would have been taken by the decision-maker had the increase in credit risk not been perceived as significant.",
+      "pageNumber2": 43,
+      "explanation": "Both excerpts address the intensified monitoring of borrowers by credit institutions due to concerns about credit risk. Excerpt 1 explicitly states that 'triggering EWIs should lead to an increased frequency in the reviewing process... and more intense information gathering from the borrower.' Excerpt 2 describes a situation where 'a decision is made to intensify the monitoring of a borrower' due to 'concerns about credit risk,' indicating that such action implies a significant increase in credit risk.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

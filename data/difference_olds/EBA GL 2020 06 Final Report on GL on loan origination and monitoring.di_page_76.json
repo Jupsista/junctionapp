@@ -1,0 +1,176 @@
+{
+  "summary": "The EBA Guidelines on loan origination and monitoring outline specific financial ratios and factors that institutions should consider when assessing different types of lending, including real estate development, leveraged finance, asset-based lending, project finance, and shipping finance. This involves metrics like Loan-to-Value (LTV), Loan-to-Cost (LTC), Debt Service Coverage Ratio (DSCR), and Leverage Ratio. The related content from the Basel Framework defines several specialized lending categories, such as project finance, object finance, commodities finance, and income-producing real estate lending, and also specifies parameters like LTV limits for various real estate exposures and the calculation of the leverage ratio. While the original document lists *what to consider* (metrics) for loan origination, the related Basel documents provide definitions of these loan types, detailed risk-weighting approaches, and how certain ratios (like LTV and leverage ratio) are to be defined or applied in a regulatory context. This creates overlaps in the specific financial ratios and loan categories addressed, as both sets of documents pertain to the prudential management and assessment of credit risk in specialized lending.",
+  "overlaps": [
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_76.json",
+      "excerpt1": "27. LTV",
+      "pageNumber1": 76,
+      "filename2": "BaselFramework.di_page_345.json",
+      "excerpt2": "The property's DSCR is considered strong (DSCR is not relevant for the construction phase) and its loan-to-value ratio (LTV) is considered low given its property type.",
+      "pageNumber2": 345,
+      "explanation": "Both documents refer to 'LTV' (Loan-to-Value) as a crucial metric for real estate lending. The EBA GL lists it as a factor to consider for 'Real estate development lending', while the Basel Framework mentions it in the context of assessing financial strength for income-producing real estate exposures, indicating an overlap in the use and importance of this ratio for credit risk assessment.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_76.json",
+      "excerpt1": "30. DSCR for CRE activities",
+      "pageNumber1": 76,
+      "filename2": "BaselFramework.di_page_345.json",
+      "excerpt2": "The property's DSCR is considered strong (DSCR is not relevant for the construction phase) and its loan-to-value ratio (LTV) is considered low given its property type.",
+      "pageNumber2": 345,
+      "explanation": "Both documents refer to 'DSCR' (Debt Service Coverage Ratio) in the context of real estate lending. The EBA GL lists it as a factor for 'Real estate development lending', while the Basel Framework uses it as a criterion for assessing the financial strength of income-producing real estate, establishing an overlap in the regulatory subject and the metric used for its assessment.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_76.json",
+      "excerpt1": "37. Leverage ratio (total debt over EBITDA)",
+      "pageNumber1": 76,
+      "filename2": "CELEX_32013R0575_EN_TXT.di_page_290.json",
+      "excerpt2": "(k) whether introducing the leverage ratio as a requirement for institutions would necessitate any changes to the leverage ratio framework provided by this Regulation and, if so, which ones;",
+      "pageNumber2": 290,
+      "explanation": "Both documents address the 'leverage ratio'. The EBA GL lists it as a factor for 'Leveraged finance, asset-based lending and project finance', specifically defining it as 'total debt over EBITDA'. The CRR (CELEX_32013R0575_EN_TXT) extensively discusses the introduction, framework, and impact of the leverage ratio as a prudential requirement for institutions. This indicates an overlap in the regulatory subject of leverage and its assessment for financial institutions.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_76.json",
+      "excerpt1": "35. LTV",
+      "pageNumber1": 76,
+      "filename2": "L_2023029EN.01000101.json",
+      "excerpt2": "For the purposes of paragraph 1, the authorities designated in accordance with Article 124 (1a) of Regulation (EU) No 575/2013 shall have regard to other macroprudential measures in force that already address the identified systemic risks affecting the appropriateness of the risk weights referred to in Article 124 (2), first subparagraph, of that Regulation, including the following measures in national law designed to enhance the resilience of the financial system: • (a) loan-to-value (LTV) limits;",
+      "pageNumber2": 1,
+      "explanation": "Both documents refer to 'LTV' (Loan-to-Value). The EBA GL lists it as a factor for 'Leveraged finance, asset-based lending and project finance'. The Delegated Regulation explicitly mentions 'loan-to-value (LTV) limits' as a macroprudential measure considered when assessing risk weights for exposures secured by immovable property. This demonstrates a clear overlap in the regulatory subject of LTV as a key metric for credit risk and financial stability, applicable to financial institutions.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_76.json",
+      "excerpt1": "27. LTV",
+      "pageNumber1": 76,
+      "filename2": "L_201503.m4_en.di_page_12.json",
+      "excerpt2": "A supervised entity may deviate from the maximum LTV limits in situations where houses are exchanged so that a new apartment is being purchased partly or entirely on short-term bridge finance. Short-term refers to a loan period (maturity) of less than 1 year. In addition, the supervised entity must have an estimate of the final situation, ie the LTV after the sale of the previous residence, which must be within the limits for maximum LTV ratio.",
+      "pageNumber2": 12,
+      "explanation": "Both documents address 'LTV' (Loan-to-Value) in the context of lending. The EBA GL includes LTV as a factor for 'Real estate development lending'. The Finnish FIN-FSA Regulations and Guidelines directly refer to 'maximum LTV limits' for supervised entities in specific lending scenarios. This constitutes an overlap as both regulate the consideration and application of LTV ratios by credit institutions in real estate financing.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_76.json",
+      "excerpt1": "35. LTV",
+      "pageNumber1": 76,
+      "filename2": "L_201503.m4_en.di_page_12.json",
+      "excerpt2": "A supervised entity may deviate from the maximum LTV limits in situations where houses are exchanged so that a new apartment is being purchased partly or entirely on short-term bridge finance. Short-term refers to a loan period (maturity) of less than 1 year. In addition, the supervised entity must have an estimate of the final situation, ie the LTV after the sale of the previous residence, which must be within the limits for maximum LTV ratio.",
+      "pageNumber2": 12,
+      "explanation": "Both documents address 'LTV' (Loan-to-Value) in the context of lending. The EBA GL lists LTV as a factor for 'Leveraged finance, asset-based lending and project finance'. The Finnish FIN-FSA Regulations and Guidelines directly refer to 'maximum LTV limits' for supervised entities. This constitutes an overlap as both regulate the consideration and application of LTV ratios by credit institutions in their lending activities.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_76.json",
+      "excerpt1": "37. Leverage ratio (total debt over EBITDA)",
+      "pageNumber1": 76,
+      "filename2": "BaselFramework.di_page_1025.json",
+      "excerpt2": "30.35 Since written credit derivatives are included in the leverage ratio exposure measure at their effective notional amounts, and are also subject to amounts for PFE, the leverage ratio exposure measure for written credit derivatives may be overstated.",
+      "pageNumber2": 1025,
+      "explanation": "Both documents address the 'leverage ratio'. The EBA GL includes 'Leverage ratio (total debt over EBITDA)' as a factor for assessing leveraged finance. The Basel Framework (LEV30.35) discusses the 'leverage ratio exposure measure' in detail, particularly how it is calculated for written credit derivatives. This is an overlap as both concern the concept and application of the leverage ratio in a prudential context for financial institutions.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_76.json",
+      "excerpt1": "27. LTV",
+      "pageNumber1": 76,
+      "filename2": "L_201503.m4_en.di_page_10.json",
+      "excerpt2": "(9) The impact of deficiency guarantees granted by a sovereign state, an insurance company or another credit institution in the calculation of loan-to-value ratio is determined on the basis of their ratio to the value of primary pledges placed as collateral: the value of a deficiency pledge in LTV calculation equals the amount that the deficiency pledge will cover after liquidation of the primary collateral, provided that the liquidation price of the primary collateral corresponds to the current value as at the time of calculation of the loan-to-value ratio.",
+      "pageNumber2": 10,
+      "explanation": "Both documents refer to 'LTV' (Loan-to-Value) and its calculation. The EBA GL lists LTV as a factor for 'Real estate development lending'. The Finnish FIN-FSA Regulations and Guidelines provide specific instructions on how deficiency guarantees impact the 'loan-to-value ratio calculation'. This constitutes an overlap in regulating how LTV is determined and considered by financial institutions.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_76.json",
+      "excerpt1": "35. LTV",
+      "pageNumber1": 76,
+      "filename2": "L_201503.m4_en.di_page_10.json",
+      "excerpt2": "(9) The impact of deficiency guarantees granted by a sovereign state, an insurance company or another credit institution in the calculation of loan-to-value ratio is determined on the basis of their ratio to the value of primary pledges placed as collateral: the value of a deficiency pledge in LTV calculation equals the amount that the deficiency pledge will cover after liquidation of the primary collateral, provided that the liquidation price of the primary collateral corresponds to the current value as at the time of calculation of the loan-to-value ratio.",
+      "pageNumber2": 10,
+      "explanation": "Both documents refer to 'LTV' (Loan-to-Value) and its calculation. The EBA GL includes LTV as a factor for 'Leveraged finance, asset-based lending and project finance'. The Finnish FIN-FSA Regulations and Guidelines provide specific instructions on how deficiency guarantees impact the 'loan-to-value ratio calculation'. This constitutes an overlap in regulating how LTV is determined and considered by financial institutions.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_76.json",
+      "excerpt1": "37. Leverage ratio (total debt over EBITDA)",
+      "pageNumber1": 76,
+      "filename2": "BaselFramework.di_page_1008.json",
+      "excerpt2": "30.1 The leverage ratio exposure measure generally follows gross accounting values.",
+      "pageNumber2": 1008,
+      "explanation": "Both documents address the 'leverage ratio'. The EBA GL explicitly mentions 'Leverage ratio (total debt over EBITDA)' as a factor for 'Leveraged finance, asset-based lending and project finance'. The Basel Framework defines the principles for the 'leverage ratio exposure measure' and its components, including how on-balance sheet items are treated. This is an overlap as both concern the calculation and consideration of the leverage ratio by financial institutions.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_76.json",
+      "excerpt1": "39. Leverage ratio",
+      "pageNumber1": 76,
+      "filename2": "BaselFramework.di_page_1008.json",
+      "excerpt2": "30.1 The leverage ratio exposure measure generally follows gross accounting values.",
+      "pageNumber2": 1008,
+      "explanation": "Both documents address the 'leverage ratio'. The EBA GL includes 'Leverage ratio' as a factor for 'Shipping finance'. The Basel Framework defines the principles for the 'leverage ratio exposure measure' and its components, including how on-balance sheet items are treated. This is an overlap as both concern the calculation and consideration of the leverage ratio by financial institutions.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_76.json",
+      "excerpt1": "37. Leverage ratio (total debt over EBITDA)",
+      "pageNumber1": 76,
+      "filename2": "BaselFramework.di_page_1685.json",
+      "excerpt2": "Capital measure: The capital measure for the leverage ratio is the Tier 1 capital of the risk-based capital framework as defined in the definition of capital standard (CAP) taking account of the transitional arrangements.",
+      "pageNumber2": 1685,
+      "explanation": "Both documents address the 'leverage ratio'. The EBA GL identifies it as a factor for 'Leveraged finance, asset-based lending and project finance'. The Basel Framework provides definitions for the 'Capital measure' component of the leverage ratio. This constitutes an overlap as both documents pertain to the definition and use of the leverage ratio in a prudential context for financial institutions.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_76.json",
+      "excerpt1": "39. Leverage ratio",
+      "pageNumber1": 76,
+      "filename2": "BaselFramework.di_page_1685.json",
+      "excerpt2": "Capital measure: The capital measure for the leverage ratio is the Tier 1 capital of the risk-based capital framework as defined in the definition of capital standard (CAP) taking account of the transitional arrangements.",
+      "pageNumber2": 1685,
+      "explanation": "Both documents address the 'leverage ratio'. The EBA GL identifies it as a factor for 'Shipping finance'. The Basel Framework provides definitions for the 'Capital measure' component of the leverage ratio. This constitutes an overlap as both documents pertain to the definition and use of the leverage ratio in a prudential context for financial institutions.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_76.json",
+      "excerpt1": "37. Leverage ratio (total debt over EBITDA)",
+      "pageNumber1": 76,
+      "filename2": "BaselFramework.di_page_1006.json",
+      "excerpt2": "30.1 The leverage ratio exposure measure generally follows gross accounting values.",
+      "pageNumber2": 1006,
+      "explanation": "Both documents address the 'leverage ratio'. The EBA GL includes 'Leverage ratio (total debt over EBITDA)' as a factor for 'Leveraged finance, asset-based lending and project finance'. The Basel Framework defines the principles for the 'leverage ratio exposure measure' and its components. This is an overlap as both concern the calculation and consideration of the leverage ratio by financial institutions.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_76.json",
+      "excerpt1": "39. Leverage ratio",
+      "pageNumber1": 76,
+      "filename2": "BaselFramework.di_page_1006.json",
+      "excerpt2": "30.1 The leverage ratio exposure measure generally follows gross accounting values.",
+      "pageNumber2": 1006,
+      "explanation": "Both documents address the 'leverage ratio'. The EBA GL includes 'Leverage ratio' as a factor for 'Shipping finance'. The Basel Framework defines the principles for the 'leverage ratio exposure measure' and its components. This is an overlap as both concern the calculation and consideration of the leverage ratio by financial institutions.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_76.json",
+      "excerpt1": "37. Leverage ratio (total debt over EBITDA)",
+      "pageNumber1": 76,
+      "filename2": "BaselFramework.di_page_1680.json",
+      "excerpt2": "Adjustments related to Securities Financing Transactions (SFTs) (ie repurchase agreements and other similar secured lending). The adjustment is the difference between the accounting value of the SFTs recognised as assets and the leverage ratio exposure value as determined by application of LEV30.36, LEV30.37 and LEV30.40 to LEV30.44.",
+      "pageNumber2": 1680,
+      "explanation": "Both documents address the 'leverage ratio'. The EBA GL identifies it as a factor for 'Leveraged finance, asset-based lending and project finance'. The Basel Framework specifies adjustments for 'Securities Financing Transactions (SFTs)' in relation to the 'leverage ratio exposure value'. This indicates an overlap in the regulatory subject of the leverage ratio and its calculation for financial institutions.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_76.json",
+      "excerpt1": "39. Leverage ratio",
+      "pageNumber1": 76,
+      "filename2": "BaselFramework.di_page_1680.json",
+      "excerpt2": "Adjustments related to Securities Financing Transactions (SFTs) (ie repurchase agreements and other similar secured lending). The adjustment is the difference between the accounting value of the SFTs recognised as assets and the leverage ratio exposure value as determined by application of LEV30.36, LEV30.37 and LEV30.40 to LEV30.44.",
+      "pageNumber2": 1680,
+      "explanation": "Both documents address the 'leverage ratio'. The EBA GL identifies it as a factor for 'Shipping finance'. The Basel Framework specifies adjustments for 'Securities Financing Transactions (SFTs)' in relation to the 'leverage ratio exposure value'. This indicates an overlap in the regulatory subject of the leverage ratio and its calculation for financial institutions.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

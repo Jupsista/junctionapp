@@ -1,0 +1,16 @@
+{
+  "summary": "The documents contain an overlap regarding the implementation timeline for the EBA Guidelines on the definition of default. Both texts state that the changes must be implemented by the end of 2020, and that credit institutions have the discretion to align the implementation timeline with that of IFRS 9 if they deem it appropriate.",
+  "overlaps": [
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_72.json",
+      "excerpt1": "In this regard, the changes in the guidelines on default have to be implemented at the latest by the end of 2020, hence sufficient time is granted after the date of implementation of IFRS 9. However, credit institutions may implement the changes in a shorter timeframe. Therefore, if it is deemed appropriate, credit institutions may align the timeline for implementation of the abovementioned regulatory products.",
+      "pageNumber1": 72,
+      "filename2": "Final Report on Guidelines on default definition (EBA-GL-2016-07).di_page_73.json",
+      "excerpt2": "The changes have to be implemented at the latest by the end of 2020, hence sufficient time is granted after the date of implementation of IFRS 9. However, institutions may implement the changes in a shorter timeframe. Therefore, if it is deemed appropriate, institutions may align the timeline for implementation",
+      "pageNumber2": 73,
+      "explanation": "Both documents specify the exact same implementation deadline and flexibility for credit institutions regarding the EBA Guidelines on the definition of default. They both state that the changes must be implemented at the latest by the end of 2020 and that institutions may align this timeline with the implementation of IFRS 9.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

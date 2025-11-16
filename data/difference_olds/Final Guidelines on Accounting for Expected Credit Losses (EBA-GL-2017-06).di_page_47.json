@@ -1,0 +1,47 @@
+{
+  "summary": "The EBA Guidelines and IFRS 9 both address the low credit risk exemption, the types of information to be used for credit risk assessment, and the role of external ratings. While IFRS 9 provides the foundational principle for assuming low credit risk, the EBA Guidelines introduce additional, more stringent conditions and clarifications on its application by credit institutions, particularly regarding the reliance on internal assessments over external ratings.",
+  "overlaps": [
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_47.json",
+      "excerpt1": "132. In accordance with paragraph 5.5.10 of IFRS 9, 'an entity may assume that the credit risk on a financial instrument has not increased significantly since initial recognition if the financial instrument is determined to have a low credit risk at the reporting date'. Although credit institutions thus have the option for 'low credit risk' exposures not to assess whether credit risk has increased significantly since initial recognition, use of this exemption should be limited. In particular, credit institutions should conduct timely assessment of significant increases in credit risk for all lending exposures.",
+      "pageNumber1": 47,
+      "filename2": "CELEX_32023R1803_EN_TXT.di_page_551.json",
+      "excerpt2": "5.5.10 An entity may assume that the credit risk on a financial instrument has not increased significantly since initial recognition if the financial instrument is determined to have low credit risk at the reporting date (see paragraphs B5.5.22-B5.5.24).",
+      "pageNumber2": 551,
+      "explanation": "Both excerpts address the 'low credit risk' exemption, stating that an entity (credit institution) may assume that credit risk has not significantly increased if the financial instrument has low credit risk at the reporting date. This is an overlap in the core provision itself.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_47.json",
+      "excerpt1": "134. To illustrate the meaning of low credit risk in IFRS 9, paragraph B5.5.22, IFRS 9, paragraph B5.5.23, cites as an example an instrument with an external 'investment grade' rating. However, all lending exposures that have an 'investment grade' rating from a credit rating agency cannot automatically be considered low credit risk. Credit institutions should rely primarily on their own credit risk assessments in order to evaluate the credit risk of a lending exposure, and not rely solely or mechanistically on ratings provided by credit rating agencies (where the latter are available). Nevertheless, optimistic internal credit ratings, as compared with external ratings, should require additional analysis and justification by a credit institution's management body or senior management.",
+      "pageNumber1": 47,
+      "filename2": "CELEX_32023R1803_EN_TXT.di_page_629.json",
+      "excerpt2": "B5.5.23 To determine whether a financial instrument has low credit risk, an entity may use its internal credit risk ratings or other methodologies that are consistent with a globally understood definition of low credit risk and that consider the risks and the type of financial instruments that are being assessed. An external rating of 'investment grade' is an example of a financial instrument that may be considered as having low credit risk. However, financial instruments are not required to be externally rated to be considered to have low credit risk. They should, however, be considered to have low credit risk from a market participant perspective taking into account all of the terms and conditions of the financial instrument.",
+      "pageNumber2": 629,
+      "explanation": "Both excerpts address the determination of low credit risk, specifically mentioning the role of 'investment grade' ratings as an example, but clarifying that external ratings are not a sole requirement or automatic determinant. They both emphasize the need for internal assessment methods.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": [
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_47.json",
+      "excerpt1": "132. In accordance with paragraph 5.5.10 of IFRS 9, 'an entity may assume that the credit risk on a financial instrument has not increased significantly since initial recognition if the financial instrument is determined to have a low credit risk at the reporting date'. Although credit institutions thus have the option for 'low credit risk' exposures not to assess whether credit risk has increased significantly since initial recognition, use of this exemption should be limited. In particular, credit institutions should conduct timely assessment of significant increases in credit risk for all lending exposures.",
+      "pageNumber1": 47,
+      "filename2": "CELEX_32023R1803_EN_TXT.di_page_551.json",
+      "excerpt2": "5.5.10 An entity may assume that the credit risk on a financial instrument has not increased significantly since initial recognition if the financial instrument is determined to have low credit risk at the reporting date (see paragraphs B5.5.22-B5.5.24).",
+      "pageNumber2": 551,
+      "explanation": "IFRS 9, paragraph 5.5.10, grants an entity discretionary power to *assume* low credit risk without a significant increase assessment. The EBA Guidelines, while acknowledging this option, impose a stricter requirement for credit institutions by stating that the 'use of this exemption should be limited' and that they 'should conduct timely assessment of significant increases in credit risk for all lending exposures'. This limits the discretionary nature of the IFRS 9 provision for credit institutions.",
+      "type": "CONTRADICTION"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_47.json",
+      "excerpt1": "134. ... However, all lending exposures that have an 'investment grade' rating from a credit rating agency cannot automatically be considered low credit risk. Credit institutions should rely primarily on their own credit risk assessments in order to evaluate the credit risk of a lending exposure, and not rely solely or mechanistically on ratings provided by credit rating agencies (where the latter are available).",
+      "pageNumber1": 47,
+      "filename2": "CELEX_32023R1803_EN_TXT.di_page_629.json",
+      "excerpt2": "B5.5.23 To determine whether a financial instrument has low credit risk, an entity may use its internal credit risk ratings or other methodologies that are consistent with a globally understood definition of low credit risk and that consider the risks and the type of financial instruments that are being assessed. An external rating of 'investment grade' is an example of a financial instrument that may be considered as having low credit risk. However, financial instruments are not required to be externally rated to be considered to have low credit risk. They should, however, be considered to have low credit risk from a market participant perspective taking into account all of the terms and conditions of the financial instrument.",
+      "pageNumber2": 629,
+      "explanation": "While both texts allow for the consideration of 'investment grade' ratings as an example of low credit risk, the EBA Guidelines (excerpt 134) explicitly prohibit credit institutions from 'automatically' considering investment grade as low credit risk and from relying 'solely or mechanistically' on external ratings. IFRS 9 (excerpt B5.5.23) does not contain this explicit prohibition on automatic or sole reliance, instead stating that an external rating is 'an example' and instruments are 'not required to be externally rated'. The EBA's prescriptive language for credit institutions narrows the discretion implied in IFRS 9's broader statement, creating a contradiction in practical application.",
+      "type": "CONTRADICTION"
+    }
+  ]
+}

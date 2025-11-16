@@ -1,0 +1,26 @@
+{
+  "summary": "An overlap was identified between the EBA Guidelines on Accounting for Expected Credit Losses and two other documents: the EBA Guidelines on management of non-performing and forborne exposures, and a Finnish financial regulation. Both of these documents explicitly reference or restate the principle from the primary guideline that credit institutions should use common processes, systems, tools, and data for credit risk management and accounting for expected credit losses. This creates an overlap where the same rule is applied in different contexts (general ECL accounting, specific NPE management, and national implementation). No contradictions were found.",
+  "overlaps": [
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_34.json",
+      "excerpt1": "To the maximum extent possible, credit institutions should use common processes, systems, tools and data to assess credit risk, measure ECL for accounting purposes and determine expected losses for capital adequacy purposes in order to strengthen the reliability and consistency of the resulting ECL estimates, increase transparency and, through market discipline, provide incentives to follow sound credit risk practices.",
+      "pageNumber1": 34,
+      "filename2": "Final%20Guidelines%20on%20management%20of%20non-performing%20and%20forborne%20exposures.di_page_49.json",
+      "excerpt2": "In accordance with the EBA Guidelines on credit risk management practices and accounting for expected credit losses, credit institutions should have in place common processes, systems, tools and data.",
+      "pageNumber2": 49,
+      "explanation": "Both documents require credit institutions to have common processes, systems, tools, and data. The first document establishes this principle for general credit risk management and Expected Credit Loss (ECL) accounting. The second document explicitly references the first and reiterates the same requirement in the specific context of managing non-performing and forborne exposures.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_34.json",
+      "excerpt1": "Principle 7 - Common processes, systems, tools and data. Credit institutions should have a sound credit risk assessment and measurement process that provides them with a strong basis for common processes, systems, tools and data to assess credit risk and to account for expected credit losses.",
+      "pageNumber1": 34,
+      "filename2": "2018_04.m3_en.di_page_18.json",
+      "excerpt2": "Supervised entities must have common processes, systems, tools and information in accordance with chapter 4.2.7 of the EBA Guidelines on credit institutions' credit risk management practices and accounting for expected credit losses (EBA/GL/2017/06).",
+      "pageNumber2": 18,
+      "explanation": "Both texts address the same regulatory subject for the same actor. The first document, an EBA Guideline, establishes that credit institutions should use common processes, systems, tools, and data for credit risk assessment and ECL accounting. The second document, a Finnish national regulation, directly incorporates this EBA Guideline by reference, making the same requirement mandatory for supervised entities in its jurisdiction.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

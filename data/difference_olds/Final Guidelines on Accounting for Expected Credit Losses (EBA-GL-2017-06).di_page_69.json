@@ -1,0 +1,16 @@
+{
+  "summary": "The primary document, \"Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06),\" discusses the EBA's guidelines on credit risk management practices and accounting for expected credit losses, specifically noting changes in relation to BCBS guidance and the incorporation of IFRS 9. The related document, \"Final Guidelines on management of non-performing and forborne exposures,\" directly references and implements these same EBA Guidelines, particularly concerning the estimation of loss allowances and write-offs for non-performing and forborne exposures in accordance with IFRS 9. This creates an overlap where both documents address the same regulatory subject and specific requirements.",
+  "overlaps": [
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_69.json",
+      "excerpt1": "FINAL REPORT ON GUIDELINES ON CREDIT INSTITUTIONS' CREDIT RISK MANAGEMENT PRACTICES AND ACCOUNTING FOR EXPECTED CREDIT LOSSES... The inclusion of the Annex of the Basel guidance, which is specific to credit institutions applying IFRS 9, as a section of the document. Because of this change, some paragraphs have been deleted to avoid repetitions in the text. .Some paragraphs reproducing IFRS 9 text have been replaced by references to specific paragraphs of IFRS 9.",
+      "pageNumber1": 69,
+      "filename2": "Final%20Guidelines%20on%20management%20of%20non-performing%20and%20forborne%20exposures.di_page_48.json",
+      "excerpt2": "Credit institutions should estimate loss allowances for NPEs and FBEs subject to impairment in accordance with the EBA Guidelines on credit risk management practices and accounting for expected credit losses. ... In accordance with the EBA Guidelines on credit risk management practices and accounting for expected credit losses,37 uncollectability should be recognised in the appropriate period through loss allowances or write-offs. When the credit institution has no reasonable expectation of recovering contractual cash flow of the exposure it should lead to a partial or full write-off of the exposure (IFRS 9.B3.2.16.r).",
+      "pageNumber2": 48,
+      "explanation": "Both excerpts address the same regulatory subject: credit institutions' practices concerning accounting for expected credit losses and credit risk management, specifically referencing the EBA Guidelines on credit risk management practices and accounting for expected credit losses (EBA/GL/2017/06) and the application of IFRS 9. The first excerpt describes the guidelines themselves and their relation to IFRS 9, while the second excerpt mandates the application of these same guidelines and IFRS 9 for specific actions, such as estimating loss allowances and write-offs for non-performing and forborne exposures. This demonstrates a direct overlap in the scope and application of the regulatory requirements.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

@@ -1,0 +1,16 @@
+{
+  "summary": "An overlap was identified between the EBA Guidelines on loan origination and monitoring and a Finnish Financial Supervisory Authority regulation. Both texts establish the same principle that credit decisions must be primarily based on the borrower's creditworthiness and repayment capacity, with collateral serving as a secondary repayment source. Both also provide for an identical exception where the loan is structured to be repaid from the sale of the collateral itself.",
+  "overlaps": [
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_41.json",
+      "excerpt1": "When assessing the creditworthiness of the borrower, institutions should put emphasis on the borrower's realistic and sustainable future income and future cash flow, and not on available collateral. Collateral by itself should not be a predominant criterion for approving a loan and cannot by itself justify the approval of any loan agreement. Collateral should be considered the institution's second way out in case of default or material deterioration of the risk profile, and not the primary source of repayment, with the exception of when the loan agreement envisages that the repayment of the loan is based on the sale of the property pledged as collateral or liquid collateral provided.",
+      "pageNumber1": 41,
+      "filename2": "2018_04.m3_en.di_page_17.json",
+      "excerpt2": "(39) Credit decisions must be primarily based on the customer's creditworthiness. As a rule, credit shall not be granted if the customer lacks credit repayment potential apart from the realisation of collateral.\n(40) In exceptional financing arrangements where the repayment of credit is based on the realisation of collateral, the supervised entity shall monitor the return and market value performance of the collateral in order to ascertain that the repayment is guaranteed.",
+      "pageNumber2": 17,
+      "explanation": "Both documents establish an identical rule for credit institutions regarding loan origination. They both mandate that credit decisions must be based primarily on the borrower's creditworthiness and ability to repay from sources other than the collateral. They also both specify the same exception for arrangements where the repayment is explicitly designed to come from the realisation of the collateral.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

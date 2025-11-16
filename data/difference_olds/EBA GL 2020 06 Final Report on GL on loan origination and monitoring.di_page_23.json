@@ -1,0 +1,66 @@
+{
+  "summary": "The analysis reveals multiple overlaps regarding the obligation for institutions to establish, implement, and review policies and procedures for identifying, assessing, and managing money laundering and terrorist financing (ML/TF) risks. Several documents reinforce this core requirement, detailing aspects such as the scope of these policies, their integration into broader risk management frameworks, the roles of the management body and compliance officers, and the continuous monitoring and updating of these measures. There are no direct contradictions found.",
+  "overlaps": [
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_23.json",
+      "excerpt1": "44. Institutions should also specify in their policies how they identify, assess and manage the money laundering and terrorist financing (ML/TF) risks to which they are exposed as a result of their credit-granting activities24. In particular, institutions should: a. at the level of their business, identify, assess and manage the ML/TF risk associated with the type of customers they serve, the lending products they provide, the geographies to which they are exposed and the distribution channels they use;",
+      "pageNumber1": 23,
+      "filename2": "maaraykset-ja-ohjeet-2_2023_en.m3-clean.di_page_20.json",
+      "excerpt2": "(1) In accordance with chapter 2, section 3(2) of the AML Act, the obliged entity shall have in place policies, procedures and controls that are sufficient with regard to the abovementioned factors to reduce and effectively manage the risks of money laundering and terrorist financing. The policies, procedures and controls shall comprise at least: 1) the development of internal policies, procedures and controls; 2) an internal audit when justified with regard to the nature of the obliged entity's activities or the size of the obliged entity.",
+      "pageNumber2": 20,
+      "explanation": "Both excerpts establish a fundamental requirement for institutions to have policies, procedures, and controls in place to identify, assess, and manage ML/TF risks. Excerpt 1 specifies this in the context of credit-granting activities and business-level risk factors (customers, products, geographies, channels), while Excerpt 2 provides a general legislative basis for such policies and controls.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_23.json",
+      "excerpt1": "44. Institutions should also specify in their policies how they identify, assess and manage the money laundering and terrorist financing (ML/TF) risks to which they are exposed as a result of their credit-granting activities24. In particular, institutions should: a. at the level of their business, identify, assess and manage the ML/TF risk associated with the type of customers they serve, the lending products they provide, the geographies to which they are exposed and the distribution channels they use;",
+      "pageNumber1": 23,
+      "filename2": "Final Report on Guidelines on internal governance under CRD.di_page_8.json",
+      "excerpt2": "19. Combating money laundering and terrorist financing is essential for maintaining stability and integrity in the financial system. Uncovering involvement of an institution in money laundering and terrorist financing might have an impact on its viability and the trust in the financial system. Together with the authorities and bodies (e.g. AML supervisors and financial intelligence units) responsible for ensuring compliance with anti-money laundering rules under Directive (EU) 2015/849, competent authorities have an important role to play in identifying and tackling weaknesses. In this context, the guidelines clarify in line with Directive 2013/36/EU that identifying, managing and mitigating money laundering and financing of terrorism risk is part of sound internal governance arrangements and credit institutions' risk management framework.",
+      "pageNumber2": 8,
+      "explanation": "Both excerpts address the responsibility of institutions (credit institutions in Excerpt 2) to identify, assess, and manage ML/TF risks. Excerpt 1 focuses on these risks arising from credit-granting activities, while Excerpt 2 broadly states that ML/TF risk management is part of sound internal governance and the risk management framework. Both highlight the importance of managing these risks to maintain financial system stability and integrity.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_23.json",
+      "excerpt1": "44. Institutions should also specify in their policies how they identify, assess and manage the money laundering and terrorist financing (ML/TF) risks to which they are exposed as a result of their credit-granting activities24. In particular, institutions should: a. at the level of their business, identify, assess and manage the ML/TF risk associated with the type of customers they serve, the lending products they provide, the geographies to which they are exposed and the distribution channels they use;",
+      "pageNumber1": 23,
+      "filename2": "Final Report on GL on internal governance under IFD.di_page_7.json",
+      "excerpt2": "13. Combating money laundering and terrorist financing is essential for maintaining the stability and integrity of the financial system. Uncovering the involvement of an investment firm in money laundering and terrorist financing might have an impact on its viability and on trust in the financial system. Together with the authorities and bodies (e.g. AML supervisors and financial intelligence units) responsible for ensuring compliance with anti-money laundering rules under Directive (EU) 2015/849, competent authorities have an important role to play in identifying and tackling weaknesses in this area. In this context, the guidelines clarify that identifying, managing and mitigating money laundering and financing of terrorism risks is part of sound internal governance arrangements and investment firms' risk management framework.",
+      "pageNumber2": 7,
+      "explanation": "Both excerpts require institutions (investment firms in Excerpt 2) to identify, manage, and mitigate ML/TF risks as part of their risk management framework and internal governance. Excerpt 1 links this specifically to credit-granting activities and business-level factors, while Excerpt 2 provides a more general statement on the essential role of combating ML/TF for financial system stability.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_23.json",
+      "excerpt1": "44. Institutions should also specify in their policies how they identify, assess and manage the money laundering and terrorist financing (ML/TF) risks to which they are exposed as a result of their credit-granting activities24. In particular, institutions should: a. at the level of their business, identify, assess and manage the ML/TF risk associated with the type of customers they serve, the lending products they provide, the geographies to which they are exposed and the distribution channels they use;",
+      "pageNumber1": 23,
+      "filename2": "Guidelines ML TF Risk Factors_conslidated.pdf.di_page_3.json",
+      "excerpt2": "5. These guidelines set out factors firms should consider when assessing the money laundering and terrorist financing (ML/TF) risk associated with their business, and with a business relationship or an occasional transaction with any natural or legal person ('the customer'). They also set out how firms should adjust the extent of their customer due diligence (CDD) measures in a way that is commensurate to the ML/TF risk they have identified. 6. These guidelines' main focus is on risk assessments of individual business relationships and occasional transactions, but firms should use these guidelines mutatis mutandis when assessing ML/TF risk across their business in line with Article 8 of Directive (EU) 2015/849.",
+      "pageNumber2": 3,
+      "explanation": "Both excerpts focus on the assessment and management of ML/TF risks by institutions/firms. Excerpt 1 requires institutions to specify in their policies how they identify, assess, and manage ML/TF risks from credit-granting activities, considering customer types, products, geographies, and channels. Excerpt 2 provides guidelines on factors firms should consider when assessing ML/TF risk associated with their business and customer relationships, directly supporting the granular risk assessment mentioned in Excerpt 1.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_23.json",
+      "excerpt1": "44. Institutions should also specify in their policies how they identify, assess and manage the money laundering and terrorist financing (ML/TF) risks to which they are exposed as a result of their credit-granting activities24. In particular, institutions should: a. at the level of their business, identify, assess and manage the ML/TF risk associated with the type of customers they serve, the lending products they provide, the geographies to which they are exposed and the distribution channels they use;",
+      "pageNumber1": 23,
+      "filename2": "maaraykset-ja-ohjeet-2_2023_en.m3-clean.di_page_31.json",
+      "excerpt2": "(7) In accordance with chapter 3, section 1(2) of the AML Act, in assessing the money laundering and terrorist financing risks in a customer relationship, an obliged entity shall take into account the money laundering and terrorist financing risks relating to new and pre-existing customers, countries or geographic areas, as well as new, currently developed and already existing products, services, transactions, delivery channels and technologies (risk-based assessment).",
+      "pageNumber2": 31,
+      "explanation": "Both excerpts detail the specific factors institutions/obliged entities must consider when assessing ML/TF risks. Excerpt 1 mandates institutions to identify, assess, and manage ML/TF risk associated with customer types, lending products, geographies, and distribution channels. Excerpt 2 reinforces this by stating that obliged entities shall consider ML/TF risks related to customers, countries/geographic areas, products, services, transactions, delivery channels, and technologies, in line with a risk-based assessment.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_23.json",
+      "excerpt1": "44. Institutions should also specify in their policies how they identify, assess and manage the money laundering and terrorist financing (ML/TF) risks to which they are exposed as a result of their credit-granting activities24. In particular, institutions should: a. at the level of their business, identify, assess and manage the ML/TF risk associated with the type of customers they serve, the lending products they provide, the geographies to which they are exposed and the distribution channels they use;",
+      "pageNumber1": 23,
+      "filename2": "maaraykset-ja-ohjeet-2_2023_en.m3-clean.di_page_21.json",
+      "excerpt2": "(9) According to the FIN-FSA's interpretation, the policies referred to in chapter 2, section 3(2) of the AML Act refer to high-level principles prepared in writing by the supervised entity to reduce risks and to manage them effectively in various areas of money laundering and terrorist financing, including a description of how the management of risks pertaining to money laundering and terrorist financing has been organised in practice.",
+      "pageNumber2": 21,
+      "explanation": "Both excerpts refer to the 'policies' that institutions/supervised entities should have regarding ML/TF risk management. Excerpt 1 requires institutions to specify in their policies how they identify, assess and manage ML/TF risks from credit-granting. Excerpt 2 defines these 'policies' as written high-level principles for managing ML/TF risks, including the practical organisation of risk management, which aligns with the requirement in Excerpt 1 to 'specify in their policies'.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

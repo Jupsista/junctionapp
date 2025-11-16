@@ -1,0 +1,16 @@
+{
+  "summary": "One overlap was identified between an EBA Guideline and an EU Regulation adopting IFRS 9. Both documents address the rebuttable presumption that credit risk has significantly increased when a financial asset's payments are more than 30 days past due. The regulation establishes the rule, while the EBA Guideline provides specific interpretative guidance for credit institutions, recommending limited and proportionate use of this presumption. This constitutes an overlap as they are divergent rules governing the same specific regulatory subject for the same actors.",
+  "overlaps": [
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_78.json",
+      "excerpt1": "A few respondents mentioned that a reasonable use of the 30-days-past-due rebuttable presumption would not be inconsistent with a high-quality implementation and should be subject to the principles of proportionality and materiality with regard to the size and inherent risks of such exposures. ... As explained in the guidelines, credit institutions should make limited use of practical expedients. ... For instance, the use of the 30-days-past-due rebuttable presumption would need to be assessed against the criteria to apply a proportionate approach considering the specificities of the exposure...",
+      "pageNumber1": 78,
+      "filename2": "CELEX_32023R1803_EN_TXT.di_page_552.json",
+      "excerpt2": "Regardless of the way in which an entity assesses significant increases in credit risk, there is a rebuttable presumption that the credit risk on a financial asset has increased significantly since initial recognition when contractual payments are more than 30 days past due.",
+      "pageNumber2": 552,
+      "explanation": "Both texts regulate the use of the 'more than 30 days past due' rebuttable presumption for determining a significant increase in credit risk under IFRS 9. The regulation (CELEX_32023R1803) establishes the core rule for all entities. The EBA Guideline provides specific guidance for credit institutions, framing the reliance on this presumption as a 'practical expedient' that should be subject to 'limited use' and principles of 'proportionality and materiality'. This constitutes an overlap because it presents divergent rules (a base rule and specific guidance on its application) for the same regulatory subject.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

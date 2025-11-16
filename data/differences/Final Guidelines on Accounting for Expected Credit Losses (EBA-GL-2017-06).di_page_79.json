@@ -1,0 +1,16 @@
+{
+  "summary": "An overlap was identified between the EBA Guidelines and IFRS 9 (as presented in CELEX_32023R1803_EN_TXT) concerning the measurement of expected credit losses (ECL). Both texts establish the same principle for credit institutions: it is not necessary to model or identify every possible scenario when calculating ECL. Both require the consideration of reasonable and supportable information to reflect a range of possible outcomes. The EBA Guideline essentially restates the requirement found in IFRS 9, creating a direct overlap on the same regulatory subject for the same type of actor.",
+  "overlaps": [
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_79.json",
+      "excerpt1": "In addition, with regard to the comment on the justification for not including every possible scenario, paragraph 39 of the guidelines explicitly mentions that a credit institution does not need to identify or model every possible scenario through scenario simulations but should consider all reasonable and supportable information.",
+      "pageNumber1": 79,
+      "filename2": "CELEX_32023R1803_EN_TXT.di_page_553.json",
+      "excerpt2": "5.5.18 When measuring expected credit losses, an entity need not necessarily identify every possible scenario. However, it shall consider the risk or probability that a credit loss occurs by reflecting the possibility that a credit loss occurs and the possibility that no credit loss occurs, even if the possibility of a credit loss occurring is very low.",
+      "pageNumber2": 553,
+      "explanation": "Both the EBA Guideline and IFRS 9 establish the identical principle that credit institutions ('an entity' in IFRS 9) are not required to identify or model every possible scenario when measuring expected credit losses. Both frameworks govern the same actor (credit institutions) and the same regulatory action (methodology for measuring ECL), creating a direct overlap in the rules.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

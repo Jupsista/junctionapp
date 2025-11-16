@@ -1,0 +1,56 @@
+{
+  "summary": "The EBA Guidelines on Loan Origination and Monitoring (filename1) and the EBA Guidelines on Management of Non-Performing and Forborne Exposures (filename2) contain several overlaps regarding the ongoing monitoring of borrower creditworthiness, financial information collection, and specific loan types. Both sets of guidelines require institutions to perform regular credit reviews, collect updated financial information, increase monitoring frequency for deteriorating credit quality, and specifically assess repayment capacity for bullet/balloon loans. There is also an overlap concerning the review of guarantors and their creditworthiness.",
+  "overlaps": [
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_63.json",
+      "excerpt1": "257. Institutions should also perform regular credit reviews of borrowers that are at least medium-sized or large enterprises, with a view to identifying any changes in their risk profile, financial position or creditworthiness compared with the criteria and the assessment at the point of loan origination, as well as reviewing and updating any relevant internal credit rating/scoring.",
+      "pageNumber1": 63,
+      "filename2": "Final Guidelines on management of non-performing and forborne exposures.di_page_44.json",
+      "excerpt2": "Credit institutions should collect the latest financial information from corporate borrowers in a timely fashion. [...] The regular assessment of the borrower's repayment capabilities should also apply to bullet loans, because these loans represent a higher level of risk than a loan subject to regular amortisation and also because continuous payment by the borrower of the interest amounts due is not sufficient reason to assume that the final bullet repayment of the loan will take place.",
+      "pageNumber2": 44,
+      "explanation": "Both excerpts address the requirement for institutions to conduct regular assessments of borrowers' financial information and creditworthiness. The source requires 'regular credit reviews' and 'periodically update relevant financial information,' while the target mentions 'collect the latest financial information' and 'regular assessment of the borrower's repayment capabilities'.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_63.json",
+      "excerpt1": "258. The review process and frequency should be specific and proportionate to the type and risk profile of the borrower and the type, size and complexity of the credit facility, and should be specified in relevant policies and procedures. Institutions should carry out more frequent reviews if they identify a deterioration in the credit and asset quality.",
+      "pageNumber1": 63,
+      "filename2": "Final Guidelines on management of non-performing and forborne exposures.di_page_44.json",
+      "excerpt2": "For borrowers on a watch list or with a weak rating, more frequent review processes should be in place, depending on the materiality, the portfolio and the borrower's financial standing.",
+      "pageNumber2": 44,
+      "explanation": "Both excerpts require institutions to increase the frequency of credit reviews when there are signs of deteriorating credit quality or increased risk. The source refers to 'deterioration in the credit and asset quality', while the target mentions 'borrowers on a watch list or with a weak rating'.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_63.json",
+      "excerpt1": "262. Institutions should assess risks associated with the refinancing of existing debt, monitoring loans with bullet/balloon repayment terms separately from other loans on a regular basis. They should analyse potential effects on a borrower's inability to roll over/refinance existing debt, and include inter alia a forward-looking macroeconomic outlook and access to capital markets as well as other types of debt structures. Institutions should closely monitor the borrowers' ability to repay or refinance their debts throughout a loan's lifecycle and not just when the borrower is approaching the end of a loan's term.",
+      "pageNumber1": 63,
+      "filename2": "Final Guidelines on management of non-performing and forborne exposures.di_page_44.json",
+      "excerpt2": "The regular assessment of the borrower's repayment capabilities should also apply to bullet loans, because these loans represent a higher level of risk than a loan subject to regular amortisation and also because continuous payment by the borrower of the interest amounts due is not sufficient reason to assume that the final bullet repayment of the loan will take place.",
+      "pageNumber2": 44,
+      "explanation": "Both excerpts specifically highlight the need for regular assessment and monitoring of bullet loans due to their inherent risks concerning repayment capacity. The source states 'monitoring loans with bullet/balloon repayment terms separately from other loans on a regular basis' and the target specifies 'The regular assessment of the borrower's repayment capabilities should also apply to bullet loans'.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_63.json",
+      "excerpt1": "264. If applicable, institutions should also review guarantors under the credit facility agreement. In addition to the assessment of the guarantor's continued creditworthiness, an analysis of effectiveness of a guarantee should also take into account the enforceability and the time needed to realise the guarantee.",
+      "pageNumber1": 63,
+      "filename2": "BaselFramework.di_page_383.json",
+      "excerpt2": "36.46 Banks must maintain rating histories on borrowers and recognised guarantors, including the rating since the borrower/guarantor was assigned an internal grade, the dates the ratings were assigned, the methodology and key data used to derive the rating and the person/model responsible.",
+      "pageNumber2": 383,
+      "explanation": "Both texts address the ongoing assessment and monitoring of guarantors' creditworthiness. The source requires institutions to 'review guarantors under the credit facility agreement' and assess 'the guarantor's continued creditworthiness'. The target requires banks to 'maintain rating histories on borrowers and recognised guarantors'.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_63.json",
+      "excerpt1": "264. If applicable, institutions should also review guarantors under the credit facility agreement. In addition to the assessment of the guarantor's continued creditworthiness, an analysis of effectiveness of a guarantee should also take into account the enforceability and the time needed to realise the guarantee.",
+      "pageNumber1": 63,
+      "filename2": "BaselFramework.di_page_404.json",
+      "excerpt2": "36.101 In all cases, both the borrower and all recognised guarantors must be assigned a borrower rating at the outset and on an ongoing basis. A bank must follow all minimum requirements for assigning borrower ratings set out in this document, including the regular monitoring of the guarantor's condition and ability and willingness to honour its obligations.",
+      "pageNumber2": 404,
+      "explanation": "Both excerpts impose an obligation on institutions to continuously monitor and assess the creditworthiness and ability of guarantors to fulfill their obligations. The source states 'review guarantors' and assess 'guarantor's continued creditworthiness', while the target mandates 'all recognised guarantors must be assigned a borrower rating...on an ongoing basis' and 'regular monitoring of the guarantor's condition and ability and willingness to honour its obligations'.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

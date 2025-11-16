@@ -1,0 +1,36 @@
+{
+  "summary": "The EBA Guidelines on Accounting for Expected Credit Losses and IFRS 9 (as reflected in Commission Delegated Regulation (EU) 2023/1803) both require credit institutions to incorporate forward-looking information, including macroeconomic factors, when assessing and measuring Expected Credit Losses (ECL), whether on an individual or collective basis. Both texts emphasize that the assessment should prevent delayed recognition of ECL and should be supported by documented policies and procedures. Furthermore, both highlight the need for robust validation of models used in this process.",
+  "overlaps": [
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_31.json",
+      "excerpt1": "When credit institutions use individual assessments, the ECL estimate should always incorporate the expected impact of all reasonable and supportable forward-looking information, including macroeconomic factors, that affect collectability and credit risk. When applying an individual assessment approach, in the same manner as in the case of collective assessment, the credit institution's documentation should clearly demonstrate how forward- looking information, including macroeconomic factors, has been reflected in the individual assessment. In cases when a credit institution's individual assessments of exposures do not adequately consider forward-looking information, and in order to allow identification of relationships between forward-looking information and ECL estimates that may not be apparent at the individual level, an institution should group lending exposures with shared credit risk characteristics to estimate the impact of forward-looking information, including macroeconomic factors. Conversely, when credit institutions determine that all reasonable and supportable forward-looking information has been incorporated in the individual assessment of ECL, an additional forward-looking assessment should not be conducted on a collective basis if that could result in double counting.",
+      "pageNumber1": 31,
+      "filename2": "CELEX_32023R1803_EN_TXT.di_page_624.json",
+      "excerpt2": "Consequently when reasonable and supportable information that is more forward-looking than past due information is available without undue cost or effort, it must be used to assess changes in credit risk. ... In some circumstances an entity does not have reasonable and supportable information that is available without undue cost or effort to measure lifetime expected credit losses on an individual instrument basis. In that case, lifetime expected credit losses shall be recognised on a collective basis that considers compre- hensive credit risk information. This comprehensive credit risk information must incorporate not only past due information but also all relevant credit information, including forward-looking macroeconomic information, in order to approximate the result of recognising lifetime expected credit losses when there has been a significant increase in credit risk since initial recognition on an individual instrument level.",
+      "pageNumber2": 624,
+      "explanation": "Both documents impose an obligation on credit institutions/entities to incorporate reasonable and supportable forward-looking information, including macroeconomic factors, when assessing expected credit losses (ECL), whether on an individual or collective basis. Both texts acknowledge the use of individual and collective assessments and the need to include forward-looking macroeconomic data.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_31.json",
+      "excerpt1": "Regardless of the assessment approach it uses (individual or collective), a credit institution should ensure this does not result in delayed recognition of ECL.",
+      "pageNumber1": 31,
+      "filename2": "CELEX_32023R1803_EN_TXT.di_page_624.json",
+      "excerpt2": "In order to meet the objective of recognising lifetime expected credit losses for significant increases in credit risk since initial recognition, it may be necessary to perform the assessment of significant increases in credit risk on a collective basis by considering information that is indicative of significant increases in credit risk on, for example, a group or sub-group of financial instruments. This is to ensure that an entity meets the objective of recognising lifetime expected credit losses when there are significant increases in credit risk, even if evidence of such significant increases in credit risk at the individual instrument level is not yet available.",
+      "pageNumber2": 624,
+      "explanation": "Both texts explicitly state the objective of preventing delayed recognition of expected credit losses and ensuring timely recognition of lifetime expected credit losses.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_31.json",
+      "excerpt1": "A credit institution should have policies and procedures in place to appropriately validate models used to measure ECL. ... Credit institutions should have robust policies and procedures in place to appropriately validate the accuracy and consistency of the models used to assess the credit risk and measure ECL, including their model-based credit risk rating systems and processes and the estimation of all relevant risk components, at the outset of model usage and on an ongoing basis. Such policies and procedures should appropriately include the role of professional judgement.",
+      "pageNumber1": 31,
+      "filename2": "BaselFramework.di_page_1780.json",
+      "excerpt2": "Where banks use models to measure components of risk, the supervisor determines that the following conditions are met: (a) banks comply with supervisory standards on the use of models; (b) the banks' boards and senior management understand the limitations and uncertainties relating to the output of the models and the risk inherent in their use; and (c) banks perform regular and independent validation and testing of the models. In addition, the supervisor assesses whether the model outputs appear reasonable as a reflection of the risks assumed.",
+      "pageNumber2": 1780,
+      "explanation": "Both documents require institutions to have robust policies and procedures for the validation of models used to measure credit risk components (such as ECL or other risk parameters) and to perform regular and independent validation and testing of these models to ensure accuracy and consistency.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

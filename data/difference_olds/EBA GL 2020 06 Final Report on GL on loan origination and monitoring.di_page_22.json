@@ -1,0 +1,136 @@
+{
+  "summary": "The EBA Guidelines on Loan Origination and Monitoring detail specific requirements for credit institutions' internal processes, including creditworthiness assessment, credit risk limits, collateral management, automated decision-making, deviation handling, and documentation. Several related documents from the Basel Framework and other EBA guidelines also cover these areas, resulting in overlaps where similar requirements are imposed on banks/credit institutions regarding credit risk management, collateral, credit limits, and exceptions. No direct contradictions were found, as the requirements generally reinforce or elaborate on similar principles without creating mutually exclusive obligations.",
+  "overlaps": [
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_22.json",
+      "excerpt1": "e. requirements for exposure aggregation and credit risk limits and the management of credit risk concentrations;",
+      "pageNumber1": 22,
+      "filename2": "BaselFramework.di_page_1789.json",
+      "excerpt2": "(e) prudent and appropriate credit limits consistent with the bank's risk appetite, risk profile and capital strength, which are understood by and regularly communicated to relevant staff;",
+      "pageNumber2": 1789,
+      "explanation": "Both excerpts impose requirements for credit limits and managing credit risk. The EBA GL mentions 'credit risk limits and the management of credit risk concentrations', while the Basel Framework refers to 'prudent and appropriate credit limits consistent with the bank's risk appetite'. This indicates an overlap in requiring institutions to establish and manage credit limits.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_22.json",
+      "excerpt1": "f. requirements and procedures regarding the acceptance and use of collateral and credit risk mitigation measures, to determine their effectiveness in minimising the inherent risk of a credit facility - such requirements and procedures should be asset class- specific and product type-specific and should duly consider the type, size and complexity of the credit facilities being granted;",
+      "pageNumber1": 22,
+      "filename2": "BaselFramework.di_page_1789.json",
+      "excerpt2": "(c) effective credit administration policies and processes, including: ... monitoring of documentation, legal covenants, contractual requirements, collateral and other forms of credit risk mitigation;",
+      "pageNumber2": 1789,
+      "explanation": "Both excerpts address requirements concerning collateral and credit risk mitigation measures. Excerpt 1 focuses on the 'acceptance and use of collateral and credit risk mitigation measures' to determine their effectiveness, while Excerpt 2 mentions 'monitoring of documentation, legal covenants, contractual requirements, collateral and other forms of credit risk mitigation' as part of effective credit administration. Both require policies and processes for managing collateral and CRM.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_22.json",
+      "excerpt1": "h. a risk-based approach, addressing possible deviations from standard credit policies and procedures and credit-granting criteria, including: i. conditions defining the approval process for deviations and exceptions and the specific documentation requirements, including the audit trail; ii. criteria for rejections and criteria for the escalation of deviations/exceptions to higher levels of the decision-making authority (including overrides, overrules, exposures possibly approved as an exception to general lending standards and other non-standard business under a special process with different approval authorities); iii. requirements for the monitoring of circumstances and conditions for an exceptional credit-granting decision, including requirements for their review by the relevant functions during the regular review of the application and compliance with policies and limits;",
+      "pageNumber1": 22,
+      "filename2": "BaselFramework.di_page_1789.json",
+      "excerpt2": "(f) exception tracking and reporting processes that ensure prompt action at the appropriate level of the bank's senior management or board where necessary;",
+      "pageNumber2": 1789,
+      "explanation": "Both excerpts impose requirements related to the handling of exceptions in the credit-granting process. Excerpt 1 details a 'risk-based approach, addressing possible deviations... conditions defining the approval process for deviations and exceptions... criteria for rejections and criteria for the escalation of deviations/exceptions', while Excerpt 2 requires 'exception tracking and reporting processes that ensure prompt action at the appropriate level'. Both mandate processes for managing exceptions.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_22.json",
+      "excerpt1": "i. requirements relating to what is to be documented and recorded as part of the credit- granting process, including for sampling and audit purposes - this should include, at a minimum, the requirements for the completion of credit applications, the qualitative and quantitative rationale/analysis, and all supportive documentation that served as a basis for approving or declining the credit facility;",
+      "pageNumber1": 22,
+      "filename2": "2018_04.m3_en.di_page_18.json",
+      "excerpt2": "(47) Credit decisions shall be made in accordance with written instructions approved by the executive management. There shall be a clear audit trail documenting the whole process, from credit application to credit decision, and it shall be approved by the appropriate level of management. The credit decision or documents appended thereto shall give a detailed account of the contents and date of the decision, the grounds for granting or turning down the application and the decision makers. The entire credit granting process must be verifiable after the event.",
+      "pageNumber2": 18,
+      "explanation": "Both excerpts establish requirements for documentation and recording within the credit-granting process. Excerpt 1 specifies 'requirements relating to what is to be documented and recorded as part of the credit-granting process, including for sampling and audit purposes', listing credit applications, rationale, and supportive documentation. Excerpt 2 mandates a 'clear audit trail documenting the whole process, from credit application to credit decision', detailing the grounds for decision and decision makers. Both converge on the need for comprehensive documentation of credit decisions.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_22.json",
+      "excerpt1": "j. requirements for monitoring credit-granting activities - the internal control framework should ensure that it covers all phases after the granting of credit;",
+      "pageNumber1": 22,
+      "filename2": "2018_04.m3_en.di_page_20.json",
+      "excerpt2": "(72) Supervised entities must have information systems and analytical techniques that provide the senior and executive management with adequate reliable, detailed and timely information on the composition of the credit portfolio, including identification of any concentrations of risk.",
+      "pageNumber2": 20,
+      "explanation": "Both excerpts address the ongoing monitoring of credit-granting activities and credit risk. Excerpt 1 specifies 'requirements for monitoring credit-granting activities - the internal control framework should ensure that it covers all phases after the granting of credit'. Excerpt 2 requires 'information systems and analytical techniques that provide... adequate reliable, detailed and timely information on the composition of the credit portfolio'. Both aim to ensure continuous oversight of credit risk, albeit with different specific focuses on 'activities' versus 'portfolio composition'.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_22.json",
+      "excerpt1": "e. requirements for exposure aggregation and credit risk limits and the management of credit risk concentrations;",
+      "pageNumber1": 22,
+      "filename2": "BaselFramework.di_page_1293.json",
+      "excerpt2": "32.9 Banks should have in place effective internal policies, systems and controls to identify, measure, monitor, and control their credit risk concentrations. Banks should explicitly consider the extent of their credit risk concentrations in their assessment of capital adequacy under Pillar 2. These policies should cover the different forms of credit risk concentrations to which a bank may be exposed.",
+      "pageNumber2": 1293,
+      "explanation": "Both excerpts mandate requirements for managing credit risk concentrations. The EBA GL calls for 'requirements for exposure aggregation and credit risk limits and the management of credit risk concentrations', while the Basel Framework states that 'Banks should have in place effective internal policies, systems and controls to identify, measure, monitor, and control their credit risk concentrations'. This is a clear overlap in the regulatory subject.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_22.json",
+      "excerpt1": "f. requirements and procedures regarding the acceptance and use of collateral and credit risk mitigation measures, to determine their effectiveness in minimising the inherent risk of a credit facility - such requirements and procedures should be asset class- specific and product type-specific and should duly consider the type, size and complexity of the credit facilities being granted;",
+      "pageNumber1": 22,
+      "filename2": "2018_04.m3_en.di_page_17.json",
+      "excerpt2": "(41) Supervised entities must have documented procedures and guidelines for: · accepting different types of collateral · regularly monitoring and assessing collateral values4 · collateral valuation (hair-cut) · ensuring that collateral is binding, adequate and realisable · identifying any concentrations of risk arising from collateral.",
+      "pageNumber2": 17,
+      "explanation": "Both excerpts impose requirements for the management and use of collateral. Excerpt 1 requires 'requirements and procedures regarding the acceptance and use of collateral and credit risk mitigation measures' to assess their effectiveness. Excerpt 2 mandates 'documented procedures and guidelines for accepting different types of collateral, monitoring and assessing collateral values, collateral valuation, ensuring collateral is binding, adequate and realisable, and identifying concentrations of risk'. Both are prescriptive about collateral management practices.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_22.json",
+      "excerpt1": "f. requirements and procedures regarding the acceptance and use of collateral and credit risk mitigation measures, to determine their effectiveness in minimising the inherent risk of a credit facility - such requirements and procedures should be asset class- specific and product type-specific and should duly consider the type, size and complexity of the credit facilities being granted;",
+      "pageNumber1": 22,
+      "filename2": "Final Report on Guidelines on common procedures and methodologies for SREP and supervisory stress testing.di_page_87.json",
+      "excerpt2": "214. Competent authorities should also assess the materiality of the residual risk (see Article 80 of Directive 2013/36/EU) and in particular: a. the adequacy and enforceability of collateral agreements and of guarantees; b. the timing and the ability to realise collateral and execute guarantees under the national legal framework; c. the liquidity and volatility in asset values for collateral; d. the recoverable value of collateral under any credit enforcement actions (e.g. foreclosure procedures); and e. where relevant, the guarantors' creditworthiness following the requirements of the EBA Guidelines on loan origination and monitoring.",
+      "pageNumber2": 87,
+      "explanation": "Both excerpts deal with the effectiveness and characteristics of collateral and credit risk mitigation. Excerpt 1 sets 'requirements and procedures regarding the acceptance and use of collateral and credit risk mitigation measures, to determine their effectiveness'. Excerpt 2, while framed as a supervisory assessment, details specific aspects of collateral quality and enforceability, such as 'adequacy and enforceability of collateral agreements', 'ability to realise collateral', and 'liquidity and volatility in asset values for collateral', which are direct reflections of requirements for effective collateral use. Point (e) of excerpt 2 explicitly references the EBA Guidelines on loan origination and monitoring for guarantor creditworthiness, showing a direct linkage and reinforcement of the subject.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_22.json",
+      "excerpt1": "g. conditions for the application of automated decision-making in the credit-granting process, including identifying products, segments and limits for which automated decision-making is allowed;",
+      "pageNumber1": 22,
+      "filename2": "2018_04.m3_en.di_page_19.json",
+      "excerpt2": "(60) Where a supervised entity has automated the credit-decision making, it must state in the credit- granting guidelines the prerequisites that must be met in order for the decision to be made automatically. The supervised entity must determine maximum limits for credit amount and risk. Where necessary, other limits must be set.",
+      "pageNumber2": 19,
+      "explanation": "Both excerpts set conditions for automated decision-making in the credit-granting process. Excerpt 1 specifies 'conditions for the application of automated decision-making... including identifying products, segments and limits'. Excerpt 2 requires supervised entities to 'state in the credit-granting guidelines the prerequisites that must be met in order for the decision to be made automatically' and to 'determine maximum limits for credit amount and risk'. This is a direct overlap in requiring rules and limits for automated credit decisions.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_22.json",
+      "excerpt1": "e. requirements for exposure aggregation and credit risk limits and the management of credit risk concentrations;",
+      "pageNumber1": 22,
+      "filename2": "2018_04.m3_en.di_page_21.json",
+      "excerpt2": "(77) The senior management must ensure that credit granting activities and other activities causing credit risk are adequately diversified. For this purpose, the claims and groups of claims that are significant from the viewpoint of risk management and therefore require exposure limits must be defined in order to diversify risks. Limits must be established at least for exposures to specific products, certain counterparties, particular industries or economic sectors, individual foreign countries or groups of countries. The utilisation rate of the limits set must be monitored continuously.",
+      "pageNumber2": 21,
+      "explanation": "Both excerpts require the setting and management of credit risk limits and concentrations. Excerpt 1 outlines 'requirements for exposure aggregation and credit risk limits and the management of credit risk concentrations'. Excerpt 2 states that 'exposure limits must be defined in order to diversify risks' and specifies types of limits ('for exposures to specific products, certain counterparties, particular industries or economic sectors'). Both mandate the establishment and monitoring of credit risk limits.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_22.json",
+      "excerpt1": "j. requirements for monitoring credit-granting activities - the internal control framework should ensure that it covers all phases after the granting of credit;",
+      "pageNumber1": 22,
+      "filename2": "2018_04.m3_en.di_page_21.json",
+      "excerpt2": "(80) In accordance with chapter 9, section 10(3) of the Credit Institutions Act, credit institutions shall administer and monitor credit risks on an ongoing basis through effective systems.",
+      "pageNumber2": 21,
+      "explanation": "Both excerpts highlight the importance of ongoing monitoring of credit risks and credit-granting activities. Excerpt 1 specifies 'requirements for monitoring credit-granting activities - the internal control framework should ensure that it covers all phases after the granting of credit'. Excerpt 2 explicitly states that 'credit institutions shall administer and monitor credit risks on an ongoing basis through effective systems'. This is a direct overlap in the requirement for continuous monitoring.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_22.json",
+      "excerpt1": "j. requirements for monitoring credit-granting activities - the internal control framework should ensure that it covers all phases after the granting of credit;",
+      "pageNumber1": 22,
+      "filename2": "Final Guidelines on management of non-performing and forborne exposures.di_page_36.json",
+      "excerpt2": "105. Credit institutions should carry out such monitoring activities at transaction/borrower level, and portfolio or subportfolio levels, as appropriate, considering aspects such as business line, borrower segment, geographical area, products, concentration risk, level of collateralisation and type of collateral provided, and debt-service ability.",
+      "pageNumber2": 36,
+      "explanation": "Both excerpts refer to monitoring activities related to credit exposures. Excerpt 1 mentions 'requirements for monitoring credit-granting activities', emphasizing that the control framework should cover all phases after granting. Excerpt 2 provides specific details on how 'monitoring activities' should be carried out, including at transaction/borrower level and portfolio level, considering various aspects like concentration risk and collateralisation. These are complementary requirements for credit monitoring.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_22.json",
+      "excerpt1": "d. requirements for the creditworthiness assessment, including a sensitivity analysis, as referred to in Section 5.2;",
+      "pageNumber1": 22,
+      "filename2": "2018_04.m3_en.di_page_14.json",
+      "excerpt2": "(21) In the assessment of creditworthiness, the supervised entity must comply with chapter 7a, section 10 of the Consumer Protection Act also with respect to other borrowers than consumers. The assessment must be made with respect to both new credits, renewed credits and changes of credit terms and conditions. The information and documents needed as background for the decision must be listed.",
+      "pageNumber2": 14,
+      "explanation": "Both excerpts address the requirements for creditworthiness assessment. Excerpt 1 broadly states 'requirements for the creditworthiness assessment, including a sensitivity analysis'. Excerpt 2 specifies that the 'assessment must be made with respect to both new credits, renewed credits and changes of credit terms and conditions' and that 'information and documents needed as background for the decision must be listed'. This indicates a shared regulatory subject regarding the scope and content of creditworthiness assessments.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

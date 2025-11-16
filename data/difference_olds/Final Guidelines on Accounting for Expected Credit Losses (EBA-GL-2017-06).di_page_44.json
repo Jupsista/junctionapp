@@ -1,0 +1,36 @@
+{
+  "summary": "The EBA Guidelines on Expected Credit Losses (EBA-GL-2017-06) and IFRS 9 (as incorporated in Commission Delegated Regulation (EU) 2023/1803) both provide guidance on the collective assessment of significant increases in credit risk and the recognition of lifetime expected credit losses. Specifically, both documents require that when it's not possible to identify individual or specific sub-group exposures that have experienced a significant increase in credit risk, a proportion of the group should be moved to lifetime ECL measurement. They also both outline requirements for grouping financial instruments based on shared credit risk characteristics for collective assessment purposes.",
+  "overlaps": [
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_44.json",
+      "excerpt1": "116. In line with paragraph B5.5.1 of IFRS 9 on the assessment of significant increases in credit risk since initial recognition on a collective basis, in instances where it is apparent that, within a group of lending exposures, some lending exposures have experienced a significant increase in credit risk, credit institutions should transfer a subset or a proportion of the group of lending exposures to lifetime ECL measurement even though it is not possible to identify this on an individual lending exposure basis (see IFRS 9, Illustrative Example 5).",
+      "pageNumber1": 44,
+      "filename2": "CELEX_32023R1803_EN_TXT.di_page_624.json",
+      "excerpt2": "B5.5.1 In order to meet the objective of recognising lifetime expected credit losses for significant increases in credit risk since initial recognition, it may be necessary to perform the assessment of significant increases in credit risk on a collective basis by considering information that is indicative of significant increases in credit risk on, for example, a group or sub-group of financial instruments. This is to ensure that an entity meets the objective of recognising lifetime expected credit losses when there are significant increases in credit risk, even if evidence of such significant increases in credit risk at the individual instrument level is not yet available.",
+      "pageNumber2": 624,
+      "explanation": "Both excerpts address the collective assessment of significant increases in credit risk and the objective of recognizing lifetime expected credit losses, even when individual instrument-level evidence is not available. The EBA Guidelines explicitly refer to IFRS 9 B5.5.1, indicating an alignment in the underlying principle that collective assessment may be necessary when individual identification is not possible.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_44.json",
+      "excerpt1": "117. Consistent with paragraph B5.5.6 of IFRS 9 and paragraph IE39 of the Implementation Guidance for IFRS 9, if it is not possible on the basis of shared credit risk characteristics to identify a particular subgroup of lending exposures for which credit risk has increased significantly, an appropriate proportion of the overall group should be subject to lifetime ECL measurement.",
+      "pageNumber1": 44,
+      "filename2": "CELEX_32023R1803_EN_TXT.di_page_625.json",
+      "excerpt2": "B5.5.6 Paragraph 5.5.4 requires that lifetime expected credit losses are recognised on all financial instruments for which there has been significant increases in credit risk since initial recognition. In order to meet this objective, if an entity is not able to group financial instruments for which the credit risk is considered to have increased significantly since initial recognition based on shared credit risk characteristics, the entity should recognise lifetime expected credit losses on a portion of the financial assets for which credit risk is deemed to have increased significantly. The aggregation of financial instruments to assess whether there are changes in credit risk on a collective basis may change over time as new information becomes available on groups of, or individual, financial instruments.",
+      "pageNumber2": 625,
+      "explanation": "Both excerpts explicitly state that if it's not possible to identify a specific subgroup of financial instruments with significantly increased credit risk based on shared characteristics, an appropriate proportion of the overall group should be subject to lifetime ECL measurement. Excerpt 117 directly references IFRS 9 B5.5.6, confirming the consistency.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_44.json",
+      "excerpt1": "115. Where a credit institution makes the assessment of significant increases in credit risk on a collective basis (i.e. such as retail), the definitions of portfolios should be reviewed regularly to ensure that the lending exposures within them continue to share risk characteristics in terms of their response to credit risk drivers. Changing economic conditions may require regrouping.",
+      "pageNumber1": 44,
+      "filename2": "CELEX_32023R1803_EN_TXT.di_page_624.json",
+      "excerpt2": "B5.5.5 For the purpose of determining significant increases in credit risk and recognising a loss allowance on a collective basis, an entity can group financial instruments on the basis of shared credit risk characteristics with the objective of facilitating an analysis that is designed to enable significant increases in credit risk to be identified on a timely basis. The entity should not obscure this information by grouping financial instruments with different risk characteristics. Examples of shared credit risk characteristics may include, but are not limited to, the:\n(a) instrument type;\n(b) credit risk ratings;\n(c) collateral type;\n(d) date of initial recognition;\n(e) remaining term to maturity;\n(f) industry;\n(g) geographical location of the borrower; and",
+      "pageNumber2": 624,
+      "explanation": "Both excerpts deal with the grouping of financial instruments for collective assessment of credit risk. Excerpt 115 emphasizes regular review and regrouping based on shared risk characteristics, while B5.5.5 of IFRS 9 provides detailed criteria for grouping based on shared credit risk characteristics and prohibits obscuring information by grouping instruments with different risk characteristics. Both aim to ensure effective collective assessment.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

@@ -1,0 +1,16 @@
+{
+  "summary": "An overlap was identified between the IFRS 9 standard and the EBA Guidelines on accounting for expected credit losses. IFRS 9 permits entities to assume no significant increase in credit risk for financial instruments with low credit risk. The EBA Guidelines supplement this by imposing a requirement on credit institutions to apply sound credit risk management to these exposures and to be able to demonstrate the appropriateness of using this exemption, thereby adding a specific prudential and evidentiary layer to the accounting principle.",
+  "overlaps": [
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_86.json",
+      "excerpt1": "The EBA guidelines aim to ensure that the credit risk of these exposures is monitored adequately and that any increases in the ECL are recognised on a timely basis. Therefore, sound credit risk management should also be applied in the cases of low credit risk exposures, and this should allow a credit institution to demonstrate the appropriateness of the use of this exemption.",
+      "pageNumber1": 86,
+      "filename2": "CELEX_32023R1803_EN_TXT.di_page_551.json",
+      "excerpt2": "An entity may assume that the credit risk on a financial instrument has not increased significantly since initial recognition if the financial instrument is determined to have low credit risk at the reporting date (see paragraphs B5.5.22-B5.5.24).",
+      "pageNumber2": 551,
+      "explanation": "Both texts regulate the use of the 'low credit risk' exemption when assessing significant increases in credit risk for Expected Credit Loss (ECL) calculations. IFRS 9 (in CELEX_32023R1803_EN_TXT) establishes the principle that an entity 'may assume' no significant increase has occurred if an instrument has low credit risk. The EBA Guideline imposes an additional, more specific requirement on credit institutions, stating they must be able to 'demonstrate the appropriateness' of using this exemption and must apply sound credit risk management. This creates an overlap, as the EBA adds a specific prudential and evidentiary condition to the general accounting permission provided by IFRS 9 for the same regulatory subject.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

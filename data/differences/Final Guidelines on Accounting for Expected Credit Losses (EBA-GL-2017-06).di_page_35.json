@@ -1,0 +1,26 @@
+{
+  "summary": "The EBA Guidelines on Accounting for Expected Credit Losses (ECL) overlap with the disclosure requirements of IFRS 9, as incorporated into EU Regulation 2023/1803. Both texts mandate that credit institutions publicly disclose key elements of their ECL estimation process. Specifically, they both require disclosure of the institution's definition of default, the basis for grouping financial instruments, and how forward-looking information, including macroeconomic factors, is incorporated into their calculations. The EBA Guideline reinforces the existing accounting standard's requirements for the same actors (credit institutions) concerning the same regulatory action (public disclosure of ECL methodology).",
+  "overlaps": [
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_35.json",
+      "excerpt1": "Disclosures should highlight policies and definitions that are integral to the estimation of ECL (such as a credit institution's basis for grouping lending exposures into portfolios with similar credit risk characteristics and its definition of default...)",
+      "pageNumber1": 35,
+      "filename2": "CELEX_32023R1803_EN_TXT.di_page_499.json",
+      "excerpt2": "To meet this objective an entity shall disclose information that enables users of financial statements to understand and evaluate: (b) an entity's definitions of default, including the reasons for selecting those definitions; (c) how the instruments were grouped if expected credit losses were measured on a collective basis;",
+      "pageNumber2": 499,
+      "explanation": "Both texts impose a requirement on credit institutions (or 'entities', which include credit institutions) to publicly disclose their definition of default and the methodology used for grouping financial instruments for the purpose of estimating Expected Credit Losses (ECL). This constitutes an overlap as both rules govern the same regulatory subject: public disclosure of ECL methodology by the same type of actor.",
+      "type": "OVERLAP"
+    },
+    {
+      "filename1": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di_page_35.json",
+      "excerpt1": "Credit institutions should provide qualitative disclosures on how forward-looking information, including macroeconomic factors, has been incorporated into the ECL estimation process, in accordance with the applicable accounting framework...",
+      "pageNumber1": 35,
+      "filename2": "CELEX_32023R1803_EN_TXT.di_page_500.json",
+      "excerpt2": "An entity shall explain the inputs, assumptions and estimation techniques used to apply the requirements in Section 5.5 of IFRS 9. For this purpose an entity shall disclose: (b) how forward-looking information has been incorporated into the determination of expected credit losses, including the use of macroeconomic information; and",
+      "pageNumber2": 500,
+      "explanation": "Both texts require credit institutions to disclose how they incorporate forward-looking information, including macroeconomic factors, into their Expected Credit Loss (ECL) estimation process. The EBA Guideline explicitly references the 'applicable accounting framework' (which is IFRS 9), creating a direct overlap of the same disclosure requirement for the same actor and regulatory subject.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}

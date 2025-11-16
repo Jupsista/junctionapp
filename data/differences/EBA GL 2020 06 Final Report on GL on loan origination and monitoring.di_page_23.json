@@ -1,0 +1,16 @@
+{
+  "summary": "One overlap was identified between the two documents. Both require institutions to specify in their policies and procedures how they identify, assess, and manage Money Laundering and Terrorist Financing (ML/TF) risks that arise specifically from their credit-granting activities. The wording and the substance of the requirements are nearly identical, focusing on the same types of risk factors at the business level.",
+  "overlaps": [
+    {
+      "filename1": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di_page_23.json",
+      "excerpt1": "Institutions should also specify in their policies how they identify, assess and manage the money laundering and terrorist financing (ML/TF) risks to which they are exposed as a result of their credit-granting activities24. In particular, institutions should: a. at the level of their business, identify, assess and manage the ML/TF risk associated with the type of customers they serve, the lending products they provide, the geographies to which they are exposed and the distribution channels they use;",
+      "pageNumber1": 23,
+      "filename2": "Final Report on Guidelines on common procedures and methodologies for SREP and supervisory stress testing.di_page_91.json",
+      "excerpt2": "d. the policies and procedures also specify how ML/TF risks to which the institution is exposed as a result of the credit granting activities are identified, assessed and managed both at the level of the business (in terms of types of customers served, lending products provided, geographies to which they are exposed and distribution channels used) and at the level of the individual relationship (considering the purpose of the credit, the extent to which the counterparty gives rise to ML/TF risk, and the legitimacy of the source of funds used to repay the credit);",
+      "pageNumber2": 91,
+      "explanation": "Both documents impose an identical requirement on institutions to specify in their policies and procedures how they identify, assess, and manage ML/TF risks arising from their credit-granting activities. Both texts explicitly mention that this assessment should be done at the business level, considering the types of customers, lending products, geographies, and distribution channels. This constitutes a direct overlap in regulatory requirements for the same actor and the same regulatory action.",
+      "type": "OVERLAP"
+    }
+  ],
+  "contradictions": []
+}
